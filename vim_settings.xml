@@ -1043,12 +1043,11 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471011477775">
-        <mark key="'" line="83" column="9" />
-        <mark key="[" line="64" column="34" />
-        <mark key="]" line="64" column="34" />
-        <mark key="." line="64" column="34" />
-        <mark key="^" line="29" column="31" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471013556444">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="115" column="1" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/index.js" timestamp="1470075766270">
         <mark key="[" line="9" column="27" />
@@ -1766,11 +1765,11 @@
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/updateMonitors.js" timestamp="1469440131206">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="6" column="35" />
-        <mark key="^" line="6" column="35" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/updateMonitors.js" timestamp="1471012941373">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+        <mark key="^" line="6" column="5" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/server/services/utils.js" timestamp="1470922591700">
         <mark key="'" line="0" column="20" />
@@ -4188,13 +4187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="11" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="133" column="12" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="228" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="238" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="243" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="3" column="27" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="0" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/services/utils.js" />
       <jump line="20" column="17" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/getMany.js" />
       <jump line="23" column="48" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/getMany.js" />
       <jump line="14" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/getOne.js" />
@@ -4234,12 +4226,9 @@
       <jump line="147" column="18" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="22" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" />
       <jump line="31" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="97" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="9" column="17" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="100" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="105" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="112" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="93" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="8" column="30" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
@@ -4288,49 +4277,59 @@
       <jump line="18" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" />
       <jump line="30" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="76" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
+      <jump line="91" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="92" column="24" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="97" column="44" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="102" column="33" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="112" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="32" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="118" column="40" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="133" column="6" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>mapItem</text>
+        <text encoding="base64">XDxjYW1wYWlnblVVSURzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>monitor.brand_group_ids[0]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNlcnZlci5sb2cuZXJyb3IobmV3IEVycm9yKGBDYW5ub3QgZmluZCBjYW1wYWlnbiBmb3IgbW9uaXRvcjogJHtKU09OLnN0cmluZ2lmeShtb25pdG9yKX1gKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBtb25pdG9yLmJyYW5kX2dyb3VwX2lkc1swXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vbml0b3IuY2FtcGFpZ24gPSBkd0NhbXBhaWduTmFtZTsK</text>
+        <text encoding="base64">aW1wb3J0IENhbXBhaWduIGZyb20gJy4uL21vZGVscy9DYW1wYWlnbic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhU291cmNlc1swXSk7CiAgY29uc29sZS5sb2coY2FtcGFpZ25zWzBdKTsKICBjb25zb2xlLmxvZyhtb25pdG9yc1swXSk7CiAgY29uc29sZS5sb2coc2VhcmNoZXNbMF0pOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtb25pdG9ycyA9IHRyYW5zZm9ybU1vbml0b3JzKG1vbml0b3JzKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb25pdG9ycy5zbGljZSgwLCAzKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ2NhbXBhaWduJzoK</text>
+        <text encoding="base64">ICBtb25pdG9ycy5mb3JFYWNoKChtb25pdG9yLCBpKSA9PiB7CiAgICBtb25pdG9yLmNhbXBhaWduID0gY2FtcGFpZ25VVUlEc1tpXTsKICAgIG1vbml0b3IuY2xpZW50ID0gY2xpZW50VVVJRHNbY2FtcGFpZ25VVUlEcy5pbmRleE9mKG1vbml0b3IuY2FtcGFpZ24pXTsKICB9KTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbW9uaXRvci5jYW1wYWlnbiA9IGl0ZW0uZGltZW5zaW9ucy5jYW1wYWlnbjsK</text>
+        <text encoding="base64">ICBsZXQgY2FtcGFpZ25VVUlEcyA9IG1vbml0b3JzLm1hcChtb25pdG9yID0+IG1vbml0b3IuY2FtcGFpZ24pOwogIGxldCBjbGllbnRVVUlEcyA9IGF3YWl0IENhbXBhaWduLmdldENsaWVudFVVSURGb3JDYW1wYWlnblVVSUQoY2FtcGFpZ25VVUlEcyk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgW3NlYXJjaGVzLCBtb25pdG9yc10gPSBhd2FpdCBQcm9taXNlLmFsbChbCiAgICAgIGdldEFsbCgnbW9uaXRvcnMnLCBOZXN0Lm1vbml0b3JzLmdldE1hbnkpLAogIF0pOwoK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4340,9 +4339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mapItem</last-search>
+      <last-search encoding="base64">XDxjYW1wYWlnblVVSURzXD4=</last-search>
       <last-offset />
-      <last-pattern>mapItem</last-pattern>
+      <last-pattern encoding="base64">XDxjYW1wYWlnblVVSURzXD4=</last-pattern>
       <last-replace />
       <last-substitute>},\n</last-substitute>
       <last-dir>1</last-dir>
@@ -4350,15 +4349,11 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWJ1Z1w+</entry>
-        <entry>debug</entry>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry>},\n</entry>
         <entry encoding="base64">XDxnZXRPbmVcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVNb25pdG9yXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</entry>
         <entry encoding="base64">XDxfXD4=</entry>
-        <entry encoding="base64">XDxnZXRNb25pdG9yUHJvcGVydGllc1w+</entry>
         <entry encoding="base64">XDxtYXBDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxyZXFcPg==</entry>
         <entry encoding="base64">XDxnZXRPbmVTZWFyY2hcPg==</entry>
@@ -4370,6 +4365,10 @@
         <entry encoding="base64">XDxtYXBJdGVtXD4=</entry>
         <entry>cached</entry>
         <entry>mapItem</entry>
+        <entry encoding="base64">XDxpdGVtXD4=</entry>
+        <entry encoding="base64">XDxtZXJnZVNlYXJjaGVzSW50b01vbml0b3JzXD4=</entry>
+        <entry encoding="base64">XDxnZXRNb25pdG9yUHJvcGVydGllc1w+</entry>
+        <entry encoding="base64">XDxjYW1wYWlnblVVSURzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/access-denied/common.access-denied</entry>
