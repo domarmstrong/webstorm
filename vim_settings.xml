@@ -1033,12 +1033,12 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471000378545">
-        <mark key="'" line="4" column="7" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471001159343">
+        <mark key="'" line="82" column="29" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="88" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/index.js" timestamp="1470075766270">
         <mark key="[" line="9" column="27" />
@@ -4162,7 +4162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="29" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/analytics/getMany.js" />
       <jump line="119" column="21" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
       <jump line="190" column="40" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
       <jump line="194" column="23" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
@@ -4262,19 +4261,20 @@
       <jump line="12" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="63" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="4" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="82" column="29" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfXD4=</text>
+        <text encoding="base64">XDxnZXRNb25pdG9yUHJvcGVydGllc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgY2xpZW50cyA9IGF3YWl0IHV0aWxzLmFjY291bnRzUmVxdWVzdCgnZ2V0JywgJy9jbGllbnRzJywgewogICAgcXVlcnksCiAgICB1c2VyLAogIH0pOwo=</text>
+        <text encoding="base64">ICBzZXJ2ZXIubG9nLmluZm8oYEZvdW5kICR7c2VhcmNoZXMubGVuZ3RofSBzZWFyY2hlc2ApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4283,28 +4283,28 @@
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgX3JlcXVpcmUgPSByZXF1aXJlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgYXN5bmMgZnVuY3Rpb24gdXBkYXRlTW9uaXRvcnMoaWQpIHsKICByZXR1cm4gdXBkYXRlQWxsTW9uaXRvcnMoKTsKfQoK</text>
+        <text encoding="base64">ICBsZXQgc2VhcmNoSGFzaCA9IHNlYXJjaGVzLnJlZHVjZSgoaGFzaCwgc2VhcmNoKSA9PiB7CiAgICBoYXNoW3NlYXJjaC5pZF0gPSBzZWFyY2g7CiAgICByZXR1cm4gaGFzaDsKICB9LCB7fSk7CgogIHNlcnZlci5sb2cuaW5mbygnTWFwIHNlYXJjaGVzIGludG8gbW9uaXRvci5wcm9wZXJ0aWVzJyk7CiAgbW9uaXRvcnMubWFwKG1vbml0b3IgPT4gewogICAgaWYgKG1vbml0b3IuZGF0YVNvdXJjZSA9PT0gJ1NPQ0lBTE5BVVQnKSB7CiAgICAgIGlmIChzZWFyY2hIYXNoW21vbml0b3IucHJvcGVydGllcy5maWx0ZXJLZXldKSB7CiAgICAgICAgbW9uaXRvci5wcm9wZXJ0aWVzID0gZ2V0TW9uaXRvclByb3BlcnRpZXMoc2VhcmNoSGFzaFttb25pdG9yLnByb3BlcnRpZXMuZmlsdGVyS2V5XSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgbW9uaXRvci5wcm9wZXJ0aWVzID0geyBzZWFyY2hJZDogbnVsbCB9OwogICAgICB9CiAgICB9CiAgfSk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoaWQpIHJldHVybiB1cGRhdGVNb25pdG9yKGlkKTsK</text>
+        <text encoding="base64">ICBzZXJ2ZXIubG9nLmluZm8oYEZvdW5kICR7c2VhcmNoZXMubGVuZ3RofSBzZWFyY2hlc2ApOwogIHNlcnZlci5sb2cuaW5mbyhgRm91bmQgJHttb25pdG9ycy5sZW5ndGh9IG1vbml0b3JzYCk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIFVwZGF0ZSBhbiBpbmRpdmlkdWFsIG1vbml0b3IgYnkgaWQgYW5kIG1lcmdlIHdpdGggYSBzZWFyY2ggaWYgYXBwbGljYWJsZQogKiBAcGFyYW0gaWQKICovCmFzeW5jIGZ1bmN0aW9uIHVwZGF0ZU1vbml0b3IoaWQpIHsKICBzZXJ2ZXIubG9nLmluZm8oYFVwZGF0ZSBtb25pdG9yOiAke2lkfWApOwogIGxldCBNb25pdG9yTW9kZWwgPSBfcmVxdWlyZSgnLi4vbW9kZWxzL21vbmdvb3NlL01vbml0b3InKS5kZWZhdWx0OwoKICBsZXQgbW9uaXRvciA9IGF3YWl0IE5lc3QubW9uaXRvcnMuZ2V0T25lKHsgY3JvbjogdHJ1ZSB9LCBpZCk7CgogIGlmIChtb25pdG9yLmRhdGFTb3VyY2UgPT09ICdTT0NJQUxOQVVUJykgewogICAgbGV0IHNlYXJjaCA9IGF3YWl0IFNvY2lhbG5hdXQuc2VhcmNoZXMuZ2V0T25lKHsgY3JvbjogdHJ1ZSB9LCBtb25pdG9yLnByb3BlcnRpZXMuZmlsdGVyS2V5KTsKCiAgICBpZiAoc2VhcmNoKSB7CiAgICAgIG1vbml0b3IucHJvcGVydGllcyA9IGdldE1vbml0b3JQcm9wZXJ0aWVzKHNlYXJjaCk7CiAgICB9IGVsc2UgewogICAgICBtb25pdG9yLnByb3BlcnRpZXMgPSB7IHNlYXJjaElkOiBudWxsIH07CiAgICB9CiAgfQoKICB0cnkgewogICAgYXdhaXQgTW9uaXRvck1vZGVsLnVwZGF0ZSh7IGlkOiBtb25pdG9yLmlkIH0sIG1vbml0b3IsIHsgdXBzZXJ0OiB0cnVlIH0pOwogIH0gY2F0Y2ggKGVycikgewogICAgc2VydmVyLmxvZy5lcnJvcihlcnIpOwogIH0KCn0KCg==</text>
+        <text encoding="base64">ICBzZXJ2ZXIubG9nLmluZm8oYEZvdW5kICR7bW9uaXRvcnMubGVuZ3RofSBtb25pdG9yc2ApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZ2V0QWxsKCdzZWFyY2hlcycsIFNvY2lhbG5hdXQuc2VhcmNoZXMuZ2V0TWFueSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb28K</text>
+        <text encoding="base64">ICAgIGdldFNlYXJjaGVzKCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IGxvZyA9IGRlYnVnKCdicy1kYXRhLWFwaTp1cGRhdGUtbW9uaXRvcnMnKTsK</text>
+        <text encoding="base64">ICAgIGdldEFsbCgnc2VhcmNoZXMnLCBOZXN0Lm1vbml0b3JzLmdldE1hbnkpLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4314,17 +4314,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRNb25pdG9yUHJvcGVydGllc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRNb25pdG9yUHJvcGVydGllc1w+</last-pattern>
       <last-replace />
       <last-substitute>},\n</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>export</entry>
         <entry encoding="base64">XDxtb25nb29zZVw+</entry>
         <entry encoding="base64">XDxNb25nb29zZVByb21pc2VcPg==</entry>
         <entry>T[]</entry>
@@ -4344,6 +4343,7 @@
         <entry encoding="base64">XDx1cGRhdGVNb25pdG9yXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</entry>
         <entry encoding="base64">XDxfXD4=</entry>
+        <entry encoding="base64">XDxnZXRNb25pdG9yUHJvcGVydGllc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/access-denied/common.access-denied</entry>
