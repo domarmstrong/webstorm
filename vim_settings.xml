@@ -176,12 +176,10 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" timestamp="1470997085688">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="155" />
-        <mark key="^" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" timestamp="1470998034370">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-daterange/package.json" timestamp="1468247180205">
         <mark key="[" line="32" column="0" />
@@ -867,6 +865,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/server/bsRamlApi.d.ts" timestamp="1469900194220">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="94" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/config/defaults/constants.ts" timestamp="1469901574848">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-middleware/src/middleware/requestContext.js" timestamp="1469100605090">
         <mark key="[" line="2" column="0" />
@@ -2567,6 +2575,11 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/server/controllers/login.js" timestamp="1469270582576">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/data-api-server/server/models/mongoose/Usage.js" timestamp="1463856096903">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="21" />
@@ -3187,6 +3200,11 @@
         <mark key="]" line="18" column="22" />
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/src/server/database.ts" timestamp="1470076476031">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/services/DataLibrary/analytics/facebook/getMany.js" timestamp="1464796029256">
         <mark key="'" line="30" column="23" />
@@ -4249,8 +4267,8 @@
       <jump line="52" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(573436a70929498b10901df5||573436e30929f6ac1a9424a1||57343b7a09294cc3ca253283||5757269a3166d378c50321ef||5757270d316630766de4814c||577d2d410f51f130c80b7b8e)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -4261,7 +4279,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICBsZXQgY2xpZW50cyA9IGF3YWl0IHV0aWxzLmFjY291bnRzUmVxdWVzdCgnZ2V0JywgJy9jbGllbnRzJywgewogICAgcXVlcnksCiAgICB1c2VyLAogIH0pOwo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text>ddn</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cig1NzM0MzZhNzA5Mjk0OThiMTA5MDFkZjV8fDU3MzQzNmUzMDkyOWY2YWMxYTk0MjRhMXx8NTczNDNiN2EwOTI5NGNjM2NhMjUzMjgzfHw1NzU3MjY5YTMxNjZkMzc4YzUwMzIxZWZ8fDU3NTcyNzBkMzE2NjMwNzY2ZGU0ODE0Y3x8NTc3ZDJkNDEwZjUxZjEzMGM4MGI3YjhlKQoiN1VwIgoiQWx2YWxsZSIKIkJpb3N0ZWVsIgoiQnJldCdzIgoiQnJpbnRhIgoiQ2hlZXRvcyIKIkNoaW8iCiJDb2NhIENvbGEiCiJDb2tlIFplcm8iCiJDb2tlIgoiQ29wZWxsYSIKIkNyb2t5IgoiQ3LDqWFsaW5lIgoiRG9uIFNpbcOzbiIKIkRvcml0b3MiCiJEb3JzZXQiCiJFYXQgTmF0dXJhbCIKIkZyaXRyYXZpY2giCiJHYXRvcmFkZSIKIkdyZWVuIFNob290IgoiR3JlZnVzYSIKIklubm9jZW50IgoiS2VsbG9nZ3MiCiJLZXR0bGUgQ2hpcHMiCiJMYXkncyIKIkxpbcOzbiAmIE5hZGEiCiJMaXB0b24gSWNlIFRlYSIKIkxpcHRvbiIKIkx1Y296YWRlIgoiTWF0ZXJuZSIKIk1hdGVybmUiCiJNY0NveSdzIgoiTWludXRlIE1haWQiCiJNb25zdGVyIgoiTW91bnRhaW4gRGV3IgoiTmFrZWQgSnVpY2UiCiJOZXN0ZWEgLyBBcml6b25hIgoiTmVzdGVhIgoiUGVwc2kgTWF4IgoiUGVwc2kgVUNMIgoiUGVwc2kiCiJQZXBzaSIKIlBlcHNpQ28gQmVsZ2l1bSIKIlBlcHNpQ28gQ2FuYWRhIgoiUGVwc2lDbyBGcmFuY2UiCiJQZXBzaUNvIE5ldGhlcmxhbmRzIgoiUGVwc2lDbyBTcGFpbiIKIlBlcHNpQ28gVUsiCiJQb3dlcmFkZSIKIlByaW5nbGVzIgoiUXVha2VyIgoiUmVkIEJ1bGwiCiJSeXZpdGEiCiJTaW1wbHkiCiJTcHJpdGUiCiJTdW5iaXRlcyIKIlRyb3BpY2FuYSIKIlZpY28iCiJWaXRhY29jbyIKIldhbGtlcnMiCiJXZWV0YWJpeCIK</text>
+      </register>
+      <register name="3" type="8">
         <text>,
 ,
 ,
@@ -4269,10 +4296,7 @@
 ,
 ,</text>
       </register>
-      <register name="q" type="4">
-        <text>ddn</text>
-      </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text>,,,
 ,,,
 ,,,
@@ -4280,32 +4304,26 @@
 ,,,
 ,,,</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">IlZpdGFjb2NvIgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IlZpY28iCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IlRyb3BpY2FuYSIKIlRyb3BpY2FuYSIKIlRyb3BpY2FuYSIKIlRyb3BpY2FuYSIK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IlNwcml0ZSIKIlNwcml0ZSIKIlNwcml0ZSIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IlJlZCBCdWxsIgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IlF1YWtlciIKIlF1YWtlciIKIlF1YWtlciIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IlByaW5nbGVzIgoiUHJpbmdsZXMiCiJQcmluZ2xlcyIKIlByaW5nbGVzIgoiUHJpbmdsZXMiCg==</text>
+        <text encoding="base64">IlJlZCBCdWxsIgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zb3I=</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -4315,7 +4333,7 @@
       <last-replace />
       <last-substitute>},\n</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -4356,11 +4374,11 @@
         <entry>x</entry>
         <entry>wa</entry>
         <entry>w2</entry>
-        <entry>noh</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3tcbi8=</entry>
         <entry encoding="base64">JzwsJz5zL30sXG4v</entry>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
+        <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
