@@ -176,12 +176,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" timestamp="1470995734520">
-        <mark key="'" line="21" column="3" />
-        <mark key="[" line="13" column="51" />
-        <mark key="]" line="13" column="51" />
-        <mark key="." line="13" column="51" />
-        <mark key="^" line="13" column="10" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" timestamp="1470997085688">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="155" />
+        <mark key="^" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-daterange/package.json" timestamp="1468247180205">
         <mark key="[" line="32" column="0" />
@@ -4147,12 +4147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="51" filename="$USER_HOME$/dev/app-nest-api-data/test/server/test_helpers/index.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/app-nest-api-data/test/server/test_helpers/index.js" />
-      <jump line="4" column="50" filename="$USER_HOME$/dev/app-nest-api-data/test/server/test_helpers/index.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/app-nest-api-data/test/server/test_helpers/index.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/app-nest-api-data/test/server/test_helpers/index.js" />
-      <jump line="106" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
       <jump line="121" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
       <jump line="107" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
       <jump line="123" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
@@ -4247,70 +4241,84 @@
       <jump line="8" column="12" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
       <jump line="14" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
       <jump line="16" column="3" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
+      <jump line="441" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
+      <jump line="311" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
+      <jump line="181" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
+      <jump line="112" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>clients</text>
+        <text>(573436a70929498b10901df5||573436e30929f6ac1a9424a1||57343b7a09294cc3ca253283||5757269a3166d378c50321ef||5757270d316630766de4814c||577d2d410f51f130c80b7b8e)</text>
       </register>
       <register name="-" type="4">
-        <text>clients</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib2R5XD4=</text>
+        <text>},\n</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsZXQgY2xpZW50cyA9IGF3YWl0IHV0aWxzLmFjY291bnRzUmVxdWVzdCgnZ2V0JywgJy9jbGllbnRzJywgewogICAgcXVlcnksCiAgICB1c2VyLAogIH0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEVycm9yQ29uc3RydWN0b3IgewogIGNhcHR1cmVTdGFja1RyYWNlKHRoaXNBcmc6IGFueSwgZnVuYzogYW55KTogdm9pZDsKfQoK</text>
+      <register name="1" type="8">
+        <text>,
+,
+,
+,
+,
+,</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBtZXNzYQo=</text>
+      <register name="2" type="8">
+        <text>,,,
+,,,
+,,,
+,,,
+,,,
+,,,</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoKICogQHBhcmFtIG1lc3NhZ2UKICogQHBhcmFtIHByb3BzCiAqIEBjb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">IlZpdGFjb2NvIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0cy5kZWZhdWx0ID0gQmFzZUVycm9yOwo=</text>
+        <text encoding="base64">IlZpY28iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">T2JqZWN0LmRlZmluZVByb3BlcnR5KGV4cG9ydHMsICJfX2VzTW9kdWxlIiwgeyB2YWx1ZTogdHJ1ZSB9KTsK</text>
+        <text encoding="base64">IlRyb3BpY2FuYSIKIlRyb3BpY2FuYSIKIlRyb3BpY2FuYSIKIlRyb3BpY2FuYSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IlNwcml0ZSIKIlNwcml0ZSIKIlNwcml0ZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QmFzZUVycm9yLnByb3RvdHlwZSA9IG5ldyBFcnJvcjsK</text>
+        <text encoding="base64">IlJlZCBCdWxsIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IlF1YWtlciIKIlF1YWtlciIKIlF1YWtlciIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IlByaW5nbGVzIgoiUHJpbmdsZXMiCiJQcmluZ2xlcyIKIlByaW5nbGVzIgoiUHJpbmdsZXMiCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zb3I=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib2R5XD4=</last-search>
+      <last-search>},\n</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib2R5XD4=</last-pattern>
+      <last-pattern>},\n</last-pattern>
       <last-replace />
-      <last-substitute>\.main</last-substitute>
+      <last-substitute>},\n</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
-        <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxOb3RGb3VuZEVycm9yXD4=</entry>
         <entry encoding="base64">XDxBdXRoZW50aWNhdGlvbkVycm9yXD4=</entry>
         <entry encoding="base64">XDxEQlVzZXJcPg==</entry>
@@ -4329,11 +4337,10 @@
         <entry encoding="base64">XDxycGNcPg==</entry>
         <entry encoding="base64">XDxmaWxlRmlsdGVyXD4=</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
+        <entry>{\n</entry>
+        <entry>},\n</entry>
       </history-search>
       <history-cmd>
-        <entry>%s//common.controller</entry>
-        <entry>%s/rate-limited/common.rate-limited</entry>
-        <entry>%s/parameter-values/common.parameter-values</entry>
         <entry>%s//common.cached</entry>
         <entry>%s/access-denied/common.access-denied</entry>
         <entry encoding="base64">JzwsJz5zLycsLywgZGVzY3JpcHRpb246IFRPRE8gfQ==</entry>
@@ -4351,6 +4358,9 @@
         <entry>w2</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3tcbi8=</entry>
+        <entry encoding="base64">JzwsJz5zL30sXG4v</entry>
+        <entry encoding="base64">JzwsJz5zb3I=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
