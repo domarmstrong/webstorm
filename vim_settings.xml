@@ -176,10 +176,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" timestamp="1470998034370">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" timestamp="1471001665644">
+        <mark key="'" line="0" column="33" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="15" />
       </file>
       <file name="$USER_HOME$/dev/bs-daterange/package.json" timestamp="1468247180205">
         <mark key="[" line="32" column="0" />
@@ -866,16 +868,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/server/bsRamlApi.d.ts" timestamp="1469900194220">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="94" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/config/defaults/constants.ts" timestamp="1469901574848">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/bs-raml-middleware/src/middleware/requestContext.js" timestamp="1469100605090">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="35" />
@@ -1033,12 +1025,12 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471001159343">
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471001995032">
         <mark key="'" line="82" column="29" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="88" column="0" />
+        <mark key="[" line="129" column="55" />
+        <mark key="]" line="130" column="3" />
+        <mark key="." line="130" column="3" />
+        <mark key="^" line="130" column="3" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/index.js" timestamp="1470075766270">
         <mark key="[" line="9" column="27" />
@@ -2575,11 +2567,6 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/server/controllers/login.js" timestamp="1469270582576">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-      </file>
       <file name="$USER_HOME$/dev/data-api-server/server/models/mongoose/Usage.js" timestamp="1463856096903">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="21" />
@@ -2793,8 +2780,12 @@
         <mark key="^" line="13" column="54" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" timestamp="1471000309225">
-        <mark key="'" line="22" column="22" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" timestamp="1471001836215">
+        <mark key="'" line="18" column="2" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="27" column="18" />
       </file>
       <file name="$USER_HOME$/dev/slack-exeter-office-bot/index.js" timestamp="1468408162704">
         <mark key="'" line="42" column="37" />
@@ -3198,11 +3189,6 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/src/server/database.ts" timestamp="1470076476031">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/data-api-server/server/services/DataLibrary/analytics/facebook/getMany.js" timestamp="1464796029256">
         <mark key="'" line="30" column="23" />
         <mark key="[" line="14" column="12" />
@@ -3574,12 +3560,12 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/index.js" timestamp="1470922138968">
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/index.js" timestamp="1471001959951">
         <mark key="'" line="7" column="21" />
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="43" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="12" column="43" />
-        <mark key="." line="12" column="43" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/doc-data-sdk/docs/api/resources/overview.md" timestamp="1455364167322">
         <mark key="[" line="14" column="0" />
@@ -4162,14 +4148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="21" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="190" column="40" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="194" column="23" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="195" column="18" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="17" column="10" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/bs-api-error/src/service.js" />
-      <jump line="30" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/bs-api-error/src/service.spec.js" />
       <jump line="19" column="22" filename="$USER_HOME$/dev/bs-api-error/src/service.spec.js" />
       <jump line="22" column="25" filename="$USER_HOME$/dev/bs-api-error/src/service.spec.js" />
       <jump line="7" column="30" filename="$USER_HOME$/dev/bs-api-error/src/service.spec.js" />
@@ -4223,7 +4201,6 @@
       <jump line="8" column="12" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
       <jump line="14" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
       <jump line="16" column="3" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
       <jump line="441" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
       <jump line="311" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
       <jump line="181" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
@@ -4262,61 +4239,70 @@
       <jump line="63" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="4" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="82" column="29" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="20" column="28" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
+      <jump line="0" column="33" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
+      <jump line="24" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" />
+      <jump line="19" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" />
+      <jump line="8" column="50" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" />
+      <jump line="14" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" />
+      <jump line="15" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" />
+      <jump line="18" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdldE9uZTogTW9uaXRvci5nZXRPbmUsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>getName(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRNb25pdG9yUHJvcGVydGllc1w+</text>
+        <text encoding="base64">XDxjbGllbnRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIubG9nLmluZm8oYEZvdW5kICR7c2VhcmNoZXMubGVuZ3RofSBzZWFyY2hlc2ApOwo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgdXRpbHMgZnJvbSAnLi4vdXRpbHMnOwoKLyoqCiAqIEBwYXJhbSB1c2VyCiAqIEBwYXJhbSBxdWVyeQogKiBAcmV0dXJucyB7e3BhZ2luYXRpb246IHtwYWdlLCBwYWdlcywgcGFnZV9zaXplLCB0b3RhbF9pdGVtc30sIGl0ZW1zOiA8QXJyYXkuYW55Pn19CiAqLwpleHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2V0TWFueSh1c2VyLCBxdWVyeSkgewogIGxldCBjbGllbnRzID0gYXdhaXQgdXRpbHMuYWNjb3VudHNSZXF1ZXN0KCdnZXQnLCAnL2NsaWVudHMnLCB7CiAgICBxdWVyeSwKICAgIHVzZXIsCiAgfSk7CgogIGxldCBicmFuZCA9IGF3YWl0IHV0aWxzLmFjY291bnRzUmVxdWVzdCgnZ2V0JywgJy9icmFuZC1ncm91cHM/ZmlsdGVycz0nLCB7CiAgICBxdWVyeSwKICAgIHVzZXIsCiAgfSk7CgogIHJldHVybiB7CiAgICBwYWdpbmF0aW9uOiBjbGllbnRzLm1ldGEucGFnaW5hdGlvbiwKICAgIGl0ZW1zOiBjbGllbnRzLmRhdGEubWFwKG1hcEl0ZW0pLAogIH07Cn0KCi8qKgogKiBAcGFyYW0gdXNlcgogKiBAcGFyYW0gcXVlcnkKICogQHBhcmFtIGlkCiAqIEByZXR1cm5zIHsqfQogKi8KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldE9uZSh1c2VyLCBxdWVyeSwgaWQpIHsKICBsZXQgYm9keSA9IGF3YWl0IHV0aWxzLmFjY291bnRzUmVxdWVzdCgnZ2V0JywgYC9jbGllbnRzLyR7aWR9YCwgewogICAgcXVlcnksCiAgICB1c2VyLAogIH0pOwoKICByZXR1cm4gbWFwSXRlbShib2R5LmRhdGEpOwp9CgovKioKICogQHBhcmFtIGNsaWVudAogKiBAcmV0dXJucyB7e2lkOiBzdHJpbmcsIG5hbWU6IHN0cmluZywgZW1haWw6IHN0cmluZywgZW1haWxfbG9nbzogc3RyaW5nfX0KICovCmZ1bmN0aW9uIG1hcEl0ZW0oY2xpZW50KSB7CiAgcmV0dXJuIHsKICAgIGlkOiBjbGllbnQuaWQsCiAgICBuYW1lOiBjbGllbnQubmFtZSwKICAgIGVtYWlsOiBjbGllbnQuZW1haWwsCiAgICBlbWFpbF9sb2dvOiBjbGllbnQuZW1haWxfbG9nbywKICB9Owp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldE9uZTogTW9uaXRvci5nZXRPbmUsCg==</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGdldE5hbWUoaXRlbSkgewogIHJldHVybiBpdGVtLm5hbWUKICAgIHx8IChpdGVtLmRpbWVuc2lvbnMKICAgICAgPyAoaXRlbS5kaW1lbnNpb25zLm5hbWUgfHwgaXRlbS5kaW1lbnNpb25zLnVzZXJuYW1lKQogICAgICA6IG51bGwpOwp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgc2VhcmNoSGFzaCA9IHNlYXJjaGVzLnJlZHVjZSgoaGFzaCwgc2VhcmNoKSA9PiB7CiAgICBoYXNoW3NlYXJjaC5pZF0gPSBzZWFyY2g7CiAgICByZXR1cm4gaGFzaDsKICB9LCB7fSk7CgogIHNlcnZlci5sb2cuaW5mbygnTWFwIHNlYXJjaGVzIGludG8gbW9uaXRvci5wcm9wZXJ0aWVzJyk7CiAgbW9uaXRvcnMubWFwKG1vbml0b3IgPT4gewogICAgaWYgKG1vbml0b3IuZGF0YVNvdXJjZSA9PT0gJ1NPQ0lBTE5BVVQnKSB7CiAgICAgIGlmIChzZWFyY2hIYXNoW21vbml0b3IucHJvcGVydGllcy5maWx0ZXJLZXldKSB7CiAgICAgICAgbW9uaXRvci5wcm9wZXJ0aWVzID0gZ2V0TW9uaXRvclByb3BlcnRpZXMoc2VhcmNoSGFzaFttb25pdG9yLnByb3BlcnRpZXMuZmlsdGVyS2V5XSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgbW9uaXRvci5wcm9wZXJ0aWVzID0geyBzZWFyY2hJZDogbnVsbCB9OwogICAgICB9CiAgICB9CiAgfSk7Cgo=</text>
+        <text encoding="base64">ICogQHBhcmFtIHF1ZXJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIubG9nLmluZm8oYEZvdW5kICR7c2VhcmNoZXMubGVuZ3RofSBzZWFyY2hlc2ApOwogIHNlcnZlci5sb2cuaW5mbyhgRm91bmQgJHttb25pdG9ycy5sZW5ndGh9IG1vbml0b3JzYCk7Cgo=</text>
+        <text encoding="base64">CiAgbGV0IGJyYW5kID0gYXdhaXQgdXRpbHMuYWNjb3VudHNSZXF1ZXN0KCdnZXQnLCAnL2JyYW5kLWdyb3Vwcz9maWx0ZXJzPScsIHsKICAgIHF1ZXJ5LAogICAgdXNlciwKICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIubG9nLmluZm8oYEZvdW5kICR7bW9uaXRvcnMubGVuZ3RofSBtb25pdG9yc2ApOwo=</text>
+        <text encoding="base64">ICBpZiAocHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJyAmJiAhcmVxLmNyb24pIHsKICAgIHRocm93IG5ldyBFcnJvcignTm90IGFsbG93ZWQnKTsKICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZ2V0QWxsKCdzZWFyY2hlcycsIFNvY2lhbG5hdXQuc2VhcmNoZXMuZ2V0TWFueSksCg==</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldE9uZShyZXEsIGlkKSB7CiAgaWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAncHJvZHVjdGlvbicgJiYgIXJlcS5jcm9uKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ05vdCBhbGxvd2VkJyk7CiAgfQoKICBsZXQgcmVzcG9uc2UgPSBhd2FpdCBSZXF1ZXN0LmdldChzZXJ2ZXIuY29uZmlnLmNvbnN0YW50cy51cmxzLm1vbml0b3JBcGksIGAvJHtpZH1gKTsKICByZXR1cm4gbWFwSXRlbShyZXNwb25zZS5ib2R5LnZhbHVlKTsKfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldFNlYXJjaGVzKCksCg==</text>
+        <text encoding="base64">CmV4cG9ydCBhc3luYyBmdW5jdGlvbiBnZXRNYW55KHJlcSkgewogIGxldCByZXNwb25zZSA9IGF3YWl0IFJlcXVlc3QuZ2V0KHNlcnZlci5jb25maWcuY29uc3RhbnRzLnVybHMubW9uaXRvckFwaSwgJy9hbGwnLCB7CiAgICBxdWVyeTogewogICAgICBwYWdlOiAocmVxLnF1ZXJ5LnBhZ2UgfHwgMSkgLSAxLAogICAgICBzaXplOiByZXEucXVlcnkucGFnZV9zaXplLAogICAgfSwKICB9KTsKCiAgcmV0dXJuIHsKICAgIGl0ZW1zOiByZXNwb25zZS5ib2R5LmNvbnRlbnQubWFwKG1hcEl0ZW0pLAogICAgcGFnaW5hdGlvbjogdXRpbHMuZ2V0UGFnaW5hdGlvbihyZXNwb25zZS5ib2R5KSwKICB9Owp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdldEFsbCgnc2VhcmNoZXMnLCBOZXN0Lm1vbml0b3JzLmdldE1hbnkpLAo=</text>
+        <text encoding="base64">ICBpZiAocHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJyAmJiAhcmVxLmNyb24pIHsKICAgIHRocm93IG5ldyBFcnJvcignTm90IGFsbG93ZWQnKTsKICB9Cgo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCiAqIEBwYXJhbSBjbGllbnQKICogQHJldHVybnMge3tpZDogc3RyaW5nLCBuYW1lOiBzdHJpbmcsIGVtYWlsOiBzdHJpbmcsIGVtYWlsX2xvZ286IHN0cmluZ319CiAqLwpmdW5jdGlvbiBtYXBJdGVtKGNsaWVudCkgewogIHJldHVybiB7CiAgICBpZDogY2xpZW50LmlkLAogICAgbmFtZTogY2xpZW50Lm5hbWUsCiAgICBlbWFpbDogY2xpZW50LmVtYWlsLAogICAgZW1haWxfbG9nbzogY2xpZW50LmVtYWlsX2xvZ28sCiAgfTsKfQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRNb25pdG9yUHJvcGVydGllc1w+</last-search>
+      <last-search encoding="base64">XDxjbGllbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRNb25pdG9yUHJvcGVydGllc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjbGllbnRzXD4=</last-pattern>
       <last-replace />
       <last-substitute>},\n</last-substitute>
       <last-dir>1</last-dir>
@@ -4324,8 +4310,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb25nb29zZVw+</entry>
-        <entry encoding="base64">XDxNb25nb29zZVByb21pc2VcPg==</entry>
         <entry>T[]</entry>
         <entry>sort</entry>
         <entry encoding="base64">XDxzb3J0XD4=</entry>
@@ -4344,6 +4328,8 @@
         <entry encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</entry>
         <entry encoding="base64">XDxfXD4=</entry>
         <entry encoding="base64">XDxnZXRNb25pdG9yUHJvcGVydGllc1w+</entry>
+        <entry encoding="base64">XDxtYXBDbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxjbGllbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/access-denied/common.access-denied</entry>
@@ -4364,8 +4350,8 @@
         <entry encoding="base64">JzwsJz5zL30sXG4v</entry>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
         <entry>s</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
