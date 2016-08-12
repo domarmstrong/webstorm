@@ -491,6 +491,10 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="34" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/monitorIdentifierMappings.js" timestamp="1471023286567">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/dataSchemas/ClientUpdate.raml" timestamp="1469803985480">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="3" column="15" />
@@ -647,11 +651,11 @@
         <mark key="." line="21" column="50" />
         <mark key="^" line="21" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/signals.js" timestamp="1471013996848">
-        <mark key="'" line="55" column="22" />
-        <mark key="[" line="2" column="44" />
-        <mark key="]" line="2" column="44" />
-        <mark key="." line="2" column="44" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/signals.js" timestamp="1471024204271">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
       </file>
       <file name="$USER_HOME$/dev/loopback-test/server/config.local.js" timestamp="1454185716269">
         <mark key="[" line="5" column="21" />
@@ -977,12 +981,12 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" timestamp="1471021622186">
-        <mark key="'" line="11" column="2" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="82" column="1" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" timestamp="1471022846835">
+        <mark key="'" line="9" column="49" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="29" column="13" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" timestamp="1471021000642">
         <mark key="'" line="2" column="0" />
@@ -1023,6 +1027,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="108" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/socials.js" timestamp="1471024210448">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-api-error/index.d.ts" timestamp="1470071867034">
         <mark key="'" line="11" column="15" />
         <mark key="[" line="15" column="40" />
@@ -1036,6 +1045,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="78" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils.js" timestamp="1471023367986">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/controllers/testCSV.js" timestamp="1468231038213">
         <mark key="[" line="3" column="15" />
@@ -1062,12 +1076,12 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471022068927">
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471024223735">
         <mark key="'" line="27" column="19" />
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="27" column="38" />
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="46" />
         <mark key="^" line="27" column="38" />
-        <mark key="." line="27" column="38" />
+        <mark key="." line="2" column="46" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/index.js" timestamp="1470075766270">
         <mark key="[" line="9" column="27" />
@@ -2292,6 +2306,13 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/utils.js" timestamp="1471023964596">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="47" column="16" />
+        <mark key="." line="47" column="16" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/linkedin-cv/server/routes.js" timestamp="1431709601026">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="31" />
@@ -3146,11 +3167,12 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" timestamp="1471021050372">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="35" />
-        <mark key="^" line="3" column="35" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" timestamp="1471023318367">
+        <mark key="'" line="191" column="49" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/controllers/RAML.js" timestamp="1465566563952">
         <mark key="[" line="12" column="13" />
@@ -3341,12 +3363,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" timestamp="1471021683077">
-        <mark key="'" line="16" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="31" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" timestamp="1471024054333">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="83" />
+        <mark key="." line="8" column="83" />
+        <mark key="^" line="8" column="83" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-mapkeys/src/mapKeys.js" timestamp="1471022022113">
         <mark key="[" line="93" column="2" />
@@ -3410,6 +3431,11 @@
         <mark key="]" line="22" column="28" />
         <mark key="." line="22" column="30" />
         <mark key="^" line="15" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/analytics/socials.js" timestamp="1471024187615">
+        <mark key="[" line="1" column="49" />
+        <mark key="]" line="1" column="49" />
+        <mark key="." line="1" column="49" />
       </file>
       <file name="$USER_HOME$/dev/loopback-test/server/models/monitor.json" timestamp="1454178017808">
         <mark key="[" line="26" column="5" />
@@ -3662,12 +3688,12 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/index.js" timestamp="1471009851463">
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/index.js" timestamp="1471023527178">
         <mark key="'" line="8" column="21" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="1" />
+        <mark key="^" line="21" column="1" />
+        <mark key="." line="21" column="1" />
       </file>
       <file name="$USER_HOME$/dev/doc-data-sdk/docs/api/resources/overview.md" timestamp="1455364167322">
         <mark key="[" line="14" column="0" />
@@ -4120,6 +4146,13 @@
         <mark key="." line="31" column="56" />
         <mark key="^" line="8" column="85" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" timestamp="1471024070607">
+        <mark key="'" line="1" column="9" />
+        <mark key="[" line="99" column="22" />
+        <mark key="]" line="99" column="56" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/react-raml/components/Navigation/Navigation.js" timestamp="1454245435765">
         <mark key="[" line="20" column="79" />
         <mark key="]" line="20" column="82" />
@@ -4207,11 +4240,6 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/mongoose/utils/index.js" timestamp="1471020222246">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/bs-api-request/src/request.js" timestamp="1469716572873">
         <mark key="'" line="70" column="46" />
         <mark key="[" line="69" column="0" />
@@ -4266,122 +4294,122 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/Socialnaut.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/Socialnaut.js" />
-      <jump line="131" column="53" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="134" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="129" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="7" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="15" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="16" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="17" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="40" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="42" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="44" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="49" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="54" column="49" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="58" column="17" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="76" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="13" column="47" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/searches/getMany.js" />
-      <jump line="14" column="6" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/searches/getMany.js" />
-      <jump line="68" column="49" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Auth/User/User.ts" />
-      <jump line="30" column="26" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Auth/User/User.ts" />
-      <jump line="22" column="8" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Auth/User/User.ts" />
-      <jump line="73" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Auth/User/User.ts" />
-      <jump line="8" column="50" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
-      <jump line="19" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
-      <jump line="26" column="50" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/DataSources/DataSources.js" />
-      <jump line="8" column="61" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/DataSources/DataSources.js" />
-      <jump line="15" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/DataSources/DataSources.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" />
-      <jump line="30" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="76" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
-      <jump line="91" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="92" column="24" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="97" column="44" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="102" column="33" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="112" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="125" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="136" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="32" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="118" column="40" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="133" column="6" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="172" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="7" column="30" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitor.js" />
-      <jump line="142" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="1" column="41" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.js" />
-      <jump line="2" column="44" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/signals.js" />
-      <jump line="55" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/signals.js" />
-      <jump line="221" column="24" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="6" column="32" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="144" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="153" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/mongoose/utils/index.js" />
-      <jump line="16" column="24" filename="$USER_HOME$/dev/app-nest-api-data/test/server/services/Signals/utils.js" />
-      <jump line="1" column="7" filename="$USER_HOME$/dev/app-nest-api-data/test/server/services/Signals/utils.js" />
-      <jump line="5" column="24" filename="$USER_HOME$/dev/app-nest-api-data/test/server/services/Signals/utils.js" />
-      <jump line="0" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
-      <jump line="46" column="17" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
-      <jump line="64" column="17" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
-      <jump line="113" column="8" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
-      <jump line="59" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
-      <jump line="34" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/mapping.js" />
-      <jump line="228" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="250" column="60" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="252" column="24" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="96" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="251" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="118" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="3" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
-      <jump line="85" column="44" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
-      <jump line="8" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/Controller.js" />
-      <jump line="7" column="38" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="28" column="54" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="4" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/Controller.js" />
-      <jump line="1" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/Controller.js" />
-      <jump line="0" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/Controller.js" />
-      <jump line="10" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/Controller.js" />
-      <jump line="1" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoQuery.js" />
-      <jump line="28" column="32" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoQuery.js" />
-      <jump line="27" column="26" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="117" column="11" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="25" column="65" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="32" column="27" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="16" column="8" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="13" column="11" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
       <jump line="1" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="4" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
       <jump line="14" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
       <jump line="28" column="18" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
-      <jump line="0" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
       <jump line="11" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
       <jump line="26" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="31" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
+      <jump line="34" column="27" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
+      <jump line="45" column="49" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
+      <jump line="49" column="8" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
+      <jump line="58" column="29" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
+      <jump line="61" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="30" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="33" column="54" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="38" column="1" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="23" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="39" column="17" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="65" column="8" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="15" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
+      <jump line="45" column="29" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="42" column="10" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
+      <jump line="13" column="8" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
+      <jump line="22" column="29" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
+      <jump line="29" column="11" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
+      <jump line="9" column="49" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
+      <jump line="54" column="12" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="60" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="59" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="57" column="27" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="58" column="48" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="4" column="12" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="0" column="37" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="8" column="42" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="89" column="33" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="88" column="8" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="97" column="29" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="104" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="41" column="10" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="50" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="26" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="84" column="8" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="18" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="25" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="66" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="16" column="40" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="11" column="6" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="20" column="54" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="27" column="54" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="100" column="27" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="119" column="27" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="140" column="25" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="159" column="17" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="17" column="17" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
+      <jump line="6" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
+      <jump line="148" column="67" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
+      <jump line="175" column="49" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
+      <jump line="180" column="49" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
+      <jump line="11" column="6" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="10" column="8" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="21" column="63" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="28" column="63" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="101" column="36" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="120" column="36" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="141" column="34" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="161" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="5" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="97" column="32" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="64" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="93" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="112" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="136" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="92" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="111" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="135" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="48" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="17" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="25" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="37" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="11" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/utils.js" />
+      <jump line="26" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/utils.js" />
+      <jump line="23" column="28" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="14" column="25" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="15" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="24" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="16" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="1" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/signals.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/index</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/index</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBGaWx0ZXJcPg==</text>
+        <text encoding="base64">XDxNb25pdG9yXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC5tYXAobW9uaXRvciA9PiBtZXJnZVNlYXJjaEludG9Nb25pdG9yKG1vbml0b3IsIHNlYXJjaGVzKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>mapDataSourceAndIdentifierToMonitor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gJ21vbmdvb3NlJzsK</text>
+        <text encoding="base64">aW1wb3J0IGJzUXVlcnkgZnJvbSAnYnMtcXVlcnknOwppbXBvcnQgYnNRdWVyeU1vbmdvIGZyb20gJ2JzLXF1ZXJ5LW1vbmdvJzsK</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
@@ -4390,64 +4418,64 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IE9iamVjdElkID0gbW9uZ29vc2UuVHlwZXMuT2JqZWN0SWQ7Cg==</text>
+        <text encoding="base64">LyoqCiAqIE1hcCBmaWVsZHMgY3N2IHRvIG1vbmdvIGZpZWxkcyBvYmplY3QKICogVXNlcyBtYXBGaWx0ZXIgdG8gcmVtYXAga2V5cwogKgogKiBAZXhhbXBsZToKICogZ2V0RmllbGRzKCdmb28uYmFyLGJheicpOwogKiB7ICdmb28uYmFyJzogMSwgJ2Jheic6IDEgfQogKgogKiBAcGFyYW0gZmllbGRzIHtTdHJpbmd9CiAqIEByZXR1cm5zIHtPYmplY3R9CiAqLwpmdW5jdGlvbiBfbWFwRmllbGRzKGZpZWxkcykgewogIGlmICghZmllbGRzKSByZXR1cm4gbnVsbDsKICByZXR1cm4gZmllbGRzCiAgICAuc3BsaXQoJywnKQogICAgLm1hcChzdHIgPT4gc3RyLnRyaW0oKSkKICAgIC5maWx0ZXIoQm9vbGVhbikKICAgIC5yZWR1Y2UoKGZpZWxkcywgZmllbGQpID0+IE9iamVjdC5hc3NpZ24oZmllbGRzLCB7IFtmaWVsZF06IHRydWUgfSksIHt9KTsKfQoKLyoqCiAqIExpbWl0IHRoZSBxdWVyeSBzY29wZSB0byBvbmx5IGFjY2VzcyBtb25pdG9ycyBvZiBjbGllbnRzL3N1YmNsaWVudHMgdGhlIHVzZXIgY2FuIGFjY2VzcwogKgogKiBAcGFyYW0gcmVxCiAqIEByZXR1cm5zIHt7fX0KICovCmFzeW5jIGZ1bmN0aW9uIF9nZXRCYXNlUXVlcnkocmVxKSB7CiAgaWYgKHJlcS5jcm9uKSByZXR1cm4gbnVsbDsKICBsZXQgY2xpZW50SWRzID0gcmVxLnVzZXIuZ2V0RmlsdGVyZWRDbGllbnRzKCkubWFwKGNsaWVudCA9PiBjbGllbnQuaWQpOwogIGxldCBjYW1wYWlnbnMgPSByZXEudXNlci5nZXRGaWx0ZXJlZENhbXBhaWducygpLm1hcChjYW1wYWlnbiA9PiBjYW1wYWlnbi5kd0NhbXBhaWduTmFtZSk7CiAgcmV0dXJuIHsKICAgICRvcjogWwogICAgICB7IGNsaWVudDogeyAkaW46IGNsaWVudElkcyB9IH0sCiAgICAgIHsgY2FtcGFpZ246IHsgJGluOiBjYW1wYWlnbnMgfSB9LAogICAgXSwKICAgIGRlbGV0ZWREYXRlVGltZTogbnVsbCwKICB9Owp9CgovKioKICogQ3JlYXRlIGEgZmlsdGVyIHF1ZXJ5IGZyb20gcmVxLnF1ZXJ5LmZpbHRlcnMgYnMtcXVlcnkgc3RyaW5nCiAqIEBwYXJhbSBmaWx0ZXJzCiAqIEByZXR1cm5zIHtPYmplY3R8bnVsbH0KICovCmZ1bmN0aW9uIF9jcmVhdGVGaWx0ZXJRdWVyeShmaWx0ZXJzKSB7CiAgaWYgKCFmaWx0ZXJzKSByZXR1cm4gbnVsbDsKICBsZXQgcXVlcnkgPSBic1F1ZXJ5KGZpbHRlcnMpOwogIHJldHVybiBic1F1ZXJ5TW9uZ28ocXVlcnkpOwp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gJ21vbmdvb3NlJzsK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgbmV3IGNsYXNzIE1vbml0b3JDb250cm9sbGVyIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE1vbmdvUXVlcnkgZnJvbSAnLi9Nb25nb1F1ZXJ5JzsK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBUcmFuc2xhdGUgYW4gaXRlbSBpbnRvIGl0cyBvdXRwdXQgZm9ybWF0CiAgICogQHBhcmFtIHJlY29yZAogICAqLwogIG1hcEl0ZW0gKHJlY29yZCkgeyByZXR1cm4gcmVjb3JkOyB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnZXQgbW9kZWwoKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ05vdCBJbXBsZW1lbnRlZCcpOwogIH0KCiAgYXN5bmMgZ2V0TWFueShyZXEpIHsKICAgIGxldCBxdWVyeSA9IGF3YWl0IHRoaXMuZ2V0QmFzZVF1ZXJ5KHJlcSk7CiAgICBsZXQgZmlsdGVyID0gdGhpcy5jcmVhdGVGaWx0ZXJRdWVyeShyZXEucXVlcnkuZmlsdGVycyk7CiAgICBsZXQgZmllbGRzID0gdGhpcy5tYXBGaWVsZHMocmVxLnF1ZXJ5LmZpZWxkcyk7CiAgICBkZWxldGUgcmVxLnF1ZXJ5LmZpbHRlcnM7CiAgICBsZXQgeyByZXN1bHQsIHBhZ2luYXRpb24gfSA9IGF3YWl0IG5ldyBNb25nb1F1ZXJ5KHRoaXMubW9kZWwpLmZpbmQocXVlcnksIHJlcS5xdWVyeSwgZmllbGRzLCBmaWx0ZXIpOwogICAgcmV0dXJuIHsgaXRlbXM6IGF3YWl0IFByb21pc2UuYWxsKHJlc3VsdC5tYXAodGhpcy5tYXBJdGVtLmJpbmQodGhpcykpKSwgcGFnaW5hdGlvbiB9OwogIH0KCiAgYXN5bmMgZ2V0T25lKHJlcSwgaWQpIHsKICAgIGxldCBib3VuZGluZ1F1ZXJ5ID0gYXdhaXQgdGhpcy5nZXRCYXNlUXVlcnkocmVxKTsKICAgIGxldCBmaWVsZHMgPSB0aGlzLm1hcEZpZWxkcyhyZXEucXVlcnkuZmllbGRzKTsKICAgIGxldCByZXN1bHQgPSBhd2FpdCBuZXcgTW9uZ29RdWVyeSh0aGlzLm1vZGVsKS5maW5kT25lKGJvdW5kaW5nUXVlcnksIGlkLCByZXEucXVlcnksIGZpZWxkcyk7CiAgICBpZiAoIXJlc3VsdCkgewogICAgICB0aHJvdyBuZXcgTm90Rm91bmRFcnJvcih7IHByb3BzOiB7IGlkOiBpZCB9IH0pOwogICAgfQoKICAgIHJldHVybiBhd2FpdCB0aGlzLm1hcEl0ZW0ocmVzdWx0KTsKICB9Cgo=</text>
+        <text encoding="base64">ICogQHByaXZhdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBBIHF1ZXJ5IHRoYXQgc2hvdWxkIGdldCBhbGwgcGVybWl0dGVkIGl0ZW1zCiAgICovCiAgYXN5bmMgZ2V0QmFzZVF1ZXJ5KHJlcSkgewogICAgcmV0dXJuIHt9OwogIH0KCg==</text>
+        <text encoding="base64">ICogQHByaXZhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFByb21pc2UgZnJvbSAnYmx1ZWJpcmQnOwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBNYXAgZmllbGRzIGNzdiB0byBtb25nbyBmaWVsZHMgb2JqZWN0CiAgICogVXNlcyBtYXBGaWx0ZXIgdG8gcmVtYXAga2V5cwogICAqCiAgICogQGV4YW1wbGU6CiAgICogZ2V0RmllbGRzKCdmb28uYmFyLGJheicpOwogICAqIHsgJ2Zvby5iYXInOiAxLCAnYmF6JzogMSB9CiAgICoKICAgKiBAcGFyYW0gZmllbGRzIHtTdHJpbmd9CiAgICogQHJldHVybnMge09iamVjdH0KICAgKi8KICBzdGF0aWMgX21hcEZpZWxkcyhmaWVsZHMpIHsKICAgIGlmICghZmllbGRzKSByZXR1cm4gbnVsbDsKICAgIHJldHVybiBmaWVsZHMKICAgICAgLnNwbGl0KCcsJykKICAgICAgLm1hcChzdHIgPT4gc3RyLnRyaW0oKSkKICAgICAgLmZpbHRlcihCb29sZWFuKQogICAgICAucmVkdWNlKChmaWVsZHMsIGZpZWxkKSA9PiBPYmplY3QuYXNzaWduKGZpZWxkcywgeyBbZmllbGRdOiB0cnVlIH0pLCB7fSk7CiAgfQoKICAvKioKICAgKiBAcHJpdmF0ZQogICAqIExpbWl0IHRoZSBxdWVyeSBzY29wZSB0byBvbmx5IGFjY2VzcyBtb25pdG9ycyBvZiBjbGllbnRzL3N1YmNsaWVudHMgdGhlIHVzZXIgY2FuIGFjY2VzcwogICAqCiAgICogQHBhcmFtIHJlcQogICAqIEByZXR1cm5zIHt7fX0KICAgKi8KICBzdGF0aWMgYXN5bmMgX2dldEJhc2VRdWVyeShyZXEpIHsKICAgIGlmIChyZXEuY3JvbikgcmV0dXJuIG51bGw7CiAgICBsZXQgY2xpZW50SWRzID0gcmVxLnVzZXIuZ2V0RmlsdGVyZWRDbGllbnRzKCkubWFwKGNsaWVudCA9PiBjbGllbnQuaWQpOwogICAgbGV0IGNhbXBhaWducyA9IHJlcS51c2VyLmdldEZpbHRlcmVkQ2FtcGFpZ25zKCkubWFwKGNhbXBhaWduID0+IGNhbXBhaWduLmR3Q2FtcGFpZ25OYW1lKTsKICAgIHJldHVybiB7CiAgICAgICRvcjogWwogICAgICAgIHsgY2xpZW50OiB7ICRpbjogY2xpZW50SWRzIH0gfSwKICAgICAgICB7IGNhbXBhaWduOiB7ICRpbjogY2FtcGFpZ25zIH0gfSwKICAgICAgXSwKICAgICAgZGVsZXRlZERhdGVUaW1lOiBudWxsLAogICAgfTsKICB9CgogIC8qKgogICAqIENyZWF0ZSBhIGZpbHRlciBxdWVyeSBmcm9tIHJlcS5xdWVyeS5maWx0ZXJzIGJzLXF1ZXJ5IHN0cmluZwogICAqIEBwYXJhbSBmaWx0ZXJzCiAgICogQHJldHVybnMge09iamVjdHxudWxsfQogICAqLwogIHN0YXRpYyBfY3JlYXRlRmlsdGVyUXVlcnkgKGZpbHRlcnMpIHsKICAgIGlmICghZmlsdGVycykgcmV0dXJuIG51bGw7CiAgICBsZXQgcXVlcnkgPSBic1F1ZXJ5KGZpbHRlcnMpOwogICAgcmV0dXJuIGJzUXVlcnlNb25nbyhxdWVyeSk7CiAgfQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBGaWx0ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxNb25pdG9yXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBGaWx0ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxNb25pdG9yXD4=</last-pattern>
       <last-replace />
-      <last-substitute>},\n</last-substitute>
+      <last-substitute encoding="base64">XDxtYXBGaWx0ZXJcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRNb25pdG9yUHJvcGVydGllc1w+</entry>
-        <entry encoding="base64">XDxjYW1wYWlnblVVSURzXD4=</entry>
-        <entry encoding="base64">XDxPYmplY3RJZFw+</entry>
-        <entry encoding="base64">XDxNb25pdG9yTW9kZWxcPg==</entry>
-        <entry encoding="base64">XDxNb25pdG9yXD4=</entry>
-        <entry encoding="base64">XDxtYXBJRHRvTW9uaXRvckhhc2hcPg==</entry>
-        <entry encoding="base64">XDxtYXBGaWVsZHNTdHJpbmdcPg==</entry>
-        <entry encoding="base64">XDxtYXBGaWVsZFZhbHVlT3V0Ym91bmRcPg==</entry>
-        <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
-        <entry encoding="base64">XDxtYXBJdGVtXD4=</entry>
-        <entry encoding="base64">XDxOb3RJbXBsZW1lbnRlZEVycm9yXD4=</entry>
-        <entry encoding="base64">XDxic1F1ZXJ5XD4=</entry>
-        <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
-        <entry encoding="base64">XDxic1F1ZXJ5TW9uZ29cPg==</entry>
-        <entry encoding="base64">XDxnZXRCYXNlUXVlcnlcPg==</entry>
-        <entry>super</entry>
-        <entry encoding="base64">XDxNb25nb1F1ZXJ5XD4=</entry>
-        <entry encoding="base64">XDxtb25nb29zZVw+</entry>
         <entry encoding="base64">XDxfXD4=</entry>
+        <entry encoding="base64">XDxNb25nb0NvbnRyb2xsZXJcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVGaWx0ZXJRdWVyeVw+</entry>
+        <entry encoding="base64">XDxtYXBGaWVsZFZhbHVlXD4=</entry>
         <entry encoding="base64">XDxtYXBGaWx0ZXJcPg==</entry>
+        <entry>this</entry>
+        <entry encoding="base64">XDxtb25pdG9yTWFwcGluZ3NcPg==</entry>
+        <entry encoding="base64">XDx0aGlzXD4=</entry>
+        <entry encoding="base64">XDxtb2RlbFw+</entry>
+        <entry encoding="base64">XDxzZWFyY2hJRHRvSURNYXBDYWNoZVw+</entry>
+        <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
+        <entry>this.</entry>
+        <entry encoding="base64">XDxNb25pdG9yQ29udHJvbGxlclw+</entry>
+        <entry encoding="base64">XDxhc3luY1w+</entry>
+        <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
+        <entry encoding="base64">XDxfZ2V0QmFzZVF1ZXJ5XD4=</entry>
+        <entry encoding="base64">XDxfY3JlYXRlRmlsdGVyUXVlcnlcPg==</entry>
+        <entry encoding="base64">XDxfbWFwRmllbGRzXD4=</entry>
+        <entry encoding="base64">XDxOb3RGb3VuZEVycm9yXD4=</entry>
+        <entry encoding="base64">XDxNb25pdG9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/access-denied/common.access-denied</entry>
@@ -4461,15 +4489,15 @@
         <entry encoding="base64">JzwsJz5zL1w8clw+L2cvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1w8clw+L2IvZw==</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>x</entry>
         <entry>wa</entry>
         <entry>w2</entry>
         <entry encoding="base64">JzwsJz5zL3tcbi8=</entry>
         <entry encoding="base64">JzwsJz5zL30sXG4v</entry>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
         <entry>s</entry>
-        <entry>noh</entry>
+        <entry>x</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
