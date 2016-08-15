@@ -1661,6 +1661,13 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-samsung-trends/config/stage.js" timestamp="1471277973971">
+        <mark key="'" line="18" column="30" />
+        <mark key="[" line="24" column="96" />
+        <mark key="]" line="24" column="100" />
+        <mark key="^" line="24" column="100" />
+        <mark key="." line="24" column="100" />
+      </file>
       <file name="$USER_HOME$/dev/data-api-server/server/services/Logger/services/RabbitMQ.js" timestamp="1468590353627">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="40" column="40" />
@@ -4295,10 +4302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="24" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="96" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="251" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="118" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
       <jump line="3" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
       <jump line="85" column="44" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
@@ -4395,6 +4398,10 @@
       <jump line="130" column="22" filename="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" />
       <jump line="93" column="72" filename="$USER_HOME$/dev/bs-raml-api/node_modules/json-schema-deref-sync/dist/index.js" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/bs-api-error/package.json" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/app-nest-samsung-trends/config/stage.js" />
+      <jump line="23" column="47" filename="$USER_HOME$/dev/app-nest-samsung-trends/config/stage.js" />
+      <jump line="20" column="60" filename="$USER_HOME$/dev/app-nest-samsung-trends/config/stage.js" />
+      <jump line="18" column="30" filename="$USER_HOME$/dev/app-nest-samsung-trends/config/stage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4404,7 +4411,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>node.$ref</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAidHlwaW5ncyI6ICJidWlsZC9pbmRleC5kLnRzIiwK</text>
@@ -4451,18 +4458,16 @@
       </register>
     </registers>
     <search>
-      <last-search>node.$ref</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>node.$ref</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXFcPg==</entry>
-        <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>babel</entry>
         <entry>lib</entry>
         <entry>props =</entry>
@@ -4481,6 +4486,8 @@
         <entry encoding="base64">XDxfaW5pdGlhbGl6ZUNvbmZpZ1w+</entry>
         <entry encoding="base64">XDxudWxsXD4=</entry>
         <entry>node.$ref</entry>
+        <entry>live</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bs-raml-api/..\/..\/node_modules/bs-raml-api/RAML</entry>
