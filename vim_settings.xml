@@ -228,12 +228,12 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" timestamp="1469464680611">
-        <mark key="'" line="33" column="18" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="49" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="35" column="10" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" timestamp="1471272144537">
+        <mark key="'" line="130" column="22" />
+        <mark key="[" line="130" column="21" />
+        <mark key="]" line="130" column="20" />
+        <mark key="." line="130" column="20" />
+        <mark key="^" line="130" column="20" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-brain/package.json" timestamp="1469550620318">
         <mark key="[" line="1" column="24" />
@@ -670,6 +670,9 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-api/node_modules/json-schema-deref-sync/dist/index.js" timestamp="1471272386337">
+        <mark key="'" line="93" column="72" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-middleware/src/middleware/annotations/access-denied.js" timestamp="1469099963746">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="10" column="3" />
@@ -1002,6 +1005,9 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" timestamp="1471021000642">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/data-api-server/server/controllers/accounts/main.js" timestamp="1469122691349">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="23" />
@@ -1074,8 +1080,8 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471269587561">
-        <mark key="'" line="27" column="19" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471271065175">
+        <mark key="'" line="205" column="4" />
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="6" />
         <mark key="." line="150" column="6" />
@@ -1111,12 +1117,11 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/server.js" timestamp="1470648598719">
-        <mark key="'" line="243" column="15" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="2" column="2" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/server.js" timestamp="1471271923870">
+        <mark key="'" line="76" column="9" />
+        <mark key="[" line="123" column="2" />
+        <mark key="]" line="123" column="2" />
+        <mark key="." line="123" column="2" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/controllers/analytics/data_library.js" timestamp="1467800597298">
         <mark key="'" line="47" column="0" />
@@ -2908,12 +2913,12 @@
         <mark key="." line="27" column="3" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/config/defaults/server.js" timestamp="1471251278444">
+      <file name="$USER_HOME$/dev/app-nest-api-data/config/defaults/server.js" timestamp="1471272152041">
         <mark key="'" line="82" column="0" />
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="50" />
-        <mark key="^" line="28" column="50" />
-        <mark key="." line="28" column="50" />
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="10" />
+        <mark key="^" line="24" column="10" />
+        <mark key="." line="24" column="10" />
       </file>
       <file name="$USER_HOME$/dev/doc-data-sdk/docs/js/highlight_worker.js" timestamp="1455358767104">
         <mark key="[" line="2" column="22" />
@@ -3546,12 +3551,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="11" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" timestamp="1471270230529">
-        <mark key="'" line="28" column="5" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="4" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" timestamp="1471270875505">
+        <mark key="'" line="32" column="5" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-middleware/src/middleware/annotations/rate-limited.js" timestamp="1469111628973">
         <mark key="'" line="51" column="0" />
@@ -4034,12 +4039,12 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/database.js" timestamp="1470906076162">
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/database.js" timestamp="1471271866630">
         <mark key="'" line="1" column="23" />
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="53" />
-        <mark key="." line="6" column="53" />
-        <mark key="^" line="6" column="53" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/dev/loopback-test/server/config.json" timestamp="1454184474908">
         <mark key="[" line="26" column="2" />
@@ -4216,6 +4221,9 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" timestamp="1471271087263">
+        <mark key="'" line="106" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/react-raml/components/Navigation/Navigation.js" timestamp="1454245435765">
         <mark key="[" line="20" column="79" />
         <mark key="]" line="20" column="82" />
@@ -4370,40 +4378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" />
-      <jump line="30" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="76" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
-      <jump line="91" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="92" column="24" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="97" column="44" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="102" column="33" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="112" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="125" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="136" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="32" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="118" column="40" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="133" column="6" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="172" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="7" column="30" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitor.js" />
-      <jump line="142" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="1" column="41" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.js" />
-      <jump line="2" column="44" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/signals.js" />
-      <jump line="55" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/signals.js" />
-      <jump line="221" column="24" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="6" column="32" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="144" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="153" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/mongoose/utils/index.js" />
-      <jump line="16" column="24" filename="$USER_HOME$/dev/app-nest-api-data/test/server/services/Signals/utils.js" />
-      <jump line="1" column="7" filename="$USER_HOME$/dev/app-nest-api-data/test/server/services/Signals/utils.js" />
-      <jump line="5" column="24" filename="$USER_HOME$/dev/app-nest-api-data/test/server/services/Signals/utils.js" />
-      <jump line="0" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
-      <jump line="46" column="17" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
-      <jump line="64" column="17" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
-      <jump line="113" column="8" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
-      <jump line="59" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
-      <jump line="34" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/mapping.js" />
-      <jump line="228" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
       <jump line="250" column="60" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
       <jump line="252" column="24" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
       <jump line="96" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
@@ -4470,50 +4444,83 @@
       <jump line="16" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
       <jump line="15" column="5" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
       <jump line="18" column="65" filename="$USER_HOME$/dev/app-nest-api-data/package.json" />
+      <jump line="3" column="23" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="8" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="17" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="18" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="19" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="41" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="49" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="65" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="76" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="139" column="3" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="152" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="159" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="170" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="174" column="6" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="193" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="205" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="9" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="18" column="52" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="25" column="52" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="47" column="25" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="66" column="25" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="87" column="23" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="106" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="83" column="15" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
+      <jump line="125" column="28" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
+      <jump line="75" column="9" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
+      <jump line="123" column="8" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
+      <jump line="76" column="9" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
+      <jump line="136" column="21" filename="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" />
+      <jump line="130" column="22" filename="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" />
+      <jump line="93" column="72" filename="$USER_HOME$/dev/bs-raml-api/node_modules/json-schema-deref-sync/dist/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gY29uZmlnLnNlcnZlci5jYWNoZU1hbmFnZXIgPSBmYWxzZTsK</text>
+      <register name="&quot;" type="4">
+        <text>undefined</text>
       </register>
       <register name="-" type="4">
-        <text>constants.urls</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>node.$ref</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LS1yZXF1aXJlIGJhYmVsLXBvbHlmaWxsIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gY29uZmlnLnNlcnZlci5jYWNoZU1hbmFnZXIgPSBmYWxzZTsK</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmVyLm9uKCdzdGFydCcsICgpID0+IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uZmlnLnNlcnZlci5idW55YW4gPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uZmlnLnNlcnZlci52ZXJib3NlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX2luaXRpYWxpemVDb25maWcoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uZmlnLnNlcnZlci5yZXN0LnNlbGYgPSAnbG9jYWxob3N0OjgwMDknOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>services.
-services.</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgZGJDb25maWcgPSBzZXJ2ZXIuY29uZmlnLmNvbnN0YW50cy5kYXRhYmFzZTsKT2JqZWN0LmtleXMoZGJDb25maWcpLmZvckVhY2gobmFtZSA9PiB7CiAgZGF0YWJhc2VzW25hbWVdID0gbW9uZ29vc2UuY3JlYXRlQ29ubmVjdGlvbihkYkNvbmZpZ1tuYW1lXS51cmwpOwp9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgCg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiZWZvcmUoKQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4523,9 +4530,9 @@ services.</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>node.$ref</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>node.$ref</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4533,13 +4540,6 @@ services.</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
-        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxtYXBTdWJDbGllbnRzVG9DYW1wYWlnbnNcPg==</entry>
-        <entry encoding="base64">XDxtYXBDbGllbnRzVG9DYW1wYWlnbnNcPg==</entry>
-        <entry encoding="base64">XDx1dGlsc1w+</entry>
-        <entry encoding="base64">XDxOZXN0XD4=</entry>
         <entry encoding="base64">XDxyZXFcPg==</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>babel</entry>
@@ -4553,6 +4553,13 @@ services.</text>
         <entry encoding="base64">XDxSYXRlTGltaXRFcnJvclw+</entry>
         <entry encoding="base64">XDxsaWJcPg==</entry>
         <entry>build</entry>
+        <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
+        <entry encoding="base64">XDxnZXRNb2RlbFw+</entry>
+        <entry encoding="base64">XDxqc3JlZlw+</entry>
+        <entry encoding="base64">XDxfY29uZmlnXD4=</entry>
+        <entry encoding="base64">XDxfaW5pdGlhbGl6ZUNvbmZpZ1w+</entry>
+        <entry encoding="base64">XDxudWxsXD4=</entry>
+        <entry>node.$ref</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bs-raml-api/..\/..\/node_modules/bs-raml-api/RAML</entry>
@@ -4572,8 +4579,8 @@ services.</text>
         <entry>%s/props =/props: string =</entry>
         <entry>%s/props =/props: Props =</entry>
         <entry>%s/message =/message: string =/gc</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
