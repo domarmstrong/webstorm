@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" timestamp="1471279031619">
+        <mark key="'" line="48" column="43" />
+      </file>
       <file name="$USER_HOME$/dev/linkedin-cv/package.json" timestamp="1431709453269">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -2517,6 +2520,12 @@
         <mark key="." line="22" column="25" />
         <mark key="^" line="22" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-samsung-trends/client/src/app/module.js" timestamp="1471279272655">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="37" column="15" />
+        <mark key="^" line="37" column="15" />
+        <mark key="." line="37" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/samsungQuarterlyReport/twitter.json" timestamp="1467729471646">
         <mark key="'" line="1831" column="15" />
         <mark key="[" line="0" column="0" />
@@ -2981,6 +2990,10 @@
         <mark key="]" line="3" column="42" />
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" timestamp="1471279085922">
+        <mark key="'" line="55" column="8" />
+        <mark key="[" line="49" column="8" />
       </file>
       <file name="$USER_HOME$/dev/rpc/jayson/lib/client/nats.js" timestamp="1468420782732">
         <mark key="[" line="29" column="0" />
@@ -4302,21 +4315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" />
-      <jump line="3" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
-      <jump line="85" column="44" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
-      <jump line="8" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/Controller.js" />
-      <jump line="7" column="38" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="28" column="54" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="4" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/Controller.js" />
-      <jump line="1" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/Controller.js" />
-      <jump line="0" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/Controller.js" />
-      <jump line="10" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/Controller.js" />
-      <jump line="1" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoQuery.js" />
-      <jump line="28" column="32" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoQuery.js" />
-      <jump line="27" column="26" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="117" column="11" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
       <jump line="25" column="65" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
       <jump line="32" column="27" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
       <jump line="16" column="8" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
@@ -4402,6 +4400,21 @@
       <jump line="23" column="47" filename="$USER_HOME$/dev/app-nest-samsung-trends/config/stage.js" />
       <jump line="20" column="60" filename="$USER_HOME$/dev/app-nest-samsung-trends/config/stage.js" />
       <jump line="18" column="30" filename="$USER_HOME$/dev/app-nest-samsung-trends/config/stage.js" />
+      <jump line="72" column="29" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
+      <jump line="10" column="29" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
+      <jump line="13" column="30" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
+      <jump line="16" column="34" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
+      <jump line="64" column="24" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
+      <jump line="31" column="36" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
+      <jump line="22" column="76" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
+      <jump line="48" column="43" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
+      <jump line="7" column="27" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
+      <jump line="12" column="8" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
+      <jump line="16" column="71" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
+      <jump line="28" column="9" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
+      <jump line="49" column="27" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
+      <jump line="55" column="8" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4411,7 +4424,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>api</text>
+        <text encoding="base64">XDx0b2tlblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAidHlwaW5ncyI6ICJidWlsZC9pbmRleC5kLnRzIiwK</text>
@@ -4458,9 +4471,9 @@
       </register>
     </registers>
     <search>
-      <last-search>api</last-search>
+      <last-search encoding="base64">XDx0b2tlblw+</last-search>
       <last-offset />
-      <last-pattern>api</last-pattern>
+      <last-pattern encoding="base64">XDx0b2tlblw+</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4468,11 +4481,6 @@
     </search>
     <history>
       <history-search>
-        <entry>babel</entry>
-        <entry>lib</entry>
-        <entry>props =</entry>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
-        <entry>message =</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry>basepath</entry>
         <entry encoding="base64">XDxwcm9wc1w+</entry>
@@ -4488,6 +4496,11 @@
         <entry>node.$ref</entry>
         <entry>live</entry>
         <entry>api</entry>
+        <entry encoding="base64">XDxjYlw+</entry>
+        <entry>token</entry>
+        <entry encoding="base64">XDx2ZXJpZnlcPg==</entry>
+        <entry encoding="base64">XDxfdmVyaWZ5XD4=</entry>
+        <entry encoding="base64">XDx0b2tlblw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bs-raml-api/..\/..\/node_modules/bs-raml-api/RAML</entry>
