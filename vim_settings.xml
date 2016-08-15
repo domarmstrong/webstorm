@@ -998,9 +998,6 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/utils.js" timestamp="1471021000642">
-        <mark key="'" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/data-api-server/server/controllers/accounts/main.js" timestamp="1469122691349">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="23" />
@@ -2518,6 +2515,7 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-samsung-executive-view/package.json" timestamp="1471257009383" />
       <file name="$USER_HOME$/dev/doc-data-sdk/docs/resources/campaigns.md" timestamp="1469700647351">
         <mark key="'" line="62" column="25" />
         <mark key="[" line="54" column="9" />
@@ -4414,7 +4412,7 @@
         <text>linkMaker.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmRleFw+</text>
+        <text>basepath</text>
       </register>
       <register name="0" type="4">
         <text>{ [k: string]: string }</text>
@@ -4457,9 +4455,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmRleFw+</last-search>
+      <last-search>basepath</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmRleFw+</last-pattern>
+      <last-pattern>basepath</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4467,7 +4465,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnNpZ2h0c0FwaVw+</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>Camp</entry>
         <entry>url</entry>
@@ -4487,6 +4484,7 @@
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry>message =</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
+        <entry>basepath</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bs-raml-api/..\/..\/node_modules/bs-raml-api/RAML</entry>
