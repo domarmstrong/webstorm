@@ -916,11 +916,11 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/bs-base-error/package.json" timestamp="1470936703106">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="12" column="22" />
+      <file name="$USER_HOME$/dev/bs-base-error/package.json" timestamp="1471251773702">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/dev/samsungQuarterlyReport/socialgist.boards.json" timestamp="1467718746714">
         <mark key="'" line="1131" column="9" />
@@ -1003,6 +1003,12 @@
         <mark key="]" line="13" column="19" />
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-api-error/src/authentication.ts" timestamp="1471252040606">
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="5" column="64" />
+        <mark key="^" line="5" column="64" />
+        <mark key="." line="5" column="64" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/Socialnaut.js" timestamp="1471002241369">
         <mark key="'" line="17" column="0" />
@@ -1919,6 +1925,12 @@
         <mark key="." line="34" column="68" />
         <mark key="^" line="34" column="68" />
       </file>
+      <file name="$USER_HOME$/dev/bs-api-error/src/index.ts" timestamp="1471251985644">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/config/environments/teec/test.js" timestamp="1469789870869">
         <mark key="[" line="13" column="44" />
         <mark key="]" line="13" column="42" />
@@ -2755,8 +2767,8 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-base-error/tsconfig.json" timestamp="1470936772571">
-        <mark key="[" line="13" column="13" />
+      <file name="$USER_HOME$/dev/bs-base-error/tsconfig.json" timestamp="1471251688087">
+        <mark key="[" line="13" column="9" />
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
@@ -2871,12 +2883,12 @@
         <mark key="." line="27" column="3" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/config/defaults/server.js" timestamp="1470992839566">
+      <file name="$USER_HOME$/dev/app-nest-api-data/config/defaults/server.js" timestamp="1471251278444">
         <mark key="'" line="82" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="50" />
+        <mark key="^" line="28" column="50" />
+        <mark key="." line="28" column="50" />
       </file>
       <file name="$USER_HOME$/dev/doc-data-sdk/docs/js/highlight_worker.js" timestamp="1455358767104">
         <mark key="[" line="2" column="22" />
@@ -4373,46 +4385,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bW9uaXRvciA9PiBtZXJnZVNlYXJjaEludG9Nb25pdG9yKG1vbml0b3IsIHNlYXJjaGVzKQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bW9uaXRvciA9PiBtZXJnZVNlYXJjaEludG9Nb25pdG9yKG1vbml0b3IsIHNlYXJjaGVzKQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBGaWx0ZXJcPg==</text>
+        <text>lib</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC5tYXAobW9uaXRvciA9PiBtZXJnZVNlYXJjaEludG9Nb25pdG9yKG1vbml0b3IsIHNlYXJjaGVzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gJ21vbmdvb3NlJzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IE9iamVjdElkID0gbW9uZ29vc2UuVHlwZXMuT2JqZWN0SWQ7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gJ21vbmdvb3NlJzsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE1vbmdvUXVlcnkgZnJvbSAnLi9Nb25nb1F1ZXJ5JzsK</text>
+        <text encoding="base64">bGV0IE9iamVjdElkID0gbW9uZ29vc2UuVHlwZXMuT2JqZWN0SWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBUcmFuc2xhdGUgYW4gaXRlbSBpbnRvIGl0cyBvdXRwdXQgZm9ybWF0CiAgICogQHBhcmFtIHJlY29yZAogICAqLwogIG1hcEl0ZW0gKHJlY29yZCkgeyByZXR1cm4gcmVjb3JkOyB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gJ21vbmdvb3NlJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnZXQgbW9kZWwoKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ05vdCBJbXBsZW1lbnRlZCcpOwogIH0KCiAgYXN5bmMgZ2V0TWFueShyZXEpIHsKICAgIGxldCBxdWVyeSA9IGF3YWl0IHRoaXMuZ2V0QmFzZVF1ZXJ5KHJlcSk7CiAgICBsZXQgZmlsdGVyID0gdGhpcy5jcmVhdGVGaWx0ZXJRdWVyeShyZXEucXVlcnkuZmlsdGVycyk7CiAgICBsZXQgZmllbGRzID0gdGhpcy5tYXBGaWVsZHMocmVxLnF1ZXJ5LmZpZWxkcyk7CiAgICBkZWxldGUgcmVxLnF1ZXJ5LmZpbHRlcnM7CiAgICBsZXQgeyByZXN1bHQsIHBhZ2luYXRpb24gfSA9IGF3YWl0IG5ldyBNb25nb1F1ZXJ5KHRoaXMubW9kZWwpLmZpbmQocXVlcnksIHJlcS5xdWVyeSwgZmllbGRzLCBmaWx0ZXIpOwogICAgcmV0dXJuIHsgaXRlbXM6IGF3YWl0IFByb21pc2UuYWxsKHJlc3VsdC5tYXAodGhpcy5tYXBJdGVtLmJpbmQodGhpcykpKSwgcGFnaW5hdGlvbiB9OwogIH0KCiAgYXN5bmMgZ2V0T25lKHJlcSwgaWQpIHsKICAgIGxldCBib3VuZGluZ1F1ZXJ5ID0gYXdhaXQgdGhpcy5nZXRCYXNlUXVlcnkocmVxKTsKICAgIGxldCBmaWVsZHMgPSB0aGlzLm1hcEZpZWxkcyhyZXEucXVlcnkuZmllbGRzKTsKICAgIGxldCByZXN1bHQgPSBhd2FpdCBuZXcgTW9uZ29RdWVyeSh0aGlzLm1vZGVsKS5maW5kT25lKGJvdW5kaW5nUXVlcnksIGlkLCByZXEucXVlcnksIGZpZWxkcyk7CiAgICBpZiAoIXJlc3VsdCkgewogICAgICB0aHJvdyBuZXcgTm90Rm91bmRFcnJvcih7IHByb3BzOiB7IGlkOiBpZCB9IH0pOwogICAgfQoKICAgIHJldHVybiBhd2FpdCB0aGlzLm1hcEl0ZW0ocmVzdWx0KTsKICB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IE1vbmdvUXVlcnkgZnJvbSAnLi9Nb25nb1F1ZXJ5JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBBIHF1ZXJ5IHRoYXQgc2hvdWxkIGdldCBhbGwgcGVybWl0dGVkIGl0ZW1zCiAgICovCiAgYXN5bmMgZ2V0QmFzZVF1ZXJ5KHJlcSkgewogICAgcmV0dXJuIHt9OwogIH0KCg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBUcmFuc2xhdGUgYW4gaXRlbSBpbnRvIGl0cyBvdXRwdXQgZm9ybWF0CiAgICogQHBhcmFtIHJlY29yZAogICAqLwogIG1hcEl0ZW0gKHJlY29yZCkgeyByZXR1cm4gcmVjb3JkOyB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFByb21pc2UgZnJvbSAnYmx1ZWJpcmQnOwo=</text>
+        <text encoding="base64">ICBnZXQgbW9kZWwoKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ05vdCBJbXBsZW1lbnRlZCcpOwogIH0KCiAgYXN5bmMgZ2V0TWFueShyZXEpIHsKICAgIGxldCBxdWVyeSA9IGF3YWl0IHRoaXMuZ2V0QmFzZVF1ZXJ5KHJlcSk7CiAgICBsZXQgZmlsdGVyID0gdGhpcy5jcmVhdGVGaWx0ZXJRdWVyeShyZXEucXVlcnkuZmlsdGVycyk7CiAgICBsZXQgZmllbGRzID0gdGhpcy5tYXBGaWVsZHMocmVxLnF1ZXJ5LmZpZWxkcyk7CiAgICBkZWxldGUgcmVxLnF1ZXJ5LmZpbHRlcnM7CiAgICBsZXQgeyByZXN1bHQsIHBhZ2luYXRpb24gfSA9IGF3YWl0IG5ldyBNb25nb1F1ZXJ5KHRoaXMubW9kZWwpLmZpbmQocXVlcnksIHJlcS5xdWVyeSwgZmllbGRzLCBmaWx0ZXIpOwogICAgcmV0dXJuIHsgaXRlbXM6IGF3YWl0IFByb21pc2UuYWxsKHJlc3VsdC5tYXAodGhpcy5tYXBJdGVtLmJpbmQodGhpcykpKSwgcGFnaW5hdGlvbiB9OwogIH0KCiAgYXN5bmMgZ2V0T25lKHJlcSwgaWQpIHsKICAgIGxldCBib3VuZGluZ1F1ZXJ5ID0gYXdhaXQgdGhpcy5nZXRCYXNlUXVlcnkocmVxKTsKICAgIGxldCBmaWVsZHMgPSB0aGlzLm1hcEZpZWxkcyhyZXEucXVlcnkuZmllbGRzKTsKICAgIGxldCByZXN1bHQgPSBhd2FpdCBuZXcgTW9uZ29RdWVyeSh0aGlzLm1vZGVsKS5maW5kT25lKGJvdW5kaW5nUXVlcnksIGlkLCByZXEucXVlcnksIGZpZWxkcyk7CiAgICBpZiAoIXJlc3VsdCkgewogICAgICB0aHJvdyBuZXcgTm90Rm91bmRFcnJvcih7IHByb3BzOiB7IGlkOiBpZCB9IH0pOwogICAgfQoKICAgIHJldHVybiBhd2FpdCB0aGlzLm1hcEl0ZW0ocmVzdWx0KTsKICB9Cgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4422,17 +4434,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBGaWx0ZXJcPg==</last-search>
+      <last-search>lib</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBGaWx0ZXJcPg==</last-pattern>
+      <last-pattern>lib</last-pattern>
       <last-replace />
       <last-substitute>},\n</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXByZWNhdGVkXD4=</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxnZXRGaWx0ZXJlZENhbXBhaWduc1w+</entry>
         <entry>getFilter</entry>
@@ -4452,6 +4463,7 @@
         <entry encoding="base64">XDxyZXFcPg==</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>babel</entry>
+        <entry>lib</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\!include /!include bs-raml-api\//gc</entry>
