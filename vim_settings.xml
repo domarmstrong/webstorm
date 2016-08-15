@@ -1074,12 +1074,12 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471021731338">
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471269587561">
         <mark key="'" line="27" column="19" />
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="6" />
+        <mark key="." line="150" column="6" />
+        <mark key="^" line="150" column="6" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-router/README.md" timestamp="1464683719024">
         <mark key="[" line="0" column="5" />
@@ -2532,7 +2532,6 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-samsung-executive-view/package.json" timestamp="1471257009383" />
       <file name="$USER_HOME$/dev/doc-data-sdk/docs/resources/campaigns.md" timestamp="1469700647351">
         <mark key="'" line="62" column="25" />
         <mark key="[" line="54" column="9" />
@@ -2864,11 +2863,12 @@
         <mark key="^" line="26" column="53" />
         <mark key="." line="26" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/package.json" timestamp="1471019654168">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-        <mark key="^" line="1" column="27" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/package.json" timestamp="1471270462981">
+        <mark key="'" line="18" column="65" />
+        <mark key="[" line="18" column="140" />
+        <mark key="]" line="18" column="145" />
+        <mark key="." line="18" column="145" />
+        <mark key="^" line="18" column="145" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-router/test/lib/flatten.js" timestamp="1465655707236">
         <mark key="[" line="3" column="8" />
@@ -3546,6 +3546,13 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="11" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" timestamp="1471270230529">
+        <mark key="'" line="28" column="5" />
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+        <mark key="^" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-middleware/src/middleware/annotations/rate-limited.js" timestamp="1469111628973">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="2" column="13" />
@@ -4015,6 +4022,12 @@
         <mark key="." line="28" column="12" />
         <mark key="^" line="28" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/config/environments/local/test.js" timestamp="1471270643611">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/bday/less/main.less" timestamp="1448142297598">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="1" />
@@ -4357,9 +4370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="50" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/DataSources/DataSources.js" />
-      <jump line="8" column="61" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/DataSources/DataSources.js" />
-      <jump line="15" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/DataSources/DataSources.js" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Monitors/Monitors.js" />
       <jump line="30" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="76" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
@@ -4457,46 +4467,50 @@
       <jump line="18" column="0" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
       <jump line="14" column="25" filename="$USER_HOME$/dev/bs-api-error/src/http.ts" />
       <jump line="4" column="11" filename="$USER_HOME$/dev/bs-api-error/package.json" />
+      <jump line="16" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
+      <jump line="15" column="5" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
+      <jump line="18" column="65" filename="$USER_HOME$/dev/app-nest-api-data/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gY29uZmlnLnNlcnZlci5jYWNoZU1hbmFnZXIgPSBmYWxzZTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>constants.urls</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaWJcPg==</text>
+        <text>build</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBzdGF0dXM6IG51bWJlciA9IDQwMTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">LS1yZXF1aXJlIGJhYmVsLXBvbHlmaWxsIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uZmlnLnNlcnZlci5jYWNoZU1hbmFnZXIgPSBmYWxzZTsK</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHlwZSBQcm9wcyA9IHsgW2s6IHN0cmluZ106IGFueSB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uZmlnLnNlcnZlci5idW55YW4gPSBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZSBQcm9wcyA9IHsgW2s6IHN0cmluZ106IGFueSB9Owo=</text>
+        <text encoding="base64">Y29uZmlnLnNlcnZlci52ZXJib3NlID0gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgUHJvcHMgPSB7IFtrOiBzdHJpbmddOiBhbnkgfTsK</text>
+        <text encoding="base64">Y29uZmlnLnNlcnZlci5yZXN0LnNlbGYgPSAnbG9jYWxob3N0OjgwMDknOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>services.
+services.</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgUHJvcHMgPSB7IFtrOiBzdHJpbmddOiBhbnkgfTsK</text>
+        <text encoding="base64">ICBsZXQgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -4509,9 +4523,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaWJcPg==</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaWJcPg==</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4519,7 +4533,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZXJ2aWNlVGltZW91dEVycm9yXD4=</entry>
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
@@ -4539,6 +4552,7 @@
         <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry encoding="base64">XDxSYXRlTGltaXRFcnJvclw+</entry>
         <entry encoding="base64">XDxsaWJcPg==</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bs-raml-api/..\/..\/node_modules/bs-raml-api/RAML</entry>
