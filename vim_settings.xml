@@ -184,12 +184,6 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/Controller.js" timestamp="1471021250748">
-        <mark key="'" line="10" column="16" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-dashboards/server/models/fixtures/webSearch-topSearchKeywords.js" timestamp="1444588850960">
         <mark key="[" line="18" column="62" />
         <mark key="]" line="18" column="62" />
@@ -654,12 +648,6 @@
         <mark key="." line="21" column="50" />
         <mark key="^" line="21" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/signals.js" timestamp="1471013996848">
-        <mark key="'" line="55" column="22" />
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="1" column="44" />
-        <mark key="." line="1" column="44" />
-      </file>
       <file name="$USER_HOME$/dev/loopback-test/server/config.local.js" timestamp="1454185716269">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="23" />
@@ -1016,12 +1004,6 @@
         <mark key="]" line="34" column="1" />
         <mark key="^" line="33" column="43" />
         <mark key="." line="34" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/Socialnaut.js" timestamp="1471002241369">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/rpc/rest.js" timestamp="1467305858743">
         <mark key="'" line="40" column="3" />
@@ -1552,6 +1534,12 @@
         <mark key="^" line="38" column="19" />
         <mark key="." line="38" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/bs-api-error/src/service.ts" timestamp="1471259338369">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/bs-reformat/dist/queryFunctions/merge.js" timestamp="1444222007840">
         <mark key="[" line="38" column="16" />
         <mark key="]" line="38" column="15" />
@@ -1601,12 +1589,6 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/test/server/services/Signals/utils.js" timestamp="1471020449600">
-        <mark key="'" line="5" column="24" />
-        <mark key="[" line="1" column="57" />
-        <mark key="]" line="1" column="57" />
-        <mark key="." line="1" column="57" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/src/server/controllers/logout.ts" timestamp="1470075514311">
         <mark key="[" line="0" column="19" />
@@ -2273,12 +2255,6 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" timestamp="1471020473793">
-        <mark key="'" line="64" column="17" />
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="0" column="35" />
-      </file>
       <file name="$USER_HOME$/dev/bs-base-error/index.js" timestamp="1470935684711">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -2689,9 +2665,9 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-error/src/baseError.ts" timestamp="1471252673443">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="1" />
+      <file name="$USER_HOME$/dev/bs-api-error/src/baseError.ts" timestamp="1471258472999">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="34" />
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
@@ -3282,6 +3258,13 @@
       </file>
       <file name="colors/Monokai copy.icls" timestamp="1471250344429">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" timestamp="1471259184132">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="50" column="71" />
+        <mark key="]" line="50" column="70" />
+        <mark key="^" line="50" column="70" />
+        <mark key="." line="50" column="70" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-dashboards/gulp/tasks/fixtures.js" timestamp="1444241695055">
         <mark key="[" line="18" column="21" />
@@ -4112,12 +4095,6 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoQuery.js" timestamp="1471021314120">
-        <mark key="'" line="27" column="32" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/server/controllers/logout.js" timestamp="1469270587624">
         <mark key="[" line="0" column="34" />
         <mark key="]" line="0" column="34" />
@@ -4180,6 +4157,13 @@
         <mark key="]" line="11" column="31" />
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-api-error/src/rateLimits.spec.ts" timestamp="1471258831009">
+        <mark key="'" line="17" column="36" />
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+        <mark key="^" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/validateBody.js" timestamp="1469539416149">
         <mark key="'" line="3" column="25" />
@@ -4303,16 +4287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="49" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="58" column="17" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="76" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="13" column="47" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/searches/getMany.js" />
-      <jump line="14" column="6" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/searches/getMany.js" />
-      <jump line="68" column="49" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Auth/User/User.ts" />
-      <jump line="30" column="26" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Auth/User/User.ts" />
-      <jump line="22" column="8" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Auth/User/User.ts" />
-      <jump line="73" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Auth/User/User.ts" />
-      <jump line="8" column="50" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
       <jump line="19" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Nest/Clients/Clients.js" />
@@ -4403,49 +4377,59 @@
       <jump line="7" column="8" filename="$USER_HOME$/dev/bs-api-error/src/links.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/bs-api-error/src/links.ts" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/bs-api-error/src/links.ts" />
+      <jump line="6" column="5" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
+      <jump line="24" column="4" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
+      <jump line="18" column="32" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
+      <jump line="28" column="3" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
+      <jump line="44" column="42" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
+      <jump line="56" column="25" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
+      <jump line="4" column="13" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
+      <jump line="72" column="0" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
+      <jump line="17" column="36" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaHR0cC5nZXQoQ09ORklHLnBhdGggKyAnL2FwaS92MS92ZXJzaW9uJykudGhlbihmdW5jdGlvbihkYXRhKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEgPSBkYXRhLmRhdGE7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmKGRhdGEuZW52ID09PSAnZGV2ZWxvcG1lbnQnIHx8ICFkYXRhLmVudikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3RybC52ZXJzaW9uID0gZGF0YS52ZXJzaW9uOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7</text>
+        <text encoding="base64">ID0gJ1Vua25vd24nOw==</text>
       </register>
       <register name="-" type="4">
-        <text>linkMaker.</text>
+        <text encoding="base64">ID0gJ1Vua25vd24nOw==</text>
       </register>
       <register name="/" type="4">
-        <text>basepath</text>
+        <text encoding="base64">XDxSYXRlTGltaXRFcnJvclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>{ [k: string]: string }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc3RhdHVzID0gNTA0Owo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaHR0cC5nZXQoQ09ORklHLnBhdGggKyAnL2FwaS92MS92ZXJzaW9uJykudGhlbihmdW5jdGlvbihkYXRhKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEgPSBkYXRhLmRhdGE7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmKGRhdGEuZW52ID09PSAnZGV2ZWxvcG1lbnQnIHx8ICFkYXRhLmVudikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3RybC52ZXJzaW9uID0gZGF0YS52ZXJzaW9uOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBzZXJ2aWNlOiBzdHJpbmcgPSAnVW5rbm93bic7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdHVzID0gNTA0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIExpbmtNYWtlciB7CiAgKG5hbWU6IHN0cmluZyk6IGFueTsKICBnZXRMaW5rczogKCkgPT4gUGF0aHM7CiAgc2V0TGlua3M6IChwYXRoczogUGF0aHMpID0+IFBhdGhzOwp9Cgo=</text>
+        <text encoding="base64">ICBzZXJ2aWNlOiBzdHJpbmcgPSAnVW5rbm93bic7CiAgbWVzc2FnZTogc3RyaW5nID0gJ1RoZSBzZXJ2ZXIgcmVjZWl2ZWQgYSB0aW1lb3V0IGV4Y2VwdGlvbnMgZnJvbSBhbiB1cHN0cmVhbSBzZXJ2ZXInCiAgcHJvcHMgPSBudWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKG1lc3NhZ2UsIHByb3BzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIExpbmtNYWtlciB7CiAgKG5hbWU6IHN0cmluZyk6IGFueTsKICBnZXRMaW5rczogKCkgPT4gUGF0aHM7CiAgc2V0TGlua3M6IChwYXRoczogUGF0aHMpID0+IFBhdGhzOwp9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihtZXNzYWdlOiBzdHJpbmcgPSAnTm90IEltcGxlbWVudGVkJywgcHJvcHMgPSB7fSkgewogICAgc3VwZXIobWVzc2FnZSwgcHJvcHMpOwogICAgdGhpcy5zdGF0dXMgPSA1MDE7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihtZXNzYWdlOiBzdHJpbmcgPSAnTm90IFBlcm1pdHRlZCcsIHByb3BzID0ge30pIHsKICAgIHN1cGVyKG1lc3NhZ2UsIHByb3BzKTsKICAgIHRoaXMuc3RhdHVzID0gNDAzOwogIH0K</text>
+        <text encoding="base64">ICAgIHN1cGVyKG1lc3NhZ2UsIHByb3BzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihtZXNzYWdlOiBzdHJpbmcgPSAnTm90IEZvdW5kJywgcHJvcHMgPSB7fSkgewogICAgc3VwZXIobWVzc2FnZSwgcHJvcHMpOwogICAgdGhpcy5zdGF0dXMgPSA0MDQ7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihtZXNzYWdlOiBzdHJpbmcgPSAnTm90IEFsbG93ZWQnLCBwcm9wcyA9IHt9KSB7CiAgICBzdXBlcihtZXNzYWdlLCBwcm9wcyk7CiAgICB0aGlzLnN0YXR1cyA9IDQwMzsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4455,9 +4439,9 @@
       </register>
     </registers>
     <search>
-      <last-search>basepath</last-search>
+      <last-search encoding="base64">XDxSYXRlTGltaXRFcnJvclw+</last-search>
       <last-offset />
-      <last-pattern>basepath</last-pattern>
+      <last-pattern encoding="base64">XDxSYXRlTGltaXRFcnJvclw+</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4465,8 +4449,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
-        <entry>Camp</entry>
         <entry>url</entry>
         <entry encoding="base64">XDxTZXJ2aWNlVGltZW91dEVycm9yXD4=</entry>
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
@@ -4485,6 +4467,8 @@
         <entry>message =</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry>basepath</entry>
+        <entry encoding="base64">XDxwcm9wc1w+</entry>
+        <entry encoding="base64">XDxSYXRlTGltaXRFcnJvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bs-raml-api/..\/..\/node_modules/bs-raml-api/RAML</entry>
@@ -4504,8 +4488,8 @@
         <entry>%s/message =/message: string =</entry>
         <entry>%s/props =/props: string =</entry>
         <entry>%s/props =/props: Props =</entry>
-        <entry>noh</entry>
         <entry>%s/message =/message: string =/gc</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -4568,6 +4552,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift pressed TAB</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
