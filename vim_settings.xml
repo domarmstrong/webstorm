@@ -1051,12 +1051,12 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471354820306">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="149" column="6" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471356982386">
+        <mark key="'" line="101" column="14" />
+        <mark key="[" line="68" column="47" />
+        <mark key="]" line="68" column="77" />
+        <mark key="." line="68" column="77" />
+        <mark key="^" line="68" column="77" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-router/README.md" timestamp="1464683719024">
         <mark key="[" line="0" column="5" />
@@ -4343,7 +4343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="17" filename="$USER_HOME$/dev/bs-api-error/src/service.ts" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
       <jump line="14" column="25" filename="$USER_HOME$/dev/bs-api-error/src/http.ts" />
       <jump line="4" column="11" filename="$USER_HOME$/dev/bs-api-error/package.json" />
@@ -4443,6 +4442,7 @@
       <jump line="27" column="41" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="102" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="135" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="101" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4452,7 +4452,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>campaign</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBpdCgnc2hvdWxkIHdvcmsgd2l0aCBwYXRocyBvZiB0aGUgc2FtZSBuYW1lIGFzIHJlZicsIGZ1bmN0aW9uICgpIHsKICAgICAgdmFyIGlucHV0ID0gcmVxdWlyZSgnLi9zY2hlbWFzL25vdGNpcmN1bGFybG9jYWxyZWYuanNvbicpOwogICAgICB2YXIgZXhwZWN0ZWQgPSByZXF1aXJlKCcuL3NjaGVtYXMvbm90Y2lyY3VsYXJsb2NhbHJlZi5leHBlY3RlZC5qc29uJyk7CgogICAgICB2YXIgc2NoZW1hID0gZGVyZWYoaW5wdXQpOwogICAgICBleHBlY3Qoc2NoZW1hKS50by5iZS5vazsKICAgICAgZXhwZWN0KHNjaGVtYSkudG8uZGVlcC5lcXVhbChleHBlY3RlZCk7CiAgICB9KTsK</text>
@@ -4495,9 +4495,9 @@
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>campaign</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>campaign</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4505,7 +4505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>api</entry>
         <entry encoding="base64">XDxjYlw+</entry>
         <entry>token</entry>
         <entry encoding="base64">XDx2ZXJpZnlcPg==</entry>
@@ -4525,6 +4524,7 @@
         <entry encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</entry>
         <entry>console</entry>
         <entry>console.log</entry>
+        <entry>campaign</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bs-raml-api/..\/..\/node_modules\/bs-raml-api\/RAML</entry>
