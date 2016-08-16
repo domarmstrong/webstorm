@@ -1051,8 +1051,8 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471356982386">
-        <mark key="'" line="101" column="14" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471360779272">
+        <mark key="'" line="63" column="9" />
         <mark key="[" line="68" column="47" />
         <mark key="]" line="68" column="77" />
         <mark key="." line="68" column="77" />
@@ -3778,6 +3778,10 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/config/defaults/constants.js" timestamp="1471361025366">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-middleware/src/middleware/annotations/controller.js" timestamp="1469450941021">
         <mark key="'" line="25" column="48" />
         <mark key="[" line="21" column="61" />
@@ -4343,7 +4347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
       <jump line="14" column="25" filename="$USER_HOME$/dev/bs-api-error/src/http.ts" />
       <jump line="4" column="11" filename="$USER_HOME$/dev/bs-api-error/package.json" />
       <jump line="16" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
@@ -4443,16 +4446,17 @@
       <jump line="102" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="135" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="101" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="63" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbml0b3IucXVlcmllcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e2af9106-33f6-4d7b-81fa-bba8096f6937</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>campaign</text>
+        <text encoding="base64">XDxtYXBCcmFuZEdyb3Vwc1RvQ2FtcGFpZ25zQW5kQ2xpZW50c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBpdCgnc2hvdWxkIHdvcmsgd2l0aCBwYXRocyBvZiB0aGUgc2FtZSBuYW1lIGFzIHJlZicsIGZ1bmN0aW9uICgpIHsKICAgICAgdmFyIGlucHV0ID0gcmVxdWlyZSgnLi9zY2hlbWFzL25vdGNpcmN1bGFybG9jYWxyZWYuanNvbicpOwogICAgICB2YXIgZXhwZWN0ZWQgPSByZXF1aXJlKCcuL3NjaGVtYXMvbm90Y2lyY3VsYXJsb2NhbHJlZi5leHBlY3RlZC5qc29uJyk7CgogICAgICB2YXIgc2NoZW1hID0gZGVyZWYoaW5wdXQpOwogICAgICBleHBlY3Qoc2NoZW1hKS50by5iZS5vazsKICAgICAgZXhwZWN0KHNjaGVtYSkudG8uZGVlcC5lcXVhbChleHBlY3RlZCk7CiAgICB9KTsK</text>
@@ -4495,17 +4499,16 @@
       </register>
     </registers>
     <search>
-      <last-search>campaign</last-search>
+      <last-search encoding="base64">XDxtYXBCcmFuZEdyb3Vwc1RvQ2FtcGFpZ25zQW5kQ2xpZW50c1w+</last-search>
       <last-offset />
-      <last-pattern>campaign</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBCcmFuZEdyb3Vwc1RvQ2FtcGFpZ25zQW5kQ2xpZW50c1w+</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYlw+</entry>
         <entry>token</entry>
         <entry encoding="base64">XDx2ZXJpZnlcPg==</entry>
         <entry encoding="base64">XDxfdmVyaWZ5XD4=</entry>
@@ -4525,6 +4528,7 @@
         <entry>console</entry>
         <entry>console.log</entry>
         <entry>campaign</entry>
+        <entry encoding="base64">XDxtYXBCcmFuZEdyb3Vwc1RvQ2FtcGFpZ25zQW5kQ2xpZW50c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bs-raml-api/..\/..\/node_modules\/bs-raml-api\/RAML</entry>
