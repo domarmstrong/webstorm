@@ -160,11 +160,12 @@
         <mark key="." line="37" column="110" />
         <mark key="^" line="37" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/index.js" timestamp="1471273005629">
-        <mark key="[" line="336" column="30" />
-        <mark key="]" line="336" column="30" />
-        <mark key="." line="336" column="30" />
-        <mark key="^" line="334" column="71" />
+      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/index.js" timestamp="1471339342252">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="332" column="6" />
+        <mark key="]" line="332" column="6" />
+        <mark key="." line="332" column="6" />
+        <mark key="^" line="332" column="41" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/middleware/pmxRequestMetrics.js" timestamp="1468332817191">
         <mark key="'" line="0" column="16" />
@@ -766,6 +767,12 @@
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-api/src/server.spec.js" timestamp="1471340292875">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/bs-datalib/src/cacheDecorator.js" timestamp="1443255066539">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="19" />
@@ -1086,6 +1093,12 @@
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-api/src/server.js" timestamp="1471340391525">
+        <mark key="[" line="127" column="49" />
+        <mark key="]" line="127" column="53" />
+        <mark key="^" line="127" column="53" />
+        <mark key="." line="127" column="53" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/controllers/analytics/data_library.js" timestamp="1467800597298">
         <mark key="'" line="47" column="0" />
@@ -1723,11 +1736,11 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/schemas/includesnullvalues.json" timestamp="1471272947782">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="4" column="11" />
+      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/schemas/includesnullvalues.json" timestamp="1471339462782">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" timestamp="1471010258598">
         <mark key="'" line="76" column="35" />
@@ -2531,6 +2544,13 @@
         <mark key="]" line="3553" column="0" />
         <mark key="^" line="3544" column="3" />
         <mark key="." line="3546" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" timestamp="1471339286588">
+        <mark key="'" line="236" column="0" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="236" column="33" />
       </file>
       <file name="$USER_HOME$/dev/doc-data-sdk/docs/user.md" timestamp="1469702541707">
         <mark key="'" line="26" column="24" />
@@ -3552,11 +3572,11 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/schemas/includesnullvalues.expected.json" timestamp="1471272941013">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="4" column="11" />
+      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/schemas/includesnullvalues.expected.json" timestamp="1471339442567">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/dev/samsungQuarterlyReport/socialgist.blogs.json" timestamp="1467712461667">
         <mark key="[" line="0" column="0" />
@@ -4314,34 +4334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="65" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="32" column="27" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="16" column="8" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="13" column="11" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="1" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="4" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="14" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
-      <jump line="28" column="18" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
-      <jump line="0" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
-      <jump line="11" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils/MongoController.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/index.js" />
-      <jump line="26" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="17" column="10" filename="$USER_HOME$/dev/bs-api-error/src/authentication.ts" />
-      <jump line="16" column="14" filename="$USER_HOME$/dev/bs-api-error/src/authentication.ts" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/bs-api-error/src/authentication.ts" />
-      <jump line="36" column="2" filename="$USER_HOME$/dev/bs-api-error/src/authentication.ts" />
-      <jump line="10" column="28" filename="$USER_HOME$/dev/bs-api-error/src/http.ts" />
-      <jump line="49" column="2" filename="$USER_HOME$/dev/bs-api-error/src/http.ts" />
-      <jump line="40" column="0" filename="$USER_HOME$/dev/bs-api-error/src/http.ts" />
-      <jump line="7" column="23" filename="$USER_HOME$/dev/bs-api-error/src/index.spec.ts" />
-      <jump line="11" column="21" filename="$USER_HOME$/dev/bs-api-error/src/index.spec.ts" />
-      <jump line="14" column="25" filename="$USER_HOME$/dev/bs-api-error/src/index.spec.ts" />
-      <jump line="7" column="8" filename="$USER_HOME$/dev/bs-api-error/src/links.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/bs-api-error/src/links.ts" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/bs-api-error/src/links.ts" />
       <jump line="6" column="5" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
@@ -4414,53 +4406,77 @@
       <jump line="28" column="9" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
       <jump line="49" column="27" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
       <jump line="55" column="8" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
+      <jump line="201" column="26" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="154" column="9" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="293" column="2" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="46" column="10" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="16" column="4" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="291" column="21" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="3" column="19" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="220" column="9" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="4" column="22" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="208" column="9" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="295" column="12" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="68" column="22" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="209" column="16" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="276" column="15" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="149" column="50" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="155" column="8" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="185" column="6" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="156" column="17" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="337" column="52" filename="$USER_HOME$/dev/json-schema-deref-sync/test/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/json-schema-deref-sync/test/index.js" />
+      <jump line="119" column="0" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="226" column="20" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="231" column="20" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="107" column="9" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="157" column="4" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="237" column="0" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>{ name: 'test', foo: 'a', bar: { $ref: '#/foo' } }</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2tlblw+</text>
+        <text encoding="base64">XDxjb25zb2xlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAidHlwaW5ncyI6ICJidWlsZC9pbmRleC5kLnRzIiwK</text>
+      <register name="0" type="4">
+        <text>{ name: 'test', foo: 'a', bar: { $ref: '#/foo' } }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uZmlnLnNlcnZlci5zZXJ2aWNlcy5jYWNoZU1hbmFnZXIgPSBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0ibW9kdWxlcy9icy1hcGktZXJyb3IvaW5kZXguZC50cyIgLz4K</text>
+        <text encoding="base64">ICAgIGZvbzogJ2EnLAogICAgYmFyOiB7ICRyZWY6ICcjL2ZvbycgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAidHlwaW5ncyI6ICJidWlsZC9pbmRleC5kLnRzIiwK</text>
+        <text encoding="base64">ICAgIGl0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAidmVyc2lvbiI6ICIxLjAuMCIsCg==</text>
+        <text encoding="base64">ICAgICJvdGhlclRpdGxlIjogIm9iamVjdCB3aXRoIG51bGwgdmFsdWVzIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiYXV0aG9yIjogIiIsCiAgImxpY2Vuc2UiOiAiSVNDIiwK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoc2NoZW1hLCBudWxsLCAyKSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-      &quot;$ref&quot;: &quot;#/title&quot;
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLicsIGFjYywgbm9kZSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-      &quot;$ref&quot;: &quot;#/isNull&quot;
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCcuLi4nLCBuZXdWYWx1ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiZGVmaW5pdGlvbnMiOiB7CiAgICAiZjEiOiB7CiAgICAgICIkcmVmIjogImZvbGRlcjEvd2l0aGluZjEuanNvbiIKICAgIH0sCiAgICAic29tZU5lc3RlZFByb3AiIDogewogICAgICAiJHJlZiI6ICJmb2xkZXIxL21vcmUvbW9yZS5qc29uIy9kZWZpbml0aW9ucy9wbHVzT25lIgogICAgfQogIH0sCg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgIiRyZWYiOiAiIy9pc0ZhbHNlIgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4470,26 +4486,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2tlblw+</last-search>
+      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2tlblw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbmRleFw+</entry>
-        <entry>basepath</entry>
-        <entry encoding="base64">XDxwcm9wc1w+</entry>
-        <entry encoding="base64">XDxSYXRlTGltaXRFcnJvclw+</entry>
-        <entry encoding="base64">XDxsaWJcPg==</entry>
-        <entry>build</entry>
-        <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
-        <entry encoding="base64">XDxnZXRNb2RlbFw+</entry>
-        <entry encoding="base64">XDxqc3JlZlw+</entry>
-        <entry encoding="base64">XDxfY29uZmlnXD4=</entry>
         <entry encoding="base64">XDxfaW5pdGlhbGl6ZUNvbmZpZ1w+</entry>
         <entry encoding="base64">XDxudWxsXD4=</entry>
         <entry>node.$ref</entry>
@@ -4500,6 +4506,16 @@
         <entry encoding="base64">XDx2ZXJpZnlcPg==</entry>
         <entry encoding="base64">XDxfdmVyaWZ5XD4=</entry>
         <entry encoding="base64">XDx0b2tlblw+</entry>
+        <entry encoding="base64">XDxjYWNoZVw+</entry>
+        <entry encoding="base64">XDxjbG9uZVw+</entry>
+        <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
+        <entry encoding="base64">XDxkZXJlZlNjaGVtYVw+</entry>
+        <entry encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</entry>
+        <entry encoding="base64">XDxEQUdcPg==</entry>
+        <entry encoding="base64">XDxkYWdcPg==</entry>
+        <entry encoding="base64">XDx0cmF2ZXJzZVw+</entry>
+        <entry encoding="base64">XDxhZGRUb0hpc3RvcnlcPg==</entry>
+        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bs-raml-api/..\/..\/node_modules/bs-raml-api/RAML</entry>
