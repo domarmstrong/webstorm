@@ -1361,6 +1361,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="15" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/node_modules/bs-api-error/build/baseError.js" timestamp="1471280504928">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/data-api-server/weather.raml" timestamp="1467820003845">
         <mark key="'" line="101" column="36" />
         <mark key="[" line="34" column="18" />
@@ -2187,13 +2193,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="10" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-api-error/package.json" timestamp="1471274264170">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="23" column="60" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/test/lib/expandTypeExpressions.js" timestamp="1465579328359">
         <mark key="[" line="13" column="8" />
@@ -4477,7 +4476,7 @@
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
