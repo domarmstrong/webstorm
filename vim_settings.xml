@@ -2126,10 +2126,9 @@
         <mark key="^" line="13" column="2" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/package.json" timestamp="1471346328331">
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="58" column="26" />
-        <mark key="." line="58" column="26" />
-        <mark key="^" line="20" column="34" />
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/server/services/Auth/utils.ts" timestamp="1469903016484">
         <mark key="[" line="0" column="7" />
