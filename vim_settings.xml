@@ -160,11 +160,11 @@
         <mark key="." line="37" column="110" />
         <mark key="^" line="37" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/index.js" timestamp="1471342507492">
+      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/index.js" timestamp="1471343514163">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="332" column="0" />
-        <mark key="]" line="332" column="0" />
-        <mark key="." line="332" column="0" />
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="349" column="5" />
+        <mark key="." line="341" column="0" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/middleware/pmxRequestMetrics.js" timestamp="1468332817191">
         <mark key="'" line="0" column="16" />
@@ -231,12 +231,12 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" timestamp="1471274496252">
-        <mark key="'" line="130" column="22" />
-        <mark key="[" line="36" column="6" />
-        <mark key="]" line="55" column="35" />
-        <mark key="." line="36" column="16" />
-        <mark key="^" line="55" column="35" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" timestamp="1471343685892">
+        <mark key="'" line="136" column="21" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="46" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="185" column="13" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-brain/package.json" timestamp="1469550620318">
         <mark key="[" line="1" column="24" />
@@ -766,11 +766,10 @@
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/server.spec.js" timestamp="1471340292875">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="11" column="31" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/server.spec.js" timestamp="1471344537689">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-datalib/src/cacheDecorator.js" timestamp="1443255066539">
         <mark key="[" line="5" column="9" />
@@ -1093,11 +1092,11 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/server.js" timestamp="1471340391525">
-        <mark key="[" line="127" column="49" />
-        <mark key="]" line="127" column="53" />
-        <mark key="^" line="127" column="53" />
-        <mark key="." line="127" column="53" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/server.js" timestamp="1471344718003">
+        <mark key="[" line="127" column="37" />
+        <mark key="]" line="127" column="37" />
+        <mark key="." line="127" column="37" />
+        <mark key="^" line="129" column="35" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/controllers/analytics/data_library.js" timestamp="1467800597298">
         <mark key="'" line="47" column="0" />
@@ -2556,8 +2555,8 @@
         <mark key="^" line="3544" column="3" />
         <mark key="." line="3546" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" timestamp="1471342365889">
-        <mark key="'" line="154" column="36" />
+      <file name="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" timestamp="1471345144166">
+        <mark key="'" line="154" column="9" />
         <mark key="[" line="190" column="28" />
         <mark key="]" line="190" column="28" />
         <mark key="." line="190" column="28" />
@@ -4351,13 +4350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/dev/bs-api-error/src/links.ts" />
-      <jump line="6" column="5" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
-      <jump line="24" column="4" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
-      <jump line="28" column="3" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
-      <jump line="44" column="42" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
-      <jump line="56" column="25" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
-      <jump line="4" column="13" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
       <jump line="72" column="0" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
       <jump line="17" column="36" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.spec.ts" />
@@ -4439,7 +4431,6 @@
       <jump line="5" column="7" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="149" column="50" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="155" column="8" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
-      <jump line="185" column="6" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="156" column="17" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="337" column="52" filename="$USER_HOME$/dev/json-schema-deref-sync/test/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/json-schema-deref-sync/test/index.js" />
@@ -4450,50 +4441,58 @@
       <jump line="157" column="4" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="237" column="0" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="19" column="4" filename="$USER_HOME$/dev/json-schema-deref-sync/test/schemas/circularlocalref.expected.json" />
-      <jump line="154" column="36" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="115" column="21" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
+      <jump line="135" column="21" filename="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" />
+      <jump line="185" column="29" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="214" column="12" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="215" column="57" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="227" column="14" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="228" column="14" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="124" column="43" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
+      <jump line="154" column="9" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgd29yayB3aXRoIGZhbHN5IHZhbHVlcyBpbiBzY2hlbWEnLCBmdW5jdGlvbiAoKSB7CiAgICAgIHZhciBpbnB1dCA9IHJlcXVpcmUoJy4vc2NoZW1hcy9pbmNsdWRlc251bGx2YWx1ZXMuanNvbicpOwogICAgICB2YXIgZXhwZWN0ZWQgPSByZXF1aXJlKCcuL3NjaGVtYXMvaW5jbHVkZXNudWxsdmFsdWVzLmV4cGVjdGVkLmpzb24nKTsKCiAgICAgIHZhciBzY2hlbWEgPSBkZXJlZihpbnB1dCk7CiAgICAgIGV4cGVjdChzY2hlbWEpLnRvLmJlLm9rOwogICAgICBleHBlY3Qoc2NoZW1hKS50by5kZWVwLmVxdWFsKGV4cGVjdGVkKTsKICAgIH0pOwoK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>conso</text>
+        <text encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAicHJvcGVydGllcyI6IHsKICAgICJmb28iOiB7CiAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvYmFyIgogICAgfSwKICAgICJiYXIiOiB7CiAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvZm9vIgogICAgfQogIH0K</text>
+        <text encoding="base64">CiAgICBpdCgnc2hvdWxkIHdvcmsgd2l0aCBwYXRocyBvZiB0aGUgc2FtZSBuYW1lIGFzIHJlZicsIGZ1bmN0aW9uICgpIHsKICAgICAgdmFyIGlucHV0ID0gcmVxdWlyZSgnLi9zY2hlbWFzL25vdGNpcmN1bGFybG9jYWxyZWYuanNvbicpOwogICAgICB2YXIgZXhwZWN0ZWQgPSByZXF1aXJlKCcuL3NjaGVtYXMvbm90Y2lyY3VsYXJsb2NhbHJlZi5leHBlY3RlZC5qc29uJyk7CgogICAgICB2YXIgc2NoZW1hID0gZGVyZWYoaW5wdXQpOwogICAgICBleHBlY3Qoc2NoZW1hKS50by5iZS5vazsKICAgICAgZXhwZWN0KHNjaGVtYSkudG8uZGVlcC5lcXVhbChleHBlY3RlZCk7CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgd29yayB3aXRoIGZhbHN5IHZhbHVlcyBpbiBzY2hlbWEnLCBmdW5jdGlvbiAoKSB7CiAgICAgIHZhciBpbnB1dCA9IHJlcXVpcmUoJy4vc2NoZW1hcy9pbmNsdWRlc251bGx2YWx1ZXMuanNvbicpOwogICAgICB2YXIgZXhwZWN0ZWQgPSByZXF1aXJlKCcuL3NjaGVtYXMvaW5jbHVkZXNudWxsdmFsdWVzLmV4cGVjdGVkLmpzb24nKTsKCiAgICAgIHZhciBzY2hlbWEgPSBkZXJlZihpbnB1dCk7CiAgICAgIGV4cGVjdChzY2hlbWEpLnRvLmJlLm9rOwogICAgICBleHBlY3Qoc2NoZW1hKS50by5kZWVwLmVxdWFsKGV4cGVjdGVkKTsKICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBjb25maWcuc2VydmljZXMubG9nOwogICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoY29uZmlnLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgd29yayB3aXRoIGZhbHN5IHZhbHVlcyBpbiBzY2hlbWEnLCBmdW5jdGlvbiAoKSB7CiAgICAgIHZhciBpbnB1dCA9IHJlcXVpcmUoJy4vc2NoZW1hcy9pbmNsdWRlc251bGx2YWx1ZXMuanNvbicpOwogICAgICB2YXIgZXhwZWN0ZWQgPSByZXF1aXJlKCcuL3NjaGVtYXMvaW5jbHVkZXNudWxsdmFsdWVzLmV4cGVjdGVkLmpzb24nKTsKCiAgICAgIHZhciBzY2hlbWEgPSBkZXJlZihpbnB1dCk7CiAgICAgIGV4cGVjdChzY2hlbWEpLnRvLmJlLm9rOwogICAgICBleHBlY3Qoc2NoZW1hKS50by5kZWVwLmVxdWFsKGV4cGVjdGVkKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSB0aGlzLmNvbmZpZy5zZXJ2aWNlcy5sb2c7CiAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh0aGlzLmNvbmZpZywgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3Q6IG51bGwsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2NhbHMpOwo=</text>
+        <text encoding="base64">ICAgIGxldCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgInRpdGxlIjogewogICAgICAgICIkcmVmIjogIiMvdGl0bGUiCiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGRlYnVnU3RyZWFtIGZyb20gJ2J1bnlhbi1kZWJ1Zy1zdHJlYW0nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jb25maWcuc2VydmljZXMubG9nLmJ1bnlhbi5zZXJpYWxpemVycyA9IGRlYnVnU3RyZWFtLnNlcmlhbGl6ZXJzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIiRyZWYiOiAiIy9kZWZpbml0aW9ucy9iYXIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJiYXIiOiB7CiAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvZm9vIgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGxldmVsOiAnaW5mbycsCiAgICAgICAgdHlwZTogJ3JhdycsCiAgICAgICAgc3RyZWFtOiBkZWJ1Z1N0cmVhbSh7IGJhc2VwYXRoOiBwcm9jZXNzLmN3ZCgpLCBmb3JjZUNvbG9yOiB0cnVlIH0pLAogICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiY3VzdG9tIjogewogICAgImxvZyI6IHsKICAgICAgInRpdGxlIjogIkJhc2ljIE9iamVjdCIKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBodHRwczovL2dpdGh1Yi5jb20vQmlnc3RpY2tDYXJwZXQvanNvbi1zY2hlbWEtcmVmLXBhcnNlci9pc3N1ZXMvMjMK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4503,9 +4502,9 @@
       </register>
     </registers>
     <search>
-      <last-search>conso</last-search>
+      <last-search encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</last-search>
       <last-offset />
-      <last-pattern>conso</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4513,7 +4512,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxudWxsXD4=</entry>
         <entry>node.$ref</entry>
         <entry>live</entry>
         <entry>api</entry>
@@ -4526,13 +4524,14 @@
         <entry encoding="base64">XDxjbG9uZVw+</entry>
         <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
         <entry encoding="base64">XDxkZXJlZlNjaGVtYVw+</entry>
-        <entry encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</entry>
         <entry encoding="base64">XDxEQUdcPg==</entry>
         <entry encoding="base64">XDxkYWdcPg==</entry>
         <entry encoding="base64">XDx0cmF2ZXJzZVw+</entry>
         <entry encoding="base64">XDxhZGRUb0hpc3RvcnlcPg==</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry>conso</entry>
+        <entry>circ</entry>
+        <entry encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bs-raml-api/..\/..\/node_modules/bs-raml-api/RAML</entry>
