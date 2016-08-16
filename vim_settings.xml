@@ -2125,10 +2125,10 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/package.json" timestamp="1470750246991">
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
+      <file name="$USER_HOME$/dev/bs-raml-api/package.json" timestamp="1471346328331">
+        <mark key="[" line="58" column="25" />
+        <mark key="]" line="58" column="26" />
+        <mark key="." line="58" column="26" />
         <mark key="^" line="20" column="34" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/server/services/Auth/utils.ts" timestamp="1469903016484">
@@ -4488,7 +4488,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -4524,7 +4524,6 @@
         <entry encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/bs-raml-api/..\/..\/node_modules/bs-raml-api/RAML</entry>
         <entry>%s/bs-raml-api/..\/..\/node_modules\/bs-raml-api\/RAML</entry>
         <entry>2w</entry>
         <entry>Pw</entry>
@@ -4544,6 +4543,7 @@
         <entry encoding="base64">JzwsJz5zb3I=</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
