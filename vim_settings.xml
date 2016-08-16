@@ -1051,12 +1051,12 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471271065175">
-        <mark key="'" line="205" column="4" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="6" />
-        <mark key="." line="150" column="6" />
-        <mark key="^" line="150" column="6" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471354820306">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="149" column="6" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-router/README.md" timestamp="1464683719024">
         <mark key="[" line="0" column="5" />
@@ -4019,12 +4019,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/database.js" timestamp="1471271866630">
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/database.js" timestamp="1471354768931">
         <mark key="'" line="1" column="23" />
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="5" column="26" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/loopback-test/server/config.json" timestamp="1454184474908">
         <mark key="[" line="26" column="2" />
@@ -4344,9 +4343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
-      <jump line="17" column="36" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.spec.ts" />
       <jump line="27" column="17" filename="$USER_HOME$/dev/bs-api-error/src/service.ts" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
       <jump line="14" column="25" filename="$USER_HOME$/dev/bs-api-error/src/http.ts" />
@@ -4444,49 +4440,52 @@
       <jump line="228" column="14" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="124" column="43" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
       <jump line="154" column="9" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="27" column="41" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="102" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbml0b3IucXVlcmllcyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBpdCgnc2hvdWxkIHdvcmsgd2l0aCBwYXRocyBvZiB0aGUgc2FtZSBuYW1lIGFzIHJlZicsIGZ1bmN0aW9uICgpIHsKICAgICAgdmFyIGlucHV0ID0gcmVxdWlyZSgnLi9zY2hlbWFzL25vdGNpcmN1bGFybG9jYWxyZWYuanNvbicpOwogICAgICB2YXIgZXhwZWN0ZWQgPSByZXF1aXJlKCcuL3NjaGVtYXMvbm90Y2lyY3VsYXJsb2NhbHJlZi5leHBlY3RlZC5qc29uJyk7CgogICAgICB2YXIgc2NoZW1hID0gZGVyZWYoaW5wdXQpOwogICAgICBleHBlY3Qoc2NoZW1hKS50by5iZS5vazsKICAgICAgZXhwZWN0KHNjaGVtYSkudG8uZGVlcC5lcXVhbChleHBlY3RlZCk7CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBjb25maWcuc2VydmljZXMubG9nOwogICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoY29uZmlnLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbml0b3IucXVlcmllcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSB0aGlzLmNvbmZpZy5zZXJ2aWNlcy5sb2c7CiAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh0aGlzLmNvbmZpZywgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coc2VydmVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3Q6IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBjb25maWcuc2VydmljZXMubG9nOwogICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoY29uZmlnLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCAK</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSB0aGlzLmNvbmZpZy5zZXJ2aWNlcy5sb2c7CiAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh0aGlzLmNvbmZpZywgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRlYnVnU3RyZWFtIGZyb20gJ2J1bnlhbi1kZWJ1Zy1zdHJlYW0nOwo=</text>
+        <text encoding="base64">ICAgIHJlc3Q6IG51bGwsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jb25maWcuc2VydmljZXMubG9nLmJ1bnlhbi5zZXJpYWxpemVycyA9IGRlYnVnU3RyZWFtLnNlcmlhbGl6ZXJzOwo=</text>
+        <text encoding="base64">ICAgIGxldCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlYnVnU3RyZWFtIGZyb20gJ2J1bnlhbi1kZWJ1Zy1zdHJlYW0nOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGxldmVsOiAnaW5mbycsCiAgICAgICAgdHlwZTogJ3JhdycsCiAgICAgICAgc3RyZWFtOiBkZWJ1Z1N0cmVhbSh7IGJhc2VwYXRoOiBwcm9jZXNzLmN3ZCgpLCBmb3JjZUNvbG9yOiB0cnVlIH0pLAogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jb25maWcuc2VydmljZXMubG9nLmJ1bnlhbi5zZXJpYWxpemVycyA9IGRlYnVnU3RyZWFtLnNlcmlhbGl6ZXJzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBodHRwczovL2dpdGh1Yi5jb20vQmlnc3RpY2tDYXJwZXQvanNvbi1zY2hlbWEtcmVmLXBhcnNlci9pc3N1ZXMvMjMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4496,9 +4495,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4506,8 +4505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>node.$ref</entry>
-        <entry>live</entry>
         <entry>api</entry>
         <entry encoding="base64">XDxjYlw+</entry>
         <entry>token</entry>
@@ -4526,6 +4523,8 @@
         <entry>conso</entry>
         <entry>circ</entry>
         <entry encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</entry>
+        <entry>console</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bs-raml-api/..\/..\/node_modules\/bs-raml-api\/RAML</entry>
