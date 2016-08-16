@@ -160,12 +160,11 @@
         <mark key="." line="37" column="110" />
         <mark key="^" line="37" column="110" />
       </file>
-      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/index.js" timestamp="1471339342252">
+      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/index.js" timestamp="1471342507492">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="332" column="6" />
-        <mark key="]" line="332" column="6" />
-        <mark key="." line="332" column="6" />
-        <mark key="^" line="332" column="41" />
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="332" column="0" />
+        <mark key="." line="332" column="0" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/middleware/pmxRequestMetrics.js" timestamp="1468332817191">
         <mark key="'" line="0" column="16" />
@@ -1380,6 +1379,12 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/schemas/circularlocalref.expected.json" timestamp="1471342269401">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="19" column="2" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/data-api-server/weather.raml" timestamp="1467820003845">
         <mark key="'" line="101" column="36" />
         <mark key="[" line="34" column="18" />
@@ -2157,6 +2162,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="4" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/schemas/notcircularlocalref.expected.json" timestamp="1471342348352">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/doc-data-sdk/docs/overview/rate-limits.md" timestamp="1469701687873">
         <mark key="[" line="39" column="6" />
         <mark key="]" line="39" column="10" />
@@ -2545,12 +2556,12 @@
         <mark key="^" line="3544" column="3" />
         <mark key="." line="3546" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" timestamp="1471339286588">
-        <mark key="'" line="236" column="0" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-        <mark key="^" line="236" column="33" />
+      <file name="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" timestamp="1471342365889">
+        <mark key="'" line="154" column="36" />
+        <mark key="[" line="190" column="28" />
+        <mark key="]" line="190" column="28" />
+        <mark key="." line="190" column="28" />
+        <mark key="^" line="193" column="28" />
       </file>
       <file name="$USER_HOME$/dev/doc-data-sdk/docs/user.md" timestamp="1469702541707">
         <mark key="'" line="26" column="24" />
@@ -3820,6 +3831,12 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/json-schema-deref-sync/test/schemas/notcircularlocalref.json" timestamp="1471342336096">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/dataSchemas/UserUpdate.raml" timestamp="1469803560428">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="16" />
@@ -4334,7 +4351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/bs-api-error/src/links.ts" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/bs-api-error/src/links.ts" />
       <jump line="6" column="5" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
       <jump line="24" column="4" filename="$USER_HOME$/dev/bs-api-error/src/rateLimits.ts" />
@@ -4407,7 +4423,6 @@
       <jump line="49" column="27" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
       <jump line="55" column="8" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
       <jump line="201" column="26" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
-      <jump line="154" column="9" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="293" column="2" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="46" column="10" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="16" column="4" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
@@ -4434,49 +4449,51 @@
       <jump line="107" column="9" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="157" column="4" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="237" column="0" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/dev/json-schema-deref-sync/test/schemas/circularlocalref.expected.json" />
+      <jump line="154" column="36" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgd29yayB3aXRoIGZhbHN5IHZhbHVlcyBpbiBzY2hlbWEnLCBmdW5jdGlvbiAoKSB7CiAgICAgIHZhciBpbnB1dCA9IHJlcXVpcmUoJy4vc2NoZW1hcy9pbmNsdWRlc251bGx2YWx1ZXMuanNvbicpOwogICAgICB2YXIgZXhwZWN0ZWQgPSByZXF1aXJlKCcuL3NjaGVtYXMvaW5jbHVkZXNudWxsdmFsdWVzLmV4cGVjdGVkLmpzb24nKTsKCiAgICAgIHZhciBzY2hlbWEgPSBkZXJlZihpbnB1dCk7CiAgICAgIGV4cGVjdChzY2hlbWEpLnRvLmJlLm9rOwogICAgICBleHBlY3Qoc2NoZW1hKS50by5kZWVwLmVxdWFsKGV4cGVjdGVkKTsKICAgIH0pOwoK</text>
       </register>
       <register name="-" type="4">
-        <text>{ name: 'test', foo: 'a', bar: { $ref: '#/foo' } }</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zb2xlXD4=</text>
+        <text>conso</text>
       </register>
-      <register name="0" type="4">
-        <text>{ name: 'test', foo: 'a', bar: { $ref: '#/foo' } }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAicHJvcGVydGllcyI6IHsKICAgICJmb28iOiB7CiAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvYmFyIgogICAgfSwKICAgICJiYXIiOiB7CiAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvZm9vIgogICAgfQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgd29yayB3aXRoIGZhbHN5IHZhbHVlcyBpbiBzY2hlbWEnLCBmdW5jdGlvbiAoKSB7CiAgICAgIHZhciBpbnB1dCA9IHJlcXVpcmUoJy4vc2NoZW1hcy9pbmNsdWRlc251bGx2YWx1ZXMuanNvbicpOwogICAgICB2YXIgZXhwZWN0ZWQgPSByZXF1aXJlKCcuL3NjaGVtYXMvaW5jbHVkZXNudWxsdmFsdWVzLmV4cGVjdGVkLmpzb24nKTsKCiAgICAgIHZhciBzY2hlbWEgPSBkZXJlZihpbnB1dCk7CiAgICAgIGV4cGVjdChzY2hlbWEpLnRvLmJlLm9rOwogICAgICBleHBlY3Qoc2NoZW1hKS50by5kZWVwLmVxdWFsKGV4cGVjdGVkKTsKICAgIH0pOwoK</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvbzogJ2EnLAogICAgYmFyOiB7ICRyZWY6ICcjL2ZvbycgfSwK</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgd29yayB3aXRoIGZhbHN5IHZhbHVlcyBpbiBzY2hlbWEnLCBmdW5jdGlvbiAoKSB7CiAgICAgIHZhciBpbnB1dCA9IHJlcXVpcmUoJy4vc2NoZW1hcy9pbmNsdWRlc251bGx2YWx1ZXMuanNvbicpOwogICAgICB2YXIgZXhwZWN0ZWQgPSByZXF1aXJlKCcuL3NjaGVtYXMvaW5jbHVkZXNudWxsdmFsdWVzLmV4cGVjdGVkLmpzb24nKTsKCiAgICAgIHZhciBzY2hlbWEgPSBkZXJlZihpbnB1dCk7CiAgICAgIGV4cGVjdChzY2hlbWEpLnRvLmJlLm9rOwogICAgICBleHBlY3Qoc2NoZW1hKS50by5kZWVwLmVxdWFsKGV4cGVjdGVkKTsKICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGl0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJvdGhlclRpdGxlIjogIm9iamVjdCB3aXRoIG51bGwgdmFsdWVzIgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2NhbHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoc2NoZW1hLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgInRpdGxlIjogewogICAgICAgICIkcmVmIjogIiMvdGl0bGUiCiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLicsIGFjYywgbm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCcuLi4nLCBuZXdWYWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgIiRyZWYiOiAiIy9kZWZpbml0aW9ucy9iYXIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICJiYXIiOiB7CiAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvZm9vIgogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIiRyZWYiOiAiIy9pc0ZhbHNlIgo=</text>
+        <text encoding="base64">ICAiY3VzdG9tIjogewogICAgImxvZyI6IHsKICAgICAgInRpdGxlIjogIkJhc2ljIE9iamVjdCIKICAgIH0KICB9Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4486,9 +4503,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
+      <last-search>conso</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
+      <last-pattern>conso</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4496,7 +4513,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfaW5pdGlhbGl6ZUNvbmZpZ1w+</entry>
         <entry encoding="base64">XDxudWxsXD4=</entry>
         <entry>node.$ref</entry>
         <entry>live</entry>
@@ -4516,6 +4532,7 @@
         <entry encoding="base64">XDx0cmF2ZXJzZVw+</entry>
         <entry encoding="base64">XDxhZGRUb0hpc3RvcnlcPg==</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry>conso</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bs-raml-api/..\/..\/node_modules/bs-raml-api/RAML</entry>
