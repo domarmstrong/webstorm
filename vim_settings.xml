@@ -232,11 +232,7 @@
         <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" timestamp="1471343685892">
-        <mark key="'" line="136" column="21" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="185" column="13" />
+        <mark key="'" line="135" column="21" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-brain/package.json" timestamp="1469550620318">
         <mark key="[" line="1" column="24" />
@@ -1091,12 +1087,6 @@
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/server.js" timestamp="1471344718003">
-        <mark key="[" line="127" column="37" />
-        <mark key="]" line="127" column="37" />
-        <mark key="." line="127" column="37" />
-        <mark key="^" line="129" column="35" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/controllers/analytics/data_library.js" timestamp="1467800597298">
         <mark key="'" line="47" column="0" />
