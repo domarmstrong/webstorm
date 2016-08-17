@@ -1057,12 +1057,12 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471422754447">
-        <mark key="'" line="189" column="19" />
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="30" />
-        <mark key="^" line="37" column="30" />
-        <mark key="." line="37" column="30" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" timestamp="1471429850727">
+        <mark key="'" line="190" column="19" />
+        <mark key="[" line="192" column="25" />
+        <mark key="]" line="192" column="34" />
+        <mark key="." line="192" column="34" />
+        <mark key="^" line="192" column="34" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-router/README.md" timestamp="1464683719024">
         <mark key="[" line="0" column="5" />
@@ -2134,8 +2134,6 @@
         <mark key="^" line="13" column="2" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/package.json" timestamp="1471420171080">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="14" column="3" />
         <mark key="." line="2" column="26" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/server/services/Auth/utils.ts" timestamp="1469903016484">
@@ -3535,12 +3533,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="11" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" timestamp="1471270875505">
-        <mark key="'" line="32" column="5" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="31" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" timestamp="1471429808635">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="20" column="50" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-middleware/src/middleware/annotations/rate-limited.js" timestamp="1469111628973">
         <mark key="'" line="51" column="0" />
@@ -4195,8 +4193,8 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" timestamp="1471422535212">
-        <mark key="'" line="24" column="21" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" timestamp="1471429163542">
+        <mark key="'" line="33" column="0" />
         <mark key="[" line="50" column="18" />
         <mark key="]" line="50" column="22" />
         <mark key="." line="50" column="22" />
@@ -4356,12 +4354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="29" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
-      <jump line="10" column="29" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
-      <jump line="13" column="30" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
-      <jump line="16" column="34" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
-      <jump line="64" column="24" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
-      <jump line="31" column="36" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/passport-bs-nest/lib/Strategy.js" />
       <jump line="22" column="76" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
       <jump line="48" column="43" filename="$USER_HOME$/dev/app-nest-samsung-trends/node_modules/bs-middleware-passport-nest/index.js" />
@@ -4456,49 +4448,55 @@
       <jump line="16" column="21" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
       <jump line="24" column="21" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
       <jump line="6" column="39" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
+      <jump line="17" column="43" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
+      <jump line="24" column="18" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
+      <jump line="29" column="18" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TGVnYWN5IG1vbml0b3IgZm9ybWF0IGhhcyBjbGllbnQgbm90IA==</text>
+        <text>remoteIds</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGVnYWN5IG1vbml0b3IgZm9ybWF0IGhhcyBjbGllbnQgbm90IA==</text>
+        <text>remoteIds</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text encoding="base64">XDxleGlzdGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC5tYXAobW9uaXRvciA9PiBtYXBEYXRhU291cmNlSWRUb05hbWUobW9uaXRvciwgZGF0YVNvdXJjZXMpKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVtb3RlJywgcmVtb3RlSWRzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW1zLCBwYWdpbmF0aW9uKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlCg==</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5tYXAobW9uaXRvciA9PiB0b0NhbWVsQ2FzZShtb25pdG9yKSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhNb25pdG9ycy5nZXRNb2RlbCgpLmZpbmQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyAK</text>
+        <text encoding="base64">ICBsZXQgc3RhdGUgPSB7CiAgICBleGlzdGluZzogbnVsbCwKICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWxldGUgaXRlbS5faWQ7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlLmV4aXN0aW5nID0gWwogICAgICB7IGlkOiAnYScgfSwKICAgICAgeyBpZDogJ2UnIH0sCiAgICAgIHsgaWQ6ICdjJyB9LAogICAgICB7IGlkOiAnZCcgfSwKICAgIF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAid2F0Y2giOiB7CiAgICAiYnVpbGQiOiB7CiAgICAgICJwYXR0ZXJucyI6IFsKICAgICAgICAic3JjIgogICAgICBdCiAgICB9CiAgfSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE1vbml0b3JNb2RlbC5maW5kKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLi4nLCB0aGlzLm1vZGVsLmZpbmQoLi4uYXJncykpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhleGlzdGluZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW1zLCBwYWdpbmF0aW9uKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQsIHBhZ2luYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgIC5tYXAobW9uaXRvciA9PiB0b0NhbWVsQ2FzZShtb25pdG9yKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCwgY291bnQpOwo=</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4508,18 +4506,16 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search encoding="base64">XDxleGlzdGluZ1w+</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern encoding="base64">XDxleGlzdGluZ1w+</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>conso</entry>
-        <entry>circ</entry>
         <entry encoding="base64">XDxjaGVja0xvY2FsQ2lyY3VsYXJcPg==</entry>
         <entry>console.log</entry>
         <entry>campaign</entry>
@@ -4538,6 +4534,8 @@
         <entry encoding="base64">XDxjcmVhdGVGaWx0ZXJRdWVyeVw+</entry>
         <entry encoding="base64">XDxtYXBGaWVsZHNcPg==</entry>
         <entry>console</entry>
+        <entry>length</entry>
+        <entry encoding="base64">XDxleGlzdGluZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
