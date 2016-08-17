@@ -2258,11 +2258,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" timestamp="1471439703907">
-        <mark key="[" line="65" column="71" />
-        <mark key="]" line="65" column="83" />
-        <mark key="." line="65" column="83" />
-        <mark key="^" line="65" column="83" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" timestamp="1471440549289">
+        <mark key="'" line="65" column="30" />
+        <mark key="[" line="65" column="35" />
+        <mark key="]" line="65" column="35" />
+        <mark key="." line="65" column="37" />
+        <mark key="^" line="48" column="32" />
       </file>
       <file name="$USER_HOME$/dev/bs-base-error/index.js" timestamp="1470935684711">
         <mark key="[" line="32" column="0" />
@@ -3190,12 +3191,12 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" timestamp="1471439392839">
-        <mark key="'" line="188" column="20" />
-        <mark key="[" line="190" column="62" />
-        <mark key="]" line="190" column="65" />
-        <mark key="." line="190" column="65" />
-        <mark key="^" line="190" column="65" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" timestamp="1471440568128">
+        <mark key="'" line="187" column="16" />
+        <mark key="[" line="188" column="16" />
+        <mark key="]" line="188" column="16" />
+        <mark key="." line="188" column="20" />
+        <mark key="^" line="187" column="16" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-error/src/spec_helpers/helpers.ts" timestamp="1471260459344">
         <mark key="[" line="22" column="60" />
@@ -3656,12 +3657,12 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" timestamp="1471440141013">
-        <mark key="'" line="28" column="35" />
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="12" column="84" />
-        <mark key="." line="12" column="84" />
-        <mark key="^" line="12" column="84" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" timestamp="1471440837158">
+        <mark key="'" line="4" column="36" />
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="76" />
+        <mark key="." line="16" column="76" />
+        <mark key="^" line="16" column="76" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/server/controllers/users.js" timestamp="1469521844585">
         <mark key="[" line="9" column="0" />
@@ -4372,19 +4373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="$USER_HOME$/dev/json-schema-deref-sync/test/schemas/circularlocalref.expected.json" />
-      <jump line="115" column="21" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
-      <jump line="135" column="21" filename="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" />
-      <jump line="185" column="29" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
-      <jump line="214" column="12" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
-      <jump line="215" column="57" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
-      <jump line="227" column="14" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
-      <jump line="228" column="14" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
-      <jump line="124" column="43" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
-      <jump line="154" column="9" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
-      <jump line="27" column="41" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="102" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="101" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="63" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="25" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
@@ -4455,66 +4443,79 @@
       <jump line="0" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/pagination.js" />
       <jump line="1" column="23" filename="$USER_HOME$/dev/bs-raml-api/src/services/Pagination/pagination.js" />
       <jump line="67" column="15" filename="$USER_HOME$/dev/bs-raml-api/src/services/Pagination/pagination.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
       <jump line="8" column="48" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
       <jump line="9" column="6" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
       <jump line="10" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
       <jump line="6" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
       <jump line="1" column="31" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
-      <jump line="187" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
       <jump line="140" column="45" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
       <jump line="10" column="6" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
       <jump line="159" column="67" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
-      <jump line="192" column="36" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
-      <jump line="190" column="51" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
-      <jump line="188" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
       <jump line="62" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
-      <jump line="46" column="42" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
-      <jump line="63" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
       <jump line="64" column="74" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
+      <jump line="15" column="24" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
+      <jump line="7" column="79" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
+      <jump line="55" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
+      <jump line="162" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
+      <jump line="46" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
+      <jump line="63" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
+      <jump line="48" column="39" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
+      <jump line="65" column="30" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
+      <jump line="189" column="10" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
+      <jump line="190" column="44" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
+      <jump line="192" column="28" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
+      <jump line="188" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
+      <jump line="187" column="16" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
+      <jump line="27" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
+      <jump line="28" column="37" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
+      <jump line="6" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
+      <jump line="22" column="40" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
+      <jump line="13" column="26" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
+      <jump line="3" column="61" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
+      <jump line="4" column="36" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'c'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'c'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hcPg==</text>
+        <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cmVwbGFjZW1lbnRzLmZpbmQocmVwbGFjZW1lbnQgPT4gcmVwbGFjZW1lbnQub2xkID09PSBpZCkp</text>
+        <text>[{ children: ['a', 'b'] }, { children: ['b'] }, { children: ['c'] }]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2VhcmNoSWRzLCBtb25pdG9ySWRzCg==</text>
+        <text encoding="base64">ICogfQo=</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICogICBhc3NlcnQoY2hpbGRyZW4gPT09IFsnYScsICdiJywgJ2MnXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXBsYWNlbWVudC4K</text>
+        <text encoding="base64">ICogICBjaGlsZHJlbi5zb3J0KChhLCBiKSA9PiBhLmlkID4gYi5pZCA/IDEgOiAtMSkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgICAgICAgbGV0IHJlcGxhY2VtZW50ID0g</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICogICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICogY2hpbGRyZW4gPSBbeyBpZDogJ2EnLCBuYW1lOiAnQScgfSwgeyBpZDogJ2InLCBuYW1lOiAnQicgfSwgeyBpZDogJ2MnLCBuYW1lOiAnQycgfV07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvc3QgPT4gcG9zdC5lbnRpdGllcyAmJiBwb3N0LmVudGl0aWVzLm1hdGNoZWRfa2V5d29yZHMsCg==</text>
+        <text encoding="base64">ICAgICAgc2VhcmNoSWRzLCBtb25pdG9ySWRzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgbWF0Y2hlcyA9IGRhdGEuZmlsdGVyKGZpbHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGZpbHRlciB7RnVuY3Rpb259IChpdGVtKSA9PiA/PzsgZmlsdGVyIGRhdGEgZG93biB0byBvbmx5IGluY2x1ZGUgaXRlbXMgd2l0aCB2YWx1ZXMgdG8gcmVwbGFjZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXBsYWNlbWVudC4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ewogICAgICAgICAgbGV0IHJlcGxhY2VtZW50ID0g</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4524,21 +4525,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hcPg==</last-search>
+      <last-search encoding="base64">XDxhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhXD4=</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVGaWx0ZXJRdWVyeVw+</entry>
-        <entry encoding="base64">XDxtYXBGaWVsZHNcPg==</entry>
-        <entry>console</entry>
-        <entry>length</entry>
-        <entry encoding="base64">XDxleGlzdGluZ1w+</entry>
         <entry encoding="base64">XDxfXD4=</entry>
         <entry encoding="base64">XDxKb2lcPg==</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
@@ -4554,6 +4550,11 @@
         <entry encoding="base64">XDxzZWFyY2hJZHNcPg==</entry>
         <entry encoding="base64">XDxtb25pdG9ySWRzXD4=</entry>
         <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
+        <entry encoding="base64">XDxuZXdcPg==</entry>
+        <entry encoding="base64">XDxvbGRcPg==</entry>
+        <entry encoding="base64">XDxyZXBsYWNlbWVudFw+</entry>
+        <entry encoding="base64">XDxyZXBsYWNlbWVudHNcPg==</entry>
+        <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
