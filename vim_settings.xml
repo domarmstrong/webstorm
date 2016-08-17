@@ -206,8 +206,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/campaigns.spec.js" timestamp="1471441508818">
-        <mark key="'" line="34" column="19" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/campaigns.spec.js" timestamp="1471445523308">
+        <mark key="'" line="1" column="12" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -4401,8 +4401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="62" column="42" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="73" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="130" column="73" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="136" column="18" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
@@ -4501,6 +4499,8 @@
       <jump line="18" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/__testHelpers/traits/pageing.js" />
       <jump line="0" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/__testHelpers/request.js" />
       <jump line="24" column="39" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/__testHelpers/request.js" />
+      <jump line="8" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/campaigns.spec.js" />
+      <jump line="1" column="12" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/campaigns.spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4510,7 +4510,7 @@
         <text>validateSchema</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcmV0dHlFcnJvclw+</text>
+        <text encoding="base64">XDxoZWxwZXJzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>[{ children: ['a', 'b'] }, { children: ['b'] }, { children: ['c'] }]</text>
@@ -4553,9 +4553,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcmV0dHlFcnJvclw+</last-search>
+      <last-search encoding="base64">XDxoZWxwZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcmV0dHlFcnJvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxoZWxwZXJzXD4=</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4563,7 +4563,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxtYXRjaGVzXD4=</entry>
         <entry encoding="base64">XDxhc3luY01hcEZpZWxkVmFsdWVzXD4=</entry>
@@ -4583,6 +4582,7 @@
         <entry encoding="base64">XDx0ZXN0SGVscGVyc1w+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVNjaGVtYVw+</entry>
         <entry encoding="base64">XDxQcmV0dHlFcnJvclw+</entry>
+        <entry encoding="base64">XDxoZWxwZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
