@@ -206,12 +206,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/campaigns.spec.js" timestamp="1471445523308">
-        <mark key="'" line="1" column="12" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="15" column="17" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/campaigns.spec.js" timestamp="1471450909612">
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/config/environments/nest/development.js" timestamp="1469543004611">
         <mark key="'" line="0" column="0" />
@@ -285,6 +285,12 @@
         <mark key="]" line="44" column="19" />
         <mark key="." line="44" column="19" />
         <mark key="^" line="44" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/analytics/socials.spec.js" timestamp="1471451478411">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-brain/config/defaults/server.js" timestamp="1469549933895">
         <mark key="'" line="25" column="35" />
@@ -2009,6 +2015,13 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/socials.spec.js" timestamp="1471451038143">
+        <mark key="'" line="165" column="32" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="18" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/data-api-server/Auth/server/middleware/router.js" timestamp="1469019242851">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="31" column="38" />
@@ -2256,6 +2269,13 @@
         <mark key="]" line="10" column="70" />
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/clients.spec.js" timestamp="1471450985455">
+        <mark key="'" line="1" column="32" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/server/services/Accounts/util.js" timestamp="1469697476944">
         <mark key="[" line="5" column="0" />
@@ -3445,6 +3465,13 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.spec.js" timestamp="1471451014220">
+        <mark key="'" line="38" column="15" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="20" column="13" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-middleware/src/middleware/securedBy/RequestUserModel.js" timestamp="1469113010237">
         <mark key="'" line="0" column="20" />
         <mark key="[" line="8" column="29" />
@@ -4401,18 +4428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="130" column="73" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="136" column="18" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="138" column="78" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="160" column="34" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="216" column="8" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="175" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
-      <jump line="15" column="21" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
-      <jump line="45" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/utils.js" />
-      <jump line="46" column="39" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/utils.js" />
-      <jump line="16" column="21" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
-      <jump line="24" column="21" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
       <jump line="6" column="39" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.js" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
       <jump line="12" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
@@ -4499,18 +4514,30 @@
       <jump line="18" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/__testHelpers/traits/pageing.js" />
       <jump line="0" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/__testHelpers/request.js" />
       <jump line="24" column="39" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/__testHelpers/request.js" />
-      <jump line="8" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/campaigns.spec.js" />
       <jump line="1" column="12" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/campaigns.spec.js" />
+      <jump line="8" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/campaigns.spec.js" />
+      <jump line="16" column="10" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/clients.spec.js" />
+      <jump line="3" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/clients.spec.js" />
+      <jump line="19" column="27" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/clients.spec.js" />
+      <jump line="30" column="70" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/clients.spec.js" />
+      <jump line="1" column="32" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/clients.spec.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.spec.js" />
+      <jump line="21" column="13" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.spec.js" />
+      <jump line="39" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.spec.js" />
+      <jump line="2" column="42" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/socials.spec.js" />
+      <jump line="7" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/socials.spec.js" />
+      <jump line="19" column="30" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/socials.spec.js" />
+      <jump line="166" column="32" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/socials.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>validateSchema</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHZhbGlkYXRlU2NoZW1hIGZyb20gJy4uLy4uL3V0aWxzL3ZhbGlkYXRpb25zL3ZhbGlkYXRlT2JqZWN0JzsK</text>
       </register>
       <register name="-" type="4">
         <text>validateSchema</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWxwZXJzXD4=</text>
+        <text encoding="base64">XDx2YWxpZGF0ZVNjaGVtYVw+</text>
       </register>
       <register name="0" type="4">
         <text>[{ children: ['a', 'b'] }, { children: ['b'] }, { children: ['c'] }]</text>
@@ -4522,28 +4549,28 @@
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmVmb3JlKGFzeW5jICgpID0+IHNlcnZlci5zdGFydCgpKTsKYWZ0ZXIoYXN5bmMgKCkgPT4gc2VydmVyLnN0b3AoKSk7Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHZhbGlkYXRlU2NoZW1hIGZyb20gJy4uLy4uL3V0aWxzL3ZhbGlkYXRpb25zL3ZhbGlkYXRlT2JqZWN0JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNlcnZlciBmcm9tICcuLi8uLi8uLi8uLi9zZXJ2ZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IEpvaSBmcm9tICdqb2knOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICcuLi8uLi8uLi8uLi9zZXJ2ZXIvc2VydmljZXMvQ2FjaGUvY2FjaGVNYW5hZ2VyJzsK</text>
+        <text encoding="base64">aW1wb3J0IEpvaSBmcm9tICdqb2knOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogfQo=</text>
+        <text encoding="base64">aW1wb3J0IHZhbGlkYXRlU2NoZW1hIGZyb20gJy4uLy4uL3V0aWxzL3ZhbGlkYXRpb25zL3ZhbGlkYXRlT2JqZWN0JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICBhc3NlcnQoY2hpbGRyZW4gPT09IFsnYScsICdiJywgJ2MnXSk7Cg==</text>
+        <text encoding="base64">YmVmb3JlKGFzeW5jICgpID0+IHNlcnZlci5zdGFydCgpKTsKYWZ0ZXIoYXN5bmMgKCkgPT4gc2VydmVyLnN0b3AoKSk7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogICBjaGlsZHJlbi5zb3J0KChhLCBiKSA9PiBhLmlkID4gYi5pZCA/IDEgOiAtMSkK</text>
+        <text encoding="base64">aW1wb3J0IHNlcnZlciBmcm9tICcuLi8uLi8uLi8uLi9zZXJ2ZXInOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogICAK</text>
+        <text encoding="base64">aW1wb3J0ICBmcm9tICcuLi8uLi8uLi8uLi9zZXJ2ZXIvc2VydmljZXMvQ2FjaGUvY2FjaGVNYW5hZ2VyJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogY2hpbGRyZW4gPSBbeyBpZDogJ2EnLCBuYW1lOiAnQScgfSwgeyBpZDogJ2InLCBuYW1lOiAnQicgfSwgeyBpZDogJ2MnLCBuYW1lOiAnQycgfV07Cg==</text>
+        <text encoding="base64">ICogfQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4553,9 +4580,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWxwZXJzXD4=</last-search>
+      <last-search encoding="base64">XDx2YWxpZGF0ZVNjaGVtYVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWxwZXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZGF0ZVNjaGVtYVw+</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4563,7 +4590,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxtYXRjaGVzXD4=</entry>
         <entry encoding="base64">XDxhc3luY01hcEZpZWxkVmFsdWVzXD4=</entry>
         <entry encoding="base64">XDxpZGVudGlmaWVyc1w+</entry>
@@ -4580,9 +4606,10 @@
         <entry encoding="base64">XDxjYWNoZVw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDx0ZXN0SGVscGVyc1w+</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZVNjaGVtYVw+</entry>
         <entry encoding="base64">XDxQcmV0dHlFcnJvclw+</entry>
         <entry encoding="base64">XDxoZWxwZXJzXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0X2hlbHBlcnNcPg==</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVNjaGVtYVw+</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
