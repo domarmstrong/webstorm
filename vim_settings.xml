@@ -2258,12 +2258,11 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" timestamp="1471432256427">
-        <mark key="'" line="1" column="31" />
-        <mark key="[" line="60" column="73" />
-        <mark key="]" line="60" column="72" />
-        <mark key="^" line="60" column="72" />
-        <mark key="." line="60" column="72" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" timestamp="1471439703907">
+        <mark key="[" line="65" column="71" />
+        <mark key="]" line="65" column="83" />
+        <mark key="." line="65" column="83" />
+        <mark key="^" line="65" column="83" />
       </file>
       <file name="$USER_HOME$/dev/bs-base-error/index.js" timestamp="1470935684711">
         <mark key="[" line="32" column="0" />
@@ -3191,7 +3190,7 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" timestamp="1471433000199">
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" timestamp="1471439392839">
         <mark key="'" line="188" column="20" />
         <mark key="[" line="190" column="62" />
         <mark key="]" line="190" column="65" />
@@ -3657,12 +3656,12 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" timestamp="1471432600431">
-        <mark key="'" line="17" column="35" />
-        <mark key="[" line="19" column="68" />
-        <mark key="]" line="19" column="82" />
-        <mark key="." line="19" column="82" />
-        <mark key="^" line="19" column="82" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" timestamp="1471440141013">
+        <mark key="'" line="28" column="35" />
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="12" column="84" />
+        <mark key="." line="12" column="84" />
+        <mark key="^" line="12" column="84" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/server/controllers/users.js" timestamp="1469521844585">
         <mark key="[" line="9" column="0" />
@@ -4373,10 +4372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="20" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
-      <jump line="107" column="9" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
-      <jump line="157" column="4" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
-      <jump line="237" column="0" filename="$USER_HOME$/dev/json-schema-deref-sync/lib/index.js" />
       <jump line="19" column="4" filename="$USER_HOME$/dev/json-schema-deref-sync/test/schemas/circularlocalref.expected.json" />
       <jump line="115" column="21" filename="$USER_HOME$/dev/bs-raml-api/src/server.js" />
       <jump line="135" column="21" filename="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" />
@@ -4473,49 +4468,53 @@
       <jump line="192" column="36" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
       <jump line="190" column="51" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
       <jump line="188" column="20" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
+      <jump line="62" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
+      <jump line="46" column="42" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
+      <jump line="63" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
+      <jump line="64" column="74" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Socialnaut/posts/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>t.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb25pdG9yXD4=</text>
+        <text encoding="base64">XDxzZWFyY2hcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVtb3RlJywgcmVtb3RlSWRzKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmVwbGFjZW1lbnRzLmZpbmQocmVwbGFjZW1lbnQgPT4gcmVwbGFjZW1lbnQub2xkID09PSBpZCkp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgc2VhcmNoSWRzLCBtb25pdG9ySWRzCg==</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvc3QgPT4gcG9zdC5lbnRpdGllcyAmJiBwb3N0LmVudGl0aWVzLm1hdGNoZWRfa2V5d29yZHMsCg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgbWF0Y2hlcyA9IGRhdGEuZmlsdGVyKGZpbHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXBsYWNlbWVudC4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGZpbHRlciB7RnVuY3Rpb259IChpdGVtKSA9PiA/PzsgZmlsdGVyIGRhdGEgZG93biB0byBvbmx5IGluY2x1ZGUgaXRlbXMgd2l0aCB2YWx1ZXMgdG8gcmVwbGFjZQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgICAgICAgbGV0IHJlcGxhY2VtZW50ID0g</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">ICAgIHBvc3QgPT4gcG9zdC5lbnRpdGllcyAmJiBwb3N0LmVudGl0aWVzLm1hdGNoZWRfa2V5d29yZHMsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbWlzc2luZycsIG1pc3NpbmdJZHMpOwo=</text>
+        <text encoding="base64">ICBsZXQgbWF0Y2hlcyA9IGRhdGEuZmlsdGVyKGZpbHRlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVtb3RlJywgcmVtb3RlSWRzKTsK</text>
+        <text encoding="base64">ICogQHBhcmFtIGZpbHRlciB7RnVuY3Rpb259IChpdGVtKSA9PiA/PzsgZmlsdGVyIGRhdGEgZG93biB0byBvbmx5IGluY2x1ZGUgaXRlbXMgd2l0aCB2YWx1ZXMgdG8gcmVwbGFjZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZXhpc3RpbmcnLCBleGlzdGluZ0lkcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4525,19 +4524,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb25pdG9yXD4=</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb25pdG9yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hcPg==</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkdXBsaWNhdGVNb25pdG9yc0J5Q2FtcGFpZ25cPg==</entry>
-        <entry encoding="base64">XDxicmFuZF9ncm91cF9pZHNcPg==</entry>
-        <entry>_</entry>
         <entry encoding="base64">XDxjcmVhdGVGaWx0ZXJRdWVyeVw+</entry>
         <entry encoding="base64">XDxtYXBGaWVsZHNcPg==</entry>
         <entry>console</entry>
@@ -4555,6 +4551,9 @@
         <entry encoding="base64">XDxpZGVudGlmaWVyc1w+</entry>
         <entry encoding="base64">XDxtb25pdG9yTWFwcGluZ3NcPg==</entry>
         <entry encoding="base64">XDxtb25pdG9yXD4=</entry>
+        <entry encoding="base64">XDxzZWFyY2hJZHNcPg==</entry>
+        <entry encoding="base64">XDxtb25pdG9ySWRzXD4=</entry>
+        <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
