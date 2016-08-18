@@ -3465,12 +3465,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.spec.js" timestamp="1471451014220">
-        <mark key="'" line="38" column="15" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="20" column="13" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.spec.js" timestamp="1471452871123">
+        <mark key="'" line="47" column="17" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="78" column="2" />
+        <mark key="." line="49" column="43" />
+        <mark key="^" line="49" column="43" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-middleware/src/middleware/securedBy/RequestUserModel.js" timestamp="1469113010237">
         <mark key="'" line="0" column="20" />
@@ -4428,8 +4428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="39" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" />
       <jump line="12" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
       <jump line="17" column="43" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
       <jump line="24" column="18" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.spec.js" />
@@ -4528,55 +4526,57 @@
       <jump line="7" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/socials.spec.js" />
       <jump line="19" column="30" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/socials.spec.js" />
       <jump line="166" column="32" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/socials.spec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.spec.js" />
+      <jump line="47" column="17" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/monitors.spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHZhbGlkYXRlU2NoZW1hIGZyb20gJy4uLy4uL3V0aWxzL3ZhbGlkYXRpb25zL3ZhbGlkYXRlT2JqZWN0JzsK</text>
+        <text encoding="base64">Y2xpZW50U2NoZW1hID0gSm9pLnNjaGVtYSh7CiAgaWQ6IEpvaS5zdHJpbmcoKS5yZXF1aXJlZCgpLAogIG5hbWU6IEpvaS5zdHJpbmcoKS5vcHRpb25hbCgpLm1pbkxlbmd0aCgyMCksCn0pOwpvdGhlclNjaGVtYSA9IEpvaS5zY2hlbWEoewogIGlkOiBzdHJpbmcsCiAgbmFtZTogc3RyaW5nLAp9KTsKCmRlc2NyaWJlKCdleHBhbmQnLCAoKSA9PiB7CiAgZGVzY3JpYmUoJ2NsaWVudHMnLCAoKSA9PiB7CiAgICByZXNwb25zZTsKICAgIGJlZm9yZSgoKSA9PiB7CiAgICAgIHJlc3BvbnNlID0gcmVxdWlyZSgnZm9vP2V4cGFuZD1jbGllbnRzJyk7CiAgICB9KTsKCiAgICBpdChgaW5jbHVkZXMgYSB2YWxpZCBhcnJheSBvZiBjbGllbnRzYCwgKCkgPT4gewogICAgICBKb2kudmFsaWRhdGUocmVzcG9uc2UuY2xpZW50cywgY2xpZW50U2NoZW1hKTsKICAgIH0pOwogIH0pOwoKICBkZXNjcmliZSgnb3RoZXInLCAoKSA9PiB7CiAgICByZXNwb25zZTsKICAgIGJlZm9yZSgoKSA9PiB7CiAgICAgIHJlc3BvbnNlID0gcmVxdWlyZSgnZm9vP2V4cGFuZD1vdGhlcicpOwogICAgfSk7CgogICAgaXQoYGluY2x1ZGVzIGEgdmFsaWQgYXJyYXkgb2Ygb3RoZXJgLCAoKSA9PiB7CiAgICAgIEpvaS52YWxpZGF0ZShyZXF1ZXN0Lm90aGVyLCBvdGhlclNjaGVtYSk7CiAgICB9KTsKICB9KTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>validateSchema</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZVNjaGVtYVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>[{ children: ['a', 'b'] }, { children: ['b'] }, { children: ['c'] }]</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y2xpZW50U2NoZW1hID0gSm9pLnNjaGVtYSh7CiAgaWQ6IHN0cmluZywKICBuYW1lOiBzdHJpbmcsCn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHZhbGlkYXRlU2NoZW1hIGZyb20gJy4uLy4uL3V0aWxzL3ZhbGlkYXRpb25zL3ZhbGlkYXRlT2JqZWN0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHZhbGlkYXRlU2NoZW1hIGZyb20gJy4uLy4uL3V0aWxzL3ZhbGlkYXRpb25zL3ZhbGlkYXRlT2JqZWN0JzsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEpvaSBmcm9tICdqb2knOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEpvaSBmcm9tICdqb2knOwo=</text>
+        <text encoding="base64">ICBpdChgaW5jbHVkZXMgYSB2YWxpZCBhcnJheSBvZiAke2V4cGFuc2lvbi5uYW1lfWAsICgpID0+IHsKICAgIEpvaS52YWxpZGF0ZShnZXRVc2Vycy5leHBhbmQoZXhwYW5zaW9uKSwgZXhwYW5zaW9uLnNjaGVtYSk7CiAgfSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHZhbGlkYXRlU2NoZW1hIGZyb20gJy4uLy4uL3V0aWxzL3ZhbGlkYXRpb25zL3ZhbGlkYXRlT2JqZWN0JzsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">dChgaW5jbHVkZXMgYSB2YWxpZCBhcnJheSBvZiAke2V4cGFuc2lvbi5uYW1lfWAsICgpID0+IHsKICAgIEpvaS52YWxpZGF0ZShnZXRVc2Vycy5leHBhbmQoZXhwYW5zaW9uKSwgZXhwYW5zaW9uLnNjaGVtYSk7CiAgfSk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmVmb3JlKGFzeW5jICgpID0+IHNlcnZlci5zdGFydCgpKTsKYWZ0ZXIoYXN5bmMgKCkgPT4gc2VydmVyLnN0b3AoKSk7Cgo=</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNlcnZlciBmcm9tICcuLi8uLi8uLi8uLi9zZXJ2ZXInOwo=</text>
+        <text encoding="base64">ICBbeyBuYW1lOiAnY2xpZW50cycsIHNjaGVtYTogY2xpZW50U2NoZW1hIH1dLmZvckVhY2goZXhwYW5zaW9uID0+IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICcuLi8uLi8uLi8uLi9zZXJ2ZXIvc2VydmljZXMvQ2FjaGUvY2FjaGVNYW5hZ2VyJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogfQo=</text>
+        <text encoding="base64">YnJhbmQK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -4586,7 +4586,7 @@
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -4630,8 +4630,8 @@
         <entry encoding="base64">JzwsJz5zb3I=</entry>
         <entry>q</entry>
         <entry>79</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
