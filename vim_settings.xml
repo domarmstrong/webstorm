@@ -1763,12 +1763,10 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" timestamp="1471421631792">
-        <mark key="'" line="76" column="35" />
-        <mark key="[" line="40" column="2" />
-        <mark key="]" line="40" column="2" />
-        <mark key="." line="40" column="2" />
-        <mark key="^" line="40" column="2" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" timestamp="1471605492766">
+        <mark key="]" line="40" column="15" />
+        <mark key="." line="40" column="15" />
+        <mark key="^" line="40" column="15" />
       </file>
       <file name="$USER_HOME$/dev/data-sdk-server/server/utils/socialnaut.js" timestamp="1449753158554">
         <mark key="[" line="37" column="28" />
@@ -1878,12 +1876,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Clients/Clients.js" timestamp="1471604377310">
-        <mark key="'" line="65" column="39" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="6" />
-        <mark key="^" line="85" column="30" />
-        <mark key="." line="85" column="6" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Clients/Clients.js" timestamp="1471605922532">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="90" column="10" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-reformat/test/queryFunctions/rename.js" timestamp="1444588491295">
         <mark key="[" line="28" column="47" />
@@ -4461,8 +4458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/admin/clearCache.spec.js" />
-      <jump line="50" column="27" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/admin/clearCache.spec.js" />
       <jump line="53" column="31" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/admin/clearCache.spec.js" />
       <jump line="1" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/admin/clearCache.spec.js" />
       <jump line="15" column="12" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/admin/clearCache.spec.js" />
@@ -4561,49 +4556,51 @@
       <jump line="23" column="0" filename="$USER_HOME$/dev/bs-query/src/map.spec.ts" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/bs-query/src/map.spec.ts" />
       <jump line="18" column="24" filename="$USER_HOME$/dev/bs-query/src/map.ts" />
+      <jump line="76" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Clients/Clients.js" />
+      <jump line="65" column="4" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Clients/Clients.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5vZGUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxic1F1ZXJ5TWFwXD4=</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgcXVlcnkgPSBic1F1ZXJ5KGZpbHRlcnMpOwogIHF1ZXJ5ID0gYnNRdWVyeS5tYXAocXVlcnksIG5vZGUgPT4gewogICAgaWYgKG5vZGUuZmllbGQgPT09ICdwYXJlbnRfY2xpZW50JykgewogICAgICBpZiAoWyc9PScsICdIQVMnLCAnVFJVVEhZJ10uaW5jbHVkZXMobm9kZS50eXBlKSAmJiAhbm9kZS5ub3QpIHsKICAgICAgICBub2RlLmZpZWxkID0gJ25hbWUnOwogICAgICAgIG5vZGUudmFsdWUgPSAnX19JTlZBTElEX18nOwogICAgICB9IGVsc2UgewogICAgICAgIG5vZGUudHlwZSA9ICdUUlVUSFknOwogICAgICAgIGRlbGV0ZSBub2RlLnZhbHVlOwogICAgICB9CiAgICB9CgogICAgcmV0dXJuIG5vZGU7CiAgfSk7CiAgcmV0dXJuIGJzUXVlcnkuc3RyaW5naWZ5KHF1ZXJ5KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5vZGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5vZGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGUgbm9kZS52YWx1ZTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5vZGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLnR5cGUgPSAnVFJVVEhZJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLnZhbHVlID0gJ19fSU5WQUxJRF9fJzsK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKFsnPT0nLCAnSEFTJywgJ1RSVVRIWSddLmluY2x1ZGVzKG5vZGUudHlwZSkgJiYgIW5vZGUubm90KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgcGFyZW50Tm9kZSsrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbm9kZS5maWVsZCA9ICduYW1lJzsK</text>
+        <text encoding="base64">ICBsZXQgcGFyZW50Tm9kZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWx0ZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgaWYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5vZGU7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChub2RlLmZpZWxkID09PSAncGFyZW50X2NsaWVudCcpIHsKICAgICAgbm9kZS5maWVsZCA9ICdjbGllbnRfaWQnOwogICAgfQoK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4613,9 +4610,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxic1F1ZXJ5TWFwXD4=</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxic1F1ZXJ5TWFwXD4=</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4623,7 +4620,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXN0X2hlbHBlcnNcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVNjaGVtYVw+</entry>
         <entry encoding="base64">XDxNYXBmdW5jXD4=</entry>
         <entry encoding="base64">XDxNYXBGdW5jXD4=</entry>
@@ -4643,6 +4639,7 @@
         <entry encoding="base64">XDxtYXRjaFw+</entry>
         <entry encoding="base64">XDxic1F1ZXJ5XD4=</entry>
         <entry encoding="base64">XDxic1F1ZXJ5TWFwXD4=</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
