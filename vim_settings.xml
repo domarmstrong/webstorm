@@ -1974,12 +1974,12 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Campaigns/Campaigns.js" timestamp="1471614951694">
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Campaigns/Campaigns.js" timestamp="1471620301507">
         <mark key="'" line="2" column="30" />
-        <mark key="[" line="113" column="18" />
-        <mark key="]" line="113" column="18" />
-        <mark key="^" line="113" column="32" />
-        <mark key="." line="113" column="18" />
+        <mark key="[" line="114" column="5" />
+        <mark key="]" line="116" column="15" />
+        <mark key="^" line="116" column="15" />
+        <mark key="." line="116" column="15" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-dashboards/test/server/services/transforms/data/simplemetrics.json" timestamp="1444216960672">
         <mark key="[" line="17" column="0" />
