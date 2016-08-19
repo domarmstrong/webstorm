@@ -1061,12 +1061,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="78" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils.js" timestamp="1471421166790">
-        <mark key="[" line="55" column="58" />
-        <mark key="]" line="55" column="58" />
-        <mark key="." line="55" column="70" />
-        <mark key="^" line="52" column="75" />
-      </file>
       <file name="$USER_HOME$/dev/data-api-server/server/controllers/testCSV.js" timestamp="1468231038213">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
@@ -1206,12 +1200,12 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/bs-query/src/parser.spec.ts" timestamp="1471597588504">
-        <mark key="'" line="551" column="12" />
-        <mark key="[" line="545" column="38" />
-        <mark key="]" line="545" column="67" />
-        <mark key="^" line="545" column="67" />
-        <mark key="." line="545" column="67" />
+      <file name="$USER_HOME$/dev/bs-query/src/parser.spec.ts" timestamp="1471599263632">
+        <mark key="'" line="561" column="12" />
+        <mark key="[" line="554" column="26" />
+        <mark key="]" line="554" column="34" />
+        <mark key="^" line="554" column="34" />
+        <mark key="." line="554" column="34" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/services/RateLimiter/TODO" timestamp="1469439842684">
         <mark key="[" line="0" column="0" />
@@ -1892,6 +1886,13 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Clients/Clients.js" timestamp="1471598746195">
+        <mark key="'" line="63" column="15" />
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/bs-reformat/test/queryFunctions/rename.js" timestamp="1444588491295">
         <mark key="[" line="28" column="47" />
         <mark key="]" line="28" column="48" />
@@ -2224,10 +2225,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/bs-query/package.json" timestamp="1471597367991">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/dev/bs-query/package.json" timestamp="1471600116423">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/Auth/config/defaults/services.js" timestamp="1469024276658">
         <mark key="[" line="4" column="0" />
@@ -2357,11 +2359,7 @@
         <mark key="^" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/utils.js" timestamp="1471422548565">
-        <mark key="'" line="47" column="39" />
-        <mark key="[" line="20" column="39" />
-        <mark key="]" line="20" column="38" />
-        <mark key="^" line="20" column="38" />
-        <mark key="." line="20" column="38" />
+        <mark key="'" line="52" column="39" />
       </file>
       <file name="$USER_HOME$/dev/linkedin-cv/server/routes.js" timestamp="1431709601026">
         <mark key="[" line="9" column="28" />
@@ -3146,12 +3144,12 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/bs-query/src/parser.ts" timestamp="1471597692435">
-        <mark key="'" line="171" column="7" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="^" line="164" column="0" />
-        <mark key="." line="164" column="0" />
+      <file name="$USER_HOME$/dev/bs-query/src/parser.ts" timestamp="1471599134823">
+        <mark key="'" line="149" column="46" />
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="18" />
+        <mark key="." line="43" column="18" />
+        <mark key="^" line="43" column="53" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-middleware/src/middleware/debugDelay.js" timestamp="1469092237964">
         <mark key="'" line="7" column="38" />
@@ -4303,11 +4301,10 @@
         <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/Monitors/Monitors.js" timestamp="1471429163542">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="50" column="18" />
-        <mark key="]" line="50" column="22" />
-        <mark key="." line="50" column="22" />
-        <mark key="^" line="50" column="22" />
+        <mark key="[" line="70" column="18" />
+        <mark key="]" line="70" column="22" />
+        <mark key="." line="70" column="22" />
+        <mark key="^" line="70" column="22" />
       </file>
       <file name="$USER_HOME$/dev/react-raml/components/Navigation/Navigation.js" timestamp="1454245435765">
         <mark key="[" line="20" column="79" />
@@ -4470,9 +4467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="61" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
-      <jump line="4" column="36" filename="$USER_HOME$/dev/app-nest-api-data/server/utils/asyncMap.js" />
-      <jump line="4" column="23" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/admin/clearCache.spec.js" />
       <jump line="2" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/admin/clearCache.spec.js" />
       <jump line="12" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/admin/clearCache.spec.js" />
       <jump line="13" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/controllers/admin/clearCache.spec.js" />
@@ -4570,49 +4564,52 @@
       <jump line="159" column="14" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
       <jump line="161" column="6" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
       <jump line="171" column="7" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
+      <jump line="65" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Monitors/utils.js" />
+      <jump line="62" column="15" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Clients/Clients.js" />
+      <jump line="140" column="46" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>lib</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>lib</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGl0KCd0aHJvd3MgZXJyb3IgZm9yIGluY29tcGxldGUgZXhwcmVzc2lvbicsICgpID0+IHsKICAgICAgZXhwZWN0RXJyb3IoJ2E9PTEmJmZvbz09JywgJ0V4cGVjdGVkIHZhbHVlIGJ1dCBmb3VuZDogIiInKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICJjb3ZlciI6ICJOT0RFX0VOVj10ZXN0IENPTkZJRz1sb2NhbC90ZXN0IGlzdGFuYnVsIGNvdmVyIC4vbm9kZV9tb2R1bGVzLy5iaW4vX21vY2hhIC0tICQoZmluZCAuL2J1aWxkIC1uYW1lICcqLnNwZWMuanMnKSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKGBVbmtub3duIHR5cGU6ICR7dHlwZX1gKTsK</text>
+        <text encoding="base64">cGFyc2UubWFwID0gbWFwOwpwYXJzZS5zdHJpZ2lmeSA9IHN0cmluZ2lmeTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIHBhcnNlIHsKICBtYXA6IG1hcDsKICBzdHJpbmdpZnk6IHN0cmluZ2lmeTsKfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBub3QgPSAobm9kZS5ub3QgPyAnIScgOiAnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjaGlsZFt0eXBlXSA9IHZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKGBVbmtub3duIHR5cGU6ICR7dHlwZX1gKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zdCBub3QgPSAobm9kZS5ub3QgPyAnIScgOiAnJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjaGlsZFt0eXBlXSA9IHZhbHVlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpdChgaW5jbHVkZXMgYSB2YWxpZCBhcnJheSBvZiAke2V4cGFuc2lvbi5uYW1lfWAsICgpID0+IHsKICAgIEpvaS52YWxpZGF0ZShnZXRVc2Vycy5leHBhbmQoZXhwYW5zaW9uKSwgZXhwYW5zaW9uLnNjaGVtYSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
