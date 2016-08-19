@@ -1974,12 +1974,12 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Campaigns/Campaigns.js" timestamp="1471620301507">
-        <mark key="'" line="2" column="30" />
-        <mark key="[" line="114" column="5" />
-        <mark key="]" line="116" column="15" />
-        <mark key="^" line="116" column="15" />
-        <mark key="." line="116" column="15" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Campaigns/Campaigns.js" timestamp="1471621567229">
+        <mark key="'" line="36" column="21" />
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-dashboards/test/server/services/transforms/data/simplemetrics.json" timestamp="1444216960672">
         <mark key="[" line="17" column="0" />
@@ -4467,8 +4467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
-      <jump line="60" column="39" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Clients/Clients.js" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/bs-query/src/map.ts" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/bs-query/src/map.spec.ts" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/bs-query/src/map.spec.ts" />
@@ -4567,49 +4565,51 @@
       <jump line="52" column="25" filename="$USER_HOME$/dev/bs-api-mapkeys/src/mapKeys.js" />
       <jump line="242" column="21" filename="$USER_HOME$/dev/bs-api-mapkeys/src/mapKeys.spec.js" />
       <jump line="1" column="12" filename="$USER_HOME$/dev/bs-api-mapkeys/src/mapKeys.spec.js" />
+      <jump line="105" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Campaigns/Campaigns.js" />
+      <jump line="36" column="21" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Campaigns/Campaigns.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>equal</text>
+        <text>filters</text>
       </register>
       <register name="-" type="4">
-        <text>equal</text>
+        <text>filters</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBLZXlzXD4=</text>
+        <text encoding="base64">XDxtYXBGaWx0ZXJzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnaGFuZGxlcyB1bmRlZmluZWQgcm9vdCB2YWx1ZXMnLCAoKSA9PiB7CiAgICBhc3NlcnQuZXF1YWwobWFwS2V5cy5tYXBLZXlzKHVuZGVmaW5lZCwgc3RyID0+IHN0ciksIHVuZGVmaW5lZCk7CiAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>bsQuery.stringify(query)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmRlc2NyaWJlKCdtYXBPYmplY3RLZXlzJywgKCkgPT4gewogIGl0KCdzaG9ydCBjaXJjdWl0cyBvbiBvYmplY3RzIHdpdGggbm8ga2V5cycsICgpID0+IHsKICAgIGFzc2VydC5kZWVwRXF1YWwobWFwS2V5cy5oeXBoZW5hdGUoeyAnX19GT09CQVJfXyc6IDEgfSwgeyBrZWVwVXBwZXJjYXNlOiBmYWxzZSB9KSwgeyAnX19mb29iYXJfXyc6IDEgfSk7CiAgfSk7Cn0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ddn</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gYnNRdWVyeS5zdHJpbmdpZnkocXVlcnkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4uJywgb2JqKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gLi4uLiBzb21lIGlzc3VlIHJ1bm5pbmcgdGhpcyB0ZXN0IDooIHBvdGVudGlhbCBpbXBvcnQgd29lcwo=</text>
+        <text encoding="base64">CmRlc2NyaWJlKCdtYXBPYmplY3RLZXlzJywgKCkgPT4gewogIGl0KCdzaG9ydCBjaXJjdWl0cyBvbiBvYmplY3RzIHdpdGggbm8ga2V5cycsICgpID0+IHsKICAgIGFzc2VydC5kZWVwRXF1YWwobWFwS2V5cy5oeXBoZW5hdGUoeyAnX19GT09CQVJfXyc6IDEgfSwgeyBrZWVwVXBwZXJjYXNlOiBmYWxzZSB9KSwgeyAnX19mb29iYXJfXyc6IDEgfSk7CiAgfSk7Cn0pOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdXRpbHMgZnJvbSAnLi91dGlscyc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXNzZXJ0IH0gZnJvbSAnY2hhaSc7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4uJywgb2JqKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvdXNlcm5hbWU6CiAgICBpczoKICAgICAgLSBTZWN1cmVkCiAgICAgIC0gRmllbGRzRmlsdGVyYWJsZQogICAgICAtIHsgRXhwYW5kYWJsZTogeyBmaWVsZHM6ICdyb2xlcywgYnJhbmRfZ3JvdXBzJyB9IH0KICAgIGdldDoKICAgICAgKGNhY2hlZCk6IHsgb246ICdwZXJtaXNzaW9ucycsIGZvcjogJzEwIG1pbnV0ZXMnIH0KICAgICAgKGNvbnRyb2xsZXIpOgogICAgICAgIHBhdGg6ICdjb250cm9sbGVycy5hY2NvdW50cycKICAgICAgcmVzcG9uc2VzOgogICAgICAgIDIwMDoKICAgICAgICAgIGJvZHk6IFVzZXIKCg==</text>
+        <text encoding="base64">Ly8gLi4uLiBzb21lIGlzc3VlIHJ1bm5pbmcgdGhpcyB0ZXN0IDooIHBvdGVudGlhbCBpbXBvcnQgd29lcwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -4619,9 +4619,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBLZXlzXD4=</last-search>
+      <last-search encoding="base64">XDxtYXBGaWx0ZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBLZXlzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBGaWx0ZXJzXD4=</last-pattern>
       <last-replace>message: string =</last-replace>
       <last-substitute>message =</last-substitute>
       <last-dir>1</last-dir>
@@ -4629,7 +4629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_reverse</entry>
         <entry encoding="base64">XDxfcmV2ZXJzZVw+</entry>
         <entry encoding="base64">XDxzdHJcPg==</entry>
         <entry encoding="base64">XDxtYXRjaFw+</entry>
@@ -4649,6 +4648,7 @@
         <entry>console</entry>
         <entry encoding="base64">XDxtZXRob2RcPg==</entry>
         <entry encoding="base64">XDxtYXBLZXlzXD4=</entry>
+        <entry encoding="base64">XDxtYXBGaWx0ZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>Pw</entry>
