@@ -1974,13 +1974,6 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Accounts/Campaigns/Campaigns.js" timestamp="1471621567229">
-        <mark key="'" line="36" column="21" />
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
-        <mark key="^" line="36" column="20" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-dashboards/test/server/services/transforms/data/simplemetrics.json" timestamp="1444216960672">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="26" column="14" />
@@ -3483,8 +3476,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-mapkeys/src/mapKeys.js" timestamp="1471617685833">
-        <mark key="'" line="52" column="25" />
+      <file name="$USER_HOME$/dev/bs-api-mapkeys/src/mapKeys.js" timestamp="1472028498505">
+        <mark key="'" line="52" column="6" />
         <mark key="i" line="27" column="6" />
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="37" />
@@ -4474,10 +4467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="786" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/api.yaml" />
-      <jump line="805" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/api.yaml" />
-      <jump line="883" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/api.yaml" />
-      <jump line="890" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/api.yaml" />
       <jump line="895" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/api.yaml" />
       <jump line="911" column="28" filename="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/api.yaml" />
       <jump line="914" column="18" filename="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/api.yaml" />
@@ -4574,6 +4563,10 @@
       <jump line="198" column="41" filename="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/api.yaml" />
       <jump line="200" column="21" filename="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/api.yaml" />
       <jump line="202" column="31" filename="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/api.yaml" />
+      <jump line="64" column="9" filename="$USER_HOME$/dev/bs-api-mapkeys/src/mapKeys.js" />
+      <jump line="23" column="8" filename="$USER_HOME$/dev/bs-api-mapkeys/src/mapKeys.js" />
+      <jump line="24" column="66" filename="$USER_HOME$/dev/bs-api-mapkeys/src/mapKeys.js" />
+      <jump line="52" column="6" filename="$USER_HOME$/dev/bs-api-mapkeys/src/mapKeys.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4630,7 +4623,7 @@
         <text>~</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxicmFuZF9ncm91cF9pZHNcPg==</text>
+        <text encoding="base64">XDxtYXBPYmplY3RLZXlzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZmlsdGVyczoKICAgICAgICBuYW1lOiBmaWx0ZXJzCiAgICAgICAgZGlzcGxheU5hbWU6IGZpbHRlcnMKICAgICAgICB0eXBlOgogICAgICAgIC0gc3RyaW5nCiAgICAgICAgZXhhbXBsZXM6CiAgICAgICAgLSBuYW1lOiBkZWZhdWx0CiAgICAgICAgICB2YWx1ZTogbmFtZT09Rm9vJiZjb3VudD4zCiAgICAgICAgICBzdHJpY3Q6IHRydWUKICAgICAgICAgIGRlc2NyaXB0aW9uOiB8CiAgICAgICAgICAgIFJldHVybiBvbmx5IHRoZSBpdGVtcyB3aGVyZSBjb3VudCA+IDMKCiAgICAgICAgICAgIC9yZXNvdXJjZS97bmFtZX0/ZmlsdGVycz1jb3VudD4zCgogICAgICAgICAgICBbCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImlkIjogMSwKICAgICAgICAgICAgICAgICJjb3VudCI6IDUKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJpZCI6IDgsCiAgICAgICAgICAgICAgICAiY291bnQiOiA5CiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgXQogICAgICAgICAgc3RydWN0dXJlZFZhbHVlOiBuYW1lPT1Gb28mJmNvdW50PjMKICAgICAgICBkZXNjcmlwdGlvbjogfAogICAgICAgICAgUmVzcG9uc2VzIHRoYXQgcmV0dXJuIGEgY29sbGVjdGlvbiBtYXkgYmUgZmlsdGVyZWQgdXNpbmcgdGhlIGA/ZmlsdGVyc2AgcXVlcnkgcGFyYW1ldGVyLgogICAgICAgICAgVGhpcyBhbGxvd3MgeW91IHRvIHF1ZXJ5IHRoZSBjb2xsZWN0aW9uIHRvIHJldHVybiBvbmx5IHRoZSBzdWJzZXQgb2YgaXRlbXMgdGhhdCB5b3UgYXJlIGludGVyZXN0ZWQgaW4uCgogICAgICAgICAgVGhlIGZpbHRlcnMgdmFsdWUgc2hvdWxkIGJlIHByb3ZpZGVkIGFzIGEgYnMtcXVlcnkgc3RyaW5nLiBTZWUgdGhlIFticy1xdWVyeSBkb2NzXShodHRwczovL2JpdGJ1Y2tldC5vcmcvYmxhY2tzd2FubnBtL2JzLXF1ZXJ5KS4KCiAgICAgICAgICBOT1RFOiBicy1xdWVyeSB1c2VzIHNvbWUgY2hhcmFjdGVycyB0aGF0IGFyZSBbcmVzZXJ2ZWQgYnkgdGhlIFVSSSBzcGVjXShodHRwczovL3Rvb2xzLmlldGYub3JnL2h0bWwvcmZjMzk4NiNzZWN0aW9uLTIuMikuIFRoZXJlZm9yZSB5b3UKICAgICAgICAgIG11c3QgYWx3YXlzIGVzY2FwZSB5b3VyIGZpbHRlcnMgc3RyaW5ncyB1c2luZyBgZW5jb2RlVVJJQ29tcG9uZW50YCBvciBzaW1pbGFyLgoKICAgICAgICAgIGBgYCBqYXZhc2NyaXB0CiAgICAgICAgICB2YXIgZmlsdGVycyA9IGVuY29kZVVSSUNvbXBvbmVudCgnZm9vID4gMSAmJiBiYXIrJyk7CiAgICAgICAgICBgYGAKCiAgICAgICAgICBGaWx0ZXJzIGFyZSBzdXBwb3J0ZWQgZm9yIGFsbCBwcm9wZXJ0aWVzIGFuZCBuZXN0ZWQgcHJvcGVydGllcyBvZiBpdGVtcyBpbiB0aGUgY29sbGVjdGlvbiAodW5sZXNzIG90aGVyd2lzZSBzdGF0ZXMpLgogICAgICAgICAgSW4gYWRkaXRpb24gdG8gZmlsdGVyaW5nIG9uIG5lc3RlZCBwcm9wZXJ0aWVzLCBzb21lIGFkZGl0aW9uYWwgZmlsdGVycyBtYXkgYmUgaW5jbHVkZWQgdGhhdCBhcmUgbm90CiAgICAgICAgICByZXR1cm5lZCB3aXRoIHRoZSBkYXRhLiBUaGVzZSBmaWx0ZXJzIGFyZSBsaXN0ZWQgZm9yIGVhY2ggZW5kcG9pbnQuCg==</text>
@@ -4755,17 +4748,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxicmFuZF9ncm91cF9pZHNcPg==</last-search>
+      <last-search encoding="base64">XDxtYXBPYmplY3RLZXlzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxicmFuZF9ncm91cF9pZHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBPYmplY3RLZXlzXD4=</last-pattern>
       <last-replace>\/definitions\/</last-replace>
       <last-substitute>\/defin\?\/</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXBLZXlzXD4=</entry>
         <entry encoding="base64">XDxtYXBGaWx0ZXJzXD4=</entry>
         <entry encoding="base64">XDxmaWVsZHNcPg==</entry>
         <entry>^'</entry>
@@ -4785,6 +4777,7 @@
         <entry>page_size:\n</entry>
         <entry>filters:\n</entry>
         <entry encoding="base64">XDxicmFuZF9ncm91cF9pZHNcPg==</entry>
+        <entry encoding="base64">XDxtYXBPYmplY3RLZXlzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
