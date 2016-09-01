@@ -1440,6 +1440,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/typings/globals/cache-manager/index.d.ts" timestamp="1472728554891">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="13" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/dataSchemas/PermissionsGroup.raml" timestamp="1469692854353">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="23" />
@@ -1487,6 +1493,12 @@
         <mark key="]" line="37" column="15" />
         <mark key="^" line="37" column="15" />
         <mark key="." line="37" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/typings/index.d.ts" timestamp="1472728665576">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/server/middleware/router.js" timestamp="1469183598451">
         <mark key="[" line="7" column="24" />
@@ -2187,12 +2199,12 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1472727939511">
-        <mark key="'" line="24" column="8" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="2" />
-        <mark key="." line="25" column="2" />
-        <mark key="^" line="15" column="12" />
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1472728848756">
+        <mark key="'" line="27" column="23" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/dev/doc-data-sdk/docs/api/resources/overview.md" timestamp="1455364167322">
         <mark key="[" line="14" column="0" />
@@ -2580,11 +2592,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1472727718270">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1472728886667">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-dashboards/client/src/app/components/home/views/home.tpl.html" timestamp="1443556320271">
         <mark key="[" line="5" column="132" />
@@ -2621,9 +2633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="12" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
-      <jump line="296" column="34" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
-      <jump line="130" column="25" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
       <jump line="134" column="21" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
       <jump line="141" column="4" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
       <jump line="103" column="0" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
@@ -2721,6 +2730,9 @@
       <jump line="37" column="25" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/server.ts" />
       <jump line="13" column="11" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="24" column="8" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/typings/index.d.ts" />
+      <jump line="29" column="32" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="27" column="23" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2771,19 +2783,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VudGl0eScsIGVudGl0eSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.UPDATE</text>
+        <text>UPDATE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWNoZVw+</text>
+        <text encoding="base64">XDxVUERBVEVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbJ3JlcXVlc3Q6dXNlcicsICcqJ10sCg==</text>
+        <text encoding="base64">ICBpdCgnbWFwcyBlbnRpdHkuVVBEQVRFIHRvIHJlcXVlc3Q6ZW50aXR5IGFuZCBlbnRpdHknLCAoKSA9PiB7CiAgICBzdHViID0gc2lub24uc3R1YihjYWNoZSwgJ2ludmFsaWRhdGUnKTsKICAgIGludlNlcnZpY2UuaW52YWxpZGF0ZSgndXNlci5VUERBVEUnLCB7IGlkOiAnMTIzJyB9KTsKICAgIGFzc2VydC5kZWVwRXF1YWwoc3R1Yi5hcmdzLCBbCiAgICAgIFsndXNlcicsICcxMjMnXSwKICAgICAgWydyZXF1ZXN0OnVzZXInLCAnKiddLAogICAgXSk7CiAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VudGl0eScsIGVudGl0eSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2808,28 +2820,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSgna2V5TWFwcGluZ3MnLCAoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgWydyZXF1ZXN0OnVzZXInLCAnKiddLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZGVzY3JpYmUoJ3BheWxvYWRUb0tleU1hcEZucycsICgpID0+IHsKCiAgfSk7Cg==</text>
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0ibW9kdWxlcy93aGVuL2luZGV4LmQudHMiIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IENhY2hlTWFuYWdlciBmcm9tICcuL0NhY2hlTWFuYWdlcic7Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAga2V5TWFwcGluZ3NbMF07Cg==</text>
+        <text encoding="base64">ICBkZXNjcmliZSgna2V5TWFwcGluZ3MnLCAoKSA9PiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZGVzY3JpYmUoJ3BheWxvYWRUb0tleU1hcEZucycsICgpID0+IHsKCiAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IENhY2hlTWFuYWdlciBmcm9tICcuL0NhY2hlTWFuYWdlcic7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJ2tleU1hcHBpbmdzJywgKCkgPT4gewogIGl0KCdtYXBzIGVudGl0aWVzIHRvIHJlcXVlc3Q6ZW50aXR5JywgKCkgPT4gewogICAga2V5TWFwcGluZ3NbMF07CiAgfSk7Cn0pOwoKZGVzY3JpYmUoJ3BheWxvYWRUb0tleU1hcEZucycsICgpID0+IHsKCn0pOwoK</text>
+        <text encoding="base64">ICAgICAga2V5TWFwcGluZ3NbMF07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4uJywgY29uZmlnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -2839,18 +2851,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWNoZVw+</last-search>
+      <last-search encoding="base64">XDxVUERBVEVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWNoZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxVUERBVEVcPg==</last-pattern>
       <last-replace>Get</last-replace>
       <last-substitute>Has</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxib29sZWFuXD4=</entry>
-        <entry>Has</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry>has</entry>
         <entry encoding="base64">XDx0YWtlXD4=</entry>
@@ -2869,6 +2879,8 @@
         <entry encoding="base64">XDxrZXlQcmVmaXhcPg==</entry>
         <entry encoding="base64">XDxDYWNoZU1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxjYWNoZVw+</entry>
+        <entry>when</entry>
+        <entry encoding="base64">XDxVUERBVEVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>51</entry>
