@@ -75,6 +75,12 @@
         <mark key="^" line="76" column="17" />
         <mark key="." line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-router/package.json" timestamp="1472721011650">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="50" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/bs-api-cache/package.json" timestamp="1472715379834">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -200,6 +206,12 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-router/test/lib/middleware/middlewareInitializer.js" timestamp="1472720877311">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/data-api-server/server/middleware/routeMiddleware/extensions/json.js" timestamp="1464688598256">
         <mark key="[" line="2" column="61" />
         <mark key="]" line="2" column="64" />
@@ -307,6 +319,11 @@
         <mark key="]" line="2" column="38" />
         <mark key="." line="2" column="38" />
         <mark key="^" line="2" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/router.js" timestamp="1472720386992">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/dev/data-sdk-server/config/defaults/database.js" timestamp="1448816600211">
         <mark key="[" line="7" column="1" />
@@ -1103,10 +1120,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/securedBy/oauth_2_0.js" timestamp="1472718146479">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/securedBy/oauth_2_0.js" timestamp="1472721190231">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="29" />
       </file>
       <file name="$USER_HOME$/dev/data-sdk-server/server/middleware/json.js" timestamp="1447670598949">
         <mark key="[" line="3" column="18" />
@@ -1192,6 +1210,11 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="13" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-api/package.json" timestamp="1472719096641">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/server/services/Auth/utils.ts" timestamp="1469903016484">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="11" />
@@ -1209,13 +1232,6 @@
         <mark key="]" line="39" column="10" />
         <mark key="^" line="39" column="10" />
         <mark key="." line="39" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/RAML/api.raml" timestamp="1472717487998">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="117" column="15" />
-        <mark key="]" line="117" column="25" />
-        <mark key="." line="117" column="25" />
-        <mark key="^" line="117" column="25" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/make-docs/package.json" timestamp="1454252634779">
         <mark key="[" line="26" column="0" />
@@ -1689,7 +1705,8 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" timestamp="1472225069812">
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" timestamp="1472720033580">
+        <mark key="'" line="195" column="4" />
         <mark key="[" line="42" column="2" />
         <mark key="]" line="42" column="2" />
         <mark key="." line="42" column="2" />
@@ -1979,6 +1996,11 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-router/src/RAMLRouter.js" timestamp="1472720793740">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/bs-api-errors/src/authentication.spec.js" timestamp="1468319244344">
         <mark key="[" line="22" column="28" />
         <mark key="]" line="22" column="28" />
@@ -2203,12 +2225,11 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/annotations/cached.js" timestamp="1472718457922">
-        <mark key="'" line="96" column="17" />
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-        <mark key="^" line="2" column="29" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/annotations/cached.js" timestamp="1472719204362">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/dataSchemas/UserUpdate.raml" timestamp="1469803560428">
         <mark key="[" line="3" column="0" />
@@ -2451,6 +2472,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="13" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/validateBody.js" timestamp="1472719689617">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="68" />
+        <mark key="^" line="8" column="65" />
+        <mark key="." line="8" column="65" />
+      </file>
       <file name="$USER_HOME$/dev/data-api-server/server/services/Auth/User/UserModel.js" timestamp="1469001655025">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2552,8 +2579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="40" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
-      <jump line="62" column="13" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
       <jump line="75" column="6" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
       <jump line="76" column="16" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
       <jump line="77" column="6" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
@@ -2652,6 +2677,8 @@
       <jump line="25" column="30" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/annotations/cached.js" />
       <jump line="95" column="17" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/annotations/cached.js" />
       <jump line="21" column="125" filename="$USER_HOME$/dev/bs-api-error/package.json" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/annotations/cached.js" />
+      <jump line="195" column="4" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2702,19 +2729,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LS1yZXF1aXJlIGJhYmVsLXBvbHlmaWxsIA==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LS1yZXF1aXJlIGJhYmVsLXBvbHlmaWxsIA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>babel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3RvcmVDb25maWc6IEpvaS5vYmplY3QoKSwK</text>
+        <text encoding="base64">ICogQHJldHVybnMge2Z1bmN0aW9uKGNvbmZpZyk6IGZ1bmN0aW9uKG1ldGhvZCk6IGZ1bmN0aW9uKHJlcSwgcmVzKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBVVRIPz8nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2739,28 +2766,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLi4nLCBjb25maWcpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXN0LnZlcnNpb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLi4nLCBTZXJ2ZXIsIFNlcnZlci5pbnN0YW5jZSk7Cg==</text>
+        <text encoding="base64">ICByYW1sLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnlQYXJhbWV0ZXJzOgogICAgICAgIGtleToKICAgICAgICAgIGRlc2NyaXB0aW9uOiAnQ2xlYXIga2V5cyBtYXRjaGluZyBwYXR0ZXJuLiBVc2UgIkFMTCIgdG8gY2xlYXIgYWxsIGtleXMnCiAgICAgICAgICBleGFtcGxlOiAvcmVzb3VyY2VzLyoKICAgICAgICAgIHR5cGU6IHN0cmluZwogICAgL3tncm91cH06CiAgICAgIGRlc2NyaXB0aW9uOiBDbGVhciBhbGwgY2FjaGVzIGZvciBhIGdyb3VwIG9yIGp1c3Qgb25lIHdpdGggcGF0aCA/a2V5PS9yZXNvdXJjZXMvKgogICAgICB1cmlQYXJhbWV0ZXJzOgogICAgICAgIGdyb3VwOgogICAgICAgICAgZXhhbXBsZTogdXNlci5wZXJtaXNzaW9ucwogICAgICAgICAgdHlwZTogc3RyaW5nCiAgICAgIGdldDoKICAgICAgICBpczoKICAgICAgICAgIC0gU2VjdXJlZAogICAgICAgIHF1ZXJ5UGFyYW1ldGVyczoKICAgICAgICAgIGtleToKICAgICAgICAgICAgZGVzY3JpcHRpb246ICdDbGVhciBrZXlzIG1hdGNoaW5nIHBhdHRlcm4uIFVzZSAiQUxMIiB0byBjbGVhciBhbGwga2V5cycKICAgICAgICAgICAgZXhhbXBsZTogL3Jlc291cmNlcy8qCiAgICAgICAgICAgIHR5cGU6IHN0cmluZwogICAgICAgIChjb250cm9sbGVyKToKICAgICAgICAgIHBhdGg6ICdzZXJ2ZXIuY29udHJvbGxlcnMuYWRtaW4uY2xlYXJDYWNoZScK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4uJywgY29uZmlnLCBhdXRoQ29uZmlnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICB9IGVsc2UgaWYgKGdyb3VwID09PSAnbW9uaXRvcnMnKSB7CiAgICAgIC8vIFNwZWNpYWwgY2FzZSBtb25pdG9ycyBhcmUgbm90IGluIHJlZGlzCiAgICAgIGlmIChyZXEucXVlcnkua2V5KSB7CiAgICAgICAgYXdhaXQgdXBkYXRlTW9uaXRvcnMocmVxLnF1ZXJ5LmtleSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgYXdhaXQgdXBkYXRlTW9uaXRvcnMoKTsKICAgICAgfQoKICAgIH0gZWxzZSBpZiAoZ3JvdXAgPT09ICdhY2NvdW50c19yb3V0ZXMnKSB7CiAgICAgIGF3YWl0IGFjY291bnRzUm91dGVzLnVwZGF0ZSgpOwoKICAgIH0gZWxzZSB7CiAgICAgIC8vIEhhbmRsZSByZWRpcyBjYWNoZXMKICAgICAgbGV0IGtleSA9ICcqJzsKICAgICAgaWYgKHJlcS5xdWVyeS5rZXkpIHsKICAgICAgICBrZXkgPSByZXEucXVlcnkua2V5ICsgJyonOwogICAgICB9CgogICAgICBhd2FpdCBTZXJ2ZXIuaW5zdGFuY2UuY2FjaGUuaW52YWxpZGF0ZShncm91cCwga2V5KTsKICAgIH0KCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gQ2xlYXIgZXZlcnl0aGluZwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghZ3JvdXApIHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICogQHJldHVybnMge2Z1bmN0aW9uKCk6IGZ1bmN0aW9uKCl9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNhc2UgJ3Byb3BlcnRpZXMnOgogICAgICByZXR1cm4gbWQ1SGFzaChKU09OLnN0cmluZ2lmeShyZXEuYm9keSkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJicy1iYXNlLWVycm9yIjogIl4xLjIuMCIsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXEucXVlcnkua2V5ID09PSAnQUxMJykgcmVxLnF1ZXJ5LmtleSA9IG51bGw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJhc2VFcnJvciBmcm9tICdicy1iYXNlLWVycm9yJzsKCmNsYXNzIFVzZXJSZXF1aXJlZCBleHRlbmRzIEJhc2VFcnJvciB7CiAgY29uc3RydWN0b3IgKG1lc3NhZ2U9J0F1dGhvcicpIHsKICAgIAogIH0KfQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -2776,7 +2803,7 @@
       <last-replace>Get</last-replace>
       <last-substitute>Has</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
