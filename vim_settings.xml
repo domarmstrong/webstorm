@@ -2518,12 +2518,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" timestamp="1472801819672">
+      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" timestamp="1472802970066">
         <mark key="'" line="167" column="8" />
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="44" />
-        <mark key="^" line="6" column="44" />
-        <mark key="." line="6" column="44" />
+        <mark key="[" line="192" column="45" />
+        <mark key="]" line="192" column="45" />
+        <mark key="^" line="192" column="45" />
+        <mark key="." line="192" column="45" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/validateBody.js" timestamp="1472719689617">
         <mark key="[" line="8" column="0" />
@@ -2597,11 +2597,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1472801443407">
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="32" column="31" />
-        <mark key="^" line="32" column="31" />
-        <mark key="." line="32" column="31" />
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1472803117883">
+        <mark key="[" line="34" column="3" />
+        <mark key="]" line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="34" column="3" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-dashboards/client/src/app/components/home/views/home.tpl.html" timestamp="1443556320271">
         <mark key="[" line="5" column="132" />
