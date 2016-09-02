@@ -81,11 +81,11 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1472821969722">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1472823333717">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="42" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-cache/package.json" timestamp="1472809369692">
         <mark key="[" line="45" column="26" />
@@ -140,11 +140,11 @@
         <mark key="." line="10" column="50" />
         <mark key="^" line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/constants.ts" timestamp="1470075672794">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="29" />
+      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/constants.ts" timestamp="1472823127411">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="30" />
+        <mark key="^" line="6" column="30" />
+        <mark key="." line="6" column="30" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-brain/package.json" timestamp="1469550620318">
         <mark key="[" line="1" column="24" />
@@ -1489,10 +1489,11 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/package.json" timestamp="1472822442360">
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="23" />
-        <mark key="." line="32" column="23" />
+      <file name="$USER_HOME$/dev/app-nest-api-auth/package.json" timestamp="1472823457759">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="23" />
+        <mark key="." line="37" column="23" />
+        <mark key="^" line="37" column="23" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/cron_jobs/resetPmxCounters.js" timestamp="1468332209098">
         <mark key="[" line="0" column="26" />
@@ -2866,20 +2867,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIjEuOC4xMCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">eyByZXR1cm4g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbnZhbGlkYXRpb25TZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iZ2xvYmFscy9jaGFpL2luZGV4LmQudHMiIC8+Cg==</text>
+        <text encoding="base64">ICAgIHJhYmJpdE1ROiAnYW1xcDovL2FtcXA6YW1xcEBtcTIxLmRldi5icy5sYW4nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgWyd1c2VyJywgJzEyMyddLAo=</text>
+        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIjEuOC4xMCIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2904,28 +2905,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgWyd1c2VyJywgJzEyMyddLAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgaXQoJ2lnbm9yZXMgdW53YW50ZWQga2V5cycsIGFzeW5jICgpID0+IHsKICAgIHN0dWIgPSBzaW5vbi5zdHViKGNhY2hlLCAnaW52YWxpZGF0ZScsICgpID0+IFByb21pc2UucmVzb2x2ZSgpKTsKICAgIGF3YWl0IGludlNlcnZpY2UuaW52YWxpZGF0ZSgnZ3JhcGhOb2RlLkRFTEVURScsIHsgaWQ6ICcxMjMnIH0pOwogICAgYXNzZXJ0LmRlZXBFcXVhbChzdHViLmFyZ3MsIFtdKTsKICB9KTsKCiAgaXQoJ21hcHMgQ1JFQVRFIHRvIHJlcXVlc3Q6cGx1cmFsJywgYXN5bmMgKCkgPT4gewogICAgc3R1YiA9IHNpbm9uLnN0dWIoY2FjaGUsICdpbnZhbGlkYXRlJywgKCkgPT4gUHJvbWlzZS5yZXNvbHZlKCkpOwogICAgYXdhaXQgaW52U2VydmljZS5pbnZhbGlkYXRlKCd1c2VyLkNSRUFURScsIHsgaWQ6ICcxMjMnIH0pOwogICAgYXNzZXJ0LmRlZXBFcXVhbChzdHViLmFyZ3MsIFsKICAgICAgWydyZXF1ZXN0OnVzZXJzJywgJyonXSwKICAgIF0pOwogIH0pOwoKICBpdCgnbWFwcyBVUERBVEUgdG8gcmVxdWVzdDpwbHVyYWwnLCBhc3luYyAoKSA9PiB7CiAgICBzdHViID0gc2lub24uc3R1YihjYWNoZSwgJ2ludmFsaWRhdGUnLCAoKSA9PiBQcm9taXNlLnJlc29sdmUoKSk7CiAgICBhd2FpdCBpbnZTZXJ2aWNlLmludmFsaWRhdGUoJ3VzZXIuVVBEQVRFJywgeyBpZDogJzEyMycgfSk7CiAgICBhc3NlcnQuZGVlcEVxdWFsKHN0dWIuYXJncywgWwogICAgICBbJ3JlcXVlc3Q6dXNlcnMnLCAnKiddLAogICAgXSk7CiAgfSk7CgogIGl0KCdtYXBzIERFTEVURSB0byByZXF1ZXN0OnBsdXJhbCcsIGFzeW5jICgpID0+IHsKICAgIHN0dWIgPSBzaW5vbi5zdHViKGNhY2hlLCAnaW52YWxpZGF0ZScsICgpID0+IFByb21pc2UucmVzb2x2ZSgpKTsKICAgIGF3YWl0IGludlNlcnZpY2UuaW52YWxpZGF0ZSgndXNlci5ERUxFVEUnLCB7IGlkOiAnMTIzJyB9KTsKICAgIGFzc2VydC5kZWVwRXF1YWwoc3R1Yi5hcmdzLCBbCiAgICAgIFsncmVxdWVzdDp1c2VycycsICcqJ10sCiAgICBdKTsKICB9KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgWydyZXF1ZXN0OmFwcGxpY2F0aW9ucycsICcqJ10sCg==</text>
+        <text encoding="base64">ICAgICAgWyd1c2VyJywgJzEyMyddLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgWydyZXF1ZXN0OmJyYW5kLWdyb3VwcycsICcqJ10sCg==</text>
+        <text encoding="base64">ICAgICAgWyd1c2VyJywgJzEyMyddLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgaXQoJ2lnbm9yZXMgdW53YW50ZWQga2V5cycsIGFzeW5jICgpID0+IHsKICAgIHN0dWIgPSBzaW5vbi5zdHViKGNhY2hlLCAnaW52YWxpZGF0ZScsICgpID0+IFByb21pc2UucmVzb2x2ZSgpKTsKICAgIGF3YWl0IGludlNlcnZpY2UuaW52YWxpZGF0ZSgnZ3JhcGhOb2RlLkRFTEVURScsIHsgaWQ6ICcxMjMnIH0pOwogICAgYXNzZXJ0LmRlZXBFcXVhbChzdHViLmFyZ3MsIFtdKTsKICB9KTsKCiAgaXQoJ21hcHMgQ1JFQVRFIHRvIHJlcXVlc3Q6cGx1cmFsJywgYXN5bmMgKCkgPT4gewogICAgc3R1YiA9IHNpbm9uLnN0dWIoY2FjaGUsICdpbnZhbGlkYXRlJywgKCkgPT4gUHJvbWlzZS5yZXNvbHZlKCkpOwogICAgYXdhaXQgaW52U2VydmljZS5pbnZhbGlkYXRlKCd1c2VyLkNSRUFURScsIHsgaWQ6ICcxMjMnIH0pOwogICAgYXNzZXJ0LmRlZXBFcXVhbChzdHViLmFyZ3MsIFsKICAgICAgWydyZXF1ZXN0OnVzZXJzJywgJyonXSwKICAgIF0pOwogIH0pOwoKICBpdCgnbWFwcyBVUERBVEUgdG8gcmVxdWVzdDpwbHVyYWwnLCBhc3luYyAoKSA9PiB7CiAgICBzdHViID0gc2lub24uc3R1YihjYWNoZSwgJ2ludmFsaWRhdGUnLCAoKSA9PiBQcm9taXNlLnJlc29sdmUoKSk7CiAgICBhd2FpdCBpbnZTZXJ2aWNlLmludmFsaWRhdGUoJ3VzZXIuVVBEQVRFJywgeyBpZDogJzEyMycgfSk7CiAgICBhc3NlcnQuZGVlcEVxdWFsKHN0dWIuYXJncywgWwogICAgICBbJ3JlcXVlc3Q6dXNlcnMnLCAnKiddLAogICAgXSk7CiAgfSk7CgogIGl0KCdtYXBzIERFTEVURSB0byByZXF1ZXN0OnBsdXJhbCcsIGFzeW5jICgpID0+IHsKICAgIHN0dWIgPSBzaW5vbi5zdHViKGNhY2hlLCAnaW52YWxpZGF0ZScsICgpID0+IFByb21pc2UucmVzb2x2ZSgpKTsKICAgIGF3YWl0IGludlNlcnZpY2UuaW52YWxpZGF0ZSgndXNlci5ERUxFVEUnLCB7IGlkOiAnMTIzJyB9KTsKICAgIGFzc2VydC5kZWVwRXF1YWwoc3R1Yi5hcmdzLCBbCiAgICAgIFsncmVxdWVzdDp1c2VycycsICcqJ10sCiAgICBdKTsKICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgWydyZXF1ZXN0OmFwcGxpY2F0aW9ucycsICcqJ10sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcGx1cmFsaXplIGZyb20gJ3BsdXJhbGl6ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgWydyZXF1ZXN0OmJyYW5kLWdyb3VwcycsICcqJ10sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaHlwaGVuYXRlIH0gZnJvbSAnYnMtYXBpLW1hcGtleXMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
