@@ -321,6 +321,9 @@
         <mark key="]" line="35" column="25" />
         <mark key="." line="35" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/bs-api-cache/src/CacheManager.ts" timestamp="1472726576125">
+        <mark key="'" line="14" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/dataSchemas/ClientUpdate.raml" timestamp="1469803985480">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="3" column="15" />
@@ -1446,6 +1449,9 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
         <mark key="^" line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Nest/User/User.ts" timestamp="1472816275273">
+        <mark key="'" line="13" column="8" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/RAML/annotationTypes/route-middleware.raml" timestamp="1465665031711">
         <mark key="[" line="7" column="0" />
@@ -2671,6 +2677,9 @@
         <mark key="^" line="38" column="26" />
         <mark key="." line="38" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/QueryObject.ts" timestamp="1472224907817">
+        <mark key="'" line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/data-api-server/server/database.js" timestamp="1463866793448">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -2691,9 +2700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="20" filename="$USER_HOME$/dev/bs-api-cache/typings/globals/amqp/index.d.ts" />
-      <jump line="0" column="12" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="166" column="8" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="118" column="33" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="185" column="12" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="65" column="11" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
@@ -2791,6 +2797,9 @@
       <jump line="135" column="4" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
       <jump line="223" column="7" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
       <jump line="42" column="19" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Nest/User/User.ts" />
+      <jump line="14" column="18" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Nest/User/User.ts" />
+      <jump line="13" column="8" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Nest/User/User.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2847,7 +2856,7 @@
         <text>UPDATE</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text encoding="base64">XDxnZXRCeVVzZXJuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpdCgnbWFwcyBVUERBVEUgdG8gcmVxdWVzdDpwbHVyYWwnLCBhc3luYyAoKSA9PiB7CiAgICBzdHViID0gc2lub24uc3R1YihjYWNoZSwgJ2ludmFsaWRhdGUnLCAoKSA9PiBQcm9taXNlLnJlc29sdmUoKSk7CiAgICBhd2FpdCBpbnZTZXJ2aWNlLmludmFsaWRhdGUoJ3VzZXIuVVBEQVRFJywgeyBpZDogJzEyMycgfSk7CiAgICBhc3NlcnQuZGVlcEVxdWFsKHN0dWIuYXJncywgWwogICAgICBbJ3JlcXVlc3Q6dXNlcnMnLCAnKiddLAogICAgXSk7CiAgfSk7Cg==</text>
@@ -2909,9 +2918,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cache</last-search>
+      <last-search encoding="base64">XDxnZXRCeVVzZXJuYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRCeVVzZXJuYW1lXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2919,7 +2928,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbnZhbGlkYXRpb25TZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxzaW5vblw+</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
         <entry>data</entry>
@@ -2939,6 +2947,7 @@
         <entry>console</entry>
         <entry>log</entry>
         <entry>cache</entry>
+        <entry encoding="base64">XDxnZXRCeVVzZXJuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
