@@ -128,6 +128,9 @@
         <mark key="." line="18" column="62" />
         <mark key="^" line="18" column="60" />
       </file>
+      <file name="$USER_HOME$/dev/bs-api-request/typings/globals/superagent/index.d.ts" timestamp="1473411484702">
+        <mark key="'" line="15" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/dataSchemas/Licence.raml" timestamp="1469692711815">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="7" column="16" />
@@ -563,6 +566,12 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/bs-api-request/package.json" timestamp="1473410552371">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="23" column="25" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/data-api-server/server/controllers/testCSV.js" timestamp="1468231038213">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
@@ -636,9 +645,9 @@
         <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-log/package.json" timestamp="1468591614328">
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="21" />
+      <file name="$USER_HOME$/dev/bs-api-log/package.json" timestamp="1473410547015">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="32" />
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="21" />
       </file>
@@ -801,6 +810,13 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/bs-api-request/src/request.ts" timestamp="1473411979609">
+        <mark key="'" line="105" column="8" />
+        <mark key="[" line="164" column="31" />
+        <mark key="]" line="164" column="44" />
+        <mark key="^" line="164" column="44" />
+        <mark key="." line="164" column="44" />
+      </file>
       <file name="$USER_HOME$/dev/data-api-server/config/test.js" timestamp="1458568947595">
         <mark key="[" line="9" column="2" />
         <mark key="]" line="10" column="2" />
@@ -944,6 +960,12 @@
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-api-log/README.md" timestamp="1473409991226">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/resourceTypes/SecuredCollection.raml" timestamp="1469637944463">
         <mark key="[" line="0" column="0" />
@@ -1106,6 +1128,13 @@
         <mark key="]" line="65" column="0" />
         <mark key="^" line="90" column="10" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" timestamp="1473410711078">
+        <mark key="'" line="24" column="9" />
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="46" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="11" column="46" />
       </file>
       <file name="$USER_HOME$/dev/bs-reformat/test/queryFunctions/rename.js" timestamp="1444588491295">
         <mark key="[" line="28" column="47" />
@@ -2084,6 +2113,11 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/bs-api-request/typings.json" timestamp="1473410052070">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/bs-reformat/test/data/a.js" timestamp="1444154416684">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="8" />
@@ -2428,6 +2462,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="1" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" timestamp="1473410443900">
+        <mark key="'" line="513" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1472822355726">
         <mark key="'" line="11" column="21" />
         <mark key="[" line="37" column="33" />
@@ -2768,6 +2805,12 @@
         <mark key="." line="17" column="37" />
         <mark key="^" line="17" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/bs-api-request/src/request.js" timestamp="1473410118319">
+        <mark key="'" line="86" column="19" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-dashboards/client/src/app/components/home/views/home.tpl.html" timestamp="1443556320271">
         <mark key="[" line="5" column="132" />
         <mark key="]" line="5" column="133" />
@@ -2803,66 +2846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="202" column="2" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="46" column="42" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="79" column="15" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="87" column="67" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="71" column="32" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="90" column="35" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="92" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="95" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="36" column="27" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/bs-api-cache/typings/modules/lodash.debounce/index.d.ts" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/bs-api-cache/typings/modules/lodash.debounce/index.d.ts" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/bs-api-cache/typings/modules/lodash.debounce/index.d.ts" />
-      <jump line="217" column="8" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="225" column="25" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="49" column="1" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="227" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="235" column="27" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="89" column="9" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="234" column="18" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="63" column="10" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="252" column="4" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="242" column="12" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="72" column="43" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="239" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="254" column="43" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="226" column="36" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="51" column="8" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="34" column="6" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="101" column="14" filename="$USER_HOME$/dev/bs-raml-api/src/Server.js" />
-      <jump line="26" column="2" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.js" />
-      <jump line="95" column="33" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.js" />
-      <jump line="3" column="36" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.js" />
-      <jump line="96" column="57" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.js" />
-      <jump line="50" column="43" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="135" column="4" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="223" column="7" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="42" column="19" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Nest/User/User.ts" />
-      <jump line="14" column="18" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Nest/User/User.ts" />
-      <jump line="13" column="8" filename="$USER_HOME$/dev/app-nest-api-auth/src/server/services/Nest/User/User.ts" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="1" column="9" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="6" column="18" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="11" column="21" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="126" column="43" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/bs-raml-api/RAML/annotationTypes/cached.raml" />
-      <jump line="25" column="10" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/annotations/cached.js" />
-      <jump line="84" column="14" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
-      <jump line="175" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
-      <jump line="191" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
-      <jump line="230" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
-      <jump line="262" column="9" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
-      <jump line="304" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
-      <jump line="306" column="7" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
-      <jump line="40" column="19" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
-      <jump line="42" column="8" filename="$USER_HOME$/dev/bs-api-mapkeys/lib/mapKeys.js" />
-      <jump line="77" column="9" filename="$USER_HOME$/dev/bs-api-mapkeys/lib/mapKeys.js" />
-      <jump line="65" column="10" filename="$USER_HOME$/dev/bs-api-mapkeys/lib/mapKeys.js" />
-      <jump line="43" column="66" filename="$USER_HOME$/dev/bs-api-mapkeys/lib/mapKeys.js" />
       <jump line="153" column="24" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
       <jump line="6" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/app-nest-api-data/config/defaults/cacheInvalidationMappings.js" />
@@ -2903,6 +2886,66 @@
       <jump line="51" column="6" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="47" column="2" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/app-nest-api-data/server/cron_jobs/updateMonitors.js" />
+      <jump line="34" column="18" filename="$USER_HOME$/dev/bs-api-request/package.json" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/bs-api-request/package.json" />
+      <jump line="21" column="5" filename="$USER_HOME$/dev/bs-api-request/package.json" />
+      <jump line="66" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.js" />
+      <jump line="11" column="7" filename="$USER_HOME$/dev/bs-api-request/src/request.js" />
+      <jump line="87" column="19" filename="$USER_HOME$/dev/bs-api-request/src/request.js" />
+      <jump line="511" column="0" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
+      <jump line="513" column="4" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
+      <jump line="10" column="2" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
+      <jump line="11" column="16" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
+      <jump line="13" column="8" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
+      <jump line="24" column="9" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
+      <jump line="19" column="6" filename="$USER_HOME$/dev/bs-api-request/typings/globals/superagent/index.d.ts" />
+      <jump line="74" column="6" filename="$USER_HOME$/dev/bs-api-request/typings/globals/superagent/index.d.ts" />
+      <jump line="86" column="6" filename="$USER_HOME$/dev/bs-api-request/typings/globals/superagent/index.d.ts" />
+      <jump line="70" column="17" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="88" column="37" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="61" column="13" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="13" column="37" filename="$USER_HOME$/dev/bs-api-request/typings/globals/superagent/index.d.ts" />
+      <jump line="15" column="26" filename="$USER_HOME$/dev/bs-api-request/typings/globals/superagent/index.d.ts" />
+      <jump line="79" column="21" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="137" column="58" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="4" column="63" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="10" column="12" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="29" column="44" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="30" column="41" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="38" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="42" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="46" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="50" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="54" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="58" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="67" column="2" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="111" column="30" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="112" column="7" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="113" column="7" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="114" column="4" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="116" column="2" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="119" column="29" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="120" column="7" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="121" column="6" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="122" column="37" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="18" column="26" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="23" column="2" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="73" column="9" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="76" column="8" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="3" column="42" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="24" column="2" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="74" column="9" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="77" column="15" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="99" column="28" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="95" column="4" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="139" column="3" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="132" column="9" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="83" column="8" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="100" column="8" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="105" column="8" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2952,20 +2995,27 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmxvZy5pbmZvKHsgdXNlciB9LCBgJHtyZXF1ZXN0Lm1ldGhvZH0gJHtyZXF1ZXN0LnVybH0gJHtyZXF1ZXN0LnN0YXR1c19jb2RlfSAoJHtyZXF1ZXN0LnRpbWVfdGFrZW59bXMpYCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>concurrent_requests</text>
       </register>
       <register name="-" type="4">
-        <text>[level]</text>
+        <text>concurrent_requests</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</text>
+        <text encoding="base64">XDxsb2dUaW1lVG9Db21wbGV0ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLmxvZ1tsZXZlbF0oeyB1c2VyIH0sIGAke3JlcXVlc3QubWV0aG9kfSR7cmVxdWVzdC5xdWVyeX0gJHtyZXF1ZXN0LnVybH0gJHtyZXF1ZXN0LnN0YXR1c19jb2RlfSAoJHtyZXF1ZXN0LnRpbWVfdGFrZW59bXMpYCk7Cg==</text>
+      <register name="0" type="4">
+        <text>{
+     *   req: 'Optional {Object} Express request (adds pending_http_requests)',
+     *   body: '{Object} for POST, PUT, PATCH',
+     *   query: '{Object}',
+     *   accept: '{String}',
+     *   type: '{String} for POST, PUT, PATCH',
+     *   bearer: '{String} used for auth. eg &quot;Bearer foobar&quot;',
+     * }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmxvZy5pbmZvKHsgdXNlciB9LCBgJHtyZXF1ZXN0Lm1ldGhvZH0gJHtyZXF1ZXN0LnVybH0gJHtyZXF1ZXN0LnN0YXR1c19jb2RlfSAoJHtyZXF1ZXN0LnRpbWVfdGFrZW59bXMpYCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtTdXBlckFnZW50UmVxdWVzdH0gZnJvbSAnc3VwZXJhZ2VudCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2990,47 +3040,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcmVxdWVzdFJ1bgo=</text>
+        <text encoding="base64">ICBhY2NlcHQ6IHN0cmluZzsgLy8gJ3tTdHJpbmd9JywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgXSh1cmkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIExpc3RlbiBmb3IgaW52YWxpZGF0aW9uIGV2ZW50cyBhbmQgdHJpZ2dlciBtb25pdG9yIHVwZGF0ZQogKi8Kc2VydmVyLm9uKCdzdGFydCcsICgpID0+IHsKICBzZXJ2ZXIuY2FjaGVJbnZhbGlkYXRvci5vbignaW52YWxpZGF0ZScsIChwYXlsb2FkKSA9PiB7CiAgICBpZiAocGF5bG9hZC5ncm91cCA9PT0gJ21vbml0b3InKSB7CiAgICAgIHVwZGF0ZU1vbml0b3JzKCkKICAgICAgICAuY2F0Y2goZXJyID0+IHNlcnZlci5sb2cuZXJyb3IoZXJyKSk7CiAgICB9CiAgfSk7Cn0pOwoK</text>
+        <text encoding="base64">ICAgICAgbWV0aG9kLnRvTG93ZXJDYXNlKCkucmVwbGFjZSgnZGVsZXRlJywgJ2RlbCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiAgIHJlcTogJ09wdGlvbmFsIHtPYmplY3R9IEV4cHJlc3MgcmVxdWVzdCAoYWRkcyBwZW5kaW5nX2h0dHBfcmVxdWVzdHMpJywKICAgKiAgIGJvZHk6ICd7T2JqZWN0fSBmb3IgUE9TVCwgUFVULCBQQVRDSCcsCiAgICogICBxdWVyeTogJ3tPYmplY3R9JywKICAgKiAgIGFjY2VwdDogJ3tTdHJpbmd9JywKICAgKiAgIHR5cGU6ICd7U3RyaW5nfSBmb3IgUE9TVCwgUFVULCBQQVRDSCcsCiAgICogICBiZWFyZXI6ICd7U3RyaW5nfSB1c2VkIGZvciBhdXRoLiBlZyAiQmVhcmVyIGZvb2JhciInLAogICAqIH19Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2VydmVyLm9uKCdzdGFydCcsICgpID0+IHsKICBzZXJ2ZXIuY2FjaGVJbnZhbGlkYXRvci5vbignaW52YWxpZGF0ZScsIChwYXlsb2FkKSA9PiB7CiAgICBpZiAocGF5bG9hZC5ncm91cCA9PT0gJ21vbml0b3InKSB7CiAgICAgIHVwZGF0ZU1vbml0b3JzKCkKICAgICAgICAuY2F0Y2goZXJyID0+IHNlcnZlci5sb2cuZXJyb3IoZXJyKSk7CiAgICB9CiAgfSk7Cn0pOwoK</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdJUyBSVU5OSU5HJyk7Cg==</text>
+        <text encoding="base64">ICBtZXRob2QodHlwZTogTWV0aG9kLCAuLi5hcmdzOiBBcmdzKTogUHJvbWlzZTxSZXNwb25zZT4gewogICAgc3dpdGNoICh0eXBlLnRvVXBwZXJDYXNlKCkpIHsKICAgICAgY2FzZSAnR0VUJzoKICAgICAgICByZXR1cm4gdGhpcy5nZXQoLi4uYXJncyk7CiAgICB9CiAgfSwKCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBbXQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -3040,36 +3071,36 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</last-search>
+      <last-search encoding="base64">XDxsb2dUaW1lVG9Db21wbGV0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dUaW1lVG9Db21wbGV0ZVw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cache\c</entry>
-        <entry encoding="base64">XDxJbnZhbGlkYXRpb25TZXJ2aWNlXD4=</entry>
-        <entry>updateMo</entry>
-        <entry encoding="base64">XDxrZXlIYXNoXD4=</entry>
-        <entry>cached</entry>
-        <entry encoding="base64">XDxjYWNoZWRcPg==</entry>
-        <entry encoding="base64">XDxtYXBPYmplY3RLZXlzXD4=</entry>
-        <entry>mapKeys</entry>
-        <entry encoding="base64">XDx0b1NuYWtlQ2FzZVw+</entry>
-        <entry>group</entry>
-        <entry encoding="base64">XDxncm91cFw+</entry>
-        <entry>update</entry>
-        <entry>save</entry>
-        <entry encoding="base64">XDxzYXZlTW9uaXRvcnNcPg==</entry>
-        <entry encoding="base64">XDxjYWNoZVw+</entry>
-        <entry>cache</entry>
-        <entry encoding="base64">XDxkZWJvdW5jZUludmFsaWRhdGVcPg==</entry>
         <entry>consol</entry>
         <entry encoding="base64">XDxMb2dcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</entry>
+        <entry>babel</entry>
+        <entry encoding="base64">XDxibHVlYmlyZFw+</entry>
+        <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
+        <entry encoding="base64">XDxib2xkXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVFcnJvclw+</entry>
+        <entry encoding="base64">XDxwcmV0dHlMb2dFcnJcPg==</entry>
+        <entry encoding="base64">XDxnZXRcPg==</entry>
+        <entry>GET</entry>
+        <entry>method</entry>
+        <entry encoding="base64">XDxNRVRIT0RcPg==</entry>
+        <entry encoding="base64">XDxTdXBlckFnZW50UmVxdWVzdFw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
+        <entry encoding="base64">XDxyZXFcPg==</entry>
+        <entry encoding="base64">XDxhdHRhY2hQZW5kaW5nUmVxdWVzdFw+</entry>
+        <entry encoding="base64">XDxsb2dUaW1lVGFrZW5cPg==</entry>
+        <entry encoding="base64">XDxsb2dUaW1lVG9Db21wbGV0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
@@ -3088,8 +3119,8 @@
         <entry>%s/\/defin\?\//\/definition\//</entry>
         <entry>%s/\/defin\?\//\/definitions\//</entry>
         <entry encoding="base64">JzwsJz5zL0hhcy9HZXQ=</entry>
-        <entry>x</entry>
         <entry>%s/&quot;/'/g</entry>
+        <entry>x</entry>
         <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
