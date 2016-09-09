@@ -1134,11 +1134,12 @@
         <mark key="^" line="90" column="10" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" timestamp="1473413355661">
+      <file name="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" timestamp="1473413510632">
         <mark key="'" line="18" column="16" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="74" column="35" />
+        <mark key="]" line="74" column="37" />
+        <mark key="." line="74" column="37" />
+        <mark key="^" line="74" column="37" />
       </file>
       <file name="$USER_HOME$/dev/bs-reformat/test/queryFunctions/rename.js" timestamp="1444588491295">
         <mark key="[" line="28" column="47" />
@@ -2997,11 +2998,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0ZXh0Pzogc3RyaW5nOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Response</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>Response</text>
       </register>
       <register name="/" type="4">
         <text>this.</text>
