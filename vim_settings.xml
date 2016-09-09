@@ -1136,12 +1136,12 @@
         <mark key="^" line="90" column="10" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" timestamp="1473417497797">
-        <mark key="'" line="63" column="6" />
-        <mark key="[" line="49" column="40" />
-        <mark key="]" line="49" column="44" />
-        <mark key="." line="49" column="44" />
-        <mark key="^" line="49" column="44" />
+      <file name="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" timestamp="1473420077936">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/dev/bs-reformat/test/queryFunctions/rename.js" timestamp="1444588491295">
         <mark key="[" line="28" column="47" />
@@ -2753,12 +2753,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" timestamp="1473417626037">
+      <file name="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" timestamp="1473420046020">
         <mark key="'" line="95" column="15" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
-        <mark key="^" line="225" column="37" />
+        <mark key="[" line="226" column="30" />
+        <mark key="]" line="226" column="36" />
+        <mark key="." line="226" column="36" />
+        <mark key="^" line="226" column="36" />
       </file>
       <file name="$USER_HOME$/dev/data-api-server/server/RAML/annotationTypes/no-validation.raml" timestamp="1464440429034">
         <mark key="[" line="1" column="0" />
@@ -2849,10 +2849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="42" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="46" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="50" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="54" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="58" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="67" column="2" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
@@ -2949,6 +2945,10 @@
       <jump line="97" column="15" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
       <jump line="52" column="10" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
       <jump line="63" column="6" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
+      <jump line="75" column="4" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
+      <jump line="28" column="20" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
+      <jump line="35" column="23" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2999,19 +2999,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFzc2VydC5lcXVhbChlcnIubWVzc2FnZSwgYm9keSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>console.log</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNwb25zZVw+</text>
+        <text encoding="base64">XDxjb25zb2xlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFzc2VydC5lcXVhbChlcnIubWVzc2FnZSwgYm9keSk7Cg==</text>
+      <register name="0" type="4">
+        <text>err.response.body.details</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFzc2VydC5lcXVhbChlcnIubWVzc2FnZSwgYm9keSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3036,28 +3036,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnKysrJywgZXJyLnJlc3BvbnNlLnRleHQpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJlc3BvbnNlOiBzdHJpbmcgPSBlcnIucmVzcG9uc2UudGV4dDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIGNvbnNvbGUubG9nKCcrKysnLCBlcnIucmVzcG9uc2UudGV4dCk7CiAgICAgIGxldCBwYXJzZWRSZXNwb25zZSA9IEpTT04ucGFyc2UoZXJyLnJlc3BvbnNlLnRleHQpOwogICAgICBwcm9wcy5kZXRhaWxzID0gcGFyc2VkUmVzcG9uc2UuZGV0YWlsczsKICAgIH0gY2F0Y2ggKGVycikgewogICAgICBsb2cuZXJyb3IoJ0ludmFsaWQgcmVzcG9uc2UgdHlwZTogJywgZXJyKTsKICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVyci5yZXNwb25zZS5ib2R5LCBlcnIucmVzcG9uc2UudGV4dCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmICh0eXBlb2YgZXJyLnJlc3BvbnNlID09PSAnb2JqZWN0JyAmJiBlcnIucmVzcG9uc2UuYm9keS5kZXRhaWxzKSB7CiAgICAgIHByb3BzLmRldGFpbHMgPSBlcnIucmVzcG9uc2UuYm9keS5kZXRhaWxzOwogICAgfSBlbHNlIHsKICAgICAgdHJ5IHsKICAgICAgICBsZXQgcGFyc2VkUmVzcG9uc2UgPSBKU09OLnBhcnNlKGVyci5yZXNwb25zZS50ZXh0KTsKICAgICAgICBwcm9wcy5kZXRhaWxzID0gcGFyc2VkUmVzcG9uc2UuZGV0YWlsczsKICAgICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgICAgbG9nLmVycm9yKCdJbnZhbGlkIHJlc3BvbnNlIHR5cGU6ICcsIGVycik7CiAgICAgIH0KICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCByZXNwb25zZTogc3RyaW5nID0gZXJyLnJlc3BvbnNlLnRleHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvbGQ6IHN0cmluZzsK</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvbGQ6IHN0cmluZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZXF1ZXN0fSBmcm9tICdzdXBlcmFnZW50JzsK</text>
+        <text encoding="base64">ICAgIHByb3BzLmRldGFpbHMgPSBwYXJzZWRCb2R5LmRldGFpbHM7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -3067,9 +3067,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNwb25zZVw+</last-search>
+      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNwb25zZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -3077,7 +3077,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXFcPg==</entry>
         <entry encoding="base64">XDxhdHRhY2hQZW5kaW5nUmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxsb2dUaW1lVGFrZW5cPg==</entry>
         <entry>handle</entry>
@@ -3097,6 +3096,7 @@
         <entry>Req</entry>
         <entry encoding="base64">XDxtZXRob2RcPg==</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
