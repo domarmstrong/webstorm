@@ -128,8 +128,8 @@
         <mark key="." line="18" column="62" />
         <mark key="^" line="18" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-request/typings/globals/superagent/index.d.ts" timestamp="1473411484702">
-        <mark key="'" line="15" column="26" />
+      <file name="$USER_HOME$/dev/bs-api-request/typings/globals/superagent/index.d.ts" timestamp="1473412315968">
+        <mark key="'" line="84" column="21" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/server/RAML/dataSchemas/Licence.raml" timestamp="1469692711815">
         <mark key="[" line="7" column="2" />
@@ -810,8 +810,8 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-request/src/request.ts" timestamp="1473411979609">
-        <mark key="'" line="105" column="8" />
+      <file name="$USER_HOME$/dev/bs-api-request/src/request.ts" timestamp="1473412301000">
+        <mark key="'" line="101" column="22" />
         <mark key="[" line="164" column="31" />
         <mark key="]" line="164" column="44" />
         <mark key="^" line="164" column="44" />
@@ -1129,12 +1129,12 @@
         <mark key="^" line="90" column="10" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" timestamp="1473410711078">
-        <mark key="'" line="24" column="9" />
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="46" />
-        <mark key="^" line="11" column="46" />
-        <mark key="." line="11" column="46" />
+      <file name="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" timestamp="1473412636013">
+        <mark key="'" line="19" column="16" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/dev/bs-reformat/test/queryFunctions/rename.js" timestamp="1444588491295">
         <mark key="[" line="28" column="47" />
@@ -2846,11 +2846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="24" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
-      <jump line="6" column="22" filename="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/app-nest-api-data/config/defaults/cacheInvalidationMappings.js" />
-      <jump line="92" column="6" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
-      <jump line="128" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
       <jump line="143" column="33" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
       <jump line="159" column="35" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
       <jump line="204" column="33" filename="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" />
@@ -2946,6 +2941,11 @@
       <jump line="83" column="8" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="100" column="8" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="105" column="8" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="118" column="10" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="13" column="8" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="101" column="22" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="84" column="21" filename="$USER_HOME$/dev/bs-api-request/typings/globals/superagent/index.d.ts" />
+      <jump line="16" column="16" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2996,13 +2996,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>concurrent_requests</text>
+        <text>undefined</text>
       </register>
       <register name="-" type="4">
-        <text>concurrent_requests</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dUaW1lVG9Db21wbGV0ZVw+</text>
+        <text encoding="base64">XDxoYW5kbGVFcnJvclw+</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -3015,7 +3015,7 @@
      * }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtTdXBlckFnZW50UmVxdWVzdH0gZnJvbSAnc3VwZXJhZ2VudCc7Cg==</text>
+        <text encoding="base64">Y29uc3QgbG9nID0gewogIGVycm9yOiByZXF1aXJlKCdkZWJ1ZycpKCdicy1hcGktcmVxdWVzdDplcnJvcicpLAp9OwoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3040,28 +3040,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhY2NlcHQ6IHN0cmluZzsgLy8gJ3tTdHJpbmd9JywK</text>
+        <text encoding="base64">aW1wb3J0IHtTdXBlckFnZW50UmVxdWVzdH0gZnJvbSAnc3VwZXJhZ2VudCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgXSh1cmkpCg==</text>
+        <text encoding="base64">ICBhY2NlcHQ6IHN0cmluZzsgLy8gJ3tTdHJpbmd9JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbWV0aG9kLnRvTG93ZXJDYXNlKCkucmVwbGFjZSgnZGVsZXRlJywgJ2RlbCcpCg==</text>
+        <text encoding="base64">ICAgICAgXSh1cmkpCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbWV0aG9kLnRvTG93ZXJDYXNlKCkucmVwbGFjZSgnZGVsZXRlJywgJ2RlbCcpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgKiAgIHJlcTogJ09wdGlvbmFsIHtPYmplY3R9IEV4cHJlc3MgcmVxdWVzdCAoYWRkcyBwZW5kaW5nX2h0dHBfcmVxdWVzdHMpJywKICAgKiAgIGJvZHk6ICd7T2JqZWN0fSBmb3IgUE9TVCwgUFVULCBQQVRDSCcsCiAgICogICBxdWVyeTogJ3tPYmplY3R9JywKICAgKiAgIGFjY2VwdDogJ3tTdHJpbmd9JywKICAgKiAgIHR5cGU6ICd7U3RyaW5nfSBmb3IgUE9TVCwgUFVULCBQQVRDSCcsCiAgICogICBiZWFyZXI6ICd7U3RyaW5nfSB1c2VkIGZvciBhdXRoLiBlZyAiQmVhcmVyIGZvb2JhciInLAogICAqIH19Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBtZXRob2QodHlwZTogTWV0aG9kLCAuLi5hcmdzOiBBcmdzKTogUHJvbWlzZTxSZXNwb25zZT4gewogICAgc3dpdGNoICh0eXBlLnRvVXBwZXJDYXNlKCkpIHsKICAgICAgY2FzZSAnR0VUJzoKICAgICAgICByZXR1cm4gdGhpcy5nZXQoLi4uYXJncyk7CiAgICB9CiAgfSwKCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBbXQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -3071,24 +3071,21 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dUaW1lVG9Db21wbGV0ZVw+</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVFcnJvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dUaW1lVG9Db21wbGV0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVFcnJvclw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>consol</entry>
-        <entry encoding="base64">XDxMb2dcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</entry>
         <entry>babel</entry>
         <entry encoding="base64">XDxibHVlYmlyZFw+</entry>
         <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
         <entry encoding="base64">XDxib2xkXD4=</entry>
-        <entry encoding="base64">XDxoYW5kbGVFcnJvclw+</entry>
         <entry encoding="base64">XDxwcmV0dHlMb2dFcnJcPg==</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry>GET</entry>
@@ -3101,6 +3098,9 @@
         <entry encoding="base64">XDxhdHRhY2hQZW5kaW5nUmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxsb2dUaW1lVGFrZW5cPg==</entry>
         <entry encoding="base64">XDxsb2dUaW1lVG9Db21wbGV0ZVw+</entry>
+        <entry>handle</entry>
+        <entry encoding="base64">XDxDYWxsYmFja0hhbmRsZXJcPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVFcnJvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
