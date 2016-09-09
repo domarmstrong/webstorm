@@ -92,6 +92,9 @@
         <mark key="." line="73" column="44" />
         <mark key="^" line="14" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" timestamp="1473437416896">
+        <mark key="'" line="25" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" timestamp="1473420077936">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="73" column="0" />
@@ -147,6 +150,12 @@
         <mark key="]" line="10" column="44" />
         <mark key="." line="10" column="44" />
         <mark key="^" line="10" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/src/server/server.ts" timestamp="1473437653069">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="54" />
+        <mark key="." line="5" column="54" />
+        <mark key="^" line="5" column="54" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/utils.ts" timestamp="1473425677505">
         <mark key="'" line="40" column="35" />
@@ -259,7 +268,7 @@
         <mark key="^" line="20" column="56" />
         <mark key="." line="37" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" timestamp="1472744901532">
+      <file name="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" timestamp="1473437529598">
         <mark key="'" line="200" column="8" />
         <mark key="[" line="53" column="33" />
         <mark key="]" line="54" column="46" />
@@ -307,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="56" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="45" column="37" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="48" column="57" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="49" column="38" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
@@ -407,6 +415,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/test.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/test.ts" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/docker-compose.ts" />
+      <jump line="25" column="2" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -457,19 +466,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>${query}</text>
+        <text>export default</text>
       </register>
       <register name="-" type="4">
-        <text>${query}</text>
+        <text>export default</text>
       </register>
       <register name="/" type="4">
-        <text>server</text>
+        <text encoding="base64">XDxyYWJiaXRNcVVyaVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSAnMzAxODozMDE4Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2FjaGVJbnZhbGlkYXRvcjogbnVsbCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -494,30 +503,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoY29uZmlnLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY2FjaGVJbnZhbGlkYXRvcjogbnVsbCwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoY29uZmlnLCBudWxsLCAyKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
         rabbitMqUri: 'amqp://amqp:amqp@rabbitmq',
       }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSAnLi9idWlsZDovdXNyL3NyYy9hcHAvYnVpbGQ6cm8nCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSAiNTY3Mjo1NjcyIgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAiNjM3OTo2Mzc5Igo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0czoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi9kZWZhdWx0cy9pbmRleCc7CmltcG9ydCBwa2cgZnJvbSAnLi4vLi4vLi4vcGFja2FnZS5qc29uJzsKCmNvbmZpZy5zZXJ2ZXIuY29uc3RhbnRzLmRhdGFiYXNlID0gewogIHJlc291cmNlczogewogICAgdXJsOiBgbW9uZ29kYjovL21vbmdvLyR7cGtnLm5hbWV9YCwKICB9LAogIHJhdGVMaW1pdHM6IHsKICAgIHVybDogYG1vbmdvZGI6Ly9tb25nby9hcHAtbmVzdC1hcGktcmF0ZS1saW1pdHNgLAogIH0sCn07Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAiNjM3OTo2Mzc5Igo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -527,17 +536,16 @@
       </register>
     </registers>
     <search>
-      <last-search>server</last-search>
+      <last-search encoding="base64">XDxyYWJiaXRNcVVyaVw+</last-search>
       <last-offset />
-      <last-pattern>server</last-pattern>
+      <last-pattern encoding="base64">XDxyYWJiaXRNcVVyaVw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxza2lwXD4=</entry>
         <entry encoding="base64">XDxleHBlY3RcPg==</entry>
         <entry>this.</entry>
         <entry encoding="base64">XDxsb2dUaW1lVG9Db21wbGV0ZVw+</entry>
@@ -557,6 +565,7 @@
         <entry>babel\c</entry>
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
         <entry>server</entry>
+        <entry encoding="base64">XDxyYWJiaXRNcVVyaVw+</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
