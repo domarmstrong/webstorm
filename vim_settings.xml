@@ -24,19 +24,18 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/Dockerfile" timestamp="1473847396565">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="8" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/controllers/accounts.spec.ts" timestamp="1472209503702">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
         <mark key="^" line="76" column="17" />
         <mark key="." line="104" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" timestamp="1472815653781">
-        <mark key="'" line="42" column="19" />
-        <mark key="[" line="223" column="37" />
-        <mark key="]" line="223" column="37" />
-        <mark key="." line="223" column="37" />
-        <mark key="^" line="223" column="37" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-raml-api/index.d.ts" timestamp="1473439737691">
         <mark key="[" line="33" column="0" />
@@ -50,6 +49,13 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
         <mark key="^" line="35" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Permission.raml" timestamp="1473847859731">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="6" />
+        <mark key="^" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/local/test.js" timestamp="1472207878900">
         <mark key="'" line="29" column="3" />
@@ -321,7 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="37" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="56" column="58" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="57" column="39" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="60" column="56" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
@@ -421,6 +426,7 @@
       <jump line="3" column="16" filename="$USER_HOME$/dev/bs-raml-api/Server.d.ts" />
       <jump line="28" column="12" filename="$USER_HOME$/dev/bs-raml-api/Server.d.ts" />
       <jump line="39" column="18" filename="$USER_HOME$/dev/app-nest-api-auth/package.json" />
+      <jump line="17" column="13" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Permission.raml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -470,20 +476,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF1dGg6IHsKICAgICAgCiAgICB9LAogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>rabbitMQ</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>raml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmFiYml0TVE6ICdhbXFwOi8vZ3Vlc3Q6Z3Vlc3RAcmFiYml0bXEnLAo=</text>
+        <text encoding="base64">ICAgICAgLSBVUERBVEUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF1dGg6IHsKICAgICAgCiAgICB9LAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgLSBDTElFTlQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -508,28 +514,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXN0OiB7CiAgICBwb3J0OiA4MDgwLAogIH0sCgogIHJwYzogewogICAgcG9ydDogOTA5MCwKICB9LAoK</text>
+        <text encoding="base64">ICAgICAgLSBCUkFORF9HUk9VUAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXV0aFNlcnZlcjogJ2FtcXA6Ly9ndWVzdDpndWVzdEByYWJiaXRtcScsCg==</text>
+        <text encoding="base64">ICAgIGF1dGg6IHsKICAgICAgCiAgICB9LAogICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICByZXN0OiB7CiAgICBwb3J0OiA4MDgwLAogIH0sCgogIHJwYzogewogICAgcG9ydDogOTA5MCwKICB9LAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgYXV0aFNlcnZlcjogJ2FtcXA6Ly9ndWVzdDpndWVzdEByYWJiaXRtcScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9uKGV2ZW50OiBzdHJpbmcsIGhhbmRsZXI6ICguLi5hcmdzOiBhbnlbXSkgPT4gdm9pZCk6IHZvaWQ7Cg==</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRFbWl0dGVyIH0gZnJvbSAnZXZlbnRzJzsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRFbWl0dGVyIH0gZnJvbSAnZXZlbnRzJzsK</text>
+        <text encoding="base64">ICAgIG9uKGV2ZW50OiBzdHJpbmcsIGhhbmRsZXI6ICguLi5hcmdzOiBhbnlbXSkgPT4gdm9pZCk6IHZvaWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgRXZlbnRFbWl0dGVyID0gTm9kZUpTLkV2ZW50RW1pdHRlcjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnRFbWl0dGVyIH0gZnJvbSAnZXZlbnRzJzsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
