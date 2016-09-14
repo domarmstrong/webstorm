@@ -37,6 +37,7 @@
         <mark key="^" line="76" column="17" />
         <mark key="." line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" timestamp="1473848841925" />
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-raml-api/index.d.ts" timestamp="1473439737691">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -132,6 +133,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="78" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Role.raml" timestamp="1473848850861">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" timestamp="1473437529598">
         <mark key="'" line="200" column="8" />
@@ -476,8 +482,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSBCUkFORF9HUk9VUAo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -489,7 +495,7 @@
         <text encoding="base64">ICAgICAgLSBVUERBVEUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBDTElFTlQK</text>
+        <text encoding="base64">ICAgICAgLSBCUkFORF9HUk9VUAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -514,28 +520,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBCUkFORF9HUk9VUAo=</text>
+        <text encoding="base64">ICAgICAgLSBDTElFTlQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dGg6IHsKICAgICAgCiAgICB9LAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgLSBDTElFTlQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXN0OiB7CiAgICBwb3J0OiA4MDgwLAogIH0sCgogIHJwYzogewogICAgcG9ydDogOTA5MCwKICB9LAoK</text>
+        <text encoding="base64">ICAgICAgLSBCUkFORF9HUk9VUAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXV0aFNlcnZlcjogJ2FtcXA6Ly9ndWVzdDpndWVzdEByYWJiaXRtcScsCg==</text>
+        <text encoding="base64">ICAgIGF1dGg6IHsKICAgICAgCiAgICB9LAogICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICByZXN0OiB7CiAgICBwb3J0OiA4MDgwLAogIH0sCgogIHJwYzogewogICAgcG9ydDogOTA5MCwKICB9LAoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgYXV0aFNlcnZlcjogJ2FtcXA6Ly9ndWVzdDpndWVzdEByYWJiaXRtcScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9uKGV2ZW50OiBzdHJpbmcsIGhhbmRsZXI6ICguLi5hcmdzOiBhbnlbXSkgPT4gdm9pZCk6IHZvaWQ7Cg==</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRFbWl0dGVyIH0gZnJvbSAnZXZlbnRzJzsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
