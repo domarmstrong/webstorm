@@ -37,7 +37,12 @@
         <mark key="^" line="76" column="17" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" timestamp="1473848841925" />
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" timestamp="1473865281133">
+        <mark key="'" line="207" column="36" />
+        <mark key="[" line="207" column="63" />
+        <mark key="]" line="207" column="63" />
+        <mark key="." line="207" column="63" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-raml-api/index.d.ts" timestamp="1473439737691">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -134,10 +139,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="78" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Role.raml" timestamp="1473860731522">
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Role.raml" timestamp="1473865298451">
         <mark key="[" line="20" column="12" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="0" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" timestamp="1473437529598">
         <mark key="'" line="200" column="8" />
@@ -333,16 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="58" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="57" column="39" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="60" column="56" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="61" column="40" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="5" column="68" filename="$USER_HOME$/dev/bs-api-request/typings/modules/nock/index.d.ts" />
-      <jump line="1" column="8" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="19" column="29" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="33" column="29" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="47" column="29" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="61" column="29" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
       <jump line="75" column="29" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
       <jump line="88" column="29" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
       <jump line="100" column="23" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
@@ -433,6 +429,16 @@
       <jump line="28" column="12" filename="$USER_HOME$/dev/bs-raml-api/Server.d.ts" />
       <jump line="39" column="18" filename="$USER_HOME$/dev/app-nest-api-auth/package.json" />
       <jump line="17" column="13" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Permission.raml" />
+      <jump line="178" column="20" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
+      <jump line="136" column="40" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
+      <jump line="142" column="42" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
+      <jump line="164" column="1" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
+      <jump line="206" column="5" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
+      <jump line="222" column="45" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
+      <jump line="82" column="36" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
+      <jump line="147" column="36" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
+      <jump line="179" column="36" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
+      <jump line="207" column="36" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -482,14 +488,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBCUkFORF9HUk9VUAo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>raml</text>
+        <text encoding="base64">XDxxdWVyeVBhcmFtTmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSBVUERBVEUK</text>
@@ -551,19 +557,16 @@
       </register>
     </registers>
     <search>
-      <last-search>raml</last-search>
+      <last-search encoding="base64">XDxxdWVyeVBhcmFtTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>raml</last-pattern>
+      <last-pattern encoding="base64">XDxxdWVyeVBhcmFtTmFtZVw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJzZWRSc3BvbnNlXD4=</entry>
-        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
-        <entry encoding="base64">XDxTY29wZVw+</entry>
         <entry>Req</entry>
         <entry encoding="base64">XDxtZXRob2RcPg==</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
@@ -581,6 +584,9 @@
         <entry encoding="base64">XDxDb25maWdcPg==</entry>
         <entry>core</entry>
         <entry>raml</entry>
+        <entry>permissions</entry>
+        <entry>permission_</entry>
+        <entry encoding="base64">XDxxdWVyeVBhcmFtTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
