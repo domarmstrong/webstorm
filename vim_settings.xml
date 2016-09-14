@@ -115,9 +115,9 @@
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/package.json" timestamp="1473439650323">
         <mark key="'" line="39" column="18" />
-        <mark key="[" line="33" column="24" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="25" />
         <mark key="^" line="26" column="31" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/signals/signals.ts" timestamp="1473424723617">
@@ -300,12 +300,6 @@
         <mark key="]" line="37" column="33" />
         <mark key="^" line="20" column="56" />
         <mark key="." line="37" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/docker-compose.yml" timestamp="1473440229115">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-log/src/services/BunyanLog.ts" timestamp="1473437107061">
         <mark key="[" line="30" column="49" />
