@@ -41,6 +41,7 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="8" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/tsconfig.json" timestamp="1474041684967" />
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/controllers/accounts.spec.ts" timestamp="1472209503702">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="104" column="0" />
@@ -370,11 +371,12 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" timestamp="1474036655483">
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="45" />
-        <mark key="." line="26" column="45" />
-        <mark key="^" line="26" column="45" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" timestamp="1474042372612">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/README.md" timestamp="1473426019437">
         <mark key="'" line="26" column="30" />
@@ -451,8 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="8" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="184" column="17" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="40" column="6" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
       <jump line="112" column="14" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
       <jump line="116" column="18" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
@@ -507,7 +507,6 @@
       <jump line="80" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/mocha.opts" />
       <jump line="0" column="11" filename="$USER_HOME$/dev/app-nest-api-accounts/docker-compose.yml" />
-      <jump line="0" column="11" filename="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" />
       <jump line="11" column="41" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="14" column="8" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="7" column="13" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
@@ -551,6 +550,9 @@
       <jump line="2" column="6" filename="$USER_HOME$/dev/app-nest-api-auth/wallaby.js" />
       <jump line="11" column="5" filename="$USER_HOME$/dev/app-nest-api-data/package.json" />
       <jump line="20" column="9" filename="$USER_HOME$/dev/app-nest-api-data/package.json" />
+      <jump line="77" column="0" filename="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" />
+      <jump line="78" column="0" filename="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -600,11 +602,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJ0c2MiLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGhvc3Q=</text>
       </register>
       <register name="-" type="4">
-        <text>*.spec.ts</text>
+        <text encoding="base64">IGhvc3Q=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
