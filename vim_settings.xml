@@ -105,11 +105,11 @@
         <mark key="^" line="44" column="102" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" timestamp="1472830219833">
-        <mark key="'" line="38" column="6" />
-        <mark key="[" line="107" column="60" />
-        <mark key="]" line="107" column="61" />
-        <mark key="." line="107" column="61" />
+      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" timestamp="1474012410618">
+        <mark key="'" line="129" column="18" />
+        <mark key="[" line="136" column="18" />
+        <mark key="]" line="136" column="18" />
+        <mark key="." line="136" column="18" />
         <mark key="^" line="107" column="53" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/searches/getMany.ts" timestamp="1473424896541">
@@ -217,8 +217,12 @@
         <mark key="." line="73" column="44" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" timestamp="1473437416896">
-        <mark key="'" line="25" column="2" />
+      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" timestamp="1474012393772">
+        <mark key="'" line="184" column="17" />
+        <mark key="[" line="271" column="8" />
+        <mark key="]" line="271" column="8" />
+        <mark key="." line="271" column="8" />
+        <mark key="^" line="271" column="9" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/package.json" timestamp="1473438983667">
         <mark key="[" line="5" column="21" />
@@ -342,18 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="23" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="105" column="37" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="108" column="27" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="121" column="31" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="134" column="31" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="148" column="31" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="155" column="47" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="172" column="27" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="190" column="27" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="206" column="27" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="109" column="49" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="156" column="47" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
       <jump line="122" column="38" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
       <jump line="135" column="53" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
       <jump line="149" column="53" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
@@ -442,6 +434,18 @@
       <jump line="207" column="36" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
       <jump line="31" column="4" filename="$USER_HOME$/dev/app-nest-dashboards/server/controllers/campaignController.js" />
       <jump line="10" column="21" filename="$USER_HOME$/dev/app-nest-dashboards/server/controllers/campaignController.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="228" column="10" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="233" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="253" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="254" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="271" column="8" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="184" column="17" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="40" column="6" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
+      <jump line="112" column="14" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
+      <jump line="116" column="18" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
+      <jump line="123" column="18" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
+      <jump line="129" column="18" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -492,59 +496,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[{
-    &quot;aggregate&quot;: &quot;sum&quot;,
-    &quot;metrics&quot;: [{&quot;alias&quot;: &quot;replies&quot;, &quot;metricKey&quot;: &quot;user_mention_count&quot;}, {
-        &quot;alias&quot;: &quot;retweets&quot;,
-        &quot;metricKey&quot;: &quot;user_retweet_count&quot;
-    }, {&quot;alias&quot;: &quot;followers&quot;, &quot;metricKey&quot;: &quot;user_follower_count_delta&quot;}],
-    &quot;requestKey&quot;: &quot;sums&quot;,
-    &quot;campaigns&quot;: [&quot;doritos_brand&quot;],
-    &quot;from&quot;: &quot;2016-09-05T00:00:00.000Z&quot;,
-    &quot;to&quot;: &quot;2016-09-11T23:59:00.000Z&quot;
-}, {
-    &quot;aggregate&quot;: &quot;sum&quot;,
-    &quot;metrics&quot;: [{&quot;alias&quot;: &quot;replies&quot;, &quot;metricKey&quot;: &quot;user_mention_count&quot;}, {
-        &quot;alias&quot;: &quot;retweets&quot;,
-        &quot;metricKey&quot;: &quot;user_retweet_count&quot;
-    }, {&quot;alias&quot;: &quot;followers&quot;, &quot;metricKey&quot;: &quot;user_follower_count_delta&quot;}],
-    &quot;requestKey&quot;: &quot;historic_sums&quot;,
-    &quot;campaigns&quot;: [&quot;doritos_brand&quot;],
-    &quot;from&quot;: &quot;2016-06-05T00:00:00.000Z&quot;,
-    &quot;to&quot;: &quot;2016-09-04T23:59:59.000Z&quot;
-}]</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDxfaGFuZGxlTWVzc2FnZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>[{
-    &quot;aggregate&quot;: &quot;sum&quot;,
-    &quot;metrics&quot;: [{&quot;alias&quot;: &quot;replies&quot;, &quot;metricKey&quot;: &quot;user_mention_count&quot;}, {
-        &quot;alias&quot;: &quot;retweets&quot;,
-        &quot;metricKey&quot;: &quot;user_retweet_count&quot;
-    }, {&quot;alias&quot;: &quot;followers&quot;, &quot;metricKey&quot;: &quot;user_follower_count_delta&quot;}],
-    &quot;requestKey&quot;: &quot;sums&quot;,
-    &quot;campaigns&quot;: [&quot;doritos_brand&quot;],
-    &quot;from&quot;: &quot;2016-09-05T00:00:00.000Z&quot;,
-    &quot;to&quot;: &quot;2016-09-11T23:59:00.000Z&quot;
-}, {
-    &quot;aggregate&quot;: &quot;sum&quot;,
-    &quot;metrics&quot;: [{&quot;alias&quot;: &quot;replies&quot;, &quot;metricKey&quot;: &quot;user_mention_count&quot;}, {
-        &quot;alias&quot;: &quot;retweets&quot;,
-        &quot;metricKey&quot;: &quot;user_retweet_count&quot;
-    }, {&quot;alias&quot;: &quot;followers&quot;, &quot;metricKey&quot;: &quot;user_follower_count_delta&quot;}],
-    &quot;requestKey&quot;: &quot;historic_sums&quot;,
-    &quot;campaigns&quot;: [&quot;doritos_brand&quot;],
-    &quot;from&quot;: &quot;2016-06-05T00:00:00.000Z&quot;,
-    &quot;to&quot;: &quot;2016-09-04T23:59:59.000Z&quot;
-}]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lbWl0KCdpbnZhbGlkYXRlJywgeyBncm91cCwga2V5IH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBCUkFORF9HUk9VUAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -569,28 +533,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBDTElFTlQK</text>
+        <text encoding="base64">ICBwcml2YXRlIGVtaXRJbnZhbGlkYXRlKGdyb3VwOiBzdHJpbmcsIGtleTogc3RyaW5nKTogdm9pZCB7CiAgICB0aGlzLmVtaXQoJ2ludmFsaWRhdGUnLCB7IGdyb3VwLCBrZXkgfSk7CiAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBDTElFTlQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBCUkFORF9HUk9VUAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLmRlYm91bmNlSW52YWxpZGF0ZShncm91cCwga2V5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1dGg6IHsKICAgICAgCiAgICB9LAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgLSBCUkFORF9HUk9VUAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXN0OiB7CiAgICBwb3J0OiA4MDgwLAogIH0sCgogIHJwYzogewogICAgcG9ydDogOTA5MCwKICB9LAoK</text>
+        <text encoding="base64">ICAgICAgLSBDTElFTlQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXV0aFNlcnZlcjogJ2FtcXA6Ly9ndWVzdDpndWVzdEByYWJiaXRtcScsCg==</text>
+        <text encoding="base64">ICAgICAgLSBDTElFTlQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgLSBCUkFORF9HUk9VUAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGF1dGg6IHsKICAgICAgCiAgICB9LAogICAgCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -600,19 +564,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxfaGFuZGxlTWVzc2FnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfaGFuZGxlTWVzc2FnZVw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Req</entry>
-        <entry encoding="base64">XDxtZXRob2RcPg==</entry>
-        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDxhY2NvdW50c1JlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
@@ -630,6 +591,9 @@
         <entry>permission_</entry>
         <entry encoding="base64">XDxxdWVyeVBhcmFtTmFtZVw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVNZXNzYWdlXD4=</entry>
+        <entry>_han</entry>
+        <entry encoding="base64">XDxfaGFuZGxlTWVzc2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
