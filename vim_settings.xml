@@ -38,10 +38,10 @@
         <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" timestamp="1473865281133">
-        <mark key="'" line="207" column="36" />
-        <mark key="[" line="207" column="63" />
-        <mark key="]" line="207" column="63" />
-        <mark key="." line="207" column="63" />
+        <mark key="'" line="205" column="36" />
+        <mark key="[" line="205" column="63" />
+        <mark key="]" line="205" column="63" />
+        <mark key="." line="205" column="63" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-raml-api/index.d.ts" timestamp="1473439737691">
         <mark key="[" line="33" column="0" />
@@ -223,10 +223,11 @@
         <mark key="]" line="227" column="0" />
         <mark key="." line="227" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/package.json" timestamp="1473438983667">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
+      <file name="$USER_HOME$/dev/bs-raml-api/package.json" timestamp="1474016670445">
+        <mark key="'" line="93" column="4" />
+        <mark key="[" line="63" column="23" />
+        <mark key="]" line="63" column="24" />
+        <mark key="." line="63" column="24" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/utils.ts" timestamp="1473424359236">
         <mark key="'" line="12" column="15" />
@@ -345,8 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="25" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Campaigns/Campaigns.ts" />
-      <jump line="80" column="25" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Campaigns/Campaigns.ts" />
       <jump line="16" column="27" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Campaigns/Campaigns.ts" />
       <jump line="17" column="38" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/utils.ts" />
       <jump line="12" column="15" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/utils.ts" />
@@ -445,6 +444,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="248" column="16" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="8" column="41" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="64" column="26" filename="$USER_HOME$/dev/bs-raml-api/package.json" />
+      <jump line="93" column="4" filename="$USER_HOME$/dev/bs-raml-api/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -494,14 +495,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnLi4uLicsIGtleSwgZ3JvdXApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text>, debounceMs: 0</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
-        <text>, { immediate: true }</text>
+        <text>\^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgc3R1YkVtaXQ6IGFueSA9IHNpbm9uLnN0dWIoc3V0LCAnZW1pdEludmFsaWRhdGUnKTsKICAgICAgICBsZXQgc3R1YkRlYm91bmNlOiBhbnkgPSBzaW5vbi5zdHViKHN1dCwgJ2RlYm91bmNlSW52YWxpZGF0ZScpOwo=</text>
@@ -563,17 +564,16 @@
       </register>
     </registers>
     <search>
-      <last-search>, { immediate: true }</last-search>
+      <last-search>\^</last-search>
       <last-offset />
-      <last-pattern>, { immediate: true }</last-pattern>
+      <last-pattern>\^</last-pattern>
       <last-replace />
-      <last-substitute>, { immediate: true }</last-substitute>
+      <last-substitute>\^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>server</entry>
         <entry encoding="base64">XDxyYWJiaXRNcVVyaVw+</entry>
         <entry encoding="base64">XDxDb25maWdcPg==</entry>
         <entry>core</entry>
@@ -593,9 +593,9 @@
         <entry>\({ username: '123' }\)</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry>, { immediate: true }</entry>
+        <entry>\^</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/props =/props: string =</entry>
         <entry>%s/props =/props: Props =</entry>
         <entry>%s/message =/message: string =/gc</entry>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
@@ -614,6 +614,7 @@
         <entry>%s/\({ username: '123' }\)/{ resourceTypeProperties: \1 }</entry>
         <entry>noh</entry>
         <entry>%s/, { immediate: true }/</entry>
+        <entry>%s/\^</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
