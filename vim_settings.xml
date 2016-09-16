@@ -519,7 +519,7 @@
         <text>stub.returns(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHViXD4=</text>
+        <text>moni\c</text>
       </register>
       <register name="0" type="4">
         <text>, { immediate: true }</text>
@@ -577,21 +577,20 @@
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHViXD4=</last-search>
+      <last-search>moni\c</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHViXD4=</last-pattern>
+      <last-pattern>moni\c</last-pattern>
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWVyeVBhcmFtTmFtZVw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVNZXNzYWdlXD4=</entry>
         <entry>_han</entry>
@@ -611,6 +610,7 @@
         <entry encoding="base64">XDxpbml0aWFsaXplU2VydmljZXNcPg==</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxzdHViXD4=</entry>
+        <entry>moni\c</entry>
       </history-search>
       <history-cmd>
         <entry>%s/props =/props: Props =</entry>
@@ -631,8 +631,8 @@
         <entry>%s/\({ username: '123' }\)/{ resourceTypeProperties: \1 }</entry>
         <entry>%s/, { immediate: true }/</entry>
         <entry>%s/\^</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
