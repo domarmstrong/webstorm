@@ -84,12 +84,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" timestamp="1474022019451">
-        <mark key="'" line="12" column="6" />
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="8" />
-        <mark key="^" line="14" column="8" />
-        <mark key="." line="14" column="8" />
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" timestamp="1474025321433">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="98" column="53" />
+        <mark key="]" line="98" column="61" />
+        <mark key="^" line="98" column="61" />
+        <mark key="." line="98" column="61" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/analytics/getMany.ts" timestamp="1473424929996">
         <mark key="'" line="30" column="25" />
@@ -263,12 +263,12 @@
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1472815487324">
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1474025175183">
         <mark key="'" line="50" column="43" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="60" column="43" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="37" />
+        <mark key="." line="60" column="37" />
+        <mark key="^" line="60" column="37" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" timestamp="1473420046020">
         <mark key="'" line="95" column="15" />
@@ -277,8 +277,12 @@
         <mark key="." line="226" column="36" />
         <mark key="^" line="226" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" timestamp="1474018455334">
-        <mark key="'" line="53" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" timestamp="1474025234670">
+        <mark key="'" line="96" column="88" />
+        <mark key="[" line="167" column="12" />
+        <mark key="]" line="167" column="26" />
+        <mark key="^" line="167" column="26" />
+        <mark key="." line="167" column="26" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/DataSources/DataSources.ts" timestamp="1473424387462">
         <mark key="'" line="3" column="0" />
@@ -314,6 +318,10 @@
         <mark key="]" line="11" column="47" />
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1474025006707">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/controllers/auth/proxy.ts" timestamp="1473425153126">
         <mark key="'" line="0" column="0" />
@@ -363,12 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="27" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/signals/signals.ts" />
-      <jump line="40" column="23" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/utils.ts" />
-      <jump line="33" column="17" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/utils.ts" />
-      <jump line="38" column="35" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/utils.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getMany.ts" />
-      <jump line="25" column="15" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getMany.ts" />
       <jump line="26" column="25" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getMany.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getOne.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getOne.ts" />
@@ -463,6 +465,12 @@
       <jump line="32" column="23" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
       <jump line="18" column="6" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
       <jump line="12" column="6" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
+      <jump line="160" column="24" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" />
+      <jump line="1" column="9" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" />
+      <jump line="58" column="19" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" />
+      <jump line="96" column="88" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" />
+      <jump line="70" column="14" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
+      <jump line="80" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -513,16 +521,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>stub.returns(</text>
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>stub.returns(</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
-        <text>moni\c</text>
+        <text encoding="base64">XDx0b0NhbWVsQ2FzZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>, { immediate: true }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGl0KCdjYWxscyBjYWNoZSBpbnZhbGlkYXRlIG9uIHBvc3QnLCBhc3luYyAoKSA9PiB7CiAgICAgIGF3YWl0IHByb3h5LnByb3h5KAogICAgICAgIHsKICAgICAgICAgIHBhdGg6ICcvdXNlcnMvMScsCiAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgICAgIHF1ZXJ5OiB7fSwKICAgICAgICAgIGJvZHk6IG51bGwsCiAgICAgICAgfSwKICAgICAgICAnZm9vJwogICAgICApOwoKICAgICAgYXNzZXJ0LmRlZXBFcXVhbChpbnZhbGlkYXRlU3R1Yi5hcmdzLCBbWyd1c2VyLlVQREFURScsIHsgaWQ6IG51bGwgfSwgeyBpbW1lZGlhdGU6IHRydWUgfV1dKTsKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgaW52YWxpZGF0ZVN0dWIgPSBzaW5vbi5zdHViKHNlcnZlci5jYWNoZUludmFsaWRhdG9yLCAnaW52YWxpZGF0ZScsICgpID0+IFByb21pc2UucmVzb2x2ZSgpKTsK</text>
@@ -581,17 +589,16 @@
       </register>
     </registers>
     <search>
-      <last-search>moni\c</last-search>
+      <last-search encoding="base64">XDx0b0NhbWVsQ2FzZVw+</last-search>
       <last-offset />
-      <last-pattern>moni\c</last-pattern>
+      <last-pattern encoding="base64">XDx0b0NhbWVsQ2FzZVw+</last-pattern>
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVNZXNzYWdlXD4=</entry>
         <entry>_han</entry>
         <entry encoding="base64">XDxfaGFuZGxlTWVzc2FnZVw+</entry>
@@ -611,6 +618,7 @@
         <entry encoding="base64">XDxpbml0aWFsaXplQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxzdHViXD4=</entry>
         <entry>moni\c</entry>
+        <entry encoding="base64">XDx0b0NhbWVsQ2FzZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/props =/props: Props =</entry>
