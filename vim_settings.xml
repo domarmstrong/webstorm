@@ -24,6 +24,12 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1474032003697">
+        <mark key="[" line="40" column="42" />
+        <mark key="]" line="40" column="42" />
+        <mark key="^" line="40" column="42" />
+        <mark key="." line="40" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/Dockerfile" timestamp="1473847396565">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="30" />
@@ -37,11 +43,20 @@
         <mark key="^" line="76" column="17" />
         <mark key="." line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1474031835631">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="122" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" timestamp="1473865281133">
         <mark key="'" line="205" column="36" />
         <mark key="[" line="205" column="63" />
         <mark key="]" line="205" column="63" />
         <mark key="." line="205" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" timestamp="1474032139598">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-raml-api/index.d.ts" timestamp="1473439737691">
         <mark key="[" line="33" column="0" />
@@ -132,11 +147,11 @@
         <mark key="." line="56" column="13" />
         <mark key="^" line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/package.json" timestamp="1474011071109">
+      <file name="$USER_HOME$/dev/app-nest-api-auth/package.json" timestamp="1474030202842">
         <mark key="'" line="39" column="18" />
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="43" column="25" />
-        <mark key="." line="43" column="25" />
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="21" />
+        <mark key="." line="43" column="21" />
         <mark key="^" line="26" column="31" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/signals/signals.ts" timestamp="1473424723617">
@@ -146,8 +161,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="78" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-dashboards/server/controllers/campaignController.js" timestamp="1473869606214">
-        <mark key="'" line="10" column="21" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1474031843761">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="15" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Role.raml" timestamp="1473865298451">
         <mark key="[" line="20" column="12" />
@@ -183,11 +201,22 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="79" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/docker-compose.yml" timestamp="1474029326125">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="58" column="57" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/Dockerfile" timestamp="1473435621524">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/mocha.opts" timestamp="1474029296141">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/Server.js" timestamp="1474020431616">
         <mark key="'" line="76" column="9" />
@@ -263,12 +292,12 @@
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1474025175183">
-        <mark key="'" line="50" column="43" />
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="60" column="37" />
-        <mark key="." line="60" column="37" />
-        <mark key="^" line="60" column="37" />
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1474031310323">
+        <mark key="'" line="53" column="6" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="57" />
+        <mark key="^" line="18" column="6" />
+        <mark key="." line="19" column="8" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" timestamp="1473420046020">
         <mark key="'" line="95" column="15" />
@@ -312,6 +341,12 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" timestamp="1474029366085">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="4" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/README.md" timestamp="1473426019437">
         <mark key="'" line="26" column="30" />
         <mark key="[" line="11" column="41" />
@@ -337,6 +372,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/package.json" timestamp="1474029651830">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.js" timestamp="1472814311521">
         <mark key="'" line="96" column="57" />
         <mark key="[" line="103" column="6" />
@@ -344,12 +384,18 @@
         <mark key="^" line="96" column="57" />
         <mark key="." line="103" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1474015335211">
-        <mark key="'" line="8" column="41" />
-        <mark key="[" line="8" column="81" />
-        <mark key="]" line="8" column="95" />
-        <mark key="." line="8" column="95" />
-        <mark key="^" line="8" column="95" />
+      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1474031030728">
+        <mark key="'" line="25" column="57" />
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/package.json" timestamp="1474029519622">
+        <mark key="[" line="50" column="23" />
+        <mark key="]" line="50" column="24" />
+        <mark key="." line="50" column="24" />
+        <mark key="^" line="25" column="118" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-log/src/services/BunyanLog.ts" timestamp="1473437107061">
         <mark key="[" line="30" column="49" />
@@ -371,46 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="25" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getMany.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getOne.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getOne.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/analytics/getMany.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/analytics/getMany.ts" />
-      <jump line="30" column="25" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/analytics/getMany.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/controllers/auth/proxy.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
-      <jump line="9" column="40" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
-      <jump line="29" column="10" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
-      <jump line="35" column="22" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
-      <jump line="37" column="31" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/controllers/__testHelpers/request.ts" />
-      <jump line="26" column="30" filename="$USER_HOME$/dev/app-nest-api-data/README.md" />
-      <jump line="20" column="5" filename="$USER_HOME$/dev/app-nest-api-auth/package.json" />
-      <jump line="11" column="9" filename="$USER_HOME$/dev/app-nest-api-auth/package.json" />
-      <jump line="0" column="16" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/nest/development.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/test.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/test.ts" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/docker-compose.ts" />
-      <jump line="25" column="2" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="134" column="51" filename="$USER_HOME$/dev/bs-raml-api/Server.d.ts" />
-      <jump line="3" column="16" filename="$USER_HOME$/dev/bs-raml-api/Server.d.ts" />
-      <jump line="28" column="12" filename="$USER_HOME$/dev/bs-raml-api/Server.d.ts" />
-      <jump line="39" column="18" filename="$USER_HOME$/dev/app-nest-api-auth/package.json" />
-      <jump line="17" column="13" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Permission.raml" />
-      <jump line="178" column="20" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="136" column="40" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="142" column="42" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="164" column="1" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="206" column="5" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="222" column="45" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="82" column="36" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="147" column="36" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="179" column="36" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="207" column="36" filename="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" />
-      <jump line="31" column="4" filename="$USER_HOME$/dev/app-nest-dashboards/server/controllers/campaignController.js" />
-      <jump line="10" column="21" filename="$USER_HOME$/dev/app-nest-dashboards/server/controllers/campaignController.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="228" column="10" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="233" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="253" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="254" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
@@ -438,14 +444,11 @@
       <jump line="22" column="19" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="27" column="85" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="31" column="19" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="32" column="23" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="35" column="79" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="39" column="19" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="40" column="23" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="43" column="21" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="44" column="21" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="19" column="49" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="14" column="6" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="248" column="16" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="8" column="41" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
@@ -471,6 +474,49 @@
       <jump line="96" column="88" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" />
       <jump line="70" column="14" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
       <jump line="80" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/mocha.opts" />
+      <jump line="0" column="11" filename="$USER_HOME$/dev/app-nest-api-accounts/docker-compose.yml" />
+      <jump line="0" column="11" filename="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" />
+      <jump line="11" column="41" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="14" column="8" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="7" column="13" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="11" column="21" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="12" column="55" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="17" column="28" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="26" column="28" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="39" column="28" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="47" column="28" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="55" column="28" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="18" column="6" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="53" column="6" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="14" column="46" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="19" column="46" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="23" column="6" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="28" column="57" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="32" column="21" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="24" column="57" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="20" column="22" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="1" column="44" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="18" column="28" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="27" column="28" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="32" column="28" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="39" column="28" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="46" column="28" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="19" column="21" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="47" column="6" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="35" column="6" filename="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" />
+      <jump line="43" column="15" filename="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" />
+      <jump line="29" column="2" filename="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -520,20 +566,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqIExpc3RlbiBmb3IgaW52YWxpZGF0aW9uIGV2ZW50cyBhbmQgdHJpZ2dlciBtb25pdG9yIHVwZGF0ZQogKi8Kc2VydmVyLm9uKCdzdGFydCcsICgpID0+IHsKICBzZXJ2ZXIuY2FjaGVJbnZhbGlkYXRvci5vbignaW52YWxpZGF0ZScsIChwYXlsb2FkOiB7IGdyb3VwOiBzdHJpbmcgfSkgPT4gewogICAgaWYgKHBheWxvYWQuZ3JvdXAgPT09ICdtb25pdG9yJykgewogICAgICB1cGRhdGVNb25pdG9ycygpCiAgICAgICAgLmNhdGNoKGVyciA9PiBzZXJ2ZXIubG9nLmVycm9yKGVycikpOwogICAgfQogIH0pOwp9KTsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>123</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b0NhbWVsQ2FzZVw+</text>
+        <text encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGl0KCdjYWxscyBjYWNoZSBpbnZhbGlkYXRlIG9uIHBvc3QnLCBhc3luYyAoKSA9PiB7CiAgICAgIGF3YWl0IHByb3h5LnByb3h5KAogICAgICAgIHsKICAgICAgICAgIHBhdGg6ICcvdXNlcnMvMScsCiAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgICAgIHF1ZXJ5OiB7fSwKICAgICAgICAgIGJvZHk6IG51bGwsCiAgICAgICAgfSwKICAgICAgICAnZm9vJwogICAgICApOwoKICAgICAgYXNzZXJ0LmRlZXBFcXVhbChpbnZhbGlkYXRlU3R1Yi5hcmdzLCBbWyd1c2VyLlVQREFURScsIHsgaWQ6IG51bGwgfSwgeyBpbW1lZGlhdGU6IHRydWUgfV1dKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICBpdCgnbWFwcyB1c2VyLkNSVUQgdG8gY2FtcGFpZ25JZHMsIGNsaWVudHMucmVhbCcsIGFzeW5jICgpID0+IHsKICAgIGF3YWl0IGludlNlcnZpY2UuaW52YWxpZGF0ZSgndXNlci5VUERBVEUnLCB7IHJlc291cmNlVHlwZVByb3BlcnRpZXM6IHsgdXNlcm5hbWU6ICcxMjMnIH19KTsKICAgIGFzc2VydC5kZWVwRXF1YWwoY2FsbGJhY2suYXJncywgWwogICAgICBbeyBncm91cDogJ2NhbXBhaWduSWRzJywga2V5OiAnMTIzJyB9XSwKICAgICAgW3sgZ3JvdXA6ICdjbGllbnRzLnJlYWwnLCBrZXk6ICcxMjMnIH1dLAogICAgXSk7CiAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW52YWxpZGF0ZVN0dWIgPSBzaW5vbi5zdHViKHNlcnZlci5jYWNoZUludmFsaWRhdG9yLCAnaW52YWxpZGF0ZScsICgpID0+IFByb21pc2UucmVzb2x2ZSgpKTsK</text>
+        <text encoding="base64">LyoqCiAqIExpc3RlbiBmb3IgaW52YWxpZGF0aW9uIGV2ZW50cyBhbmQgdHJpZ2dlciBtb25pdG9yIHVwZGF0ZQogKi8Kc2VydmVyLm9uKCdzdGFydCcsICgpID0+IHsKICBzZXJ2ZXIuY2FjaGVJbnZhbGlkYXRvci5vbignaW52YWxpZGF0ZScsIChwYXlsb2FkOiB7IGdyb3VwOiBzdHJpbmcgfSkgPT4gewogICAgaWYgKHBheWxvYWQuZ3JvdXAgPT09ICdtb25pdG9yJykgewogICAgICB1cGRhdGVNb25pdG9ycygpCiAgICAgICAgLmNhdGNoKGVyciA9PiBzZXJ2ZXIubG9nLmVycm9yKGVycikpOwogICAgfQogIH0pOwp9KTsKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -558,28 +604,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaW52YWxpZGF0ZVN0dWIgPSBzaW5vbi5zdHViKHNlcnZlci5jYWNoZUludmFsaWRhdG9yLCAnaW52YWxpZGF0ZScsICgpID0+IFByb21pc2UucmVzb2x2ZSgpKTsK</text>
+        <text encoding="base64">ICAgIGZuOiAocGF5bG9hZDogYW55KTogc3RyaW5nID0+IHBheWxvYWQucmUgJiYgLnVzZXJuYW1lLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW52YWxpZGF0ZVN0dWIgPSBzaW5vbi5zdHViKHNlcnZlci5jYWNoZUludmFsaWRhdG9yLCAnaW52YWxpZGF0ZScsICgpID0+IFByb21pc2UucmVzb2x2ZSgpKTsK</text>
+        <text encoding="base64">CiAgaXQoJ21hcHMgREVMRVRFIHRvIHJlcXVlc3Q6cGx1cmFsJywgYXN5bmMgKCkgPT4gewogICAgYXdhaXQgaW52U2VydmljZS5pbnZhbGlkYXRlKCd1c2VyLkRFTEVURScsIHsgaWQ6ICcxMjMnIH0pOwogICAgYXNzZXJ0LmRlZXBFcXVhbChjYWxsYmFjay5hcmdzLCBbCiAgICAgIFt7IGdyb3VwOiAncmVxdWVzdDp1c2VycycsIGtleTogJyonIH1dLAogICAgXSk7CiAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgaXQoJ21hcHMgVVBEQVRFIHRvIHJlcXVlc3Q6cGx1cmFsJywgYXN5bmMgKCkgPT4gewogICAgYXdhaXQgaW52U2VydmljZS5pbnZhbGlkYXRlKCd1c2VyLlVQREFURScsIHsgaWQ6ICcxMjMnIH0pOwogICAgYXNzZXJ0LmRlZXBFcXVhbChjYWxsYmFjay5hcmdzLCBbCiAgICAgIFt7IGdyb3VwOiAncmVxdWVzdDp1c2VycycsIGtleTogJyonIH1dLAogICAgXSk7CiAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgW3sgZ3JvdXA6ICdyZXF1ZXN0OmFwcGxpY2F0aW9ucycsIGtleTogJyonIH1dLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW52YWxpZGF0ZVN0dWIuYXJncyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3R1YlBvc3QgPSBzaW5vbi5zdHViKHJlcXVlc3QsICdwb3N0Jyk7CiAgICAgIHN0dWJEZWwgPSBzaW5vbi5zdHViKHJlcXVlc3QsICdkZWwnKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGxldCByb3V0aW5nS2V5ID0gdXRpbHMucGF0aFRvUm91dGluZ0tleShwYXlsb2FkLnBhdGgsIHBheWxvYWQubWV0aG9kKTsKICAgIHNlcnZlci5jYWNoZUludmFsaWRhdG9yLmludmFsaWRhdGUocm91dGluZ0tleSwgeyBpZDogbnVsbCB9KS5jYXRjaChlcnIgPT4gewogICAgICBlcnIuZGVidWcgPSBPYmplY3QuYXNzaWduKGVyci5kZWJ1ZyB8fCB7fSwgeyBwYXlsb2FkLCByb3V0aW5nS2V5IH0pOwogICAgICBzZXJ2ZXIubG9nLmVycm9yKGVycik7CiAgICB9KTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBhZnRlckVhY2goKCkgPT4gewogICAgaWYgKHN0dWIpIHN0dWIucmVzdG9yZSgpOwogIH0pOwoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHN0dWIgPSBzaW5vbi5zdHViKGNhY2hlLCAnaW52YWxpZGF0ZScsICgpID0+IFByb21pc2UucmVzb2x2ZSgpKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHN0dWIgPSBzaW5vbi5zdHViKGNhY2hlLCAnaW52YWxpZGF0ZScsICgpID0+IFByb21pc2UucmVzb2x2ZSgpKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -589,25 +635,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b0NhbWVsQ2FzZVw+</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b0NhbWVsQ2FzZVw+</last-pattern>
-      <last-replace />
-      <last-substitute>\^</last-substitute>
+      <last-pattern encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</last-pattern>
+      <last-replace>key: '*' }]</last-replace>
+      <last-substitute>'\*'\]</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVNZXNzYWdlXD4=</entry>
-        <entry>_han</entry>
-        <entry encoding="base64">XDxfaGFuZGxlTWVzc2FnZVw+</entry>
-        <entry encoding="base64">XDxldmVudHNcPg==</entry>
-        <entry>emit</entry>
-        <entry encoding="base64">XDxlbWl0XD4=</entry>
-        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
-        <entry encoding="base64">XDxpbnZhbGlkYXRlXD4=</entry>
-        <entry>\({ username: '123' }\)</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry>, { immediate: true }</entry>
         <entry>\^</entry>
@@ -616,20 +653,20 @@
         <entry encoding="base64">XDxhcHBseU1pZGRsZXdhcmVcPg==</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplU2VydmljZXNcPg==</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplQ29uZmlnXD4=</entry>
-        <entry encoding="base64">XDxzdHViXD4=</entry>
         <entry>moni\c</entry>
         <entry encoding="base64">XDx0b0NhbWVsQ2FzZVw+</entry>
+        <entry>['/{ group: '/</entry>
+        <entry>{ g</entry>
+        <entry>},</entry>
+        <entry>done</entry>
+        <entry encoding="base64">XDxjYWNoZVw+</entry>
+        <entry encoding="base64">XDxzdHViXD4=</entry>
+        <entry>\['</entry>
+        <entry>'*'\]</entry>
+        <entry>'\*'\]</entry>
+        <entry encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/props =/props: Props =</entry>
-        <entry>%s/message =/message: string =/gc</entry>
-        <entry encoding="base64">JzwsJz5zb3I=</entry>
-        <entry>q</entry>
-        <entry>79</entry>
-        <entry>66</entry>
-        <entry>%s/defin?\//definition</entry>
-        <entry>%s/\/defin?\//definition/</entry>
-        <entry>%s/\/defin\?\//definition/</entry>
         <entry>%s/\/defin\?\//definition\//</entry>
         <entry>%s/\/defin\?\//\/definition\//</entry>
         <entry>%s/\/defin\?\//\/definitions\//</entry>
@@ -639,7 +676,16 @@
         <entry>%s/\({ username: '123' }\)/{ resourceTypeProperties: \1 }</entry>
         <entry>%s/, { immediate: true }/</entry>
         <entry>%s/\^</entry>
+        <entry>%s/['/{ group: '/</entry>
+        <entry>%s/\['/{ group: '/</entry>
+        <entry>%s/'\*'\]/key: '*' },</entry>
+        <entry>%s/'\*'\]/key: '*' }</entry>
+        <entry>%s/{ g/[{ g</entry>
+        <entry>%s/},/}],</entry>
         <entry>noh</entry>
+        <entry>%s/\['/[{ group: '</entry>
+        <entry>%s/'*'\]/key: '*' }]</entry>
+        <entry>%s/'\*'\]/key: '*' }]</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
