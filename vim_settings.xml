@@ -84,6 +84,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" timestamp="1474019083291">
+        <mark key="'" line="66" column="18" />
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="72" column="98" />
+        <mark key="." line="11" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/analytics/getMany.ts" timestamp="1473424929996">
         <mark key="'" line="30" column="25" />
         <mark key="[" line="30" column="33" />
@@ -169,16 +176,22 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.ts" timestamp="1474018516059">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/Dockerfile" timestamp="1473435621524">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/Server.js" timestamp="1472814213009">
+      <file name="$USER_HOME$/dev/bs-raml-api/src/Server.js" timestamp="1474019066985">
         <mark key="'" line="101" column="14" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
+        <mark key="[" line="142" column="2" />
+        <mark key="]" line="142" column="20" />
         <mark key="." line="197" column="0" />
         <mark key="^" line="94" column="6" />
       </file>
@@ -263,6 +276,9 @@
         <mark key="." line="226" column="36" />
         <mark key="^" line="226" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" timestamp="1474018455334">
+        <mark key="'" line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/DataSources/DataSources.ts" timestamp="1473424387462">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="10" column="41" />
@@ -346,9 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="27" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Campaigns/Campaigns.ts" />
-      <jump line="17" column="38" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/utils.ts" />
-      <jump line="12" column="15" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/utils.ts" />
       <jump line="14" column="46" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Clients/Clients.ts" />
       <jump line="35" column="29" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Clients/Clients.ts" />
       <jump line="45" column="29" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Clients/Clients.ts" />
@@ -446,6 +459,9 @@
       <jump line="8" column="41" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="64" column="26" filename="$USER_HOME$/dev/bs-raml-api/package.json" />
       <jump line="93" column="4" filename="$USER_HOME$/dev/bs-raml-api/package.json" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" />
+      <jump line="29" column="14" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.ts" />
+      <jump line="66" column="18" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -496,19 +512,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>^</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3R1YkVtaXQ6IGFueSA9IHNpbm9uLnN0dWIoc3V0LCAnZW1pdEludmFsaWRhdGUnKTsKICAgICAgICBsZXQgc3R1YkRlYm91bmNlOiBhbnkgPSBzaW5vbi5zdHViKHN1dCwgJ2RlYm91bmNlSW52YWxpZGF0ZScpOwo=</text>
+      <register name="0" type="4">
+        <text>_initializeServices</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnLi4uLicsIGtleSwgZ3JvdXApOwo=</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgc2VydmVyLnN0b3AoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -533,28 +549,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NBTExFRCcpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGludlNlcnZpY2UpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3R1YjogYW55ID0gc2lub24uc3R1YihzdXQsICdlbWl0SW52YWxpZGF0ZScpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaXQoJ2NhbGxzIGRlYm91bmNlSW52YWxpZGF0ZSB3aXRoIG1hcHBlZCBpbnZhbGlkYXRpb25zJywgYXN5bmMgKCkgPT4gewogICAgICAgIGxldCBzdXQgPSBuZXcgSW52YWxpZGF0aW9uU2VydmljZShvcHRpb25zKTsKICAgICAgICBsZXQgc3R1YjogYW55ID0gc2lub24uc3R1YihzdXQsICdlbWl0SW52YWxpZGF0ZScpOwoKICAgICAgICBhd2FpdCBzdXQuaW52YWxpZGF0ZSgndXNlcicsIHsgaWQ6ICdmb28nIH0sIHsgaW1tZWRpYXRlOiB0cnVlIH0pOwoKICAgICAgICBhc3NlcnQuZGVlcEVxdWFsKHN0dWIuYXJncywgWwogICAgICAgICAgWyd1c2VyLnBlcm1pc3Npb25zJywgJ1VTRVIuUEVSTUlTU0lPTlM6Zm9vJ10sCiAgICAgICAgICBbJ3VzZXIuY2xpZW50cycsICdVU0VSLkNMSUVOVFM6Zm9vJ10KICAgICAgICBdKTsKICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYXNzZXJ0LmRlZXBFcXVhbChwYWdpbmF0aW9uLCB1bmRlZmluZWQpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc3R1Yi5yZXR1cm5zKHsKICAgICAgICBib2R5OiB7CiAgICAgICAgICBhOiAxLAogICAgICAgIH0sCiAgICAgIH0pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYXNzZXJ0LmRlZXBFcXVhbChpdGVtcywgeyBhOiAxIH0pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnKysrKycsIHBheWxvYWQpOwogIGlmIChwYXlsb2FkLm1ldGhvZCA9PT0gJ3Bvc3QnIHx8IHBheWxvYWQubWV0aG9kID09PSAnZGVsZXRlJykgewogICAgbGV0IHJvdXRpbmdLZXkgPSB1dGlscy5wYXRoVG9Sb3V0aW5nS2V5KHBheWxvYWQucGF0aCwgcGF5bG9hZC5tZXRob2QpOwogICAgY29uc29sZS5sb2coJy4uLicsIHJvdXRpbmdLZXkpOwogICAgc2VydmVyLmNhY2hlSW52YWxpZGF0b3IuaW52YWxpZGF0ZShyb3V0aW5nS2V5LCB7IGlkOiBudWxsIH0pLnRoZW4oKCkgPT4gewogICAgICBjb25zb2xlLmxvZygncGV3Jyk7CiAgICB9KS5jYXRjaChlcnIgPT4gewogICAgICBjb25zb2xlLmxvZyhlcnIsICdOT09PJyk7CiAgICB9KTsKICB9Cgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnLi4uLicsIGtleSwgZ3JvdXApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NBTExFRCcpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
