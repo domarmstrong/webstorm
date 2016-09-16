@@ -331,11 +331,11 @@
         <mark key="^" line="167" column="26" />
         <mark key="." line="167" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/local/docker-compose.ts" timestamp="1474034452511">
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/local/docker-compose.ts" timestamp="1474036790131">
         <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-        <mark key="^" line="7" column="36" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/DataSources/DataSources.ts" timestamp="1473424387462">
         <mark key="'" line="3" column="0" />
@@ -365,11 +365,11 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" timestamp="1474029366085">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="4" column="41" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" timestamp="1474036655483">
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="45" />
+        <mark key="." line="26" column="45" />
+        <mark key="^" line="26" column="45" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/README.md" timestamp="1473426019437">
         <mark key="'" line="26" column="30" />
@@ -596,16 +596,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>amqp://guest:guest@rabbitmq',</text>
+        <text>rabbitmq</text>
       </register>
       <register name="-" type="4">
-        <text>amqp://guest:guest@rabbitmq',</text>
+        <text>rabbitmq</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmFiYml0TVE6ICdhbXFwOi8vZ3Vlc3Q6Z3Vlc3RAcmFiYml0bXEnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSByYWJiaXRtcQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJhYmJpdE1ROiAnYW1xcDovL2xvY2FsaG9zdCcsCg==</text>
