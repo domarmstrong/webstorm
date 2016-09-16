@@ -331,6 +331,12 @@
         <mark key="^" line="167" column="26" />
         <mark key="." line="167" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/local/docker-compose.ts" timestamp="1474034452511">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/DataSources/DataSources.ts" timestamp="1473424387462">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="10" column="41" />
@@ -589,17 +595,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJhYmJpdE1ROiAnYW1xcDovL2xvY2FsaG9zdCcsCg==</text>
+      <register name="&quot;" type="4">
+        <text>amqp://guest:guest@rabbitmq',</text>
       </register>
       <register name="-" type="4">
-        <text>server</text>
+        <text>amqp://guest:guest@rabbitmq',</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmFiYml0TVE6ICdhbXFwOi8vYW1xcDphbXFwQG1xMjEuZGV2LmJzLmxhbicsCg==</text>
+        <text encoding="base64">ICAgICAgcmFiYml0TVE6ICdhbXFwOi8vZ3Vlc3Q6Z3Vlc3RAcmFiYml0bXEnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJhYmJpdE1ROiAnYW1xcDovL2xvY2FsaG9zdCcsCg==</text>
