@@ -105,12 +105,12 @@
         <mark key="^" line="44" column="102" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" timestamp="1474012410618">
-        <mark key="'" line="129" column="18" />
-        <mark key="[" line="136" column="18" />
-        <mark key="]" line="136" column="18" />
-        <mark key="." line="136" column="18" />
-        <mark key="^" line="107" column="53" />
+      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" timestamp="1474013720818">
+        <mark key="'" line="146" column="18" />
+        <mark key="[" line="80" column="50" />
+        <mark key="]" line="80" column="50" />
+        <mark key="." line="80" column="50" />
+        <mark key="^" line="82" column="59" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/searches/getMany.ts" timestamp="1473424896541">
         <mark key="[" line="20" column="38" />
@@ -217,12 +217,12 @@
         <mark key="." line="73" column="44" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" timestamp="1474012393772">
-        <mark key="'" line="184" column="17" />
-        <mark key="[" line="271" column="8" />
-        <mark key="]" line="271" column="8" />
-        <mark key="." line="271" column="8" />
-        <mark key="^" line="271" column="9" />
+      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" timestamp="1474013472001">
+        <mark key="'" line="274" column="6" />
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="311" column="0" />
+        <mark key="." line="311" column="0" />
+        <mark key="^" line="310" column="12" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/package.json" timestamp="1473438983667">
         <mark key="[" line="5" column="21" />
@@ -346,19 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="38" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="135" column="53" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="149" column="53" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="151" column="57" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="173" column="26" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="191" column="26" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="22" column="10" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="26" column="25" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="111" column="47" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="106" column="61" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="110" column="42" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="116" column="15" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="117" column="61" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
       <jump line="123" column="46" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
       <jump line="129" column="15" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
       <jump line="130" column="61" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
@@ -446,6 +433,19 @@
       <jump line="116" column="18" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
       <jump line="123" column="18" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
       <jump line="129" column="18" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
+      <jump line="299" column="11" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="305" column="9" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="291" column="20" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="68" column="23" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="2" column="30" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="62" column="9" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="230" column="17" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="250" column="17" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="296" column="11" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="308" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="309" column="2" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="67" column="2" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
+      <jump line="274" column="6" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -496,19 +496,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>, { immediate: true }</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>, { immediate: true }</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaGFuZGxlTWVzc2FnZVw+</text>
+        <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lbWl0KCdpbnZhbGlkYXRlJywgeyBncm91cCwga2V5IH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc3R1YkVtaXQ6IGFueSA9IHNpbm9uLnN0dWIoc3V0LCAnZW1pdEludmFsaWRhdGUnKTsKICAgICAgICBsZXQgc3R1YkRlYm91bmNlOiBhbnkgPSBzaW5vbi5zdHViKHN1dCwgJ2RlYm91bmNlSW52YWxpZGF0ZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc3R1YjogYW55ID0gc2lub24uc3R1YihzdXQsICdlbWl0SW52YWxpZGF0ZScpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -533,28 +533,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGVtaXRJbnZhbGlkYXRlKGdyb3VwOiBzdHJpbmcsIGtleTogc3RyaW5nKTogdm9pZCB7CiAgICB0aGlzLmVtaXQoJ2ludmFsaWRhdGUnLCB7IGdyb3VwLCBrZXkgfSk7CiAgfQoK</text>
+        <text encoding="base64">ICAgICAgaXQoJ2NhbGxzIGRlYm91bmNlSW52YWxpZGF0ZSB3aXRoIG1hcHBlZCBpbnZhbGlkYXRpb25zJywgYXN5bmMgKCkgPT4gewogICAgICAgIGxldCBzdXQgPSBuZXcgSW52YWxpZGF0aW9uU2VydmljZShvcHRpb25zKTsKICAgICAgICBsZXQgc3R1YjogYW55ID0gc2lub24uc3R1YihzdXQsICdlbWl0SW52YWxpZGF0ZScpOwoKICAgICAgICBhd2FpdCBzdXQuaW52YWxpZGF0ZSgndXNlcicsIHsgaWQ6ICdmb28nIH0sIHsgaW1tZWRpYXRlOiB0cnVlIH0pOwoKICAgICAgICBhc3NlcnQuZGVlcEVxdWFsKHN0dWIuYXJncywgWwogICAgICAgICAgWyd1c2VyLnBlcm1pc3Npb25zJywgJ1VTRVIuUEVSTUlTU0lPTlM6Zm9vJ10sCiAgICAgICAgICBbJ3VzZXIuY2xpZW50cycsICdVU0VSLkNMSUVOVFM6Zm9vJ10KICAgICAgICBdKTsKICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLmRlYm91bmNlSW52YWxpZGF0ZShncm91cCwga2V5KTsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBCUkFORF9HUk9VUAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBDTElFTlQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBDTElFTlQK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ga2V5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBCUkFORF9HUk9VUAo=</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dGg6IHsKICAgICAgCiAgICB9LAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzcnYuCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -564,20 +564,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaGFuZGxlTWVzc2FnZVw+</last-search>
+      <last-search encoding="base64">XDxwcml2YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaGFuZGxlTWVzc2FnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcml2YXRlXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
-        <entry encoding="base64">XDxhY2NvdW50c1JlcXVlc3RcPg==</entry>
-        <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0TWV0aG9kXD4=</entry>
         <entry>request</entry>
         <entry>self</entry>
         <entry>babel\c</entry>
@@ -594,6 +590,10 @@
         <entry encoding="base64">XDxoYW5kbGVNZXNzYWdlXD4=</entry>
         <entry>_han</entry>
         <entry encoding="base64">XDxfaGFuZGxlTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxldmVudHNcPg==</entry>
+        <entry>emit</entry>
+        <entry encoding="base64">XDxlbWl0XD4=</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
