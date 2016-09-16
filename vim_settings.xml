@@ -22,6 +22,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/metrics.ts" timestamp="1474043201369">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="49" />
+        <mark key="^" line="22" column="49" />
+        <mark key="." line="22" column="49" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/test.ts" timestamp="1473433421720">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -34,6 +40,9 @@
         <mark key="]" line="5" column="8" />
         <mark key="^" line="37" column="39" />
         <mark key="." line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/dimensions.ts" timestamp="1474043182427">
+        <mark key="'" line="34" column="25" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/Dockerfile" timestamp="1473847396565">
         <mark key="[" line="7" column="30" />
@@ -59,10 +68,12 @@
         <mark key="]" line="205" column="63" />
         <mark key="." line="205" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" timestamp="1474032139598">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" timestamp="1474043933572">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="108" column="36" />
+        <mark key="]" line="108" column="37" />
+        <mark key="." line="108" column="37" />
+        <mark key="^" line="108" column="37" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-raml-api/index.d.ts" timestamp="1473439737691">
         <mark key="[" line="33" column="0" />
@@ -103,6 +114,12 @@
         <mark key="]" line="13" column="50" />
         <mark key="^" line="13" column="50" />
         <mark key="." line="13" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Monitors/Monitors/utils.ts" timestamp="1474043699554">
+        <mark key="'" line="1" column="12" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/utils.ts" timestamp="1473425677505">
         <mark key="'" line="40" column="35" />
@@ -218,11 +235,6 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="79" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/docker-compose.yml" timestamp="1474029326125">
-        <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="58" column="57" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/Dockerfile" timestamp="1473435621524">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="32" />
@@ -262,6 +274,12 @@
         <mark key="]" line="153" column="52" />
         <mark key="^" line="153" column="57" />
         <mark key="." line="153" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/typings/modules/bs-query-mongo/index.d.ts" timestamp="1474043671695">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/local/test.ts" timestamp="1472814450345">
         <mark key="'" line="0" column="15" />
@@ -372,11 +390,10 @@
         <mark key="^" line="13" column="36" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" timestamp="1474042372612">
-        <mark key="'" line="79" column="0" />
         <mark key="[" line="12" column="17" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/parameterValuesAnnotationHandler.ts" timestamp="1474043153732">
+        <mark key="'" line="42" column="2" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/README.md" timestamp="1473426019437">
         <mark key="'" line="26" column="30" />
@@ -453,13 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="6" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="112" column="14" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="116" column="18" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="123" column="18" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="129" column="18" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" />
-      <jump line="299" column="11" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="305" column="9" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="291" column="20" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="68" column="23" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="2" column="30" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
@@ -553,6 +563,13 @@
       <jump line="77" column="0" filename="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" />
       <jump line="78" column="0" filename="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" />
+      <jump line="44" column="2" filename="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/parameterValuesAnnotationHandler.ts" />
+      <jump line="42" column="2" filename="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/parameterValuesAnnotationHandler.ts" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/dimensions.ts" />
+      <jump line="34" column="25" filename="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/dimensions.ts" />
+      <jump line="55" column="9" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Monitors/Monitors/utils.ts" />
+      <jump line="1" column="12" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Monitors/Monitors/utils.ts" />
+      <jump line="38" column="4" filename="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -603,19 +620,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGhvc3Q=</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGhvc3Q=</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJidWlsZCI6ICJ0c2MiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiKiovKi5zcGVjLnRzIiwKICAgICAgICAiX190ZXN0IiwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4nLCBic1F1ZXJ5TW9uZ28pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -640,28 +657,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJhYmJpdE1ROiAnYW1xcDovL2xvY2FsaG9zdCcsCg==</text>
+        <text encoding="base64">CiAgbmFtZXNwYWNlIGJzUXVlcnlNb25nbyB7fQoKICBleHBvcnQgPSBic1F1ZXJ5TW9uZ287Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiKiovKi5zcGVjLnRzIiwKICAgICAgICAiX190ZXN0IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gVHlwZVNjcmlwdCBjb21waWxlciBzcGVjaWZpYyBvcHRpb25zCi8vIGh0dHBzOi8vZ2l0aHViLmNvbS9NaWNyb3NvZnQvVHlwZVNjcmlwdC93aWtpL0NvbXBpbGVyLU9wdGlvbnMKLy8gKG5vIG5lZWQgdG8gZHVwbGljYXRlIHRzY29uZmlnLmpzb24sIGlmIHlvdSBoYXZlIGl0LCBpdCdsbCBiZSBhdXRvbWF0aWNhbGx5IHVzZWQpCg==</text>
+        <text encoding="base64">ICAgIHJhYmJpdE1ROiAnYW1xcDovL2xvY2FsaG9zdCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICcqKi8qLmpzJzogd2FsbGFieS5jb21waWxlcnMuYmFiZWwoewogIC8vIGJhYmVsIG9wdGlvbnMKICAvLyBsaWtlIGBzdGFnZTogbmAgZm9yIEJhYmVsIDUueCBvciBgcHJlc2V0czogWy4uLl1gIGZvciBCYWJlbCA2CiAgLy8gKG5vIG5lZWQgdG8gZHVwbGljYXRlIC5iYWJlbHJjLCBpZiB5b3UgaGF2ZSBpdCwgaXQnbGwgYmUgYXV0b21hdGljYWxseSBsb2FkZWQpCn0pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIExpc3RlbiBmb3IgaW52YWxpZGF0aW9uIGV2ZW50cyBhbmQgdHJpZ2dlciBtb25pdG9yIHVwZGF0ZQogKi8Kc2VydmVyLm9uKCdzdGFydCcsICgpID0+IHsKICBzZXJ2ZXIuY2FjaGVJbnZhbGlkYXRvci5vbignaW52YWxpZGF0ZScsIChwYXlsb2FkOiB7IGdyb3VwOiBzdHJpbmcgfSkgPT4gewogICAgaWYgKHBheWxvYWQuZ3JvdXAgPT09ICdtb25pdG9yJykgewogICAgICB1cGRhdGVNb25pdG9ycygpCiAgICAgICAgLmNhdGNoKGVyciA9PiBzZXJ2ZXIubG9nLmVycm9yKGVycikpOwogICAgfQogIH0pOwp9KTsKCg==</text>
+        <text encoding="base64">Ly8gVHlwZVNjcmlwdCBjb21waWxlciBzcGVjaWZpYyBvcHRpb25zCi8vIGh0dHBzOi8vZ2l0aHViLmNvbS9NaWNyb3NvZnQvVHlwZVNjcmlwdC93aWtpL0NvbXBpbGVyLU9wdGlvbnMKLy8gKG5vIG5lZWQgdG8gZHVwbGljYXRlIHRzY29uZmlnLmpzb24sIGlmIHlvdSBoYXZlIGl0LCBpdCdsbCBiZSBhdXRvbWF0aWNhbGx5IHVzZWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZuOiAocGF5bG9hZDogYW55KTogc3RyaW5nID0+IHBheWxvYWQucmUgJiYgLnVzZXJuYW1lLAo=</text>
+        <text encoding="base64">ICAgICcqKi8qLmpzJzogd2FsbGFieS5jb21waWxlcnMuYmFiZWwoewogIC8vIGJhYmVsIG9wdGlvbnMKICAvLyBsaWtlIGBzdGFnZTogbmAgZm9yIEJhYmVsIDUueCBvciBgcHJlc2V0czogWy4uLl1gIGZvciBCYWJlbCA2CiAgLy8gKG5vIG5lZWQgdG8gZHVwbGljYXRlIC5iYWJlbHJjLCBpZiB5b3UgaGF2ZSBpdCwgaXQnbGwgYmUgYXV0b21hdGljYWxseSBsb2FkZWQpCn0pLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgaXQoJ21hcHMgREVMRVRFIHRvIHJlcXVlc3Q6cGx1cmFsJywgYXN5bmMgKCkgPT4gewogICAgYXdhaXQgaW52U2VydmljZS5pbnZhbGlkYXRlKCd1c2VyLkRFTEVURScsIHsgaWQ6ICcxMjMnIH0pOwogICAgYXNzZXJ0LmRlZXBFcXVhbChjYWxsYmFjay5hcmdzLCBbCiAgICAgIFt7IGdyb3VwOiAncmVxdWVzdDp1c2VycycsIGtleTogJyonIH1dLAogICAgXSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIExpc3RlbiBmb3IgaW52YWxpZGF0aW9uIGV2ZW50cyBhbmQgdHJpZ2dlciBtb25pdG9yIHVwZGF0ZQogKi8Kc2VydmVyLm9uKCdzdGFydCcsICgpID0+IHsKICBzZXJ2ZXIuY2FjaGVJbnZhbGlkYXRvci5vbignaW52YWxpZGF0ZScsIChwYXlsb2FkOiB7IGdyb3VwOiBzdHJpbmcgfSkgPT4gewogICAgaWYgKHBheWxvYWQuZ3JvdXAgPT09ICdtb25pdG9yJykgewogICAgICB1cGRhdGVNb25pdG9ycygpCiAgICAgICAgLmNhdGNoKGVyciA9PiBzZXJ2ZXIubG9nLmVycm9yKGVycikpOwogICAgfQogIH0pOwp9KTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgaXQoJ21hcHMgVVBEQVRFIHRvIHJlcXVlc3Q6cGx1cmFsJywgYXN5bmMgKCkgPT4gewogICAgYXdhaXQgaW52U2VydmljZS5pbnZhbGlkYXRlKCd1c2VyLlVQREFURScsIHsgaWQ6ICcxMjMnIH0pOwogICAgYXNzZXJ0LmRlZXBFcXVhbChjYWxsYmFjay5hcmdzLCBbCiAgICAgIFt7IGdyb3VwOiAncmVxdWVzdDp1c2VycycsIGtleTogJyonIH1dLAogICAgXSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGZuOiAocGF5bG9hZDogYW55KTogc3RyaW5nID0+IHBheWxvYWQucmUgJiYgLnVzZXJuYW1lLAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -671,9 +688,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXJ2ZXJcPg==</last-search>
+      <last-search>name</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXJ2ZXJcPg==</last-pattern>
+      <last-pattern>name</last-pattern>
       <last-replace>key: '*' }]</last-replace>
       <last-substitute>'\*'\]</last-substitute>
       <last-dir>1</last-dir>
@@ -681,10 +698,6 @@
     </search>
     <history>
       <history-search>
-        <entry>, { immediate: true }</entry>
-        <entry>\^</entry>
-        <entry encoding="base64">XDxfaW5pdGlhbGl6ZUNvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxfYXBwbHlNaWRkbGV3YXJlXD4=</entry>
         <entry encoding="base64">XDxhcHBseU1pZGRsZXdhcmVcPg==</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplU2VydmljZXNcPg==</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplQ29uZmlnXD4=</entry>
@@ -701,6 +714,10 @@
         <entry>'\*'\]</entry>
         <entry encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</entry>
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
+        <entry encoding="base64">XDxpc1ZhbGlkXD4=</entry>
+        <entry encoding="base64">XDxic1F1ZXJ5TW9uZ29cPg==</entry>
+        <entry>monitor.name</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/defin\?\//definition\//</entry>
@@ -718,10 +735,10 @@
         <entry>%s/'\*'\]/key: '*' }</entry>
         <entry>%s/{ g/[{ g</entry>
         <entry>%s/},/}],</entry>
-        <entry>noh</entry>
         <entry>%s/\['/[{ group: '</entry>
         <entry>%s/'*'\]/key: '*' }]</entry>
         <entry>%s/'\*'\]/key: '*' }]</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
