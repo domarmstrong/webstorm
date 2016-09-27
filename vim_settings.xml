@@ -234,7 +234,7 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="79" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/RAML/api.raml" timestamp="1474966636158">
+      <file name="$USER_HOME$/dev/app-nest-api-auth/RAML/api.raml" timestamp="1474967631011">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="85" />
       </file>
@@ -277,6 +277,13 @@
         <mark key="]" line="153" column="52" />
         <mark key="^" line="153" column="57" />
         <mark key="." line="153" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" timestamp="1474968430589">
+        <mark key="'" line="21" column="26" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/typings/modules/bs-query-mongo/index.d.ts" timestamp="1474043671695">
         <mark key="[" line="3" column="2" />
@@ -473,9 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="20" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="68" column="23" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="2" column="30" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="62" column="9" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="230" column="17" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="250" column="17" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
@@ -573,6 +577,9 @@
       <jump line="55" column="9" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Monitors/Monitors/utils.ts" />
       <jump line="1" column="12" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Monitors/Monitors/utils.ts" />
       <jump line="38" column="4" filename="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" />
+      <jump line="21" column="26" filename="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -623,10 +630,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbjogQXV0aGVudGljYXRlIHVzaW5nIE5lc3QgdXNlcm5hbWUgYW5kIHBhc3N3b3JkIHRocm91Z2ggdGhlIGFjY291bnRzIGFwaQo=</text>
+        <text encoding="base64">c3dhZ2dlcjogMi4wCgppbmZvOgogIHRpdGxlOiBBdXRoIEFwaQogIGRlc2NyaXB0aW9uOiBVc2VyIGF1dGhlbnRpY2F0aW9uCiAgY29udGFjdDoKICAgIG5hbWU6IERvbSBBcm1zdHJvbmcKICAgIGVtYWlsOiBkb20uYXJtc3Ryb25nQGJsYWNrc3dhbi5jb20KICB2ZXJzaW9uOiAxLjAKCnBhdGhzOgogIC9sb2dpbjoKICAgIHBvc3Q6CiAgICAgIGRlc2NyaXB0aW9uOiBBdXRoZW50aWNhdGUgdXNpbmcgTmVzdCB1c2VybmFtZSBhbmQgcGFzc3dvcmQgdGhyb3VnaCB0aGUgYWNjb3VudHMgYXBpCiAgICAgIHByb2R1Y2VzOgogICAgICAgIC0gYXBwbGljYXRpb24vanNvbgogICAgICByZXNwb25zZXM6CiAgICAgICAgMjAwOgogICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICB0eXBlOiBvYmplY3QKICAgICAgICAgICAgcHJvcGVydGllczoKICAgICAgICAgICAgICB0b2tlbjogc3RyaW5nCg==</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -635,7 +642,7 @@
         <text encoding="base64">ICBkZXNjcmlwdGlvbjogQXV0aGVudGljYXRlIHVzaW5nIE5lc3QgdXNlcm5hbWUgYW5kIHBhc3N3b3JkIHRocm91Z2ggdGhlIGFjY291bnRzIGFwaQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4nLCBic1F1ZXJ5TW9uZ28pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -660,28 +667,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgbmFtZXNwYWNlIGJzUXVlcnlNb25nbyB7fQoKICBleHBvcnQgPSBic1F1ZXJ5TW9uZ287Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiKiovKi5zcGVjLnRzIiwKICAgICAgICAiX190ZXN0IiwK</text>
+        <text encoding="base64">ICAgICAgZGVzY3JpcHRpb246IEF1dGhlbnRpY2F0ZSB1c2luZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJhYmJpdE1ROiAnYW1xcDovL2xvY2FsaG9zdCcsCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4nLCBic1F1ZXJ5TW9uZ28pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgbmFtZXNwYWNlIGJzUXVlcnlNb25nbyB7fQoKICBleHBvcnQgPSBic1F1ZXJ5TW9uZ287Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gVHlwZVNjcmlwdCBjb21waWxlciBzcGVjaWZpYyBvcHRpb25zCi8vIGh0dHBzOi8vZ2l0aHViLmNvbS9NaWNyb3NvZnQvVHlwZVNjcmlwdC93aWtpL0NvbXBpbGVyLU9wdGlvbnMKLy8gKG5vIG5lZWQgdG8gZHVwbGljYXRlIHRzY29uZmlnLmpzb24sIGlmIHlvdSBoYXZlIGl0LCBpdCdsbCBiZSBhdXRvbWF0aWNhbGx5IHVzZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAiKiovKi5zcGVjLnRzIiwKICAgICAgICAiX190ZXN0IiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICcqKi8qLmpzJzogd2FsbGFieS5jb21waWxlcnMuYmFiZWwoewogIC8vIGJhYmVsIG9wdGlvbnMKICAvLyBsaWtlIGBzdGFnZTogbmAgZm9yIEJhYmVsIDUueCBvciBgcHJlc2V0czogWy4uLl1gIGZvciBCYWJlbCA2CiAgLy8gKG5vIG5lZWQgdG8gZHVwbGljYXRlIC5iYWJlbHJjLCBpZiB5b3UgaGF2ZSBpdCwgaXQnbGwgYmUgYXV0b21hdGljYWxseSBsb2FkZWQpCn0pLAo=</text>
+        <text encoding="base64">ICAgIHJhYmJpdE1ROiAnYW1xcDovL2xvY2FsaG9zdCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIExpc3RlbiBmb3IgaW52YWxpZGF0aW9uIGV2ZW50cyBhbmQgdHJpZ2dlciBtb25pdG9yIHVwZGF0ZQogKi8Kc2VydmVyLm9uKCdzdGFydCcsICgpID0+IHsKICBzZXJ2ZXIuY2FjaGVJbnZhbGlkYXRvci5vbignaW52YWxpZGF0ZScsIChwYXlsb2FkOiB7IGdyb3VwOiBzdHJpbmcgfSkgPT4gewogICAgaWYgKHBheWxvYWQuZ3JvdXAgPT09ICdtb25pdG9yJykgewogICAgICB1cGRhdGVNb25pdG9ycygpCiAgICAgICAgLmNhdGNoKGVyciA9PiBzZXJ2ZXIubG9nLmVycm9yKGVycikpOwogICAgfQogIH0pOwp9KTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZuOiAocGF5bG9hZDogYW55KTogc3RyaW5nID0+IHBheWxvYWQucmUgJiYgLnVzZXJuYW1lLAo=</text>
+        <text encoding="base64">Ly8gVHlwZVNjcmlwdCBjb21waWxlciBzcGVjaWZpYyBvcHRpb25zCi8vIGh0dHBzOi8vZ2l0aHViLmNvbS9NaWNyb3NvZnQvVHlwZVNjcmlwdC93aWtpL0NvbXBpbGVyLU9wdGlvbnMKLy8gKG5vIG5lZWQgdG8gZHVwbGljYXRlIHRzY29uZmlnLmpzb24sIGlmIHlvdSBoYXZlIGl0LCBpdCdsbCBiZSBhdXRvbWF0aWNhbGx5IHVzZWQpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
