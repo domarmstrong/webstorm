@@ -406,12 +406,12 @@
         <mark key="^" line="18" column="6" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/raml2html/lib/template.nunjucks" timestamp="1474986207461">
+      <file name="$USER_HOME$/dev/raml2html/lib/template.nunjucks" timestamp="1474986708770">
         <mark key="'" line="62" column="29" />
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="36" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="20" />
+        <mark key="." line="35" column="20" />
+        <mark key="^" line="66" column="50" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" timestamp="1473420046020">
         <mark key="'" line="95" column="15" />
