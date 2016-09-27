@@ -7,6 +7,7 @@
       <component name="InspectionProjectProfileManager">
         <profile version="1.0">
           <option name="myName" value="Project Default" />
+          <inspection_tool class="ES6Validation" enabled="true" level="WARNING" enabled_by_default="true" />
           <inspection_tool class="JSLastCommaInArrayLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
           <inspection_tool class="JSLastCommaInObjectLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
           <inspection_tool class="Jscs" enabled="true" level="ERROR" enabled_by_default="true" />
@@ -34,21 +35,26 @@
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="settings.javascript.linters.tslint" />
+        <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="nodejs_interpreter_path" value="$USER_HOME$/bin/node" />
-        <property name="javascript.nodejs.core.library.configured.version" value="6.0.0" />
-        <property name="last_opened_file_path" value="$USER_HOME$/npm/lib/node_modules/tslint" />
+        <property name="javascript.nodejs.core.library.configured.version" value="6.3.1" />
+        <property name="js.eslint.eslintPackage" value="" />
         <property name="JavaScriptPreferStrict" value="false" />
         <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
         <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/bin/node" />
+        <property name="js.eslint.nodeInterpreter" value="project" />
+        <property name="last_opened_file_path" value="$USER_HOME$/npm/lib/node_modules/tslint" />
         <property name="js-jscs-package" value="$USER_HOME$/npm/lib/node_modules/jscs" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="js-tslint-nodeInterpreter" value="$USER_HOME$/bin/node" />
         <property name="js-tslint-package" value="$USER_HOME$/npm/lib/node_modules/tslint" />
       </component>
       <component name="TypeScriptCompiler">
         <option name="isCompilerEnabled" value="true" />
         <option name="useConfig" value="true" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
       </component>
     </defaultProject>
   </component>

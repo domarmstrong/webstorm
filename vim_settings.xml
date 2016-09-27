@@ -234,6 +234,10 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="79" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/RAML/api.raml" timestamp="1474966636158">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="85" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/Dockerfile" timestamp="1473435621524">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="32" />
@@ -387,6 +391,9 @@
         <mark key="]" line="13" column="36" />
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" timestamp="1474042372612">
+        <mark key="[" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/parameterValuesAnnotationHandler.ts" timestamp="1474043153732">
         <mark key="'" line="42" column="2" />
@@ -615,8 +622,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZXNjcmlwdGlvbjogQXV0aGVudGljYXRlIHVzaW5nIE5lc3QgdXNlcm5hbWUgYW5kIHBhc3N3b3JkIHRocm91Z2ggdGhlIGFjY291bnRzIGFwaQo=</text>
       </register>
       <register name="-" type="4">
         <text>name</text>
@@ -625,7 +632,7 @@
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJ0c2MiLAo=</text>
+        <text encoding="base64">ICBkZXNjcmlwdGlvbjogQXV0aGVudGljYXRlIHVzaW5nIE5lc3QgdXNlcm5hbWUgYW5kIHBhc3N3b3JkIHRocm91Z2ggdGhlIGFjY291bnRzIGFwaQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4nLCBic1F1ZXJ5TW9uZ28pOwo=</text>
