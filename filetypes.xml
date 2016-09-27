@@ -6,11 +6,11 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping ext="keep" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="wt" type="PLAIN_TEXT" />
-      <mapping ext="boards" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="boards" type="PLAIN_TEXT" />
+      <removed_mapping ext="raml" type="Raml" />
       <mapping ext="raml" type="YAML" />
     </extensionMap>
   </component>

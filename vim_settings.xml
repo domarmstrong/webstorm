@@ -10,6 +10,12 @@
         <mark key="." line="5" column="73" />
         <mark key="^" line="5" column="73" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/file.ts" timestamp="1474974476968">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+        <mark key="^" line="2" column="57" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" timestamp="1472826454984">
         <mark key="'" line="112" column="26" />
         <mark key="[" line="218" column="28" />
@@ -28,12 +34,24 @@
         <mark key="^" line="22" column="49" />
         <mark key="." line="22" column="49" />
       </file>
+      <file name="/fragment.js" timestamp="1474977241090">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/test.ts" timestamp="1473433421720">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="21" />
         <mark key="^" line="10" column="14" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.ts" timestamp="1474976925824">
+        <mark key="[" line="14" column="69" />
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="1" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1474033904505">
         <mark key="[" line="5" column="8" />
@@ -213,6 +231,12 @@
         <mark key="^" line="54" column="46" />
         <mark key="." line="53" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/array.ts" timestamp="1474974875258">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="50" />
+        <mark key="." line="15" column="50" />
+        <mark key="^" line="15" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/bs-api-request/src/request.ts" timestamp="1473415859453">
         <mark key="'" line="61" column="40" />
         <mark key="[" line="64" column="57" />
@@ -237,6 +261,17 @@
       <file name="$USER_HOME$/dev/app-nest-api-auth/RAML/api.raml" timestamp="1474967631011">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="85" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/array.spec.ts" timestamp="1474974610650">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.spec.ts" timestamp="1474976965600">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/Dockerfile" timestamp="1473435621524">
         <mark key="[" line="15" column="25" />
@@ -278,12 +313,9 @@
         <mark key="^" line="153" column="57" />
         <mark key="." line="153" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" timestamp="1474968430589">
+      <file name="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" timestamp="1474973937966">
         <mark key="'" line="21" column="26" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="26" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="21" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/typings/modules/bs-query-mongo/index.d.ts" timestamp="1474043671695">
         <mark key="[" line="3" column="2" />
@@ -466,6 +498,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/any.ts" timestamp="1474974598072">
+        <mark key="[" line="11" column="80" />
+        <mark key="]" line="11" column="75" />
+        <mark key="." line="11" column="75" />
+        <mark key="^" line="11" column="75" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/docker-compose.ts" timestamp="1473440213056">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -480,8 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="9" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="230" column="17" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="250" column="17" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="296" column="11" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="308" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
@@ -580,6 +616,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" />
       <jump line="21" column="26" filename="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" />
+      <jump line="4" column="54" filename="$USER_HOME$/dev/bs-raml-validate/src/lib/types/any.ts" />
+      <jump line="1" column="9" filename="$USER_HOME$/dev/bs-raml-validate/src/lib/types/any.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -629,20 +667,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3dhZ2dlcjogMi4wCgppbmZvOgogIHRpdGxlOiBBdXRoIEFwaQogIGRlc2NyaXB0aW9uOiBVc2VyIGF1dGhlbnRpY2F0aW9uCiAgY29udGFjdDoKICAgIG5hbWU6IERvbSBBcm1zdHJvbmcKICAgIGVtYWlsOiBkb20uYXJtc3Ryb25nQGJsYWNrc3dhbi5jb20KICB2ZXJzaW9uOiAxLjAKCnBhdGhzOgogIC9sb2dpbjoKICAgIHBvc3Q6CiAgICAgIGRlc2NyaXB0aW9uOiBBdXRoZW50aWNhdGUgdXNpbmcgTmVzdCB1c2VybmFtZSBhbmQgcGFzc3dvcmQgdGhyb3VnaCB0aGUgYWNjb3VudHMgYXBpCiAgICAgIHByb2R1Y2VzOgogICAgICAgIC0gYXBwbGljYXRpb24vanNvbgogICAgICByZXNwb25zZXM6CiAgICAgICAgMjAwOgogICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICB0eXBlOiBvYmplY3QKICAgICAgICAgICAgcHJvcGVydGllczoKICAgICAgICAgICAgICB0b2tlbjogc3RyaW5nCg==</text>
+      <register name="&quot;" type="4">
+        <text>.kind()</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>.kind()</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text encoding="base64">XDxFeGFtcGxlU3BlY1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZXNjcmlwdGlvbjogQXV0aGVudGljYXRlIHVzaW5nIE5lc3QgdXNlcm5hbWUgYW5kIHBhc3N3b3JkIHRocm91Z2ggdGhlIGFjY291bnRzIGFwaQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBCYXI6CiAgICB0eXBlOiBzdHJpbmcKICAgIG1pbkxlbmd0aDogMgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -667,28 +705,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSVR5cGVEZWZpbml0aW9uLCBJVW5pb25UeXBlIH0gZnJvbSAncmFtbC0xLXBhcnNlci9kaXN0L3JhbWwxL2hpZ2hMZXZlbEFTVCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVzY3JpcHRpb246IEF1dGhlbnRpY2F0ZSB1c2luZwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4nLCBic1F1ZXJ5TW9uZ28pOwo=</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBoYW5kbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgbmFtZXNwYWNlIGJzUXVlcnlNb25nbyB7fQoKICBleHBvcnQgPSBic1F1ZXJ5TW9uZ287Cg==</text>
+        <text encoding="base64">ICBsZXQgcnVudGltZVR5cGUgPSB0eXBlLnJ1bnRpbWVUeXBlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiKiovKi5zcGVjLnRzIiwKICAgICAgICAiX190ZXN0IiwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJhYmJpdE1ROiAnYW1xcDovL2xvY2FsaG9zdCcsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBsZXQgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBsZXQgbGVmdCA9IHJ1bnRpbWVUeXBlLmxlZnQ7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gVHlwZVNjcmlwdCBjb21waWxlciBzcGVjaWZpYyBvcHRpb25zCi8vIGh0dHBzOi8vZ2l0aHViLmNvbS9NaWNyb3NvZnQvVHlwZVNjcmlwdC93aWtpL0NvbXBpbGVyLU9wdGlvbnMKLy8gKG5vIG5lZWQgdG8gZHVwbGljYXRlIHRzY29uZmlnLmpzb24sIGlmIHlvdSBoYXZlIGl0LCBpdCdsbCBiZSBhdXRvbWF0aWNhbGx5IHVzZWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -698,17 +736,16 @@
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search encoding="base64">XDxFeGFtcGxlU3BlY1w+</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern encoding="base64">XDxFeGFtcGxlU3BlY1w+</last-pattern>
       <last-replace>key: '*' }]</last-replace>
       <last-substitute>'\*'\]</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBseU1pZGRsZXdhcmVcPg==</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplU2VydmljZXNcPg==</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplQ29uZmlnXD4=</entry>
         <entry>moni\c</entry>
@@ -728,6 +765,7 @@
         <entry encoding="base64">XDxic1F1ZXJ5TW9uZ29cPg==</entry>
         <entry>monitor.name</entry>
         <entry>name</entry>
+        <entry encoding="base64">XDxFeGFtcGxlU3BlY1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/defin\?\//definition\//</entry>
