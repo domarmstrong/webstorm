@@ -3,30 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/bs-api-cache/typings/globals/amqp/index.d.ts" timestamp="1472749566693">
-        <mark key="'" line="0" column="20" />
-        <mark key="[" line="5" column="59" />
-        <mark key="]" line="5" column="73" />
-        <mark key="." line="5" column="73" />
-        <mark key="^" line="5" column="73" />
-      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/file.ts" timestamp="1474974476968">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="57" />
         <mark key="." line="2" column="57" />
         <mark key="^" line="2" column="57" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" timestamp="1472826454984">
-        <mark key="'" line="112" column="26" />
-        <mark key="[" line="218" column="28" />
-        <mark key="]" line="112" column="33" />
-        <mark key="^" line="112" column="33" />
-        <mark key="." line="218" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/tsconfig.prod.json" timestamp="1474038651927">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/metrics.ts" timestamp="1474043201369">
         <mark key="[" line="22" column="46" />
@@ -34,36 +15,17 @@
         <mark key="^" line="22" column="49" />
         <mark key="." line="22" column="49" />
       </file>
-      <file name="/fragment.js" timestamp="1474978000286">
+      <file name="$USER_HOME$/dev/raml2html/lib/resource/main.nunjucks" timestamp="1474991587044">
+        <mark key="'" line="15" column="17" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/item.nunjucks" timestamp="1474991948600">
+        <mark key="'" line="0" column="3" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/test.ts" timestamp="1473433421720">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="21" />
-        <mark key="^" line="10" column="14" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.ts" timestamp="1474977917769">
-        <mark key="[" line="14" column="69" />
-        <mark key="]" line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1474033904505">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="37" column="39" />
-        <mark key="." line="5" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/Dockerfile" timestamp="1473847396565">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
-        <mark key="^" line="8" column="42" />
+        <mark key="]" line="46" column="4" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/controllers/accounts.spec.ts" timestamp="1472209503702">
         <mark key="'" line="29" column="0" />
@@ -78,42 +40,11 @@
         <mark key="]" line="115" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1474033186237">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="122" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" timestamp="1473865281133">
-        <mark key="'" line="205" column="36" />
-        <mark key="[" line="205" column="63" />
-        <mark key="]" line="205" column="63" />
-        <mark key="." line="205" column="63" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" timestamp="1474043933572">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="108" column="36" />
-        <mark key="]" line="108" column="37" />
-        <mark key="." line="108" column="37" />
-        <mark key="^" line="108" column="37" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-raml-api/index.d.ts" timestamp="1473439737691">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="32" column="25" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" timestamp="1473420077936">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="35" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Permission.raml" timestamp="1473847859731">
-        <mark key="'" line="17" column="13" />
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="6" />
-        <mark key="." line="14" column="6" />
-        <mark key="^" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/local/test.js" timestamp="1472207878900">
         <mark key="'" line="29" column="3" />
@@ -121,12 +52,6 @@
         <mark key="]" line="28" column="13" />
         <mark key="^" line="28" column="13" />
         <mark key="." line="28" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/wallaby.json" timestamp="1474032854435">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="5" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/documentation.nunjucks" timestamp="1474988102202">
         <mark key="[" line="3" column="0" />
@@ -140,25 +65,12 @@
         <mark key="^" line="13" column="50" />
         <mark key="." line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Monitors/Monitors/utils.ts" timestamp="1474043699554">
-        <mark key="'" line="1" column="12" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/utils.ts" timestamp="1473425677505">
         <mark key="'" line="40" column="35" />
         <mark key="[" line="1" column="126" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" timestamp="1474025321433">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="98" column="53" />
-        <mark key="]" line="98" column="61" />
-        <mark key="^" line="98" column="61" />
-        <mark key="." line="98" column="61" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/analytics/getMany.ts" timestamp="1473424929996">
         <mark key="'" line="30" column="25" />
@@ -167,37 +79,10 @@
         <mark key="." line="30" column="37" />
         <mark key="^" line="30" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/config/defaults/cacheInvalidationMappings.js" timestamp="1472830800309">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="33" column="15" />
-        <mark key="^" line="33" column="15" />
-        <mark key="." line="33" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-query/src/parser.ts" timestamp="1472205431719">
-        <mark key="'" line="182" column="26" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="44" column="102" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/constants.ts" timestamp="1474034022016">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" timestamp="1474014686249">
-        <mark key="'" line="148" column="18" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/searches/getMany.ts" timestamp="1473424896541">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="42" />
-        <mark key="^" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-request/typings/globals/superagent/index.d.ts" timestamp="1473412816839">
         <mark key="'" line="84" column="21" />
@@ -212,12 +97,6 @@
         <mark key="]" line="43" column="21" />
         <mark key="." line="43" column="21" />
         <mark key="^" line="26" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/raml2html/lib/test.rb" timestamp="1474987875965">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="2" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/signals/signals.ts" timestamp="1473424723617">
         <mark key="'" line="20" column="27" />
@@ -258,45 +137,17 @@
         <mark key="." line="64" column="57" />
         <mark key="^" line="44" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" timestamp="1473425092452">
-        <mark key="'" line="37" column="31" />
-        <mark key="[" line="44" column="1" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.ts" timestamp="1474021779920">
-        <mark key="'" line="23" column="37" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="4" />
-        <mark key="^" line="76" column="3" />
-        <mark key="." line="79" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/raml2html/lib/markdown.js" timestamp="1474986047569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="34" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-raml-doc/src/components-composite/hello-world/HelloWorldComponent.ts" timestamp="1474985553919">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/RAML/api.raml" timestamp="1474967631011">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="85" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/array.spec.ts" timestamp="1474974610650">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.spec.ts" timestamp="1474977944527">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-        <mark key="." line="22" column="16" />
+      <file name="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" timestamp="1474992162352">
+        <mark key="'" line="234" column="52" />
+        <mark key="[" line="234" column="30" />
+        <mark key="]" line="234" column="30" />
+        <mark key="." line="234" column="52" />
+        <mark key="^" line="121" column="48" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/Dockerfile" timestamp="1473435621524">
         <mark key="[" line="15" column="25" />
@@ -304,17 +155,11 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/mocha.opts" timestamp="1474029296141">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/raml2html/index.js" timestamp="1474986343300">
-        <mark key="'" line="28" column="20" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/dev/raml2html/index.js" timestamp="1474992508356">
+        <mark key="'" line="113" column="44" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/wallaby.js" timestamp="1474033611777">
         <mark key="'" line="4" column="6" />
@@ -337,17 +182,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="79" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" timestamp="1472825853933">
-        <mark key="'" line="6" column="22" />
-        <mark key="[" line="153" column="52" />
-        <mark key="]" line="153" column="52" />
-        <mark key="^" line="153" column="57" />
-        <mark key="." line="153" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" timestamp="1474973937966">
-        <mark key="'" line="21" column="26" />
-        <mark key="^" line="22" column="21" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/typings/modules/bs-query-mongo/index.d.ts" timestamp="1474043671695">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="8" />
@@ -361,16 +195,6 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-cache/src/redisUtil.ts" timestamp="1472801930560">
-        <mark key="'" line="31" column="50" />
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="85" />
-        <mark key="^" line="31" column="85" />
-        <mark key="." line="31" column="85" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1474978971381">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Clients/Clients.ts" timestamp="1473424378720">
         <mark key="'" line="45" column="29" />
         <mark key="[" line="73" column="41" />
@@ -378,30 +202,12 @@
         <mark key="." line="73" column="44" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" timestamp="1474015307103">
-        <mark key="'" line="248" column="16" />
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/package.json" timestamp="1474016670445">
-        <mark key="'" line="93" column="4" />
-        <mark key="[" line="63" column="23" />
-        <mark key="]" line="63" column="24" />
-        <mark key="." line="63" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/utils.ts" timestamp="1473424359236">
         <mark key="'" line="12" column="15" />
         <mark key="[" line="19" column="39" />
         <mark key="]" line="19" column="44" />
         <mark key="." line="19" column="44" />
         <mark key="^" line="19" column="44" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-datalib/src/connectors/User.js" timestamp="1473870194043">
-        <mark key="[" line="71" column="4" />
-        <mark key="]" line="91" column="1" />
-        <mark key="^" line="71" column="578" />
-        <mark key="." line="71" column="578" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Monitors/Monitors.ts" timestamp="1473424395698">
         <mark key="'" line="3" column="0" />
@@ -417,11 +223,302 @@
         <mark key="^" line="18" column="6" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/raml2html/lib/template.nunjucks" timestamp="1474988197024">
-        <mark key="'" line="65" column="29" />
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="17" />
+      <file name="$USER_HOME$/dev/raml2html/lib/template.nunjucks" timestamp="1474991593396">
+        <mark key="'" line="30" column="25" />
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="23" />
+        <mark key="^" line="47" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" timestamp="1474991398130">
+        <mark key="'" line="0" column="17" />
+        <mark key="[" line="252" column="30" />
+        <mark key="]" line="252" column="45" />
+        <mark key="." line="252" column="45" />
+        <mark key="^" line="252" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/DataSources/DataSources.ts" timestamp="1473424387462">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
+        <mark key="^" line="10" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/resource.nunjucks" timestamp="1474990696720">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="251" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/resource/resource-macros.nunjucks" timestamp="1474991264768">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/resource/tab-macro.nunjucks" timestamp="1474992124495">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/package.json" timestamp="1474029651830">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/resource/badge-macro.nunjucks" timestamp="1474992118735">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.js" timestamp="1472814311521">
+        <mark key="'" line="96" column="57" />
+        <mark key="[" line="103" column="6" />
+        <mark key="]" line="103" column="31" />
+        <mark key="^" line="96" column="57" />
+        <mark key="." line="103" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1474032633154">
+        <mark key="'" line="25" column="57" />
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/package.json" timestamp="1474038714719">
+        <mark key="'" line="20" column="9" />
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="87" />
+        <mark key="." line="23" column="87" />
+        <mark key="^" line="23" column="87" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-api-log/src/services/BunyanLog.ts" timestamp="1473437107061">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="30" column="47" />
+        <mark key="^" line="30" column="47" />
+        <mark key="." line="30" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/resource/macros.nunjucks" timestamp="1474992023551">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getMany.ts" timestamp="1473424909115">
+        <mark key="'" line="26" column="25" />
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="37" />
+        <mark key="." line="26" column="37" />
+        <mark key="^" line="26" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-api-cache/typings/globals/amqp/index.d.ts" timestamp="1472749566693">
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="5" column="73" />
+        <mark key="." line="5" column="73" />
+        <mark key="^" line="5" column="73" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/RAML/api.raml" timestamp="1472826454984">
+        <mark key="'" line="112" column="26" />
+        <mark key="[" line="218" column="28" />
+        <mark key="]" line="112" column="33" />
+        <mark key="^" line="112" column="33" />
+        <mark key="." line="218" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/tsconfig.prod.json" timestamp="1474038651927">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/fragment.js" timestamp="1474978000286">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/test.ts" timestamp="1473433421720">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.ts" timestamp="1474977917769">
+        <mark key="[" line="14" column="69" />
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1474033904505">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="^" line="37" column="39" />
+        <mark key="." line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/Dockerfile" timestamp="1473847396565">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" timestamp="1473865281133">
+        <mark key="'" line="205" column="36" />
+        <mark key="[" line="205" column="63" />
+        <mark key="]" line="205" column="63" />
+        <mark key="." line="205" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" timestamp="1474043933572">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="108" column="36" />
+        <mark key="]" line="108" column="37" />
+        <mark key="." line="108" column="37" />
+        <mark key="^" line="108" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" timestamp="1473420077936">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="35" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Permission.raml" timestamp="1473847859731">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="6" />
+        <mark key="^" line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-auth/wallaby.json" timestamp="1474032854435">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="8" column="12" />
+        <mark key="." line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Monitors/Monitors/utils.ts" timestamp="1474043699554">
+        <mark key="'" line="1" column="12" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" timestamp="1474025321433">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="98" column="53" />
+        <mark key="]" line="98" column="61" />
+        <mark key="^" line="98" column="61" />
+        <mark key="." line="98" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/config/defaults/cacheInvalidationMappings.js" timestamp="1472830800309">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="33" column="15" />
+        <mark key="^" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-query/src/parser.ts" timestamp="1472205431719">
+        <mark key="'" line="182" column="26" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="44" column="102" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" timestamp="1474014686249">
+        <mark key="'" line="148" column="18" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/searches/getMany.ts" timestamp="1473424896541">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+        <mark key="^" line="20" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/test.rb" timestamp="1474987875965">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="2" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" timestamp="1473425092452">
+        <mark key="'" line="37" column="31" />
+        <mark key="[" line="44" column="1" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.ts" timestamp="1474021779920">
+        <mark key="'" line="23" column="37" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="4" />
+        <mark key="^" line="76" column="3" />
+        <mark key="." line="79" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-raml-doc/src/components-composite/hello-world/HelloWorldComponent.ts" timestamp="1474985553919">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/array.spec.ts" timestamp="1474974610650">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.spec.ts" timestamp="1474977944527">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/mocha.opts" timestamp="1474029296141">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/resource/resource.nunjucks" timestamp="1474990782421">
+        <mark key="'" line="15" column="34" />
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/services/Signals/utils.js" timestamp="1472825853933">
+        <mark key="'" line="6" column="22" />
+        <mark key="[" line="153" column="52" />
+        <mark key="]" line="153" column="52" />
+        <mark key="^" line="153" column="57" />
+        <mark key="." line="153" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-api-cache/src/redisUtil.ts" timestamp="1472801930560">
+        <mark key="'" line="31" column="50" />
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="85" />
+        <mark key="^" line="31" column="85" />
+        <mark key="." line="31" column="85" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1474978971381">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" timestamp="1474015307103">
+        <mark key="'" line="248" column="16" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-api/package.json" timestamp="1474016670445">
+        <mark key="'" line="93" column="4" />
+        <mark key="[" line="63" column="23" />
+        <mark key="]" line="63" column="24" />
+        <mark key="." line="63" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-datalib/src/connectors/User.js" timestamp="1473870194043">
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="91" column="1" />
+        <mark key="^" line="71" column="578" />
+        <mark key="." line="71" column="578" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" timestamp="1473420046020">
         <mark key="'" line="95" column="15" />
@@ -442,13 +539,6 @@
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="39" />
         <mark key="^" line="7" column="39" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/DataSources/DataSources.ts" timestamp="1473424387462">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="44" />
-        <mark key="." line="10" column="44" />
-        <mark key="^" line="10" column="44" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/controllers/__testHelpers/request.ts" timestamp="1473425770079">
         <mark key="'" line="27" column="0" />
@@ -484,10 +574,6 @@
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1474025006707">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="13" column="26" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/controllers/auth/proxy.ts" timestamp="1473425153126">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="0" />
@@ -502,42 +588,6 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/package.json" timestamp="1474029651830">
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="24" />
-        <mark key="." line="44" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.js" timestamp="1472814311521">
-        <mark key="'" line="96" column="57" />
-        <mark key="[" line="103" column="6" />
-        <mark key="]" line="103" column="31" />
-        <mark key="^" line="96" column="57" />
-        <mark key="." line="103" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" timestamp="1474032633154">
-        <mark key="'" line="25" column="57" />
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/package.json" timestamp="1474038714719">
-        <mark key="'" line="20" column="9" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="87" />
-        <mark key="." line="23" column="87" />
-        <mark key="^" line="23" column="87" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-api-log/src/services/BunyanLog.ts" timestamp="1473437107061">
-        <mark key="[" line="30" column="49" />
-        <mark key="]" line="30" column="47" />
-        <mark key="^" line="30" column="47" />
-        <mark key="." line="30" column="47" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/nest/development.ts" timestamp="1474034016460">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="51" />
-      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/any.ts" timestamp="1474974598072">
         <mark key="[" line="11" column="80" />
         <mark key="]" line="11" column="75" />
@@ -549,80 +599,8 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getMany.ts" timestamp="1473424909115">
-        <mark key="'" line="26" column="25" />
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="26" column="37" />
-        <mark key="." line="26" column="37" />
-        <mark key="^" line="26" column="37" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="79" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="39" column="19" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="40" column="23" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="43" column="21" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="44" column="21" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="248" column="16" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="8" column="41" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="64" column="26" filename="$USER_HOME$/dev/bs-raml-api/package.json" />
-      <jump line="93" column="4" filename="$USER_HOME$/dev/bs-raml-api/package.json" />
-      <jump line="53" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" />
-      <jump line="29" column="14" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.ts" />
-      <jump line="66" column="18" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
-      <jump line="154" column="2" filename="$USER_HOME$/dev/bs-raml-api/src/Server.js" />
-      <jump line="85" column="9" filename="$USER_HOME$/dev/bs-raml-api/src/Server.js" />
-      <jump line="139" column="2" filename="$USER_HOME$/dev/bs-raml-api/src/Server.js" />
-      <jump line="77" column="9" filename="$USER_HOME$/dev/bs-raml-api/src/Server.js" />
-      <jump line="125" column="2" filename="$USER_HOME$/dev/bs-raml-api/src/Server.js" />
-      <jump line="76" column="9" filename="$USER_HOME$/dev/bs-raml-api/src/Server.js" />
-      <jump line="23" column="37" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.ts" />
-      <jump line="11" column="19" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
-      <jump line="32" column="23" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
-      <jump line="18" column="6" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
-      <jump line="12" column="6" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
-      <jump line="160" column="24" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" />
-      <jump line="1" column="9" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" />
-      <jump line="58" column="19" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" />
-      <jump line="96" column="88" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" />
-      <jump line="70" column="14" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
-      <jump line="80" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/mocha.opts" />
-      <jump line="0" column="11" filename="$USER_HOME$/dev/app-nest-api-accounts/docker-compose.yml" />
-      <jump line="11" column="41" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="14" column="8" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="7" column="13" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="11" column="21" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="12" column="55" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="17" column="28" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="26" column="28" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="39" column="28" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="47" column="28" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="55" column="28" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="37" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="18" column="6" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="53" column="6" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="14" column="46" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="19" column="46" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="23" column="6" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="28" column="57" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="32" column="21" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="24" column="57" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="20" column="22" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="40" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="1" column="44" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="18" column="28" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="27" column="28" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="32" column="28" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="39" column="28" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="46" column="28" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="19" column="21" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
@@ -658,6 +636,71 @@
       <jump line="20" column="8" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/raml2html/lib/style.css" />
       <jump line="61" column="29" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
+      <jump line="35" column="11" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="36" column="2" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="41" column="8" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="42" column="44" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="43" column="12" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="44" column="17" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="136" column="2" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="59" column="9" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="137" column="2" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="80" column="6" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="5" column="35" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="83" column="14" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="18" column="75" filename="$USER_HOME$/dev/raml2html/lib/resource.nunjucks" />
+      <jump line="104" column="23" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="55" column="14" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="119" column="44" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="39" column="38" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="6" column="78" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/raml2html/lib/resource.nunjucks" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/raml2html/lib/resource.nunjucks" />
+      <jump line="16" column="9" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
+      <jump line="15" column="34" filename="$USER_HOME$/dev/raml2html/lib/resource/resource.nunjucks" />
+      <jump line="22" column="45" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
+      <jump line="33" column="33" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
+      <jump line="53" column="29" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
+      <jump line="13" column="38" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
+      <jump line="35" column="23" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
+      <jump line="0" column="17" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
+      <jump line="35" column="40" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
+      <jump line="42" column="21" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
+      <jump line="15" column="17" filename="$USER_HOME$/dev/raml2html/lib/resource/main.nunjucks" />
+      <jump line="11" column="20" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
+      <jump line="14" column="46" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
+      <jump line="16" column="22" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
+      <jump line="18" column="15" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
+      <jump line="30" column="25" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
+      <jump line="185" column="15" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="252" column="13" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="92" column="2" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="120" column="29" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="129" column="29" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="138" column="29" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="1" column="8" filename="$USER_HOME$/dev/raml2html/lib/item.nunjucks" />
+      <jump line="0" column="3" filename="$USER_HOME$/dev/raml2html/lib/item.nunjucks" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/raml2html/lib/resource/macros.nunjucks" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/raml2html/lib/resource/macros.nunjucks" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/raml2html/lib/resource/macros.nunjucks" />
+      <jump line="105" column="22" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="0" column="52" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="14" column="33" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="36" column="33" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="56" column="35" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="0" column="9" filename="$USER_HOME$/dev/raml2html/lib/resource/tab-macro.nunjucks" />
+      <jump line="3" column="54" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="121" column="48" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="130" column="48" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="139" column="48" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="156" column="52" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="187" column="50" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="220" column="50" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="234" column="52" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
+      <jump line="98" column="20" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="102" column="20" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="112" column="44" filename="$USER_HOME$/dev/raml2html/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -707,20 +750,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;./onload.js&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhc3NldHMgPSBhc3NldHMK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;./onload.js&quot;</text>
+        <text>templates</text>
       </register>
       <register name="/" type="4">
-        <text>resource</text>
+        <text encoding="base64">XDx0ZW1wbGF0ZXNQYXRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgeyUgaW5jbHVkZSAiLi9vbmxvYWQuanMiICV9CiAgICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICogQHBhcmFtIHtTdHJpbmd9IFt0ZW1wbGF0ZXNdIC0gVGhlIGZpbGVuYW1lIG9mIHRoZSBtYWluIHRlbXBsYXRlLCBsZWF2ZSBlbXB0eSB0byB1c2UgZGVmYXVsdCB0ZW1wbGF0ZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyUgZW5kZm9yICV9Cg==</text>
+        <text encoding="base64">ICBhc3NldHMgPSBhc3NldHMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -745,28 +788,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eyUgZm9yIGNoYXB0ZXIgaW4gZG9jdW1lbnRhdGlvbiAlfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7JSAgJX0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwcmludCBnZXR0ZXIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcCB1c2VyCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">eyUgbWFjcm8gdGFiKGl0ZW0pICV9CjxsaT4KICB7JSBpZiBpdGVtLmRpc3BsYXlOYW1lICV9CiAgICA8c3Ryb25nPnt7IGl0ZW0uZGlzcGxheU5hbWUgfX08L3N0cm9uZz46CiAgeyUgZWxzZSAlfQogICAgPHN0cm9uZz57eyBrZXkgfX08L3N0cm9uZz46CiAgeyUgZW5kaWYgJX0KCiAgPGVtPgogICAgeyUtIGlmIGl0ZW0ucmVxdWlyZWQgLSV9cmVxdWlyZWQgeyUgZW5kaWYgLSV9CiAgICAoCiAgICB7JS0gaWYgaXRlbS5lbnVtIC0lfQogICAgICBvbmUgb2Yge3sgaXRlbS5lbnVtLmpvaW4oJywgJykgfX0KICAgIHslLSBlbHNlIC0lfQogICAgICB7eyBpdGVtLnR5cGUgfX0KICAgIHslLSBlbmRpZiAtJX0KCiAgICB7JS0gaWYgaXRlbS5kZWZhdWx0IG9yIGl0ZW0uZGVmYXVsdCA9PSAwIG9yIGl0ZW0uZGVmYXVsdCA9PSBmYWxzZSAlfSAtIGRlZmF1bHQ6IHt7IGl0ZW0uZGVmYXVsdCB9fXslLSBlbmRpZiAtJX0KICAgIHslLSBpZiBpdGVtLnJlcGVhdCAlfSAtIHJlcGVhdDoge3sgaXRlbS5yZXBlYXQgfX17JS0gZW5kaWYgLSV9CiAgICB7JS0gaWYgaXRlbS50eXBlID09ICdzdHJpbmcnIC0lfQogICAgICB7JS0gaWYgaXRlbS5taW5MZW5ndGggb3IgaXRlbS5taW5MZW5ndGggPT0gMCAlfSAtIG1pbkxlbmd0aDoge3sgaXRlbS5taW5MZW5ndGggfX17JS0gZW5kaWYgLSV9CiAgICAgIHslLSBpZiBpdGVtLm1heExlbmd0aCBvciBpdGVtLm1heExlbmd0aCA9PSAwICV9IC0gbWF4TGVuZ3RoOiB7eyBpdGVtLm1heExlbmd0aCB9fXslLSBlbmRpZiAtJX0KICAgIHslLSBlbHNlIC0lfQogICAgICB7JS0gaWYgaXRlbS5taW5pbXVtIG9yIGl0ZW0ubWluaW11bSA9PSAwICV9IC0gbWluaW11bToge3sgaXRlbS5taW5pbXVtIH19eyUtIGVuZGlmIC0lfQogICAgICB7JS0gaWYgaXRlbS5tYXhpbXVtIG9yIGl0ZW0ubWF4aW11bSA9PSAwICV9IC0gbWF4aW11bToge3sgaXRlbS5tYXhpbXVtIH19eyUtIGVuZGlmIC0lfQogICAgeyUtIGVuZGlmIC0lfQogICAgeyUtIGlmIGl0ZW0ucGF0dGVybiAlfSAtIHBhdHRlcm46IHt7IGl0ZW0ucGF0dGVybiB9fXslLSBlbmRpZiAtJX0KICAgICkKICA8L2VtPgoKICB7JSBtYXJrZG93biAlfQogIHt7IGl0ZW0uZGVzY3JpcHRpb24gfX0KICB7JSBlbmRtYXJrZG93biAlfQoKICB7JSBpZiBpdGVtLnNjaGVtYSAlfQogICAgPHA+PHN0cm9uZz5TY2hlbWE8L3N0cm9uZz46PC9wPgogICAgPHByZT48Y29kZT57eyBpdGVtLnNjaGVtYSB8IGVzY2FwZSB9fTwvY29kZT48L3ByZT4KICB7JSBlbmRpZiAlfQoKICB7JSBpZiBpdGVtLmV4YW1wbGUgJX0KICAgIDxwPjxzdHJvbmc+RXhhbXBsZTwvc3Ryb25nPjo8L3A+CiAgICB7JSBpZiBpdGVtLnR5cGUgPT0gJ3N0cmluZycgJX0KICAgICAgPHByZT57eyBpdGVtLmV4YW1wbGV8IGVzY2FwZSB9fTwvcHJlPgogICAgeyUgZWxzZSAlfQogICAgICA8cHJlPjxjb2RlPnt7IGl0ZW0uZXhhbXBsZSB8IGVzY2FwZSB9fTwvY29kZT48L3ByZT4KICAgIHslIGVuZGlmICV9CiAgeyUgZW5kaWYgJX0KPC9saT4KeyUgZW5kbWFjcm8gJX0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZXNvdXJjZTogJ2xpYi9yZXNvdXJjZS9yZXNvdXJjZS5udW5qdWNrcycsCiAgc3ViUmVzb3VyY2U6ICdsaWIvcmVzb3VyY2Uvc3ViLXJlc291cmNlLm51bmp1Y2tzJywKICByZXNvdXJjZU1hY3JvczogJ2xpYi9yZXNvdXJjZS9tYWNyb3MnLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJhbWxPYmopOwo=</text>
+        <text encoding="base64">ICAgIG1haW46IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmhsanMgewogICAgICAgIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50OwogICAgICB9CiAgICAgIC5wYXJlbnQgewogICAgICAgIGNvbG9yOiAjOTk5OwogICAgICB9CiAgICAgIC5saXN0LWdyb3VwLWl0ZW0gPiAuYmFkZ2UgewogICAgICAgIGZsb2F0OiBub25lOwogICAgICAgIG1hcmdpbi1yaWdodDogNnB4OwogICAgICB9CiAgICAgIC5wYW5lbC10aXRsZSA+IC5tZXRob2RzIHsKICAgICAgICBmbG9hdDogcmlnaHQ7CiAgICAgIH0KICAgICAgLmJhZGdlIHsKICAgICAgICBib3JkZXItcmFkaXVzOiAwOwogICAgICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7CiAgICAgICAgd2lkdGg6IDcwcHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKICAgICAgICBjb2xvcjogI2YzZjNmNjsKICAgICAgICBsaW5lLWhlaWdodDogbm9ybWFsOwogICAgICB9CiAgICAgIC5iYWRnZV9nZXQgewogICAgICAgIGJhY2tncm91bmQtY29sb3I6ICM2M2E4ZTI7CiAgICAgIH0KICAgICAgLmJhZGdlX3Bvc3QgewogICAgICAgIGJhY2tncm91bmQtY29sb3I6ICM2Y2JkN2Q7CiAgICAgIH0KICAgICAgLmJhZGdlX3B1dCB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzIyYmFjNDsKICAgICAgfQogICAgICAuYmFkZ2VfZGVsZXRlIHsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZDI2NDYwOwogICAgICB9CiAgICAgIC5iYWRnZV9wYXRjaCB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2NjYzQ0NDsKICAgICAgfQogICAgICAubGlzdC1ncm91cCwgLnBhbmVsLWdyb3VwIHsKICAgICAgICBtYXJnaW4tYm90dG9tOiAwOwogICAgICB9CiAgICAgIC5wYW5lbC1ncm91cCAucGFuZWwrLnBhbmVsLXdoaXRlIHsKICAgICAgICBtYXJnaW4tdG9wOiAwOwogICAgICB9CiAgICAgIC5wYW5lbC1ncm91cCAucGFuZWwtd2hpdGUgewogICAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjRjVGNUY1OwogICAgICAgIGJvcmRlci1yYWRpdXM6IDA7CiAgICAgIH0KICAgICAgLnBhbmVsLXdoaXRlOmxhc3QtY2hpbGQgewogICAgICAgIGJvcmRlci1ib3R0b20tY29sb3I6IHdoaXRlOwogICAgICAgIC13ZWJraXQtYm94LXNoYWRvdzogbm9uZTsKICAgICAgICBib3gtc2hhZG93OiBub25lOwogICAgICB9CiAgICAgIC5wYW5lbC13aGl0ZSAucGFuZWwtaGVhZGluZyB7CiAgICAgICAgYmFja2dyb3VuZDogd2hpdGU7CiAgICAgIH0KICAgICAgLnRhYi1wYW5lIHVsIHsKICAgICAgICBwYWRkaW5nLWxlZnQ6IDJlbTsKICAgICAgfQogICAgICAudGFiLXBhbmUgaDEgewogICAgICAgIGZvbnQtc2l6ZTogMS4zZW07CiAgICAgIH0KICAgICAgLnRhYi1wYW5lIGgyIHsKICAgICAgICBmb250LXNpemU6IDEuMmVtOwogICAgICAgIHBhZGRpbmctYm90dG9tOiA0cHg7CiAgICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNkZGQ7CiAgICAgIH0KICAgICAgLnRhYi1wYW5lIGgzIHsKICAgICAgICBmb250LXNpemU6IDEuMWVtOwogICAgICB9CiAgICAgIC50YWItY29udGVudCB7CiAgICAgICAgYm9yZGVyLWxlZnQ6IDFweCBzb2xpZCAjZGRkOwogICAgICAgIGJvcmRlci1yaWdodDogMXB4IHNvbGlkICNkZGQ7CiAgICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNkZGQ7CiAgICAgICAgcGFkZGluZzogMTBweDsKICAgICAgfQogICAgICAjc2lkZWJhciB7CiAgICAgICAgbWFyZ2luLXRvcDogMzBweDsKICAgICAgICBwYWRkaW5nLXJpZ2h0OiA1cHg7CiAgICAgICAgb3ZlcmZsb3c6IGF1dG87CiAgICAgICAgaGVpZ2h0OiA5MCU7CiAgICAgIH0KICAgICAgLnRvcC1yZXNvdXJjZS1kZXNjcmlwdGlvbiB7CiAgICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNkZGQ7CiAgICAgICAgYmFja2dyb3VuZDogI2ZjZmNmYzsKICAgICAgICBwYWRkaW5nOiAxNXB4IDE1cHggMCAxNXB4OwogICAgICAgIG1hcmdpbjogLTE1cHggLTE1cHggMTBweCAtMTVweDsKICAgICAgfQogICAgICAucmVzb3VyY2UtZGVzY3JpcHRpb24gewogICAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjZmNmY2ZjOwogICAgICAgIGJhY2tncm91bmQ6ICNmY2ZjZmM7CiAgICAgICAgcGFkZGluZzogMTVweCAxNXB4IDAgMTVweDsKICAgICAgICBtYXJnaW46IC0xNXB4IC0xNXB4IDEwcHggLTE1cHg7CiAgICAgIH0KICAgICAgLnJlc291cmNlLWRlc2NyaXB0aW9uIHA6bGFzdC1jaGlsZCB7CiAgICAgICAgbWFyZ2luOiAwOwogICAgICB9CiAgICAgIC5saXN0LWdyb3VwIC5iYWRnZSB7CiAgICAgICAgZmxvYXQ6IGxlZnQ7CiAgICAgIH0KICAgICAgLm1ldGhvZF9kZXNjcmlwdGlvbiB7CiAgICAgICAgbWFyZ2luLWxlZnQ6IDg1cHg7CiAgICAgIH0KICAgICAgLm1ldGhvZF9kZXNjcmlwdGlvbiBwOmxhc3QtY2hpbGQgewogICAgICAgIG1hcmdpbjogMDsKICAgICAgfQogICAgICAubGlzdC1ncm91cC1pdGVtIHsKICAgICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICAgIH0KICAgICAgLmxpc3QtZ3JvdXAtaXRlbTpob3ZlciB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2Y1ZjVmNTsKICAgICAgfQoKICAgICAgcHJlIGNvZGUgewogICAgICAgIG92ZXJmbG93OiBhdXRvOwogICAgICAgIHdvcmQtd3JhcDogbm9ybWFsOwogICAgICAgIHdoaXRlLXNwYWNlOiBwcmU7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJiYWRnZSBiYWRnZV97eyBtZXRob2QubWV0aG9kIH19Ij57eyBtZXRob2QubWV0aG9kIH19eyUgaWYgbWV0aG9kLnNlY3VyZWRCeS5sZW5ndGggJX0gPHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tbG9jayIgdGl0bGU9IkF1dGhlbnRpY2F0aW9uIHJlcXVpcmVkIj48L3NwYW4+eyUgZW5kaWYgJX08L3NwYW4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKSB7CiAgICAgICAgJCgnLnBhZ2UtaGVhZGVyIHByZSBjb2RlLCAudG9wLXJlc291cmNlLWRlc2NyaXB0aW9uIHByZSBjb2RlLCAubW9kYWwtYm9keSBwcmUgY29kZScpLmVhY2goZnVuY3Rpb24oaSwgYmxvY2spIHsKICAgICAgICAgIGhsanMuaGlnaGxpZ2h0QmxvY2soYmxvY2spOwogICAgICAgIH0pOwoKICAgICAgICAkKCdbZGF0YS10b2dnbGVdJykuY2xpY2soZnVuY3Rpb24oKSB7CiAgICAgICAgICB2YXIgc2VsZWN0b3IgPSAkKHRoaXMpLmRhdGEoJ3RhcmdldCcpICsgJyBwcmUgY29kZSc7CiAgICAgICAgICAkKHNlbGVjdG9yKS5lYWNoKGZ1bmN0aW9uKGksIGJsb2NrKSB7CiAgICAgICAgICAgIGhsanMuaGlnaGxpZ2h0QmxvY2soYmxvY2spOwogICAgICAgICAgfSk7CiAgICAgICAgfSk7CgogICAgICAgIC8vIG9wZW4gbW9kYWwgb24gaGFzaGVzIGxpa2UgI19hY3Rpb25fZ2V0CiAgICAgICAgJCh3aW5kb3cpLmJpbmQoJ2hhc2hjaGFuZ2UnLCBmdW5jdGlvbihlKSB7CiAgICAgICAgICB2YXIgYW5jaG9yX2lkID0gZG9jdW1lbnQubG9jYXRpb24uaGFzaC5zdWJzdHIoMSk7IC8vc3RyaXAgIwogICAgICAgICAgdmFyIGVsZW1lbnQgPSAkKCcjJyArIGFuY2hvcl9pZCk7CgogICAgICAgICAgLy8gZG8gd2UgaGF2ZSBzdWNoIGVsZW1lbnQgKyBpcyBpdCBhIG1vZGFsPyAgLS0+IHNob3cgaXQKICAgICAgICAgIGlmIChlbGVtZW50Lmxlbmd0aCAmJiBlbGVtZW50Lmhhc0NsYXNzKCdtb2RhbCcpKSB7CiAgICAgICAgICAgIGVsZW1lbnQubW9kYWwoJ3Nob3cnKTsKICAgICAgICAgIH0KICAgICAgICB9KTsKCiAgICAgICAgLy8gZXhlY3V0ZSBoYXNoY2hhbmdlIG9uIGZpcnN0IHBhZ2UgbG9hZAogICAgICAgICQod2luZG93KS50cmlnZ2VyKCdoYXNoY2hhbmdlJyk7CgogICAgICAgIC8vIHJlbW92ZSB1cmwgZnJhZ21lbnQgb24gbW9kYWwgaGlkZQogICAgICAgICQoJy5tb2RhbCcpLm9uKCdoaWRkZW4uYnMubW9kYWwnLCBmdW5jdGlvbigpIHsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIGlmIChoaXN0b3J5ICYmIGhpc3RvcnkucmVwbGFjZVN0YXRlKSB7CiAgICAgICAgICAgICAgICBoaXN0b3J5LnJlcGxhY2VTdGF0ZSh7fSwgJycsICcjJyk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0gY2F0Y2goZSkge30KICAgICAgICB9KTsKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iYmFkZ2UgYmFkZ2Vfe3sgbWV0aG9kLm1ldGhvZCB9fSI+e3sgbWV0aG9kLm1ldGhvZCB9fXslIGlmIG1ldGhvZC5zZWN1cmVkQnkubGVuZ3RoICV9IDxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLWxvY2siIHRpdGxlPSJBdXRoZW50aWNhdGlvbiByZXF1aXJlZCI+PC9zcGFuPnslIGVuZGlmICV9PC9zcGFuPgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -776,36 +819,36 @@
       </register>
     </registers>
     <search>
-      <last-search>resource</last-search>
+      <last-search encoding="base64">XDx0ZW1wbGF0ZXNQYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern>resource</last-pattern>
+      <last-pattern encoding="base64">XDx0ZW1wbGF0ZXNQYXRoXD4=</last-pattern>
       <last-replace>key: '*' }]</last-replace>
       <last-substitute>'\*'\]</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>moni\c</entry>
-        <entry encoding="base64">XDx0b0NhbWVsQ2FzZVw+</entry>
-        <entry>['/{ group: '/</entry>
-        <entry>{ g</entry>
-        <entry>},</entry>
-        <entry>done</entry>
-        <entry encoding="base64">XDxjYWNoZVw+</entry>
-        <entry encoding="base64">XDxzdHViXD4=</entry>
-        <entry>\['</entry>
-        <entry>'*'\]</entry>
-        <entry>'\*'\]</entry>
-        <entry encoding="base64">XDx1cGRhdGVNb25pdG9yc1w+</entry>
-        <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
-        <entry encoding="base64">XDxpc1ZhbGlkXD4=</entry>
-        <entry encoding="base64">XDxic1F1ZXJ5TW9uZ29cPg==</entry>
-        <entry>monitor.name</entry>
-        <entry>name</entry>
-        <entry encoding="base64">XDxFeGFtcGxlU3BlY1w+</entry>
-        <entry encoding="base64">XDxwcm9jZXNzUmFtbE9ialw+</entry>
-        <entry>resource</entry>
+        <entry encoding="base64">XDxnZXREZWZhdWx0Q29uZmlnXD4=</entry>
+        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
+        <entry encoding="base64">XDxtYXJrZG93blw+</entry>
+        <entry>render</entry>
+        <entry encoding="base64">XDxyZW5kZXJTZWN1cmVkQnlcPg==</entry>
+        <entry encoding="base64">XDxyZW5kZXJlcnNcPg==</entry>
+        <entry encoding="base64">XDxtYWluVGVtcGxhdGVcPg==</entry>
+        <entry encoding="base64">XDxyYW1sT2JqXD4=</entry>
+        <entry encoding="base64">XDxzdWJSZXNvdXJjZVw+</entry>
+        <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
+        <entry>badge</entry>
+        <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
+        <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
+        <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry encoding="base64">XDxpdGVtXD4=</entry>
+        <entry encoding="base64">XDxiYWRnZVw+</entry>
+        <entry encoding="base64">XDxtYWNyb1w+</entry>
+        <entry encoding="base64">XDx0YWJcPg==</entry>
+        <entry>include</entry>
+        <entry encoding="base64">XDx0ZW1wbGF0ZXNQYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/defin\?\//definition\//</entry>
