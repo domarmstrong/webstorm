@@ -34,8 +34,8 @@
         <mark key="^" line="22" column="49" />
         <mark key="." line="22" column="49" />
       </file>
-      <file name="/fragment.js" timestamp="1474977241090">
-        <mark key="[" line="0" column="11" />
+      <file name="/fragment.js" timestamp="1474978000286">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -47,7 +47,7 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.ts" timestamp="1474976925824">
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.ts" timestamp="1474977917769">
         <mark key="[" line="14" column="69" />
         <mark key="]" line="15" column="1" />
         <mark key="^" line="15" column="1" />
@@ -267,11 +267,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.spec.ts" timestamp="1474976965600">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="16" column="30" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.spec.ts" timestamp="1474977944527">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/Dockerfile" timestamp="1473435621524">
         <mark key="[" line="15" column="25" />
@@ -668,10 +668,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.kind()</text>
+        <text>imum</text>
       </register>
       <register name="-" type="4">
-        <text>.kind()</text>
+        <text>imum</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFeGFtcGxlU3BlY1w+</text>
