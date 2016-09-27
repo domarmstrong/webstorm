@@ -50,7 +50,6 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/tsconfig.json" timestamp="1474041684967" />
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/controllers/accounts.spec.ts" timestamp="1472209503702">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="104" column="0" />
@@ -389,9 +388,6 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" timestamp="1474042372612">
-        <mark key="[" line="12" column="17" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/parameterValuesAnnotationHandler.ts" timestamp="1474043153732">
         <mark key="'" line="42" column="2" />
       </file>
@@ -694,7 +690,7 @@
       <last-replace>key: '*' }]</last-replace>
       <last-substitute>'\*'\]</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
