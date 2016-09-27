@@ -285,6 +285,13 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/raml2html/index.js" timestamp="1474978964426">
+        <mark key="'" line="30" column="20" />
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="27" column="24" />
+        <mark key="^" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/wallaby.js" timestamp="1474033611777">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="5" column="20" />
@@ -336,6 +343,9 @@
         <mark key="]" line="31" column="85" />
         <mark key="^" line="31" column="85" />
         <mark key="." line="31" column="85" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1474978971381">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Clients/Clients.ts" timestamp="1473424378720">
         <mark key="'" line="45" column="29" />
@@ -518,7 +528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="17" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="296" column="11" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="308" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
       <jump line="309" column="2" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
@@ -618,6 +627,7 @@
       <jump line="21" column="26" filename="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" />
       <jump line="4" column="54" filename="$USER_HOME$/dev/bs-raml-validate/src/lib/types/any.ts" />
       <jump line="1" column="9" filename="$USER_HOME$/dev/bs-raml-validate/src/lib/types/any.ts" />
+      <jump line="28" column="20" filename="$USER_HOME$/dev/raml2html/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -674,7 +684,7 @@
         <text>imum</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFeGFtcGxlU3BlY1w+</text>
+        <text encoding="base64">XDxwcm9jZXNzUmFtbE9ialw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZXNjcmlwdGlvbjogQXV0aGVudGljYXRlIHVzaW5nIE5lc3QgdXNlcm5hbWUgYW5kIHBhc3N3b3JkIHRocm91Z2ggdGhlIGFjY291bnRzIGFwaQo=</text>
@@ -736,9 +746,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFeGFtcGxlU3BlY1w+</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzUmFtbE9ialw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFeGFtcGxlU3BlY1w+</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzUmFtbE9ialw+</last-pattern>
       <last-replace>key: '*' }]</last-replace>
       <last-substitute>'\*'\]</last-substitute>
       <last-dir>1</last-dir>
@@ -746,7 +756,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0aWFsaXplU2VydmljZXNcPg==</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplQ29uZmlnXD4=</entry>
         <entry>moni\c</entry>
         <entry encoding="base64">XDx0b0NhbWVsQ2FzZVw+</entry>
@@ -766,6 +775,7 @@
         <entry>monitor.name</entry>
         <entry>name</entry>
         <entry encoding="base64">XDxFeGFtcGxlU3BlY1w+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzUmFtbE9ialw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/defin\?\//definition\//</entry>
