@@ -151,11 +151,12 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-request/src/request.ts" timestamp="1475676347174">
-        <mark key="'" line="190" column="15" />
+      <file name="$USER_HOME$/dev/bs-api-request/src/request.ts" timestamp="1475677301011">
+        <mark key="'" line="141" column="15" />
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
+        <mark key="^" line="93" column="9" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" timestamp="1474992162352">
         <mark key="'" line="234" column="52" />
@@ -513,11 +514,12 @@
         <mark key="^" line="22" column="16" />
         <mark key="." line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-request/src/Request.ts" timestamp="1475676859761">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
+      <file name="$USER_HOME$/dev/bs-api-request/src/Request.ts" timestamp="1475677801577">
+        <mark key="'" line="18" column="26" />
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="37" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="7" column="37" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/annotations/controller.js" timestamp="1475666026249">
         <mark key="'" line="61" column="16" />
@@ -657,7 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="45" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
       <jump line="3" column="53" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
       <jump line="7" column="68" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
       <jump line="8" column="65" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
@@ -757,6 +758,7 @@
       <jump line="100" column="20" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="193" column="31" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="194" column="15" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="18" column="26" filename="$USER_HOME$/dev/bs-api-request/src/Request.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -807,10 +809,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>request</text>
+        <text>Duplex</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>Duplex</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxcPg==</text>
@@ -819,7 +821,7 @@
         <text encoding="base64">KHJlc29sdmU6ICh2YWx1ZT86IFQgfCBQcm9taXNlTGlrZTxUPikgPT4gdm9pZCwgcmVqZWN0OiAocmVhc29uPzogYW55KSA9PiB2b2lkKSA9PiB2b2lk</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKGNhbGxiYWNrKTsK</text>
+        <text encoding="base64">aW1wb3J0IFdyaXRhYmxlU3RyZWFtID0gTm9kZUpTLldyaXRhYmxlU3RyZWFtOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -844,28 +846,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IEV2ZW50RW1pdHRlciA9IE5vZGVKUy5FdmVudEVtaXR0ZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnJlcXVlc3QpIHsKICAgICAgcmV0dXJuIHRoaXMucmVxdWVzdC5waXBlKHN0cmVhbSk7CiAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBvdXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgY29uc29sZS5sb2cocmVxdWVzdCk7CiAgICAgIHJlc29sdmUoKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGxldCBvdXQgPSBuZXcgV3JpdGFibGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1cmk6IHN0cmluZzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJRGVmZXJyZWRSZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlVXJsKHVyaSkudGhlbihwYXJzZWRVcmwgPT4gewogICAgICBpZiAoYmVhcmVyKSBoZWFkZXJzWydBdXRob3JpemF0aW9uJ10gPSBgJHtiZWFyZXJ9YDsKCiAgICAgIGxvZy5yZXF1ZXN0KGAke21ldGhvZH06ICR7dXJpfSwgJHtsb2cucHJldHR5KGJvZHkpfSwgJHt0eXBlfToke2FjY2VwdH0sICR7bG9nLnByZXR0eShoZWFkZXJzKX1gKTsKICAgICAgbGV0IGxvZ1RpbWVUb0NvbXBsZXRlID0gbG9nVGltZVRha2VuKHVyaSk7CgogICAgICBjb25zb2xlLmxvZygncHJvdG9jb2wnLCBwYXJzZWRVcmwpOwoKICAgICAgLy8gYXR0YWNoUGVuZGluZ1JlcXVlc3QocmVxLCBwZW5kaW5nUmVxKTsKCiAgICAgIGxldCBwZW5kaW5nUmVxID0gaHR0cC5yZXF1ZXN0KHsKICAgICAgICBtZXRob2Q6IG1ldGhvZC50b1VwcGVyQ2FzZSgpLAogICAgICAgIGhvc3Q6IHBhcnNlZFVybC5ob3N0LAogICAgICAgIHBvcnQ6IHBhcnNlZFVybC5wb3J0LAogICAgICAgIHBhdGg6IHBhcnNlZFVybC5wYXRoLAogICAgICAgIGhlYWRlcnMsCiAgICAgIH0sIHJlc3BvbnNlID0+IHsKCiAgICAgIH0pOwogICAgICBwZW5kaW5nUmVxLm9uKCdlcnJvcicsIGVyciA9PiByZWplY3QoZXJyKSk7CiAgICAgIHBlbmRpbmdSZXEuZW5kKCk7CgogICAgICBpZiAoL14oUE9TVHxQVVQpJC8udGVzdChtZXRob2QpKSB7CiAgICAgICAgcGVuZGluZ1JlcQogICAgICAgICAgLnNlbmQoYm9keSkKICAgICAgICAgIC50eXBlKHR5cGUpOwogICAgICB9CgogICAgICBwZW5kaW5nUmVxLm9uKCdhYm9ydCcsICgpID0+IHsKICAgICAgICBjbGVhclBlbmRpbmdSZXF1ZXN0KHJlcSwgcGVuZGluZ1JlcSk7CiAgICAgICAgbG9nVGltZVRvQ29tcGxldGUoKTsKICAgICAgICByZXR1cm4gcmVqZWN0KGhhbmRsZUVycm9yKG5ldyBFcnJvcignUmVxdWVzdCBhYm9ydGVkJykpKTsKICAgICAgfSk7CgogICAgICBwZW5kaW5nUmVxLmVuZCgoZXJyLCByZXMpID0+IHsKICAgICAgICBjbGVhclBlbmRpbmdSZXF1ZXN0KHJlcSwgcGVuZGluZ1JlcSk7CiAgICAgICAgbG9nVGltZVRvQ29tcGxldGUoKTsKCiAgICAgICAgaWYgKGVycikgewogICAgICAgICAgcmV0dXJuIHJlamVjdChoYW5kbGVFcnJvcihlcnIpKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiByZXNvbHZlKHJlcyk7CiAgICAgIH0pOwogICAgfSk7CgogICAgcmV0dXJuIHJlcXVlc3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVzb2x2ZSA9IF9yZXNvbHZlOwogICAgICByZWplY3QgPSBfcmVqZWN0Owo=</text>
+        <text encoding="base64">ICAgIGxldCB1cmkgPSBtYWtlVXJsKHVybCwgcGF0aCwgcXVlcnkpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJRGVmZXJyZWRSZXF1ZXN0PFQ+IGV4dGVuZHMgUHJvbWlzZTxUPiwgRXZlbnRFbWl0dGVyIHt9Cg==</text>
+        <text encoding="base64">ICAgIGxldCByZWplY3Q6IGFueTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
