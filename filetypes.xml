@@ -3,12 +3,12 @@
     <extensionMap>
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="ChildItemsResource" type="PLAIN_TEXT" />
       <mapping ext="keep" type="PLAIN_TEXT" />
       <mapping ext="boards" type="PLAIN_TEXT" />
       <mapping ext="wt" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
       <removed_mapping ext="raml" type="Raml" />
+      <mapping pattern="tabContent" type="Twig" />
       <mapping ext="nunj" type="Twig" />
       <mapping ext="nunjucks" type="Twig" />
       <mapping ext="raml" type="YAML" />

@@ -34,17 +34,24 @@
         <mark key="^" line="76" column="17" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/raml2html/lib/style.css" timestamp="1474986130796">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="115" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-raml-api/index.d.ts" timestamp="1473439737691">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="32" column="25" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/methods.nunjucks" timestamp="1474999772928">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/tab.nunjucks" timestamp="1474996601477">
+        <mark key="'" line="1" column="1" />
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="49" column="1" />
+        <mark key="." line="49" column="1" />
+        <mark key="^" line="49" column="1" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/local/test.js" timestamp="1472207878900">
         <mark key="'" line="29" column="3" />
@@ -58,12 +65,23 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/badge.nunjucks" timestamp="1474996587341">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-api-request/index.d.ts" timestamp="1472214989888">
         <mark key="'" line="12" column="69" />
         <mark key="[" line="13" column="50" />
         <mark key="]" line="13" column="50" />
         <mark key="^" line="13" column="50" />
         <mark key="." line="13" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/tabContent.nunjucks" timestamp="1474999067788">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="51" column="9" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/utils.ts" timestamp="1473425677505">
         <mark key="'" line="40" column="35" />
@@ -149,17 +167,36 @@
         <mark key="." line="234" column="52" />
         <mark key="^" line="121" column="48" />
       </file>
+      <file name="$USER_HOME$/dev/raml2html/bin/raml2html" timestamp="1474995457413" />
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/template.nunjucks" timestamp="1474993854247">
+        <mark key="'" line="18" column="15" />
+        <mark key="[" line="45" column="72" />
+        <mark key="]" line="45" column="72" />
+        <mark key="." line="45" column="72" />
+        <mark key="^" line="45" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/method.nunjucks" timestamp="1474995681167">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/Dockerfile" timestamp="1473435621524">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/raml2html/index.js" timestamp="1474992508356">
-        <mark key="'" line="113" column="44" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/dev/raml2html/examples/script.js" timestamp="1475000819643">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="36" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/index.js" timestamp="1475000534536">
+        <mark key="'" line="72" column="36" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="58" column="27" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/wallaby.js" timestamp="1474033611777">
         <mark key="'" line="4" column="6" />
@@ -244,6 +281,11 @@
         <mark key="." line="10" column="44" />
         <mark key="^" line="10" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/modal/requestBody.nunjucks" timestamp="1474999570727">
+        <mark key="'" line="0" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource.nunjucks" timestamp="1474990696720">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -294,6 +336,12 @@
         <mark key="." line="23" column="87" />
         <mark key="^" line="23" column="87" />
       </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/main.nunjucks" timestamp="1474993881910">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/bs-api-log/src/services/BunyanLog.ts" timestamp="1473437107061">
         <mark key="[" line="30" column="49" />
         <mark key="]" line="30" column="47" />
@@ -337,6 +385,13 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/resourceDescription.nunjucks" timestamp="1474996593756">
+        <mark key="'" line="0" column="23" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/test.ts" timestamp="1473433421720">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -361,12 +416,6 @@
         <mark key="]" line="7" column="30" />
         <mark key="." line="7" column="30" />
         <mark key="^" line="8" column="42" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/api.raml" timestamp="1473865281133">
-        <mark key="'" line="205" column="36" />
-        <mark key="[" line="205" column="63" />
-        <mark key="]" line="205" column="63" />
-        <mark key="." line="205" column="63" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" timestamp="1474043933572">
         <mark key="'" line="38" column="4" />
@@ -395,11 +444,10 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Monitors/Monitors/utils.ts" timestamp="1474043699554">
-        <mark key="'" line="1" column="12" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/method/bodyTab.nunjucks" timestamp="1474998347812">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.spec.ts" timestamp="1474025321433">
         <mark key="'" line="80" column="0" />
@@ -441,12 +489,30 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/method/macros/tabContent.nunjucks" timestamp="1474998596384">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/method/macros/tabContent" timestamp="1474998473379">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" timestamp="1473425092452">
         <mark key="'" line="37" column="31" />
         <mark key="[" line="44" column="1" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" timestamp="1474999711434">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/proxy.ts" timestamp="1474021779920">
         <mark key="'" line="23" column="37" />
@@ -455,28 +521,37 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="79" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/listItem.nunjucks" timestamp="1474998519719" />
       <file name="$USER_HOME$/dev/app-nest-raml-doc/src/components-composite/hello-world/HelloWorldComponent.ts" timestamp="1474985553919">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="17" />
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" timestamp="1474999632279">
+        <mark key="'" line="93" column="23" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/array.spec.ts" timestamp="1474974610650">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/tabSection.nunjucks" timestamp="1474999639840">
+        <mark key="'" line="6" column="1" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.spec.ts" timestamp="1474977944527">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="16" />
         <mark key="^" line="22" column="16" />
         <mark key="." line="22" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/mocha.opts" timestamp="1474029296141">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/resource.nunjucks" timestamp="1474990782421">
         <mark key="'" line="15" column="34" />
@@ -499,20 +574,19 @@
         <mark key="^" line="31" column="85" />
         <mark key="." line="31" column="85" />
       </file>
-      <file name="/JavaScript Console" timestamp="1474978971381">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" timestamp="1474998213651">
+        <mark key="'" line="110" column="34" />
+        <mark key="[" line="97" column="34" />
+        <mark key="]" line="98" column="32" />
+        <mark key="." line="98" column="32" />
+        <mark key="^" line="98" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" timestamp="1474015307103">
-        <mark key="'" line="248" column="16" />
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/package.json" timestamp="1474016670445">
-        <mark key="'" line="93" column="4" />
-        <mark key="[" line="63" column="23" />
-        <mark key="]" line="63" column="24" />
-        <mark key="." line="63" column="24" />
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/resourceMethods.nunjucks" timestamp="1474996582309">
+        <mark key="'" line="3" column="1" />
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="1" />
       </file>
       <file name="$USER_HOME$/dev/bs-datalib/src/connectors/User.js" timestamp="1473870194043">
         <mark key="[" line="71" column="4" />
@@ -526,6 +600,13 @@
         <mark key="]" line="226" column="36" />
         <mark key="." line="226" column="36" />
         <mark key="^" line="226" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/listItem.nunjucks" timestamp="1474999505743">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="50" column="10" />
+        <mark key="^" line="50" column="10" />
+        <mark key="." line="50" column="10" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" timestamp="1474025234670">
         <mark key="'" line="96" column="88" />
@@ -554,18 +635,12 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-raml-doc/src/components-composite/hello-world/index.ts" timestamp="1474985170669">
-        <mark key="." line="29" column="31" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getOne.ts" timestamp="1473424917675">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="13" column="33" />
         <mark key="]" line="13" column="36" />
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" timestamp="1474042372612">
-        <mark key="[" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/README.md" timestamp="1473426019437">
         <mark key="'" line="26" column="30" />
@@ -588,6 +663,13 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/method/modal.nunjucks" timestamp="1474998816484">
+        <mark key="'" line="59" column="34" />
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/any.ts" timestamp="1474974598072">
         <mark key="[" line="11" column="80" />
         <mark key="]" line="11" column="75" />
@@ -601,106 +683,106 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="28" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="46" column="28" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="19" column="21" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="47" column="6" filename="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.spec.ts" />
-      <jump line="35" column="6" filename="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" />
-      <jump line="43" column="15" filename="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" />
-      <jump line="29" column="2" filename="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" />
-      <jump line="2" column="6" filename="$USER_HOME$/dev/app-nest-api-auth/wallaby.js" />
-      <jump line="11" column="5" filename="$USER_HOME$/dev/app-nest-api-data/package.json" />
-      <jump line="20" column="9" filename="$USER_HOME$/dev/app-nest-api-data/package.json" />
-      <jump line="77" column="0" filename="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" />
-      <jump line="78" column="0" filename="$USER_HOME$/dev/app-nest-api-data/docker-compose.yml" />
-      <jump line="44" column="2" filename="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/parameterValuesAnnotationHandler.ts" />
-      <jump line="42" column="2" filename="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/parameterValuesAnnotationHandler.ts" />
-      <jump line="32" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/dimensions.ts" />
-      <jump line="34" column="25" filename="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/dimensions.ts" />
-      <jump line="55" column="9" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Monitors/Monitors/utils.ts" />
-      <jump line="1" column="12" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Monitors/Monitors/utils.ts" />
-      <jump line="38" column="4" filename="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" />
-      <jump line="21" column="26" filename="$USER_HOME$/dev/app-nest-api-auth/swagger/swagger.yml" />
-      <jump line="4" column="54" filename="$USER_HOME$/dev/bs-raml-validate/src/lib/types/any.ts" />
-      <jump line="1" column="9" filename="$USER_HOME$/dev/bs-raml-validate/src/lib/types/any.ts" />
-      <jump line="28" column="20" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="182" column="13" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="188" column="29" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="191" column="136" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="195" column="22" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="196" column="34" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="198" column="3" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="20" column="8" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/raml2html/lib/style.css" />
-      <jump line="61" column="29" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="35" column="11" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="36" column="2" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="41" column="8" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="42" column="44" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="43" column="12" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="44" column="17" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="136" column="2" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="59" column="9" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="137" column="2" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="80" column="6" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="5" column="35" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="83" column="14" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="18" column="75" filename="$USER_HOME$/dev/raml2html/lib/resource.nunjucks" />
-      <jump line="104" column="23" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="55" column="14" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="119" column="44" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="39" column="38" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="6" column="78" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/raml2html/lib/resource.nunjucks" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/raml2html/lib/resource.nunjucks" />
-      <jump line="16" column="9" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
-      <jump line="15" column="34" filename="$USER_HOME$/dev/raml2html/lib/resource/resource.nunjucks" />
-      <jump line="22" column="45" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
-      <jump line="33" column="33" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
-      <jump line="53" column="29" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
-      <jump line="13" column="38" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
-      <jump line="35" column="23" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
-      <jump line="0" column="17" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-resource.nunjucks" />
-      <jump line="35" column="40" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="42" column="21" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="15" column="17" filename="$USER_HOME$/dev/raml2html/lib/resource/main.nunjucks" />
-      <jump line="11" column="20" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="14" column="46" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="16" column="22" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="18" column="15" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="30" column="25" filename="$USER_HOME$/dev/raml2html/lib/template.nunjucks" />
-      <jump line="185" column="15" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="252" column="13" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="92" column="2" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="120" column="29" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="129" column="29" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="138" column="29" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="1" column="8" filename="$USER_HOME$/dev/raml2html/lib/item.nunjucks" />
-      <jump line="0" column="3" filename="$USER_HOME$/dev/raml2html/lib/item.nunjucks" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/raml2html/lib/resource/macros.nunjucks" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/raml2html/lib/resource/macros.nunjucks" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/raml2html/lib/resource/macros.nunjucks" />
-      <jump line="105" column="22" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="0" column="52" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="14" column="33" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="36" column="33" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="56" column="35" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="0" column="9" filename="$USER_HOME$/dev/raml2html/lib/resource/tab-macro.nunjucks" />
-      <jump line="3" column="54" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="121" column="48" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="130" column="48" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="139" column="48" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="156" column="52" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="187" column="50" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="220" column="50" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
-      <jump line="234" column="52" filename="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" />
       <jump line="98" column="20" filename="$USER_HOME$/dev/raml2html/index.js" />
       <jump line="102" column="20" filename="$USER_HOME$/dev/raml2html/index.js" />
       <jump line="112" column="44" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="7" column="29" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
+      <jump line="2" column="15" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
+      <jump line="11" column="5" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
+      <jump line="6" column="33" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
+      <jump line="8" column="16" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
+      <jump line="4" column="9" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
+      <jump line="21" column="12" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
+      <jump line="23" column="17" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
+      <jump line="3" column="26" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
+      <jump line="12" column="39" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
+      <jump line="16" column="22" filename="$USER_HOME$/dev/raml2html/lib/templates/template.nunjucks" />
+      <jump line="18" column="15" filename="$USER_HOME$/dev/raml2html/lib/templates/template.nunjucks" />
+      <jump line="184" column="6" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="33" column="22" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="251" column="0" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/raml2html/lib/templates/html.nunjucks" />
+      <jump line="232" column="29" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="253" column="5" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="56" column="23" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="121" column="31" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="130" column="31" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="139" column="31" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="156" column="35" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="187" column="33" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="220" column="33" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="86" column="13" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="97" column="37" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="84" column="40" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="81" column="27" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="57" column="45" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="3" column="53" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="7" column="68" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="8" column="65" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="12" column="27" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="55" column="41" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="0" column="45" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="14" column="17" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="36" column="17" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="0" column="23" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/resourceDescription.nunjucks" />
+      <jump line="22" column="33" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="1" column="59" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" />
+      <jump line="0" column="23" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/resourceMethods.nunjucks" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/tab.nunjucks" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/tab.nunjucks" />
+      <jump line="9" column="13" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" />
+      <jump line="0" column="45" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" />
+      <jump line="3" column="1" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/resourceMethods.nunjucks" />
+      <jump line="1" column="1" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/tab.nunjucks" />
+      <jump line="7" column="9" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/methods.nunjucks" />
+      <jump line="0" column="45" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/methods.nunjucks" />
+      <jump line="1" column="55" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" />
+      <jump line="44" column="90" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" />
+      <jump line="55" column="91" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" />
+      <jump line="61" column="92" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" />
+      <jump line="67" column="20" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" />
+      <jump line="69" column="24" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" />
+      <jump line="74" column="30" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" />
+      <jump line="83" column="30" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" />
+      <jump line="92" column="30" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" />
+      <jump line="109" column="34" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/methodModal.nunjucks" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/method/macros/tabContent.nunjucks" />
+      <jump line="66" column="25" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/method/modal.nunjucks" />
+      <jump line="44" column="95" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/method/modal.nunjucks" />
+      <jump line="69" column="89" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/method/modal.nunjucks" />
+      <jump line="59" column="34" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/method/modal.nunjucks" />
+      <jump line="3" column="44" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="2" column="3" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/listItem.nunjucks" />
+      <jump line="104" column="29" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="137" column="29" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="151" column="31" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="8" column="19" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="26" column="41" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="74" column="19" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="78" column="19" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="70" column="19" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="1" column="56" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="105" column="28" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="80" column="24" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="0" column="23" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/tabSection.nunjucks" />
+      <jump line="133" column="29" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="9" column="19" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="71" column="30" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="75" column="30" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="79" column="30" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="102" column="32" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="139" column="34" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="130" column="32" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="111" column="30" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="5" column="7" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/tabSection.nunjucks" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/listItem.nunjucks" />
+      <jump line="4" column="1" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/tabSection.nunjucks" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="0" column="5" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/requestBody.nunjucks" />
+      <jump line="93" column="23" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
+      <jump line="94" column="28" filename="$USER_HOME$/dev/raml2html/index.js" />
+      <jump line="108" column="36" filename="$USER_HOME$/dev/raml2html/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -751,19 +833,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhc3NldHMgPSBhc3NldHMK</text>
+        <text encoding="base64">LyoqCiAqIFVzaW5nIHlvdXIgb3duIHRlbXBsYXRlcyB1c2luZyB0aGUgZGVmYXVsdCBwcm9jZXNzUmFtbE9iaiBmdW5jdGlvbi4KICovCmNvbnN0IGNvbmZpZzIgPSByYW1sMmh0bWwuZ2V0RGVmYXVsdENvbmZpZygnLi9jdXN0b20tdGVtcGxhdGUtdGVzdC90ZW1wbGF0ZS5udW5qdWNrcycsIF9fZGlybmFtZSk7CgpyYW1sMmh0bWwucmVuZGVyKHJhbWxGaWxlLCBjb25maWcyKS50aGVuKChyZXN1bHQpID0+IHsKICBjb25zb2xlLmxvZygnMjogJywgcmVzdWx0LnRyaW0oKS5sZW5ndGgpOwp9LCAoZXJyb3IpID0+IHsKICBjb25zb2xlLmxvZygnZXJyb3IhICcsIGVycm9yKTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>templates</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZW1wbGF0ZXNQYXRoXD4=</text>
+        <text encoding="base64">XDxyZW5kZXJGbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtTdHJpbmd9IFt0ZW1wbGF0ZXNdIC0gVGhlIGZpbGVuYW1lIG9mIHRoZSBtYWluIHRlbXBsYXRlLCBsZWF2ZSBlbXB0eSB0byB1c2UgZGVmYXVsdCB0ZW1wbGF0ZXMK</text>
+        <text encoding="base64">Y29uc3QgcmVuZGVyRm5zID0gewogIC8qKgogICAqIFJlbmRlciBCb290c3RyYXAgc3R5bGUgdGFibGVzCiAgICovCiAgdGFibGUodGhlYWQsIHRib2R5KSB7CiAgICByZXR1cm4gYDx0YWJsZSBjbGFzcz0idGFibGUiPjx0aGVhZD4ke3RoZWFkfTwvdGhlYWQ+PHRib2R5PiR7dGJvZHl9PC90Ym9keT48L3RhYmxlPmA7CiAgfSwKCiAgLyoqCiAgICogUmVuZGVyIHNlY3VyZWRCeQogICAqIEBwYXJhbSBzZWN1cmVkQnkKICAgKiBAcmV0dXJucyB7c3RyaW5nfQogICAqLwogIHNlY3VyZWRCeShzZWN1cmVkQnkpIHsKICAgIGxldCBvdXQgPSAnJzsKICAgIGlmICh0eXBlb2Ygc2VjdXJlZEJ5ID09PSAnb2JqZWN0JykgewogICAgICBPYmplY3Qua2V5cyhzZWN1cmVkQnkpLmZvckVhY2goKGtleSkgPT4gewogICAgICAgIG91dCArPSBgPGI+JHtrZXl9PC9iPmA7CgogICAgICAgIGlmIChzZWN1cmVkQnlba2V5XS5zY29wZXMubGVuZ3RoKSB7CiAgICAgICAgICBvdXQgKz0gJyB3aXRoIHNjb3Blczo8dWw+JzsKCiAgICAgICAgICBzZWN1cmVkQnlba2V5XS5zY29wZXMuZm9yRWFjaCgoc2NvcGUpID0+IHsKICAgICAgICAgICAgb3V0ICs9IGA8bGk+JHtzY29wZX08L2xpPmA7CiAgICAgICAgICB9KTsKCiAgICAgICAgICBvdXQgKz0gJzwvdWw+JzsKICAgICAgICB9CiAgICAgIH0pOwogICAgfSBlbHNlIHsKICAgICAgb3V0ID0gYDxiPiR7c2VjdXJlZEJ5fTwvYj5gOwogICAgfQogICAgcmV0dXJuIG91dDsKICB9Cn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhc3NldHMgPSBhc3NldHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -788,28 +870,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcmVuZGVyRm5zID0gewogIC8qKgogICAqIFJlbmRlciBCb290c3RyYXAgc3R5bGUgdGFibGVzCiAgICovCiAgdGFibGUodGhlYWQsIHRib2R5KSB7CiAgICByZXR1cm4gYDx0YWJsZSBjbGFzcz0idGFibGUiPjx0aGVhZD4ke3RoZWFkfTwvdGhlYWQ+PHRib2R5PiR7dGJvZHl9PC90Ym9keT48L3RhYmxlPmA7CiAgfSwKCiAgLyoqCiAgICogUmVuZGVyIHNlY3VyZWRCeQogICAqIEBwYXJhbSBzZWN1cmVkQnkKICAgKiBAcmV0dXJucyB7c3RyaW5nfQogICAqLwogIHNlY3VyZWRCeShzZWN1cmVkQnkpIHsKICAgIGxldCBvdXQgPSAnJzsKICAgIGlmICh0eXBlb2Ygc2VjdXJlZEJ5ID09PSAnb2JqZWN0JykgewogICAgICBPYmplY3Qua2V5cyhzZWN1cmVkQnkpLmZvckVhY2goKGtleSkgPT4gewogICAgICAgIG91dCArPSBgPGI+JHtrZXl9PC9iPmA7CgogICAgICAgIGlmIChzZWN1cmVkQnlba2V5XS5zY29wZXMubGVuZ3RoKSB7CiAgICAgICAgICBvdXQgKz0gJyB3aXRoIHNjb3Blczo8dWw+JzsKCiAgICAgICAgICBzZWN1cmVkQnlba2V5XS5zY29wZXMuZm9yRWFjaCgoc2NvcGUpID0+IHsKICAgICAgICAgICAgb3V0ICs9IGA8bGk+JHtzY29wZX08L2xpPmA7CiAgICAgICAgICB9KTsKCiAgICAgICAgICBvdXQgKz0gJzwvdWw+JzsKICAgICAgICB9CiAgICAgIH0pOwogICAgfSBlbHNlIHsKICAgICAgb3V0ID0gYDxiPiR7c2VjdXJlZEJ5fTwvYj5gOwogICAgfQogICAgcmV0dXJuIG91dDsKICB9Cn07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyUgbWFjcm8gdGFiKGl0ZW0pICV9CjxsaT4KICB7JSBpZiBpdGVtLmRpc3BsYXlOYW1lICV9CiAgICA8c3Ryb25nPnt7IGl0ZW0uZGlzcGxheU5hbWUgfX08L3N0cm9uZz46CiAgeyUgZWxzZSAlfQogICAgPHN0cm9uZz57eyBrZXkgfX08L3N0cm9uZz46CiAgeyUgZW5kaWYgJX0KCiAgPGVtPgogICAgeyUtIGlmIGl0ZW0ucmVxdWlyZWQgLSV9cmVxdWlyZWQgeyUgZW5kaWYgLSV9CiAgICAoCiAgICB7JS0gaWYgaXRlbS5lbnVtIC0lfQogICAgICBvbmUgb2Yge3sgaXRlbS5lbnVtLmpvaW4oJywgJykgfX0KICAgIHslLSBlbHNlIC0lfQogICAgICB7eyBpdGVtLnR5cGUgfX0KICAgIHslLSBlbmRpZiAtJX0KCiAgICB7JS0gaWYgaXRlbS5kZWZhdWx0IG9yIGl0ZW0uZGVmYXVsdCA9PSAwIG9yIGl0ZW0uZGVmYXVsdCA9PSBmYWxzZSAlfSAtIGRlZmF1bHQ6IHt7IGl0ZW0uZGVmYXVsdCB9fXslLSBlbmRpZiAtJX0KICAgIHslLSBpZiBpdGVtLnJlcGVhdCAlfSAtIHJlcGVhdDoge3sgaXRlbS5yZXBlYXQgfX17JS0gZW5kaWYgLSV9CiAgICB7JS0gaWYgaXRlbS50eXBlID09ICdzdHJpbmcnIC0lfQogICAgICB7JS0gaWYgaXRlbS5taW5MZW5ndGggb3IgaXRlbS5taW5MZW5ndGggPT0gMCAlfSAtIG1pbkxlbmd0aDoge3sgaXRlbS5taW5MZW5ndGggfX17JS0gZW5kaWYgLSV9CiAgICAgIHslLSBpZiBpdGVtLm1heExlbmd0aCBvciBpdGVtLm1heExlbmd0aCA9PSAwICV9IC0gbWF4TGVuZ3RoOiB7eyBpdGVtLm1heExlbmd0aCB9fXslLSBlbmRpZiAtJX0KICAgIHslLSBlbHNlIC0lfQogICAgICB7JS0gaWYgaXRlbS5taW5pbXVtIG9yIGl0ZW0ubWluaW11bSA9PSAwICV9IC0gbWluaW11bToge3sgaXRlbS5taW5pbXVtIH19eyUtIGVuZGlmIC0lfQogICAgICB7JS0gaWYgaXRlbS5tYXhpbXVtIG9yIGl0ZW0ubWF4aW11bSA9PSAwICV9IC0gbWF4aW11bToge3sgaXRlbS5tYXhpbXVtIH19eyUtIGVuZGlmIC0lfQogICAgeyUtIGVuZGlmIC0lfQogICAgeyUtIGlmIGl0ZW0ucGF0dGVybiAlfSAtIHBhdHRlcm46IHt7IGl0ZW0ucGF0dGVybiB9fXslLSBlbmRpZiAtJX0KICAgICkKICA8L2VtPgoKICB7JSBtYXJrZG93biAlfQogIHt7IGl0ZW0uZGVzY3JpcHRpb24gfX0KICB7JSBlbmRtYXJrZG93biAlfQoKICB7JSBpZiBpdGVtLnNjaGVtYSAlfQogICAgPHA+PHN0cm9uZz5TY2hlbWE8L3N0cm9uZz46PC9wPgogICAgPHByZT48Y29kZT57eyBpdGVtLnNjaGVtYSB8IGVzY2FwZSB9fTwvY29kZT48L3ByZT4KICB7JSBlbmRpZiAlfQoKICB7JSBpZiBpdGVtLmV4YW1wbGUgJX0KICAgIDxwPjxzdHJvbmc+RXhhbXBsZTwvc3Ryb25nPjo8L3A+CiAgICB7JSBpZiBpdGVtLnR5cGUgPT0gJ3N0cmluZycgJX0KICAgICAgPHByZT57eyBpdGVtLmV4YW1wbGV8IGVzY2FwZSB9fTwvcHJlPgogICAgeyUgZWxzZSAlfQogICAgICA8cHJlPjxjb2RlPnt7IGl0ZW0uZXhhbXBsZSB8IGVzY2FwZSB9fTwvY29kZT48L3ByZT4KICAgIHslIGVuZGlmICV9CiAgeyUgZW5kaWYgJX0KPC9saT4KeyUgZW5kbWFjcm8gJX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGluY2x1ZGUgdGVtcGxhdGVzLm1vZGFsLnJlcXVlc3RCb2R5ICV9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaT4KICAgICAgeyUgaWYgaXRlbS5kaXNwbGF5TmFtZSAlfQogICAgICAgIDxzdHJvbmc+e3sgaXRlbS5kaXNwbGF5TmFtZSB9fTwvc3Ryb25nPjoKICAgICAgeyUgZWxzZSAlfQogICAgICAgIDxzdHJvbmc+e3sga2V5IH19PC9zdHJvbmc+OgogICAgICB7JSBlbmRpZiAlfQoKICAgICAgPGVtPgogICAgICAgIHslLSBpZiBpdGVtLnJlcXVpcmVkIC0lfXJlcXVpcmVkIHslIGVuZGlmIC0lfQogICAgICAgICgKICAgICAgICB7JS0gaWYgaXRlbS5lbnVtIC0lfQogICAgICAgICAgb25lIG9mIHt7IGl0ZW0uZW51bS5qb2luKCcsICcpIH19CiAgICAgICAgeyUtIGVsc2UgLSV9CiAgICAgICAgICB7eyBpdGVtLnR5cGUgfX0KICAgICAgICB7JS0gZW5kaWYgLSV9CgogICAgICAgIHslLSBpZiBpdGVtLmRlZmF1bHQgb3IgaXRlbS5kZWZhdWx0ID09IDAgb3IgaXRlbS5kZWZhdWx0ID09IGZhbHNlICV9IC0gZGVmYXVsdDoge3sgaXRlbS5kZWZhdWx0IH19eyUtIGVuZGlmIC0lfQogICAgICAgIHslLSBpZiBpdGVtLnJlcGVhdCAlfSAtIHJlcGVhdDoge3sgaXRlbS5yZXBlYXQgfX17JS0gZW5kaWYgLSV9CiAgICAgICAgeyUtIGlmIGl0ZW0udHlwZSA9PSAnc3RyaW5nJyAtJX0KICAgICAgICAgIHslLSBpZiBpdGVtLm1pbkxlbmd0aCBvciBpdGVtLm1pbkxlbmd0aCA9PSAwICV9IC0gbWluTGVuZ3RoOiB7eyBpdGVtLm1pbkxlbmd0aCB9fXslLSBlbmRpZiAtJX0KICAgICAgICAgIHslLSBpZiBpdGVtLm1heExlbmd0aCBvciBpdGVtLm1heExlbmd0aCA9PSAwICV9IC0gbWF4TGVuZ3RoOiB7eyBpdGVtLm1heExlbmd0aCB9fXslLSBlbmRpZiAtJX0KICAgICAgICB7JS0gZWxzZSAtJX0KICAgICAgICAgIHslLSBpZiBpdGVtLm1pbmltdW0gb3IgaXRlbS5taW5pbXVtID09IDAgJX0gLSBtaW5pbXVtOiB7eyBpdGVtLm1pbmltdW0gfX17JS0gZW5kaWYgLSV9CiAgICAgICAgICB7JS0gaWYgaXRlbS5tYXhpbXVtIG9yIGl0ZW0ubWF4aW11bSA9PSAwICV9IC0gbWF4aW11bToge3sgaXRlbS5tYXhpbXVtIH19eyUtIGVuZGlmIC0lfQogICAgICAgIHslLSBlbmRpZiAtJX0KICAgICAgICB7JS0gaWYgaXRlbS5wYXR0ZXJuICV9IC0gcGF0dGVybjoge3sgaXRlbS5wYXR0ZXJuIH19eyUtIGVuZGlmIC0lfQogICAgICAgICkKICAgICAgPC9lbT4KCiAgICAgIHslIG1hcmtkb3duICV9CiAgICAgIHt7IGl0ZW0uZGVzY3JpcHRpb24gfX0KICAgICAgeyUgZW5kbWFya2Rvd24gJX0KCiAgICAgIHslIGlmIGl0ZW0uc2NoZW1hICV9CiAgICAgICAgPHA+PHN0cm9uZz5TY2hlbWE8L3N0cm9uZz46PC9wPgogICAgICAgIDxwcmU+PGNvZGU+e3sgaXRlbS5zY2hlbWEgfCBlc2NhcGUgfX08L2NvZGU+PC9wcmU+CiAgICAgIHslIGVuZGlmICV9CgogICAgICB7JSBpZiBpdGVtLmV4YW1wbGUgJX0KICAgICAgICA8cD48c3Ryb25nPkV4YW1wbGU8L3N0cm9uZz46PC9wPgogICAgICAgIHslIGlmIGl0ZW0udHlwZSA9PSAnc3RyaW5nJyAlfQogICAgICAgICAgPHByZT57eyBpdGVtLmV4YW1wbGV8IGVzY2FwZSB9fTwvcHJlPgogICAgICAgIHslIGVsc2UgJX0KICAgICAgICAgIDxwcmU+PGNvZGU+e3sgaXRlbS5leGFtcGxlIHwgZXNjYXBlIH19PC9jb2RlPjwvcHJlPgogICAgICAgIHslIGVuZGlmICV9CiAgICAgIHslIGVuZGlmICV9CiAgICA8L2xpPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDM+SGVhZGVyczwvaDM+CiAgICAgICAgICAgICAgICAgICAgPHVsPgogICAgICAgICAgICAgICAgICAgICAgeyUgZm9yIGl0ZW0gaW4gcmVzcG9uc2UuaGVhZGVycyAlfQogICAgICAgICAgICAgICAgICAgICAgICB7eyB0YWIucmVuZGVyKGl0ZW0pIH19CiAgICAgICAgICAgICAgICAgICAgICB7JSBlbmRmb3IgJX0KICAgICAgICAgICAgICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXNvdXJjZTogJ2xpYi9yZXNvdXJjZS9yZXNvdXJjZS5udW5qdWNrcycsCiAgc3ViUmVzb3VyY2U6ICdsaWIvcmVzb3VyY2Uvc3ViLXJlc291cmNlLm51bmp1Y2tzJywKICByZXNvdXJjZU1hY3JvczogJ2xpYi9yZXNvdXJjZS9tYWNyb3MnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGgzPkhlYWRlcnM8L2gzPgogICAgICAgICAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgICAgICAgeyUgZm9yIGl0ZW0gaW4gc2VjdXJpdHlTY2hlbWUuZGVzY3JpYmVkQnkuaGVhZGVycyAlfQogICAgICAgICAgICAgICAgICAgICAge3sgdGFiLnJlbmRlcihpdGVtKSB9fQogICAgICAgICAgICAgICAgICAgIHslIGVuZGZvciAlfQogICAgICAgICAgICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1haW46IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGgzPkhlYWRlcnM8L2gzPgogICAgICAgICAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgICAgICAgeyUgZm9yIGl0ZW0gaW4gcmVzcG9uc2UuaGVhZGVycyAlfQogICAgICAgICAgICAgICAgICAgICAge3sgdGFiLnJlbmRlcihpdGVtKSB9fQogICAgICAgICAgICAgICAgICAgIHslIGVuZGZvciAlfQogICAgICAgICAgICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJiYWRnZSBiYWRnZV97eyBtZXRob2QubWV0aG9kIH19Ij57eyBtZXRob2QubWV0aG9kIH19eyUgaWYgbWV0aG9kLnNlY3VyZWRCeS5sZW5ndGggJX0gPHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tbG9jayIgdGl0bGU9IkF1dGhlbnRpY2F0aW9uIHJlcXVpcmVkIj48L3NwYW4+eyUgZW5kaWYgJX08L3NwYW4+Cg==</text>
+        <text encoding="base64">ICB7eyBsaXN0SXRlbS5yZW5kZXIoaXRlbSkgfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iYmFkZ2UgYmFkZ2Vfe3sgbWV0aG9kLm1ldGhvZCB9fSI+e3sgbWV0aG9kLm1ldGhvZCB9fXslIGlmIG1ldGhvZC5zZWN1cmVkQnkubGVuZ3RoICV9IDxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLWxvY2siIHRpdGxlPSJBdXRoZW50aWNhdGlvbiByZXF1aXJlZCI+PC9zcGFuPnslIGVuZGlmICV9PC9zcGFuPgo=</text>
+        <text encoding="base64">eyUgaW1wb3J0IHRlbXBsYXRlcy5tb2RhbC5tYWNyb3MubGlzdEl0ZW0gYXMgbGlzdEl0ZW0gJX0K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -819,36 +901,36 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZW1wbGF0ZXNQYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJGbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZW1wbGF0ZXNQYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJGbnNcPg==</last-pattern>
       <last-replace>key: '*' }]</last-replace>
       <last-substitute>'\*'\]</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXREZWZhdWx0Q29uZmlnXD4=</entry>
-        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
-        <entry encoding="base64">XDxtYXJrZG93blw+</entry>
-        <entry>render</entry>
-        <entry encoding="base64">XDxyZW5kZXJTZWN1cmVkQnlcPg==</entry>
-        <entry encoding="base64">XDxyZW5kZXJlcnNcPg==</entry>
-        <entry encoding="base64">XDxtYWluVGVtcGxhdGVcPg==</entry>
-        <entry encoding="base64">XDxyYW1sT2JqXD4=</entry>
-        <entry encoding="base64">XDxzdWJSZXNvdXJjZVw+</entry>
-        <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
-        <entry>badge</entry>
-        <entry encoding="base64">XDx0ZW1wbGF0ZXNcPg==</entry>
-        <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
-        <entry encoding="base64">XDxpdGVtXD4=</entry>
+        <entry encoding="base64">XDxcdypcLg==</entry>
+        <entry encoding="base64">IFw8XHcqXC4=</entry>
+        <entry encoding="base64">XDxyZXNvdXJjZURlc2NyaXB0aW9uXD4=</entry>
+        <entry>incl</entry>
         <entry encoding="base64">XDxiYWRnZVw+</entry>
-        <entry encoding="base64">XDxtYWNyb1w+</entry>
+        <entry>path</entry>
         <entry encoding="base64">XDx0YWJcPg==</entry>
-        <entry>include</entry>
-        <entry encoding="base64">XDx0ZW1wbGF0ZXNQYXRoXD4=</entry>
+        <entry>request</entry>
+        <entry>request\c</entry>
+        <entry>listI</entry>
+        <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
+        <entry encoding="base64">XDxsaXN0SXRlbVw+</entry>
+        <entry>listItem</entry>
+        <entry>render</entry>
+        <entry encoding="base64">XDx0YWJDb250ZW50XD4=</entry>
+        <entry>\.render</entry>
+        <entry encoding="base64">XDxpdGVtc1w+</entry>
+        <entry encoding="base64">XDxpdGVtXD4=</entry>
+        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
+        <entry encoding="base64">XDxyZW5kZXJGbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/defin\?\//definition\//</entry>
