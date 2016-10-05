@@ -613,11 +613,12 @@
         <mark key="." line="11" column="47" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/nest/stage.ts" timestamp="1475659253998">
-        <mark key="[" line="9" column="58" />
-        <mark key="]" line="9" column="58" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="58" />
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/nest/stage.ts" timestamp="1475661860050">
+        <mark key="'" line="32" column="19" />
+        <mark key="[" line="60" column="2" />
+        <mark key="]" line="60" column="2" />
+        <mark key="^" line="60" column="2" />
+        <mark key="." line="60" column="2" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/controllers/auth/proxy.ts" timestamp="1473425153126">
         <mark key="'" line="0" column="0" />
@@ -648,7 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="44" filename="$USER_HOME$/dev/raml2html/index.js" />
       <jump line="7" column="29" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
       <jump line="2" column="15" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
       <jump line="11" column="5" filename="$USER_HOME$/dev/raml2html/lib/dirTree.js" />
@@ -748,6 +748,7 @@
       <jump line="108" column="36" filename="$USER_HOME$/dev/raml2html/index.js" />
       <jump line="60" column="16" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/annotations/controller.js" />
       <jump line="6" column="18" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
+      <jump line="32" column="19" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/nest/stage.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -798,13 +799,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>perm/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>perm/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbnZhbGlkYXRpb25TZXJ2aWNlXD4=</text>
+        <text>||</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5lc3RTZWNyZXQ6ICc4OTI5MDc2Ny01NjUzLTRkYjgtYTAwMS04NTk4NjAzMzZjMDUnLAo=</text>
@@ -866,17 +867,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbnZhbGlkYXRpb25TZXJ2aWNlXD4=</last-search>
+      <last-search>||</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbnZhbGlkYXRpb25TZXJ2aWNlXD4=</last-pattern>
-      <last-replace>key: '*' }]</last-replace>
-      <last-substitute>'\*'\]</last-substitute>
+      <last-pattern>||</last-pattern>
+      <last-replace>||\r</last-replace>
+      <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNvdXJjZURlc2NyaXB0aW9uXD4=</entry>
         <entry>incl</entry>
         <entry encoding="base64">XDxiYWRnZVw+</entry>
         <entry>path</entry>
@@ -896,9 +896,9 @@
         <entry encoding="base64">XDxyZW5kZXJGbnNcPg==</entry>
         <entry encoding="base64">XDxub3RJbXBsZW1lbnRlZEhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxJbnZhbGlkYXRpb25TZXJ2aWNlXD4=</entry>
+        <entry>||</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\/defin\?\//definition\//</entry>
         <entry>%s/\/defin\?\//\/definition\//</entry>
         <entry>%s/\/defin\?\//\/definitions\//</entry>
         <entry encoding="base64">JzwsJz5zL0hhcy9HZXQ=</entry>
@@ -916,6 +916,7 @@
         <entry>%s/\['/[{ group: '</entry>
         <entry>%s/'*'\]/key: '*' }]</entry>
         <entry>%s/'\*'\]/key: '*' }]</entry>
+        <entry encoding="base64">JzwsJz5zL3x8L3x8XHIvZw==</entry>
         <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
