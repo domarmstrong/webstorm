@@ -22,10 +22,11 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/bs-query/src/parser.spec.ts" timestamp="1475663179510">
-        <mark key="[" line="579" column="0" />
-        <mark key="]" line="579" column="0" />
-        <mark key="." line="579" column="0" />
+      <file name="$USER_HOME$/dev/bs-query/src/parser.spec.ts" timestamp="1475663733615">
+        <mark key="[" line="567" column="20" />
+        <mark key="]" line="567" column="20" />
+        <mark key="." line="567" column="20" />
+        <mark key="^" line="567" column="20" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/controllers/accounts.spec.ts" timestamp="1472209503702">
         <mark key="'" line="29" column="0" />
@@ -65,11 +66,6 @@
         <mark key="^" line="28" column="13" />
         <mark key="." line="28" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/raml2html/lib/documentation.nunjucks" timestamp="1474988102202">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/badge.nunjucks" timestamp="1474996587341">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="5" column="1" />
@@ -89,11 +85,6 @@
         <mark key="^" line="13" column="50" />
         <mark key="." line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/tabContent.nunjucks" timestamp="1474999067788">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="51" column="9" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/utils.ts" timestamp="1473425677505">
         <mark key="'" line="40" column="35" />
         <mark key="[" line="1" column="126" />
@@ -107,11 +98,6 @@
         <mark key="]" line="30" column="37" />
         <mark key="." line="30" column="37" />
         <mark key="^" line="30" column="37" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/constants.ts" timestamp="1474034022016">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-request/typings/globals/superagent/index.d.ts" timestamp="1473412816839">
         <mark key="'" line="84" column="21" />
@@ -165,11 +151,6 @@
         <mark key="]" line="44" column="56" />
         <mark key="." line="64" column="57" />
         <mark key="^" line="44" column="56" />
-      </file>
-      <file name="$USER_HOME$/dev/raml2html/lib/markdown.js" timestamp="1474986047569">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" timestamp="1474992162352">
         <mark key="'" line="234" column="52" />
@@ -302,11 +283,6 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/package.json" timestamp="1474029651830">
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="24" />
-        <mark key="." line="44" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/badge-macro.nunjucks" timestamp="1474992118735">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="14" />
@@ -346,11 +322,6 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/raml2html/lib/resource/macros.nunjucks" timestamp="1474992023551">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getMany.ts" timestamp="1473424909115">
         <mark key="'" line="26" column="25" />
         <mark key="[" line="26" column="33" />
@@ -371,11 +342,6 @@
         <mark key="]" line="112" column="33" />
         <mark key="^" line="112" column="33" />
         <mark key="." line="218" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/tsconfig.prod.json" timestamp="1474038651927">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1474978000286">
         <mark key="[" line="0" column="0" />
@@ -460,12 +426,11 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/bs-query/src/parser.ts" timestamp="1475663201084">
+      <file name="$USER_HOME$/dev/bs-query/src/parser.ts" timestamp="1475663852827">
         <mark key="'" line="21" column="2" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="44" column="102" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" timestamp="1474014686249">
         <mark key="'" line="148" column="18" />
@@ -492,11 +457,6 @@
         <mark key="]" line="9" column="10" />
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/method/macros/tabContent" timestamp="1474998473379">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="5" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" timestamp="1473425092452">
         <mark key="'" line="37" column="31" />
@@ -530,11 +490,6 @@
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/array.spec.ts" timestamp="1474974610650">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/tabSection.nunjucks" timestamp="1474999639840">
         <mark key="'" line="6" column="1" />
@@ -681,11 +636,6 @@
         <mark key="]" line="11" column="75" />
         <mark key="." line="11" column="75" />
         <mark key="^" line="11" column="75" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/local/docker-compose.ts" timestamp="1473440213056">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -839,19 +789,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnNTU5YmY3MzYxOWE4MTczOGE3NmE3OGQ5fHwnICsK</text>
+        <text encoding="base64">ICBpZiAoc3RyKSB7CiAgICBjb25zb2xlLmxvZyhzdHIpOwogIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYnICs=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPUlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnNTJkN2E3MTEyYTljNjI0NmNiNDdjNTBifHwnICsK</text>
+        <text encoding="base64">ICAgIGl0KCd1bnBhcnNhYmxlIGV4cHJlc3Npb24gYT0xJywgKCkgPT4gewogICAgICBleHBlY3RFcnJvcignYT0xJywgJ1VucGFyc2FibGUgZXhwcmVzc2lvbjogImE9MSIgQCAiPTEiJyk7CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnNTU5YmY3MzYxOWE4MTczOGE3NmE3OGQ5fHwnICsK</text>
+        <text encoding="base64">ICBpZiAoc3RyKSB7CiAgICBjb25zb2xlLmxvZyhzdHIpOwogIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -876,28 +826,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnNTYyNGFkMzVlNGIwZDZlMTFhMTQ0ODIzfHwnICsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnNTY0MzEzNmUxMDBjMDZkNjYwMTRlMWE1fHwnICsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnNTY2NTQ2NDMxMDBjMDZkNjYwMTRlMWJmfHwnICsK</text>
+        <text encoding="base64">ICAgIHBhcnNlKHN0cik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnNTU5YmY3MzYxOWE4MTczOGE3NmE3OGQ5fHwnICsKICAgICAgICAnNTYyNGFkMzVlNGIwZDZlMTFhMTQ0ODIzfHwnICsKICAgICAgICAnNTY0MzEzNmUxMDBjMDZkNjYwMTRlMWE1fHwnICsKICAgICAgICAnNTY2NTQ2NDMxMDBjMDZkNjYwMTRlMWJmfHwnICsK</text>
+        <text encoding="base64">ICAgICAgICAnNTJkN2E3MTEyYTljNjI0NmNiNDdjNTEwfHwnICsKICAgICAgICAnNTJkN2E3MTIyYTljNjI0NmNiNDdjNTE0fHwnICsKICAgICAgICAnNTJkN2E3MTIyYTljNjI0NmNiNDdjNTE3fHwnICsKICAgICAgICAnNTMwY2MxMGUzYjVmNDQ4MjJjYWU5ZGRkfHwnICsKICAgICAgICAnNTNhOTQxMzcxNzk0NTExNTQ0MmU5MDhjfHwnICsKICAgICAgICAnNTQ1YzljYzAzMDgzNmIyNGNiYmE5MTgxfHwnICsKICAgICAgICAnNTQ5MDU4ZWIzMDgzNmIyNGNiYmE5MjhkfHwnICsKICAgICAgICAnNTQ5NDMxYzMzMDgzNmIyNGNiYmE5MmEzfHwnICsKICAgICAgICAnNTRmMGE1ZmFlNGIwN2Y2ZTRiYzAwOGEwfHwnICsKICAgICAgICAnNTU2NzAzNDdlNGIwODhjZjAzZmIzOTYwfHwnICsKICAgICAgICAnNTU3MTYzYzJlNGIwODhjZjAzZmIzYjExfHwnICsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnNTQ5NDMxYzMzMDgzNmIyNGNiYmE5MmEzfHwnICsKICAgICAgICAnNTRmMGE1ZmFlNGIwN2Y2ZTRiYzAwOGEwfHwnICsKICAgICAgICAnNTU2NzAzNDdlNGIwODhjZjAzZmIzOTYwfHwnICsKICAgICAgICAnNTU3MTYzYzJlNGIwODhjZjAzZmIzYjExfHwnICsKICAgICAgICAnNTU5YmY3MzYxOWE4MTczOGE3NmE3OGQ5fHwnICsKICAgICAgICAnNTYyNGFkMzVlNGIwZDZlMTFhMTQ0ODIzfHwnICsKICAgICAgICAnNTY0MzEzNmUxMDBjMDZkNjYwMTRlMWE1fHwnICsKICAgICAgICAnNTY2NTQ2NDMxMDBjMDZkNjYwMTRlMWJmfHwnICsK</text>
+        <text encoding="base64">ICAgICAgICAnNTU5YmY3MzYxOWE4MTczOGE3NmE3OGQ5fHwnICsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnNTZmM2I1NTc1MTFmY2E4MTY4NzZlZTM2fHwnICsK</text>
+        <text encoding="base64">ICAgICAgICAnNTYyNGFkMzVlNGIwZDZlMTFhMTQ0ODIzfHwnICsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnNTcxNGE5MzJkM2ZhZWY2ZDlmNTQ3ODYzfHwnICsK</text>
+        <text encoding="base64">ICAgICAgICAnNTY0MzEzNmUxMDBjMDZkNjYwMTRlMWE1fHwnICsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RyKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -913,7 +863,7 @@
       <last-replace>||\r</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
