@@ -40,7 +40,7 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/methods.nunjucks" timestamp="1474999772928">
+      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/methods.nunjucks" timestamp="1475655094645">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -167,7 +167,6 @@
         <mark key="." line="234" column="52" />
         <mark key="^" line="121" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/raml2html/bin/raml2html" timestamp="1474995457413" />
       <file name="$USER_HOME$/dev/raml2html/lib/templates/template.nunjucks" timestamp="1474993854247">
         <mark key="'" line="18" column="15" />
         <mark key="[" line="45" column="72" />
@@ -521,7 +520,6 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="79" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/listItem.nunjucks" timestamp="1474998519719" />
       <file name="$USER_HOME$/dev/app-nest-raml-doc/src/components-composite/hello-world/HelloWorldComponent.ts" timestamp="1474985553919">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="17" />
