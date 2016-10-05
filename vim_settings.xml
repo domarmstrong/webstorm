@@ -47,10 +47,11 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-flow/src/server/controllers/flow.ts" timestamp="1475665897682">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-flow/src/server/controllers/flow.ts" timestamp="1475666695719">
+        <mark key="[" line="23" column="51" />
+        <mark key="]" line="23" column="61" />
+        <mark key="." line="23" column="61" />
+        <mark key="^" line="23" column="61" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/tab.nunjucks" timestamp="1474996601477">
         <mark key="'" line="1" column="1" />
@@ -72,11 +73,11 @@
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-flow/RAML/api.raml" timestamp="1475658025810">
+      <file name="$USER_HOME$/dev/app-nest-api-flow/RAML/api.raml" timestamp="1475666496848">
         <mark key="[" line="19" column="2" />
-        <mark key="]" line="19" column="3" />
+        <mark key="]" line="19" column="2" />
         <mark key="^" line="19" column="3" />
-        <mark key="." line="19" column="3" />
+        <mark key="." line="19" column="2" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-api-request/index.d.ts" timestamp="1472214989888">
         <mark key="'" line="12" column="69" />
@@ -144,13 +145,6 @@
         <mark key="]" line="15" column="50" />
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-api-request/src/request.ts" timestamp="1473415859453">
-        <mark key="'" line="61" column="40" />
-        <mark key="[" line="64" column="57" />
-        <mark key="]" line="44" column="56" />
-        <mark key="." line="64" column="57" />
-        <mark key="^" line="44" column="56" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" timestamp="1474992162352">
         <mark key="'" line="234" column="52" />
@@ -553,7 +547,6 @@
         <mark key="." line="71" column="578" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" timestamp="1473420046020">
-        <mark key="'" line="95" column="15" />
         <mark key="[" line="226" column="30" />
         <mark key="]" line="226" column="36" />
         <mark key="." line="226" column="36" />
@@ -792,11 +785,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.toString()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvdG9jb2w6ICdodHRwcycsIA==</text>
+        <text>.toString()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPUlw+</text>
@@ -804,8 +797,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgci5vbignZXJyb3InLCBlcnIgPT4gY29uc29sZS5sb2coZXJyKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocik7Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -829,29 +822,29 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgci5vbignZW5kJywgKGE6IGFueSwgYjogYW55LCBjOiBhbnkpID0+IGNvbnNvbGUubG9nKGEsIGIsIGMpKTsK</text>
+      <register name="2" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgci5vbigncmVzcG9uc2UnLCAocmVzcG9uc2U6IGFueSkgPT4gY29uc29sZS5sb2cocmVzcG9uc2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXNvbHZlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5vbignZGF0YScsIGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50b1N0cmluZygpKSk7CiAgICAgICAgcmVzcG9uc2Uub24oJ2Vycm9yJywgZXJyID0+IGNvbnNvbGUubG9nKGVycikpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocik7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgci5vbignZW5kJywgKGE6IGFueSwgYjogYW55LCBjOiBhbnkpID0+IGNvbnNvbGUubG9nKGEsIGIsIGMpKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgci5vbigncmVzcG9uc2UnLCAocmVzcG9uc2U6IGFueSkgPT4gY29uc29sZS5sb2cocmVzcG9uc2UpKTsK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5vbignZGF0YScsIGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50b1N0cmluZygpKSk7CiAgICAgICAgcmVzcG9uc2Uub24oJ2Vycm9yJywgZXJyID0+IGNvbnNvbGUubG9nKGVycikpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5vbignZGF0YScsIGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50b1N0cmluZygpKSk7CiAgICAgICAgcmVzcG9uc2Uub24oJ2Vycm9yJywgZXJyID0+IGNvbnNvbGUubG9nKGVycikpOwogICAgICAgIHJlc3BvbnNlLnBpcGUocmVzKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocik7Cg==</text>
+        <text encoding="base64">ICAgICAgci5vbignZW5kJywgKGE6IGFueSwgYjogYW55LCBjOiBhbnkpID0+IGNvbnNvbGUubG9nKGEsIGIsIGMpKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
