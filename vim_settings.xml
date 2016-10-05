@@ -151,12 +151,12 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-request/src/request.ts" timestamp="1475679808265">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="49" />
-        <mark key="." line="11" column="49" />
-        <mark key="^" line="11" column="49" />
+      <file name="$USER_HOME$/dev/bs-api-request/src/request.ts" timestamp="1475683950702">
+        <mark key="'" line="96" column="16" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="10" />
+        <mark key="^" line="85" column="58" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/sub-item.nunjucks" timestamp="1474992162352">
         <mark key="'" line="234" column="52" />
@@ -502,6 +502,9 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="79" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/bs-api-request/node_modules/@types/request/index.d.ts" timestamp="1475683666855">
+        <mark key="'" line="121" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/bs-api-request/src/DeferredRequest.spec.ts" timestamp="1475681081378">
         <mark key="'" line="16" column="15" />
         <mark key="[" line="20" column="7" />
@@ -591,10 +594,10 @@
         <mark key="." line="71" column="578" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" timestamp="1475679668912">
-        <mark key="'" line="231" column="0" />
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/listItem.nunjucks" timestamp="1474999505743">
         <mark key="'" line="1" column="0" />
@@ -680,50 +683,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/method/macros/tabContent.nunjucks" />
-      <jump line="66" column="25" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/method/modal.nunjucks" />
-      <jump line="44" column="95" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/method/modal.nunjucks" />
-      <jump line="69" column="89" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/method/modal.nunjucks" />
-      <jump line="59" column="34" filename="$USER_HOME$/dev/raml2html/lib/templates/resource/method/modal.nunjucks" />
-      <jump line="3" column="44" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="2" column="3" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/listItem.nunjucks" />
-      <jump line="104" column="29" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="137" column="29" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="151" column="31" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="8" column="19" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="26" column="41" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="74" column="19" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="78" column="19" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="70" column="19" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="1" column="56" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="105" column="28" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="80" column="24" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="0" column="23" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/tabSection.nunjucks" />
-      <jump line="133" column="29" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="9" column="19" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="71" column="30" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="75" column="30" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="79" column="30" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="102" column="32" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="139" column="34" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="130" column="32" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="111" column="30" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="5" column="7" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/tabSection.nunjucks" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/listItem.nunjucks" />
-      <jump line="4" column="1" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/macros/tabSection.nunjucks" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="0" column="5" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/requestBody.nunjucks" />
-      <jump line="93" column="23" filename="$USER_HOME$/dev/raml2html/lib/templates/modal/main.nunjucks" />
-      <jump line="94" column="28" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="108" column="36" filename="$USER_HOME$/dev/raml2html/index.js" />
-      <jump line="60" column="16" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/annotations/controller.js" />
-      <jump line="6" column="18" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/defaults/cacheInvalidationMappings.spec.ts" />
       <jump line="32" column="19" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/nest/stage.ts" />
       <jump line="3" column="7" filename="$USER_HOME$/dev/app-nest-api-accounts/src/server/services/Accounts/utils.ts" />
       <jump line="21" column="2" filename="$USER_HOME$/dev/bs-query/src/parser.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="92" column="21" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="6" column="13" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
       <jump line="2" column="8" filename="$USER_HOME$/dev/bs-api-request/src/error_handling.ts" />
       <jump line="101" column="14" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
@@ -755,15 +717,10 @@
       <jump line="154" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="138" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="54" column="0" filename="$USER_HOME$/dev/bs-api-request/src/Request.ts" />
-      <jump line="73" column="83" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="64" column="11" filename="$USER_HOME$/dev/bs-api-request/src/Request.ts" />
       <jump line="41" column="90" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="45" column="91" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="49" column="90" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="53" column="92" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="57" column="90" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="61" column="91" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="42" column="1" filename="$USER_HOME$/dev/bs-api-request/src/Request.ts" />
       <jump line="46" column="57" filename="$USER_HOME$/dev/bs-api-request/src/Request.ts" />
       <jump line="208" column="27" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
@@ -780,6 +737,52 @@
       <jump line="82" column="16" filename="$USER_HOME$/dev/bs-api-request/src/DeferredRequest.ts" />
       <jump line="88" column="11" filename="$USER_HOME$/dev/bs-api-request/src/DeferredRequest.ts" />
       <jump line="15" column="10" filename="$USER_HOME$/dev/bs-api-request/src/DeferredRequest.ts" />
+      <jump line="92" column="8" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="86" column="61" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="158" column="66" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="87" column="55" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="95" column="32" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="78" column="11" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="145" column="22" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="150" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="54" column="31" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="58" column="32" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="77" column="45" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="74" column="32" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="178" column="15" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="62" column="31" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="66" column="33" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="70" column="34" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="97" column="21" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="98" column="23" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="10" column="29" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="32" column="33" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="44" column="44" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="45" column="41" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="53" column="11" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="57" column="11" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="61" column="11" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="65" column="11" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="69" column="11" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="73" column="11" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="88" column="14" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="131" column="0" filename="$USER_HOME$/dev/bs-api-request/node_modules/@types/request/index.d.ts" />
+      <jump line="238" column="52" filename="$USER_HOME$/dev/bs-api-request/node_modules/@types/request/index.d.ts" />
+      <jump line="239" column="42" filename="$USER_HOME$/dev/bs-api-request/node_modules/@types/request/index.d.ts" />
+      <jump line="240" column="37" filename="$USER_HOME$/dev/bs-api-request/node_modules/@types/request/index.d.ts" />
+      <jump line="257" column="86" filename="$USER_HOME$/dev/bs-api-request/node_modules/@types/request/index.d.ts" />
+      <jump line="21" column="68" filename="$USER_HOME$/dev/bs-api-request/node_modules/@types/request/index.d.ts" />
+      <jump line="22" column="26" filename="$USER_HOME$/dev/bs-api-request/node_modules/@types/request/index.d.ts" />
+      <jump line="128" column="33" filename="$USER_HOME$/dev/bs-api-request/node_modules/@types/request/index.d.ts" />
+      <jump line="115" column="14" filename="$USER_HOME$/dev/bs-api-request/node_modules/@types/request/index.d.ts" />
+      <jump line="121" column="33" filename="$USER_HOME$/dev/bs-api-request/node_modules/@types/request/index.d.ts" />
+      <jump line="166" column="21" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="164" column="15" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="85" column="48" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="93" column="30" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="94" column="44" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="96" column="16" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -829,20 +832,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdXJsLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>.href</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdXRTdHJlYW1cPg==</text>
+        <text encoding="base64">XDx1cmxcPg==</text>
       </register>
       <register name="0" type="4">
         <text>new Error('Request aborted')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdGhyb3VnaDIgZnJvbSAndGhyb3VnaDInOwo=</text>
+        <text encoding="base64">ICAgICAgdXJsLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -867,28 +870,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBsZXQgaG9zdCA9IHBhcnNlZC5ob3N0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICByZXR1cm4gcGFyc2VkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd3MuX3dyaXRlID0gZnVuY3Rpb24gKGNodW5rOiBhbnksIGVuYzogYW55LCBuZXh0OiBhbnkpOiB2b2lkIHsKICAgICAgICBjb25zb2xlLmRpcihjaHVuayk7CiAgICAgICAgbmV4dCgpOwogICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgLmFjY2VwdChhY2NlcHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">ICAgICAgLnNldChoZWFkZXJzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSgnUE9TVCcsICgpID0+IHsKICAgIGl0KCdNYWtlcyBhIHBvc3QgcmVxdWVzdCcsIGFzeW5jKCkgPT4gewogICAgICBsZXQgcG9zdCA9IHsndGVzdCc6IHthOiAxfX07CiAgICAgIGxldCBib2R5ID0ge2lkOiAxfTsKCiAgICAgIG5vY2soLy4qLykKICAgICAgICAucG9zdCgnL3Rlc3QnKQogICAgICAgIC5yZXBseSgyMDAsIGJvZHkpOwoKICAgICAgbGV0IHJlcyA9IGF3YWl0IHJlcXVlc3QucG9zdCgnaHR0cDovL2dvb2dsZS5jb20nLCAnL3Rlc3QnLCB7Ym9keTogcG9zdH0pOwogICAgICBhc3NlcnQuZGVlcEVxdWFsKHJlcy5ib2R5LCBib2R5KTsKICAgIH0pOwogIH0pOwoKICBkZXNjcmliZSgnUFVUJywgKCkgPT4gewogICAgaXQoJ01ha2VzIGEgcHV0IHJlcXVlc3QnLCBhc3luYygpID0+IHsKICAgICAgbGV0IHBvc3QgPSB7J3Rlc3QnOiB7YTogMX19OwogICAgICBsZXQgYm9keSA9IHtpZDogMX07CgogICAgICBub2NrKC8uKi8pCiAgICAgICAgLnB1dCgnL3Rlc3QnKQogICAgICAgIC5yZXBseSgyMDAsIGJvZHkpOwoKICAgICAgbGV0IHJlcyA9IGF3YWl0IHJlcXVlc3QucHV0KCdodHRwOi8vZ29vZ2xlLmNvbScsICcvdGVzdCcsIHtib2R5OiBwb3N0fSk7CiAgICAgIGFzc2VydC5kZWVwRXF1YWwocmVzLmJvZHksIGJvZHkpOwogICAgfSk7CiAgfSk7CgogIGRlc2NyaWJlKCdQQVRDSCcsICgpID0+IHsKICAgIGl0KCdNYWtlcyBhIHBhdGNoIHJlcXVlc3QnLCBhc3luYygpID0+IHsKICAgICAgbGV0IHBvc3QgPSB7J3Rlc3QnOiB7YTogMX19OwogICAgICBsZXQgYm9keSA9IHtpZDogMX07CgogICAgICBub2NrKC8uKi8pCiAgICAgICAgLnBhdGNoKCcvdGVzdCcpCiAgICAgICAgLnJlcGx5KDIwMCwgYm9keSk7CgogICAgICBsZXQgcmVzID0gYXdhaXQgcmVxdWVzdC5wYXRjaCgnaHR0cDovL2dvb2dsZS5jb20nLCAnL3Rlc3QnLCB7Ym9keTogcG9zdH0pOwogICAgICBhc3NlcnQuZGVlcEVxdWFsKHJlcy5ib2R5LCBib2R5KTsKICAgIH0pOwogIH0pOwoKICBkZXNjcmliZSgnREVMRVRFJywgKCkgPT4gewogICAgaXQoJ01ha2VzIGEgZGVsZXRlIHJlcXVlc3QnLCBhc3luYygpID0+IHsKICAgICAgbGV0IHBvc3QgPSB7J3Rlc3QnOiB7YTogMX19OwogICAgICBsZXQgYm9keSA9IHtpZDogMX07CgogICAgICBub2NrKC8uKi8pCiAgICAgICAgLmRlbGV0ZSgnL3Rlc3QnKQogICAgICAgIC5yZXBseSgyMDAsIGJvZHkpOwoKICAgICAgbGV0IHJlcyA9IGF3YWl0IHJlcXVlc3QuZGVsKCdodHRwOi8vZ29vZ2xlLmNvbScsICcvdGVzdCcsIHtib2R5OiBwb3N0fSk7CiAgICAgIGFzc2VydC5kZWVwRXF1YWwocmVzLmJvZHksIGJvZHkpOwogICAgfSk7CiAgfSk7CgogIGRlc2NyaWJlKCdIRUFEJywgKCkgPT4gewogICAgaXQoJ01ha2VzIGEgaGVhZCByZXF1ZXN0JywgYXN5bmMoKSA9PiB7CiAgICAgIGxldCBib2R5ID0ge2lkOiAxfTsKCiAgICAgIG5vY2soLy4qLykKICAgICAgICAuaGVhZCgnL3Rlc3QnKQogICAgICAgIC5yZXBseSgyMDAsIGJvZHkpOwoKICAgICAgbGV0IHJlcyA9IGF3YWl0IHJlcXVlc3QuaGVhZCgnaHR0cDovL2dvb2dsZS5jb20nLCAnL3Rlc3QnKTsKICAgICAgYXNzZXJ0LmRlZXBFcXVhbChyZXMuaGVhZGVyLCB7J2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJ30pOwogICAgfSk7CiAgfSk7CgogIGRlc2NyaWJlKCdyZXF1ZXN0JywgKCkgPT4gewogICAgWydHRVQnLCAnUE9TVCcsICdQVVQnLCAnUEFUQ0gnLCAnREVMRVRFJywgJ0hFQUQnXS5tYXAoKG1ldGhvZDogTWV0aG9kKSA9PiB7CiAgICAgIGl0KG1ldGhvZC50b1VwcGVyQ2FzZSgpICsgJzogSW5jbHVkZXMgdGhlIGJlYXJlciBoZWFkZXInLCBhc3luYygpID0+IHsKICAgICAgICBub2NrKC8uKi8pW21ldGhvZC50b0xvd2VyQ2FzZSgpXSgnL3Rlc3QnKQogICAgICAgICAgLm1hdGNoSGVhZGVyKCdBdXRob3JpemF0aW9uJywgJ0JlYXJlciBmb28nKQogICAgICAgICAgLnJlcGx5KDIwMCk7CgogICAgICAgIGF3YWl0IHJlcXVlc3QucmVxdWVzdChtZXRob2QsICdodHRwOi8vZ29vZ2xlLmNvbScsICcvdGVzdCcsIHtiZWFyZXI6ICdCZWFyZXIgZm9vJ30pOwogICAgICB9KTsKCiAgICAgIGl0KG1ldGhvZC50b1VwcGVyQ2FzZSgpICsgJzogRG9lcyBub3QgY29udGludWUgaWYgdGhlIHJlcXVlc3QgaGFzIGJlZW4gbWFya2VkICJjYW5jZWxsZWQiJywgYXN5bmMoKSA9PiB7CiAgICAgICAgbm9jaygvLiovKVttZXRob2QudG9Mb3dlckNhc2UoKV0oJy90ZXN0JykKICAgICAgICAgIC5yZXBseVdpdGhFcnJvcignUmVxdWVzdCBub3QgYWJvcnRlZCcpOwoKICAgICAgICB0cnkgewogICAgICAgICAgYXdhaXQgcmVxdWVzdC5yZXF1ZXN0KG1ldGhvZCwgJ2h0dHA6Ly9nb29nbGUuY29tJywgJy90ZXN0Jywge3JlcToge2NhbmNlbGxlZDogdHJ1ZX19KTsKICAgICAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgICAgIGFzc2VydC5lcXVhbChlcnIubWVzc2FnZSwgJ1JlcXVlc3QgYWJvcnRlZCcpOwogICAgICAgIH0KICAgICAgfSk7CgogICAgICBpdC5za2lwKG1ldGhvZC50b1VwcGVyQ2FzZSgpICsgJzogQXR0YWNoZXMgcGVuZGluZyByZXF1ZXN0cyB0byByZXEgb3B0aW9uJywgYXN5bmMoKSA9PiB7CiAgICAgICAgbm9jaygvLiovKVttZXRob2QudG9Mb3dlckNhc2UoKV0oJy90ZXN0JykKICAgICAgICAgIC5kZWxheSgxMCkKICAgICAgICAgIC5yZXBseSgyMDApOwoKICAgICAgICBsZXQgcmVxOiBSZXEgPSB7fTsKCiAgICAgICAgbGV0IHByb21pc2UgPSByZXF1ZXN0LnJlcXVlc3QobWV0aG9kLCAnaHR0cDovL2dvb2dsZS5jb20nLCAnL3Rlc3QnLCB7cmVxfSk7CiAgICAgICAgYXNzZXJ0Lmxlbmd0aE9mKHJlcS5wZW5kaW5nX2h0dHBfcmVxdWVzdHMsIDEpOwoKICAgICAgICBhd2FpdCBwcm9taXNlOwogICAgICB9KTsKCiAgICAgIGl0LnNraXAobWV0aG9kLnRvVXBwZXJDYXNlKCkgKyAnOiBSZW1vdmVzIHBlbmRpbmcgcmVxdWVzdHMgb24gY29tcGxldGlvbicsIGFzeW5jKCkgPT4gewogICAgICAgIG5vY2soLy4qLylbbWV0aG9kLnRvTG93ZXJDYXNlKCldKCcvdGVzdCcpCiAgICAgICAgICAuZGVsYXkoMTApCiAgICAgICAgICAucmVwbHkoMjAwKTsKCiAgICAgICAgbGV0IHJlcTogUmVxID0ge307CgogICAgICAgIGxldCBwcm9taXNlID0gcmVxdWVzdC5yZXF1ZXN0KG1ldGhvZCwgJ2h0dHA6Ly9nb29nbGUuY29tJywgJy90ZXN0Jywge3JlcX0pOwogICAgICAgIGFzc2VydC5sZW5ndGhPZihyZXEucGVuZGluZ19odHRwX3JlcXVlc3RzLCAxKTsKCiAgICAgICAgYXdhaXQgcHJvbWlzZTsKICAgICAgICBhc3NlcnQubGVuZ3RoT2YocmVxLnBlbmRpbmdfaHR0cF9yZXF1ZXN0cywgMCk7CiAgICAgIH0pOwoKICAgICAgaXQuc2tpcChtZXRob2QudG9VcHBlckNhc2UoKSArICc6IFBlbmRpbmcgcmVxdWVzdHMgY2FuIGJlIGFib3J0ZWQnLCBhc3luYygpID0+IHsKICAgICAgICBub2NrKC8uKi8pW21ldGhvZC50b0xvd2VyQ2FzZSgpXSgnL3Rlc3QnKQogICAgICAgICAgLmRlbGF5KDEwKQogICAgICAgICAgLnJlcGx5KDIwMCk7CgogICAgICAgIGxldCByZXE6IFJlcSA9IHt9OwoKICAgICAgICBsZXQgcHJvbWlzZSA9IHJlcXVlc3QucmVxdWVzdChtZXRob2QsICdodHRwOi8vZ29vZ2xlLmNvbScsICcvdGVzdCcsIHtyZXF9KTsKCiAgICAgICAgcmVxLnBlbmRpbmdfaHR0cF9yZXF1ZXN0cy5tYXAocmVxdWVzdCA9PiByZXF1ZXN0LmFib3J0KCkpOwoKICAgICAgICB0cnkgewogICAgICAgICAgYXdhaXQgcHJvbWlzZTsKICAgICAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgICAgIGFzc2VydC5lcXVhbChlcnIubWVzc2FnZSwgJ1JlcXVlc3QgYWJvcnRlZCcpOwogICAgICAgIH0KICAgICAgICBhc3NlcnQubGVuZ3RoT2YocmVxLnBlbmRpbmdfaHR0cF9yZXF1ZXN0cywgMCk7CiAgICAgIH0pOwogICAgfSk7CgogICAgZGVzY3JpYmUoJ2Vycm9yIGhhbmRsaW5nJywgKCkgPT4gewogICAgICBpdCgncmV0dXJucyBib2R5ICJtZXNzYWdlIiBmb3IgPCA1MDAgZXJyb3JzJywgYXN5bmMoKSA9PiB7CiAgICAgICAgbGV0IGJvZHkgPSB7CiAgICAgICAgICBtZXNzYWdlOiAnTXkgZXhjZXB0aW9uIG1lc3NhZ2UnCiAgICAgICAgfTsKCiAgICAgICAgbm9jaygvLiovKQogICAgICAgICAgLmdldCgnL3Rlc3QnKQogICAgICAgICAgLnJlcGx5KDQwNCwgYm9keSk7CgogICAgICAgIHRyeSB7CiAgICAgICAgICBhd2FpdCByZXF1ZXN0LmdldCgnaHR0cDovL2dvb2dsZS5jb20nLCAnL3Rlc3QnKTsKICAgICAgICAgIHRocm93IG5ldyBFcnJvcigpOwogICAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgICAgYXNzZXJ0LmVxdWFsKGVyci5zdGF0dXMsIDQwNCk7CiAgICAgICAgICBhc3NlcnQuZXF1YWwoZXJyLm1lc3NhZ2UsIGJvZHkubWVzc2FnZSk7CiAgICAgICAgfQogICAgICB9KTsKCiAgICAgIGl0KCdyZXR1cm5zIGJvZHkgImVycm9yIiBmb3IgPCA1MDAgZXJyb3JzIGlmIG5vIG1lc3NhZ2UgZm91bmQnLCBhc3luYygpID0+IHsKICAgICAgICBsZXQgYm9keSA9IHsKICAgICAgICAgIGVycm9yOiAnTXkgZXhjZXB0aW9uIG1lc3NhZ2UnCiAgICAgICAgfTsKCiAgICAgICAgbm9jaygvLiovKQogICAgICAgICAgLmdldCgnL3Rlc3QnKQogICAgICAgICAgLnJlcGx5KDQwNCwgYm9keSk7CgogICAgICAgIHRyeSB7CiAgICAgICAgICBhd2FpdCByZXF1ZXN0LmdldCgnaHR0cDovL2dvb2dsZS5jb20nLCAnL3Rlc3QnKTsKICAgICAgICAgIHRocm93IG5ldyBFcnJvcigpOwogICAgICAgIH0gY2F0Y2ggKGVycikgewogICAgICAgICAgYXNzZXJ0LmVxdWFsKGVyci5zdGF0dXMsIDQwNCk7CiAgICAgICAgICBhc3NlcnQuZXF1YWwoZXJyLm1lc3NhZ2UsIGJvZHkuZXJyb3IpOwogICAgICAgIH0KICAgICAgfSk7CgogICAgICBpdCgncmV0dXJucyBib2R5IGNvbnRlbnQgZm9yIDwgNTAwIGVycm9ycyBpZiBib2R5IGlzIGEgc3RyaW5nJywgYXN5bmMoKSA9PiB7CiAgICAgICAgbGV0IGJvZHkgPSAnTXkgZXhjZXB0aW9uIG1lc3NhZ2UnOwoKICAgICAgICBub2NrKC8uKi8pCiAgICAgICAgICAuZ2V0KCcvdGVzdCcpCiAgICAgICAgICAucmVwbHkoNDA0LCBib2R5KTsKCiAgICAgICAgdHJ5IHsKICAgICAgICAgIGF3YWl0IHJlcXVlc3QuZ2V0KCdodHRwOi8vZ29vZ2xlLmNvbScsICcvdGVzdCcpOwogICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCk7CiAgICAgICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgICAgICBhc3NlcnQuZXF1YWwoZXJyLnN0YXR1cywgNDA0KTsKICAgICAgICAgIGFzc2VydC5lcXVhbChlcnIubWVzc2FnZSwgYm9keSk7CiAgICAgICAgfQogICAgICB9KTsKCiAgICAgIGl0KCdyZXR1cm5zIGEgNTAyIGZvciBhbnkgZXJyb3JzID49IDUwMCcsIGFzeW5jKCkgPT4gewogICAgICAgIGxldCBib2R5ID0gJ015IGV4Y2VwdGlvbiBtZXNzYWdlIHdpdGggc29tZSBpbXBsZW1lbnRhdGlvbiBkZXRhaWwnOwoKICAgICAgICBub2NrKC8uKi8pCiAgICAgICAgICAuZ2V0KCcvdGVzdCcpCiAgICAgICAgICAucmVwbHkoNTAwLCBib2R5KTsKCiAgICAgICAgdHJ5IHsKICAgICAgICAgIGF3YWl0IHJlcXVlc3QuZ2V0KCdodHRwOi8vZ29vZ2xlLmNvbScsICcvdGVzdCcpOwogICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCk7CiAgICAgICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgICAgICBhc3NlcnQuZXF1YWwoZXJyLnN0YXR1cywgNTAyKTsKICAgICAgICAgIGFzc2VydC5ub3RFcXVhbChlcnIubWVzc2FnZSwgYm9keSk7CiAgICAgICAgfQogICAgICB9KTsKICAgIH0pOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgIGxldCBwZW5kaW5nUmVxID0gc3VwZXJhZ2VudChtZXRob2QsIHVybC5ocmVmKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVzcG9uc2UsIFN1cGVyQWdlbnRSZXF1ZXN0IH0gZnJvbSAnc3VwZXJhZ2VudCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gcGF0aAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -898,9 +901,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdXRTdHJlYW1cPg==</last-search>
+      <last-search encoding="base64">XDx1cmxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdXRTdHJlYW1cPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1cmxcPg==</last-pattern>
       <last-replace>||\r</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
@@ -908,26 +911,26 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
-        <entry encoding="base64">XDxyZW5kZXJGbnNcPg==</entry>
-        <entry encoding="base64">XDxub3RJbXBsZW1lbnRlZEhhbmRsZXJcPg==</entry>
-        <entry encoding="base64">XDxJbnZhbGlkYXRpb25TZXJ2aWNlXD4=</entry>
-        <entry>||</entry>
-        <entry>while</entry>
-        <entry encoding="base64">XDxic1F1ZXJ5XD4=</entry>
-        <entry encoding="base64">XDxPUlw+</entry>
-        <entry encoding="base64">XDxzdXBlcmFnZW50XD4=</entry>
-        <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxhY2NlcHRcPg==</entry>
         <entry encoding="base64">XDxmdWxsUGF0aFw+</entry>
         <entry encoding="base64">XDxwcm9taXNlXD4=</entry>
         <entry encoding="base64">XDxwYXJzZVVyaVw+</entry>
         <entry>uri\c</entry>
         <entry encoding="base64">XDxwYXJzZVVybFw+</entry>
-        <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxiZWFyZXJcPg==</entry>
         <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
         <entry encoding="base64">XDxvdXRTdHJlYW1cPg==</entry>
+        <entry encoding="base64">XDx1cmlcPg==</entry>
+        <entry encoding="base64">XDxsb2dUaW1lVGFrZW5cPg==</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxzdXBlcmFnZW50XD4=</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry>Url</entry>
+        <entry encoding="base64">XDxSZXF1aXJlZFVyaVVybFw+</entry>
+        <entry encoding="base64">XDxVcmlPcHRpb25zXD4=</entry>
+        <entry encoding="base64">XDxtYWtlVXJsXD4=</entry>
+        <entry encoding="base64">XDx1cmxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/defin\?\//\/definition\//</entry>
