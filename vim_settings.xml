@@ -444,12 +444,6 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/bs-query/src/parser.ts" timestamp="1475663852827">
-        <mark key="'" line="21" column="2" />
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.spec.ts" timestamp="1474014686249">
         <mark key="'" line="148" column="18" />
         <mark key="[" line="43" column="0" />
@@ -462,6 +456,11 @@
         <mark key="]" line="20" column="42" />
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-starbucks-trends/config/production.js" timestamp="1475848430073">
+        <mark key="[" line="22" column="93" />
+        <mark key="]" line="22" column="93" />
+        <mark key="." line="22" column="93" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-flow/src/server/server.ts" timestamp="1475846611570">
         <mark key="[" line="11" column="0" />
@@ -849,11 +848,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>data/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zb2xlXD4=</text>
