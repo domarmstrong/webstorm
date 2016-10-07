@@ -60,12 +60,12 @@
         <mark key="." line="49" column="1" />
         <mark key="^" line="49" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-flow/foo.js" timestamp="1475851482714">
+      <file name="$USER_HOME$/dev/app-nest-api-flow/foo.js" timestamp="1475852894613">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="3" column="6" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/local/test.js" timestamp="1472207878900">
         <mark key="'" line="29" column="3" />
@@ -856,11 +856,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcy5kYXRhKHsgYmxhaDogJ2ZvbycgfSkK</text>
+      <register name="&quot;" type="4">
+        <text>run</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>run</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zb2xlXD4=</text>
