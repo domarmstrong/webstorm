@@ -207,11 +207,10 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/Server.js" timestamp="1476271159497">
-        <mark key="[" line="244" column="9" />
-        <mark key="]" line="244" column="44" />
-        <mark key="." line="262" column="1" />
-        <mark key="^" line="262" column="1" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/Server.js" timestamp="1476272420479">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Campaigns/Campaigns.ts" timestamp="1473424317767">
         <mark key="'" line="15" column="27" />
@@ -694,7 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="90" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="42" column="1" filename="$USER_HOME$/dev/bs-api-request/src/Request.ts" />
       <jump line="46" column="57" filename="$USER_HOME$/dev/bs-api-request/src/Request.ts" />
       <jump line="208" column="27" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
@@ -794,6 +792,7 @@
       <jump line="78" column="16" filename="$USER_HOME$/dev/bs-raml-api/src/Server.js" />
       <jump line="16" column="4" filename="$USER_HOME$/dev/app-nest-api-flow/src/server/server.ts" />
       <jump line="22" column="4" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
+      <jump line="242" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/Server.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -843,8 +842,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ce894187-1a7d-41ab-a208-292f5f6c2fef</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cm0gPSB7CiAgImlkIjogImNlODk0MTg3LTFhN2QtNDFhYi1hMjA4LTI5MmY1ZjZjMmZlZiIsCiAgIm5hbWUiOiAiTW9sc29uIiwKICAidHlwZSI6ICJBUFBMSUNBVElPTiIsCiAgInJvdXRlIjogIm1vbHNvbiIsCiAgIm1lbnUiOiB7CiAgICAiaWQiOiAyMiwKICAgICJvcmRlciI6IDQsCiAgICAiZGVzY3JpcHRpb24iOiAiQmV0YSIsCiAgICAiY29sb3VyIjogIiMwMTY4YWQiLAogICAgImljb24iOiAiaWNvbi1zdGFyIiwKICAgICJzaG93IjogdHJ1ZSwKICAgICJiZXRhIjogdHJ1ZQogIH0sCiAgInNldHRpbmdzIjogewogICAgImlkIjogMTcsCiAgICAidXJsIjogImh0dHBzOi8vc3RhZ2UtbmVzdC1ub2RlLmJzYXBwcy5uZXQvbW9sc29uLyIsCiAgICAic2VuZCI6IFsKICAgICAgInVzZXJfaWQiLAogICAgICAiY2xpZW50X2lkIiwKICAgICAgImF1dGhfdG9rZW4iCiAgICBdLAogICAgInZlcnNpb24iOiAiMS4wLjAiCiAgfSwKICAiYXBwbGljYXRpb25fdHlwZSI6ICJJRlJBTUUiLAogICJsZWdhY3lfa2V5IjogIm1vbHNvbi1hcHBsaWNhdGlvbi1rZXkiCn0K</text>
       </register>
       <register name="-" type="4">
         <text>#63696e</text>
@@ -856,7 +855,7 @@
         <text>https://api.blackswan.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cm0gPSB7CiAgImlkIjogImNlODk0MTg3LTFhN2QtNDFhYi1hMjA4LTI5MmY1ZjZjMmZlZiIsCiAgIm5hbWUiOiAiTW9sc29uIiwKICAidHlwZSI6ICJBUFBMSUNBVElPTiIsCiAgInJvdXRlIjogIm1vbHNvbiIsCiAgIm1lbnUiOiB7CiAgICAiaWQiOiAyMiwKICAgICJvcmRlciI6IDQsCiAgICAiZGVzY3JpcHRpb24iOiAiQmV0YSIsCiAgICAiY29sb3VyIjogIiMwMTY4YWQiLAogICAgImljb24iOiAiaWNvbi1zdGFyIiwKICAgICJzaG93IjogdHJ1ZSwKICAgICJiZXRhIjogdHJ1ZQogIH0sCiAgInNldHRpbmdzIjogewogICAgImlkIjogMTcsCiAgICAidXJsIjogImh0dHBzOi8vc3RhZ2UtbmVzdC1ub2RlLmJzYXBwcy5uZXQvbW9sc29uLyIsCiAgICAic2VuZCI6IFsKICAgICAgInVzZXJfaWQiLAogICAgICAiY2xpZW50X2lkIiwKICAgICAgImF1dGhfdG9rZW4iCiAgICBdLAogICAgInZlcnNpb24iOiAiMS4wLjAiCiAgfSwKICAiYXBwbGljYXRpb25fdHlwZSI6ICJJRlJBTUUiLAogICJsZWdhY3lfa2V5IjogIm1vbHNvbi1hcHBsaWNhdGlvbi1rZXkiCn0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -880,29 +879,49 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CnsKICAiZGF0YSI6IHsKICAidHlwZSI6ICJBUFBMSUNBVElPTiIsCiAgICAiaWQiOiAiY2U4OTQxODctMWE3ZC00MWFiLWEyMDgtMjkyZjVmNmMyZmVmIiwKICAgICJuYW1lIjogIk1vbHNvbiIsCiAgICAicm91dGUiOiAibW9sc29uIiwKICAgICJtZW51IjogewogICAgImlkIjogMjIsCiAgICAgICJvcmRlciI6IDQsCiAgICAgICJkZXNjcmlwdGlvbiI6ICJCZXRhIiwKICAgICAgImljb24iOiAiaWNvbi1zdGFyIiwKICAgICAgInNob3ciOiB0cnVlLAogICAgICAiYmV0YSI6IHRydWUKICB9LAogICJzZXR0aW5ncyI6IHsKICAgICJpZCI6IDE3LAogICAgICAidXJsIjogImh0dHBzOi8vc3RhZ2UtbmVzdC1ub2RlLmJzYXBwcy5uZXQvbW9sc29uLyIsCiAgICAgICJ2ZXJzaW9uIjogIjEuMC4wIgogIH0sCiAgImFwcGxpY2F0aW9uX3R5cGUiOiAiSUZSQU1FIiwKICAgICJsZWdhY3lfa2V5IjogIm1vbHNvbi1hcHBsaWNhdGlvbi1rZXkiCn0sCiAgIm1ldGEiOiB7CiAgImRvY3MiOiAiYXBwMjIuc3RhZ2UuYnMubGFuL3N0YWdlL2FjY291bnRzL3N3YWdnZXItdWkuaHRtbCIKfQp9Cg==</text>
+      <register name="2" type="4">
+        <text>{
+  &quot;type&quot;: &quot;APPLICATION&quot;,
+  &quot;id&quot;: &quot;ce894187-1a7d-41ab-a208-292f5f6c2fef&quot;,
+  &quot;name&quot;: &quot;Molson&quot;,
+  &quot;route&quot;: &quot;molson&quot;,
+  &quot;menu&quot;: {
+  &quot;id&quot;: 22,
+    &quot;order&quot;: 4,
+    &quot;description&quot;: &quot;Beta&quot;,
+    &quot;icon&quot;: &quot;icon-star&quot;,
+    &quot;show&quot;: true,
+    &quot;beta&quot;: true
+},
+  &quot;settings&quot;: {
+  &quot;id&quot;: 17,
+    &quot;url&quot;: &quot;https://stage-nest-node.bsapps.net/molson/&quot;,
+    &quot;version&quot;: &quot;1.0.0&quot;
+},
+  &quot;application_type&quot;: &quot;IFRAME&quot;,
+  &quot;legacy_key&quot;: &quot;molson-application-key&quot;
+},</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmEwNTdjYzE3LWFlZjktNGExZi05NWU4LWM1NmE0ZjE5N2RmOQo=</text>
+        <text encoding="base64">CnsKICAiZGF0YSI6IHsKICAidHlwZSI6ICJBUFBMSUNBVElPTiIsCiAgICAiaWQiOiAiY2U4OTQxODctMWE3ZC00MWFiLWEyMDgtMjkyZjVmNmMyZmVmIiwKICAgICJuYW1lIjogIk1vbHNvbiIsCiAgICAicm91dGUiOiAibW9sc29uIiwKICAgICJtZW51IjogewogICAgImlkIjogMjIsCiAgICAgICJvcmRlciI6IDQsCiAgICAgICJkZXNjcmlwdGlvbiI6ICJCZXRhIiwKICAgICAgImljb24iOiAiaWNvbi1zdGFyIiwKICAgICAgInNob3ciOiB0cnVlLAogICAgICAiYmV0YSI6IHRydWUKICB9LAogICJzZXR0aW5ncyI6IHsKICAgICJpZCI6IDE3LAogICAgICAidXJsIjogImh0dHBzOi8vc3RhZ2UtbmVzdC1ub2RlLmJzYXBwcy5uZXQvbW9sc29uLyIsCiAgICAgICJ2ZXJzaW9uIjogIjEuMC4wIgogIH0sCiAgImFwcGxpY2F0aW9uX3R5cGUiOiAiSUZSQU1FIiwKICAgICJsZWdhY3lfa2V5IjogIm1vbHNvbi1hcHBsaWNhdGlvbi1rZXkiCn0sCiAgIm1ldGEiOiB7CiAgImRvY3MiOiAiYXBwMjIuc3RhZ2UuYnMubGFuL3N0YWdlL2FjY291bnRzL3N3YWdnZXItdWkuaHRtbCIKfQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHVzZXIgPSByZXNwb25zZS5ib2R5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JsYWgnLCBlcnIuc3RhdHVzKTsK</text>
+        <text encoding="base64">CmEwNTdjYzE3LWFlZjktNGExZi05NWU4LWM1NmE0ZjE5N2RmOQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGVyci5zdGF0dXMpCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHVzZXIgPSByZXNwb25zZS5ib2R5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2JsYWgnLCBlcnIuc3RhdHVzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAocCkK</text>
+        <text encoding="base64">ICAgICAgaWYgKGVyci5zdGF0dXMpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
