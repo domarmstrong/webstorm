@@ -303,6 +303,12 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Application.raml" timestamp="1476267006924">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/tab-macro.nunjucks" timestamp="1474992124495">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="0" column="9" />
@@ -846,10 +852,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGV0IHJlc3BvbnNlID0g</text>
+        <text>object</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IHJlc3BvbnNlID0g</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
