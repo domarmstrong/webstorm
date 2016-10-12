@@ -78,9 +78,6 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/services/Config/Config.js" timestamp="1475687528046">
-        <mark key="'" line="215" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/array.ts" timestamp="1474974875258">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="50" />
@@ -122,8 +119,12 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" timestamp="1476280705160">
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" timestamp="1476283165188">
         <mark key="'" line="19" column="13" />
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="46" />
+        <mark key="^" line="26" column="45" />
+        <mark key="." line="26" column="46" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Application.raml" timestamp="1476267006924">
         <mark key="[" line="27" column="13" />
@@ -191,12 +192,11 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.spec.js" timestamp="1476281029347">
-        <mark key="'" line="3" column="2" />
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="15" column="27" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.spec.js" timestamp="1476282533181">
+        <mark key="[" line="79" column="37" />
+        <mark key="]" line="79" column="44" />
+        <mark key="^" line="79" column="44" />
+        <mark key="." line="79" column="44" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/searches/getMany.ts" timestamp="1473424896541">
         <mark key="[" line="20" column="38" />
@@ -240,9 +240,6 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-request/node_modules/@types/request/index.d.ts" timestamp="1475683666855">
-        <mark key="'" line="121" column="33" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-raml-doc/src/components-composite/hello-world/HelloWorldComponent.ts" timestamp="1474985553919">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="17" />
@@ -282,10 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="30" filename="$USER_HOME$/dev/bs-api-request/src/DeferredRequest.ts" />
-      <jump line="56" column="39" filename="$USER_HOME$/dev/bs-api-request/src/DeferredRequest.ts" />
-      <jump line="60" column="11" filename="$USER_HOME$/dev/bs-api-request/src/DeferredRequest.ts" />
-      <jump line="82" column="16" filename="$USER_HOME$/dev/bs-api-request/src/DeferredRequest.ts" />
       <jump line="88" column="11" filename="$USER_HOME$/dev/bs-api-request/src/DeferredRequest.ts" />
       <jump line="15" column="10" filename="$USER_HOME$/dev/bs-api-request/src/DeferredRequest.ts" />
       <jump line="158" column="66" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
@@ -382,6 +375,10 @@
       <jump line="11" column="30" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="16" column="17" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="19" column="13" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.spec.js" />
+      <jump line="52" column="20" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.spec.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.spec.js" />
+      <jump line="78" column="6" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -432,19 +429,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>nested fields</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>nested fields</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNcPg==</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>https://api.blackswan.com</text>
+        <text>[{ d: { e: [{ a, b, c }, { a, b, c }] }}]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiZWZvcmUoKCkgPT4gewogICAgCiAgfSk7CiAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -468,49 +465,33 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCiAqIEhhbmRsZSB0aGUgP2ZpZWxkcyBxdWVyeSBzdHJpbmcgcGFyYW1ldGVyCiAqIEBwYXJhbSBvcHRpb25zIHtPYmplY3R9CiAqLwpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbihvcHRpb25zPXt9KSB7CiAgLyoqCiAgICogQHBhcmFtIGZpZWxkcyB7U3RyaW5nfSA/ZmllbGRzPWZvbyxiYXIuYmF6IGZpbHRlcmluZwogICAqLwogIHJldHVybiBjb25maWcgPT4gbWV0aG9kID0+IGFzeW5jKHJlcSwgcmVzKSA9PiB7CiAgICBpZiAoIXJlcS5xdWVyeS5maWVsZHMgfHwgIXJlcy5kYXRhLmlzU2V0KSB7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICBjb25zdCBmaWVsZHMgPSByZXEucXVlcnkuZmllbGRzLnNwbGl0KCcsJyk7CiAgICBjb25zdCBkYXRhID0gcmVzLmRhdGEoKTsKCiAgICBpZiAoQXJyYXkuaXNBcnJheShkYXRhKSkgewogICAgICByZXR1cm4gcmVzLmRhdGEoZGF0YS5tYXAocm93ID0+IGZpbHRlcihyb3csIGZpZWxkcykpKTsKICAgIH0KCiAgICByZXR1cm4gcmVzLmRhdGEoZmlsdGVyKGRhdGEsIGZpZWxkcykpOwogIH07Cn0KCi8qKgogKiBAcGFyYW0gaXRlbSB7T2JqZWN0fQogKiBAcGFyYW0gZmllbGRzIHtBcnJheS48U3RyaW5nPn0KICovCmZ1bmN0aW9uIGZpbHRlcihpdGVtLCBmaWVsZHMpIHsKICBsZXQgZG90dGllVHJhbnNmb3JtID0ge307CiAgZmllbGRzLmZvckVhY2goZmllbGQgPT4gewogICAgbGV0IHZhbHVlID0gZG90dGllLmdldChpdGVtLCBmaWVsZCk7CiAgICBpZiAodmFsdWUgIT09IHVuZGVmaW5lZCkgewogICAgICBkb3R0aWVUcmFuc2Zvcm1bZmllbGRdID0gdmFsdWU7CiAgICB9CiAgfSk7CiAgcmV0dXJuIGRvdHRpZS50cmFuc2Zvcm0oZG90dGllVHJhbnNmb3JtKTsKfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBsZXQgZG90dGllVHJhbnNmb3JtID0ge307Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>[
+      { dimensions: { title: 'temp' } },
+      {},
+    ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmlsdGVycz1pZD09KCI4M2ZhZTM5Yi03YzIyLTQ3OTMtYTczYy0wMmY1YmM5YWJiNjEifHwiZDU0NDdlMWEtMGQ1MC00ODZmLTg5MzctY2Y5ODlkMmRkZTRlInx8ImZmZWU5MjBmLWUyOGYtNDBmMi05ZDAyLWYyZmEzMzNmODJjNCJ8fCI2ZTUzZjVhZC02YjliLTQ4NWItYWFiOC03MDI1YmY1YmQ0ZTcifHwiOTliNWE0YjUtODBjZS00YjEzLWI2ZjctYzg4OTNlM2QyOTIwIikK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGRpbWVuc2lvbnM6IHsKICAgICAgICAgIHRpdGxlOiAndGVtcCcsCiAgICAgICAgICBnb29nbGVfY29ubmVjdF9jbGllbnRfcHJvcGVydHlfaWQ6ICdhY2VlMWY0YS03MzgwLTRlYmMtOGJhNy1kNTQxOTgxM2EwNmYnLAogICAgICAgICAgY2hhbm5lbF9pZDogJ1VDYWQxN19PQXBUVTVra0NoTURjeFV6dycsCiAgICAgICAgfSwKICAgICAgICBicmFuZF9ncm91cF9pZHM6IFsncGVwc2lfYnJhbmQnXSwKICAgICAgfSwKICAgICAgewogICAgICAgIGRpbWVuc2lvbnM6IHsKICAgICAgICAgIHVybDogJ3RlbXAuY28udWsnLAogICAgICAgICAgY2xpZW50X3Byb3BlcnR5OiAnMTIzNDU2Nzg5JywKICAgICAgICB9LAogICAgICAgIGJyYW5kX2dyb3VwX2lkczogWydwZXBzaV9icmFuZCddLAogICAgICB9LAogICAgXTsK</text>
       </register>
       <register name="5" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+        <text>&quot;
+&quot;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cm0gPSB7CiAgImlkIjogImNlODk0MTg3LTFhN2QtNDFhYi1hMjA4LTI5MmY1ZjZjMmZlZiIsCiAgIm5hbWUiOiAiTW9sc29uIiwKICAidHlwZSI6ICJBUFBMSUNBVElPTiIsCiAgInJvdXRlIjogIm1vbHNvbiIsCiAgIm1lbnUiOiB7CiAgICAiaWQiOiAyMiwKICAgICJvcmRlciI6IDQsCiAgICAiZGVzY3JpcHRpb24iOiAiQmV0YSIsCiAgICAiY29sb3VyIjogIiMwMTY4YWQiLAogICAgImljb24iOiAiaWNvbi1zdGFyIiwKICAgICJzaG93IjogdHJ1ZSwKICAgICJiZXRhIjogdHJ1ZQogIH0sCiAgInNldHRpbmdzIjogewogICAgImlkIjogMTcsCiAgICAidXJsIjogImh0dHBzOi8vc3RhZ2UtbmVzdC1ub2RlLmJzYXBwcy5uZXQvbW9sc29uLyIsCiAgICAic2VuZCI6IFsKICAgICAgInVzZXJfaWQiLAogICAgICAiY2xpZW50X2lkIiwKICAgICAgImF1dGhfdG9rZW4iCiAgICBdLAogICAgInZlcnNpb24iOiAiMS4wLjAiCiAgfSwKICAiYXBwbGljYXRpb25fdHlwZSI6ICJJRlJBTUUiLAogICJsZWdhY3lfa2V5IjogIm1vbHNvbi1hcHBsaWNhdGlvbi1rZXkiCn0K</text>
+        <text encoding="base64">ICAgICAgICAiY2xpZW50X2lkIjogIjUzMGNjMTBlM2I1ZjQ0ODIyY2FlOWRkZCIsCiAgICAgICAgImN1c3RvbV9xdWVyaWVzIjogW10sCiAgICAgICAgImNyZWF0ZWRfZGF0ZV90aW1lIjogIjIwMTYtMDktMjlUMTA6MTQ6MzUrMDAwMCIK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-  &quot;type&quot;: &quot;APPLICATION&quot;,
-  &quot;id&quot;: &quot;ce894187-1a7d-41ab-a208-292f5f6c2fef&quot;,
-  &quot;name&quot;: &quot;Molson&quot;,
-  &quot;route&quot;: &quot;molson&quot;,
-  &quot;menu&quot;: {
-  &quot;id&quot;: 22,
-    &quot;order&quot;: 4,
-    &quot;description&quot;: &quot;Beta&quot;,
-    &quot;icon&quot;: &quot;icon-star&quot;,
-    &quot;show&quot;: true,
-    &quot;beta&quot;: true
-},
-  &quot;settings&quot;: {
-  &quot;id&quot;: 17,
-    &quot;url&quot;: &quot;https://stage-nest-node.bsapps.net/molson/&quot;,
-    &quot;version&quot;: &quot;1.0.0&quot;
-},
-  &quot;application_type&quot;: &quot;IFRAME&quot;,
-  &quot;legacy_key&quot;: &quot;molson-application-key&quot;
-},</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAiZGF0YV9zb3VyY2VfaWQiOiAiR09PR0xFX1dFQk1BU1RFUlMiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAibmFtZSI6ICJURU1QIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnsKICAiZGF0YSI6IHsKICAidHlwZSI6ICJBUFBMSUNBVElPTiIsCiAgICAiaWQiOiAiY2U4OTQxODctMWE3ZC00MWFiLWEyMDgtMjkyZjVmNmMyZmVmIiwKICAgICJuYW1lIjogIk1vbHNvbiIsCiAgICAicm91dGUiOiAibW9sc29uIiwKICAgICJtZW51IjogewogICAgImlkIjogMjIsCiAgICAgICJvcmRlciI6IDQsCiAgICAgICJkZXNjcmlwdGlvbiI6ICJCZXRhIiwKICAgICAgImljb24iOiAiaWNvbi1zdGFyIiwKICAgICAgInNob3ciOiB0cnVlLAogICAgICAiYmV0YSI6IHRydWUKICB9LAogICJzZXR0aW5ncyI6IHsKICAgICJpZCI6IDE3LAogICAgICAidXJsIjogImh0dHBzOi8vc3RhZ2UtbmVzdC1ub2RlLmJzYXBwcy5uZXQvbW9sc29uLyIsCiAgICAgICJ2ZXJzaW9uIjogIjEuMC4wIgogIH0sCiAgImFwcGxpY2F0aW9uX3R5cGUiOiAiSUZSQU1FIiwKICAgICJsZWdhY3lfa2V5IjogIm1vbHNvbi1hcHBsaWNhdGlvbi1rZXkiCn0sCiAgIm1ldGEiOiB7CiAgImRvY3MiOiAiYXBwMjIuc3RhZ2UuYnMubGFuL3N0YWdlL2FjY291bnRzL3N3YWdnZXItdWkuaHRtbCIKfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAiaWQiOiAiMmI4MmY4NjMtNzViNy00NDBlLTg3YjctMzM4Y2UzYjcxMzhjIiwK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -520,17 +501,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNcPg==</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNcPg==</last-pattern>
-      <last-replace>||</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxsb2dUaW1lVGFrZW5cPg==</entry>
         <entry encoding="base64">XDxsb2dUaW1lVG9Db21wbGV0ZVw+</entry>
         <entry encoding="base64">XDxSZXF1ZXN0T3B0aW9uc1w+</entry>
@@ -550,9 +530,9 @@
         <entry encoding="base64">XDxtZXRob2RcPg==</entry>
         <entry encoding="base64">XDxyZXFcPg==</entry>
         <entry encoding="base64">XDxyZXNcPg==</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>x</entry>
         <entry>%s/\({ username: '123' }\)/{ resourceTypeProperties: \1 }</entry>
         <entry>%s/, { immediate: true }/</entry>
         <entry>%s/\^</entry>
@@ -567,10 +547,11 @@
         <entry>%s/'\*'\]/key: '*' }]</entry>
         <entry encoding="base64">JzwsJz5zL3x8L3x8XHIvZw==</entry>
         <entry>%s/url: Url, options?: RequestOptions/options: requestLib.Options, req?: any</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zLyQvLA==</entry>
         <entry encoding="base64">JzwsJz5zL1xyL3x8</entry>
         <entry encoding="base64">JzwsJz5zLyQvfHw=</entry>
+        <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
