@@ -23,10 +23,10 @@
         <mark key="^" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/dev/bs-query/src/parser.spec.ts" timestamp="1475663733615">
-        <mark key="[" line="567" column="20" />
-        <mark key="]" line="567" column="20" />
-        <mark key="." line="567" column="20" />
-        <mark key="^" line="567" column="20" />
+        <mark key="[" line="568" column="20" />
+        <mark key="]" line="568" column="20" />
+        <mark key="." line="568" column="20" />
+        <mark key="^" line="568" column="20" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/server/controllers/accounts.spec.ts" timestamp="1472209503702">
         <mark key="'" line="29" column="0" />
@@ -60,12 +60,12 @@
         <mark key="." line="49" column="1" />
         <mark key="^" line="49" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-flow/foo.js" timestamp="1475858725456">
+      <file name="$USER_HOME$/dev/app-nest-api-flow/foo.js" timestamp="1475861106038">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-        <mark key="^" line="2" column="35" />
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/local/test.js" timestamp="1472207878900">
         <mark key="'" line="29" column="3" />
@@ -334,6 +334,11 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-flow/index.html" timestamp="1475860924572">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+      </file>
       <file name="$USER_HOME$/dev/bs-api-log/src/services/BunyanLog.ts" timestamp="1473437107061">
         <mark key="[" line="30" column="49" />
         <mark key="]" line="30" column="47" />
@@ -458,11 +463,11 @@
         <mark key="]" line="22" column="93" />
         <mark key="." line="22" column="93" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-flow/src/server/server.ts" timestamp="1475858978225">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="16" column="30" />
+      <file name="$USER_HOME$/dev/app-nest-api-flow/src/server/server.ts" timestamp="1475861676258">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="8" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-flow/src/config/defaults/constants.ts" timestamp="1475831957632">
         <mark key="[" line="5" column="14" />
@@ -695,7 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="11" filename="$USER_HOME$/dev/bs-api-request/src/Request.ts" />
       <jump line="41" column="90" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="49" column="90" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="42" column="1" filename="$USER_HOME$/dev/bs-api-request/src/Request.ts" />
@@ -795,6 +799,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/app-nest-api-flow/foo.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-flow/foo.js" />
       <jump line="78" column="16" filename="$USER_HOME$/dev/bs-raml-api/src/Server.js" />
+      <jump line="16" column="4" filename="$USER_HOME$/dev/app-nest-api-flow/src/server/server.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -844,20 +849,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNvY2tldC5vbignJykK</text>
+      <register name="&quot;" type="4">
+        <text>res</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
-        <text>listen</text>
+        <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZXhwcmVzcyBmcm9tICdleHByZXNzJzsK</text>
+        <text encoding="base64">c2VydmVyLmFwcC51c2UoZnVuY3Rpb24gKHJlcTogYW55LCByZXM6IGFueSwgbmV4dDogYW55KSB7CiAgY29uc29sZS5sb2cocmVxLmhlYWRlcnMpOwogIGNvbnNvbGUubG9nKCdmb28nKTsKICBuZXh0KCk7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNvY2tldC5vbignJykK</text>
+        <text encoding="base64">ICBwcm94eS53cyhyZXEsIHJlcywgKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -882,28 +887,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZm9vJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IGlvID0gc29ja2V0aW8oc2VydmVyLmFwcC5odHRwKTsKCmlvLm9uKCdjb25uZWN0aW9uJywgKCkgPT4gewogIGNvbnNvbGUubG9nKCdmb28nKTsKfSk7Cg==</text>
+        <text encoding="base64">ICBuZXh0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuZXh0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c29ja2V0aW8oc2VydmVyLmFwcCk7Cg==</text>
+        <text encoding="base64">c2VydmVyLmFwcC53cygnLycsIGZ1bmN0aW9uIChyZXE6IGFueSwgcmVzOiBhbnksIG5leHQ6IGFueSkgewogIGNvbnNvbGUubG9nKHJlcS5oZWFkZXJzKTsKICBjb25zb2xlLmxvZygnZm9vJyk7CiAgbmV4dCgpOwp9KTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcy5kYXRhKHsgYmxhaDogJ2ZvbycgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICBpZiAoIXJlcS5xdWVyeS5zaWQpIHsKICAgIHJlcy5zZXQoewogICAgICAnQWNjZXNzLUNvbnRyb2wtQWxsb3ctQ3JlZGVudGlhbHMnOiB0cnVlLAogICAgICAnQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luJzogbnVsbCwKICAgICAgJ0Nvbm5lY3Rpb24nOiAna2VlcC1hbGl2ZScsCiAgICAgICdDb250ZW50LUxlbmd0aCc6IDEwMSwKICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9vY3RldC1zdHJlYW0nLAogICAgICAnRGF0ZSc6ICdGcmksIDA3IE9jdCAyMDE2IDE3OjE3OjA0IEdNVCcsCiAgICAgICdTZXQtQ29va2llJzogJ2lvPUdIcHdsR0hlYS1YajU3aWxBQUFCJywKICAgIH0pOwogICAgcmV0dXJuIHJlcy5zZW5kKCcJB8O/MHsic2lkIjoiR0hwd2xHSGVhLVhqNTdpbEFBQUIiLCJ1cGdyYWRlcyI6WyJ3ZWJzb2NrZXQiXSwicGluZ0ludGVydmFsIjoyNTAwMCwicGluZ1RpbWVvdXQiOjYwMDAwfScpOwogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">bGV0IGlvID0gc29ja2V0aW8oc2VydmVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXRhZzogJ1cvIjU4LUMxMStIMi9QaVNoRG1mOFVjd21neXciJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -913,17 +918,16 @@
       </register>
     </registers>
     <search>
-      <last-search>listen</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern>listen</last-pattern>
-      <last-replace>options: requestLib.Options, req?: any</last-replace>
-      <last-substitute>url: Url, options?: RequestOptions</last-substitute>
+      <last-pattern>$</last-pattern>
+      <last-replace>,</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxzdXBlcmFnZW50XD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
@@ -943,9 +947,9 @@
         <entry>database</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry>listen</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\/defin\?\//\/definitions\//</entry>
         <entry encoding="base64">JzwsJz5zL0hhcy9HZXQ=</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>x</entry>
@@ -964,6 +968,7 @@
         <entry encoding="base64">JzwsJz5zL3x8L3x8XHIvZw==</entry>
         <entry>%s/url: Url, options?: RequestOptions/options: requestLib.Options, req?: any</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zLyQvLA==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
