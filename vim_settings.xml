@@ -28,16 +28,6 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/nest/production.ts" timestamp="1476952730853">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-        <mark key="^" line="9" column="40" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/teec/production.ts" timestamp="1476955684115">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="15" column="55" />
-      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.ts" timestamp="1474977917769">
         <mark key="[" line="14" column="69" />
         <mark key="]" line="15" column="1" />
@@ -69,6 +59,12 @@
         <mark key="^" line="36" column="36" />
         <mark key="." line="36" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/teec/production_web1.pm2.json" timestamp="1476976742376">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-raml-api/index.d.ts" timestamp="1473439737691">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -80,12 +76,6 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/teec/production_web1.ts" timestamp="1476955715948">
-        <mark key="[" line="40" column="29" />
-        <mark key="]" line="40" column="32" />
-        <mark key="." line="40" column="32" />
-        <mark key="^" line="40" column="32" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-flow/src/server/controllers/flow.ts" timestamp="1475854873616">
         <mark key="[" line="15" column="16" />
@@ -110,10 +100,6 @@
         <mark key="]" line="17" column="2" />
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/constants.ts" timestamp="1476262481370">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="44" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/teec/production_web2.pm2.json" timestamp="1476975637328">
         <mark key="[" line="11" column="38" />
@@ -206,12 +192,6 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/teec/production_web2.ts" timestamp="1476955723804">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="15" column="32" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web2.ts" timestamp="1476955762197">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="29" />
@@ -230,6 +210,12 @@
         <mark key="]" line="13" column="17" />
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/teec/production_web2.pm2.json" timestamp="1476976747504">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.spec.ts" timestamp="1474977944527">
         <mark key="[" line="22" column="11" />
@@ -277,6 +263,7 @@
         <mark key="^" line="71" column="578" />
         <mark key="." line="71" column="578" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/utils.ts" timestamp="1476976721756" />
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/local/docker-compose.ts" timestamp="1474036790131">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="39" />
@@ -295,26 +282,11 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/nest/production.ts" timestamp="1476955603844">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production.pm2.json" timestamp="1476953015621">
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="48" />
-        <mark key="." line="5" column="48" />
-        <mark key="^" line="5" column="48" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Application.raml" timestamp="1476267006924">
         <mark key="[" line="27" column="13" />
         <mark key="]" line="27" column="20" />
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/nest/stage.ts" timestamp="1476952717437">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="59" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/badge-macro.nunjucks" timestamp="1474992118735">
         <mark key="[" line="0" column="9" />
@@ -326,6 +298,11 @@
         <mark key="[" line="47" column="24" />
         <mark key="]" line="47" column="25" />
         <mark key="." line="47" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/clients.spec.js" timestamp="1476977275662">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/main.nunjucks" timestamp="1474993881910">
         <mark key="[" line="15" column="36" />
@@ -506,11 +483,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>brain</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRyYWl0cyBmcm9tICcuLi8uLi90ZXN0X2hlbHBlcnMvdHJhaXRzL2luZGV4JzsK</text>
       </register>
       <register name="-" type="4">
-        <text>brain</text>
+        <text>auth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
@@ -519,7 +496,7 @@
         <text encoding="base64">ICAgICAgcmFiYml0TVE6ICdhbXFwOi8vYW1xcDphbXFwQDEwLjAuMC43NycsCiAgICAgIGFjY291bnRzQXBpOiAnaHR0cHM6Ly9wZXBicmFpbi5wZXBzaWNvZGlnaXRhbC5jb20vYXBpL2FjY291bnRzJywKICAgICAgYXV0aEFwaTogJ2h0dHBzOi8vcGVwYnJhaW4ucGVwc2ljb2RpZ2l0YWwuY29tL2FwaS9hdXRoJywKICAgICAgZGF0YUxpYkFwaTogJ2h0dHBzOi8vcGVwYnJhaW4udGVlY3Rlc3QuY28udWsvc3RhZ2UvZGF0YS1hcGknLAogICAgICBzaWduYWxzQXBpOiAnaHR0cHM6Ly9hcGkuYmxhY2tzd2FuLmNvbS9saXZlL3NpZ25hbCcsCiAgICAgIHNvY2lhbG5hdXRBcGk6ICdodHRwczovL2FwaS5ibGFja3N3YW4uY29tL3NuLXNkaycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiUE9SVCI6IDMwMTUsCg==</text>
+        <text encoding="base64">aW1wb3J0IHRyYWl0cyBmcm9tICcuLi8uLi90ZXN0X2hlbHBlcnMvdHJhaXRzL2luZGV4JzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -544,28 +521,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJhc3NlcnQtcmVxdWVzdCI6ICIxLjAuNSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAiUE9SVCI6IDMwMTUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJicy1hcGktY2FjaGUiOiAiMS41LjAiLAo=</text>
+        <text encoding="base64">ICAgICJhc3NlcnQtcmVxdWVzdCI6ICIxLjAuNSIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmFiYml0TVE6ICdhbXFwOi8vYW1xcDphbXFwQDEwLjAuMC43NycsCiAgICAgIG5lc3RBY2NvdW50c0FwaTogJ2h0dHBzOi8vcGVwYnJhaW4ucGVwc2ljb2RpZ2l0YWwuY29tL2xpdmUvYWNjb3VudHMnLAo=</text>
+        <text encoding="base64">ICAgICJicy1hcGktY2FjaGUiOiAiMS41LjAiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5lc3RTZWNyZXQ6ICc0ZGZmNTAwMy01MzJlLTQ0ZjQtOGI2My00MDI0ZGZkZDg2YTInLAoK</text>
+        <text encoding="base64">ICAgICAgcmFiYml0TVE6ICdhbXFwOi8vYW1xcDphbXFwQDEwLjAuMC43NycsCiAgICAgIG5lc3RBY2NvdW50c0FwaTogJ2h0dHBzOi8vcGVwYnJhaW4ucGVwc2ljb2RpZ2l0YWwuY29tL2xpdmUvYWNjb3VudHMnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbW9uaXRvckFwaTogJ2h0dHBzOi8vYXBpLmJsYWNrc3dhbi5jb20vbGl2ZS9nZW5lcmljZGF0YS9tb25pdG9yJywK</text>
+        <text encoding="base64">ICAgIG5lc3RTZWNyZXQ6ICc0ZGZmNTAwMy01MzJlLTQ0ZjQtOGI2My00MDI0ZGZkZDg2YTInLAoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2FjaGVJbnZhbGlkYXRvcjogewogICAgICAgIHF1ZXVlOiAnYXBwLW5lc3QtYXBpLWF1dGhfY2FjaGVJbnZhbGlkYXRpb25fd2ViMicsCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgbW9uaXRvckFwaTogJ2h0dHBzOi8vYXBpLmJsYWNrc3dhbi5jb20vbGl2ZS9nZW5lcmljZGF0YS9tb25pdG9yJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FjaGVJbnZhbGlkYXRvcjogewogICAgICAgIHF1ZXVlOiAnYXBwLW5lc3QtYXBpLWF1dGhfY2FjaGVJbnZhbGlkYXRpb25fd2ViMScsCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgY2FjaGVJbnZhbGlkYXRvcjogewogICAgICAgIHF1ZXVlOiAnYXBwLW5lc3QtYXBpLWF1dGhfY2FjaGVJbnZhbGlkYXRpb25fd2ViMicsCiAgICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VzOiB7CiAgICAgICAgdXJsOiBgbW9uZ29kYjovLzEwLjAuMC43OS8ke3BrZy5uYW1lfWAsCiAgICAgIH0sCgo=</text>
+        <text encoding="base64">ICAgICAgY2FjaGVJbnZhbGlkYXRvcjogewogICAgICAgIHF1ZXVlOiAnYXBwLW5lc3QtYXBpLWF1dGhfY2FjaGVJbnZhbGlkYXRpb25fd2ViMScsCiAgICAgIH0sCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
