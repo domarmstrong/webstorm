@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-menu/components/menu/MenuComponent.ts" timestamp="1477648231966">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/file.ts" timestamp="1474974476968">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="57" />
@@ -263,7 +269,6 @@
         <mark key="^" line="71" column="578" />
         <mark key="." line="71" column="578" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/utils.ts" timestamp="1476976721756" />
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/local/docker-compose.ts" timestamp="1474036790131">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="39" />
