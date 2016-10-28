@@ -174,11 +174,22 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/app/AppComponent.ts" timestamp="1477650599136">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Role.raml" timestamp="1473865298451">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="22" column="28" />
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/AppRamlRoutes.ts" timestamp="1477652563863">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="73" />
+        <mark key="." line="28" column="67" />
+        <mark key="^" line="28" column="67" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/array.ts" timestamp="1474974875258">
         <mark key="[" line="15" column="18" />
@@ -197,6 +208,12 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/AppRamlModule.ts" timestamp="1477652582888">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="11" column="30" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web2.ts" timestamp="1476955762197">
         <mark key="'" line="0" column="0" />
@@ -269,11 +286,29 @@
         <mark key="^" line="71" column="578" />
         <mark key="." line="71" column="578" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/app/AppRoutes.ts" timestamp="1477651328712">
+        <mark key="'" line="28" column="19" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="28" column="68" />
+        <mark key="^" line="28" column="48" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/local/docker-compose.ts" timestamp="1474036790131">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="39" />
         <mark key="^" line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/app/index.ts" timestamp="1477650541651">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/AppRamlComponent.ts" timestamp="1477652965267">
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="19" />
+        <mark key="." line="42" column="19" />
+        <mark key="^" line="42" column="19" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-brain/src/config/environments/teec/production_web2.pm2.json" timestamp="1476975910567">
         <mark key="[" line="3" column="28" />
@@ -339,7 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="86" column="17" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="39" column="1" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="42" column="77" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
@@ -439,6 +473,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web2.ts" />
       <jump line="11" column="38" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/teec/production.pm2.json" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/teec/production.pm2.json" />
+      <jump line="28" column="19" filename="$USER_HOME$/dev/bs-raml-api-doc/src/app/AppRoutes.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -488,20 +523,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWl0cyBmcm9tICcuLi8uLi90ZXN0X2hlbHBlcnMvdHJhaXRzL2luZGV4JzsK</text>
+      <register name="&quot;" type="4">
+        <text>: []</text>
       </register>
       <register name="-" type="4">
-        <text>auth</text>
+        <text>: []</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmFiYml0TVE6ICdhbXFwOi8vYW1xcDphbXFwQDEwLjAuMC43NycsCiAgICAgIGFjY291bnRzQXBpOiAnaHR0cHM6Ly9wZXBicmFpbi5wZXBzaWNvZGlnaXRhbC5jb20vYXBpL2FjY291bnRzJywKICAgICAgYXV0aEFwaTogJ2h0dHBzOi8vcGVwYnJhaW4ucGVwc2ljb2RpZ2l0YWwuY29tL2FwaS9hdXRoJywKICAgICAgZGF0YUxpYkFwaTogJ2h0dHBzOi8vcGVwYnJhaW4udGVlY3Rlc3QuY28udWsvc3RhZ2UvZGF0YS1hcGknLAogICAgICBzaWduYWxzQXBpOiAnaHR0cHM6Ly9hcGkuYmxhY2tzd2FuLmNvbS9saXZlL3NpZ25hbCcsCiAgICAgIHNvY2lhbG5hdXRBcGk6ICdodHRwczovL2FwaS5ibGFja3N3YW4uY29tL3NuLXNkaycsCg==</text>
+      <register name="0" type="4">
+        <text>{ path: '', component: AppRamlComponent, children: [] }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWl0cyBmcm9tICcuLi8uLi90ZXN0X2hlbHBlcnMvdHJhaXRzL2luZGV4JzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW5pdCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -526,28 +561,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiUE9SVCI6IDMwMTUsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlUm91dGVzIH0gZnJvbSAnLi9BcHBSYW1sUm91dGVzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJhc3NlcnQtcmVxdWVzdCI6ICIxLjAuNSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBSQU1MIHBhZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJicy1hcGktY2FjaGUiOiAiMS41LjAiLAo=</text>
+        <text encoding="base64">ICAgICAgcGF0aDogJ2ZvbycsIGNvbXBvbmVudDogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmFiYml0TVE6ICdhbXFwOi8vYW1xcDphbXFwQDEwLjAuMC43NycsCiAgICAgIG5lc3RBY2NvdW50c0FwaTogJ2h0dHBzOi8vcGVwYnJhaW4ucGVwc2ljb2RpZ2l0YWwuY29tL2xpdmUvYWNjb3VudHMnLAo=</text>
+        <text encoding="base64">ICAgIGFwcFJvdXRlcy5wdXNoKHsgcGF0aDogJycsIGNvbXBvbmVudDogQXBwUmFtbENvbXBvbmVudCB9KTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5lc3RTZWNyZXQ6ICc0ZGZmNTAwMy01MzJlLTQ0ZjQtOGI2My00MDI0ZGZkZDg2YTInLAoK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdsb2FkIHJhbWwgbW9kdWxlJyk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFN5c3RlbS5pbXBvcnQoJy4uL2NvbXBvbmVudHMvYXBwLXJhbWwvQXBwUmFtbE1vZHVsZScpCiAgICAgICAgICAgICAgICAgICAgICAudGhlbigocjogYW55KSA9PiByLkFwcFJhbWxNb2R1bGUpOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbW9uaXRvckFwaTogJ2h0dHBzOi8vYXBpLmJsYWNrc3dhbi5jb20vbGl2ZS9nZW5lcmljZGF0YS9tb25pdG9yJywK</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FjaGVJbnZhbGlkYXRvcjogewogICAgICAgIHF1ZXVlOiAnYXBwLW5lc3QtYXBpLWF1dGhfY2FjaGVJbnZhbGlkYXRpb25fd2ViMicsCiAgICAgIH0sCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyIH0gZnJvbSAnQGFuZ3VsYXIvcm91dGVyJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FjaGVJbnZhbGlkYXRvcjogewogICAgICAgIHF1ZXVlOiAnYXBwLW5lc3QtYXBpLWF1dGhfY2FjaGVJbnZhbGlkYXRpb25fd2ViMScsCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBIdHRwTW9kdWxlLAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
