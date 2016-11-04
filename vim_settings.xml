@@ -154,12 +154,12 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478262406792">
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478263073733">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="8" />
         <mark key="^" line="32" column="110" />
-        <mark key="." line="30" column="0" />
+        <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/teec/production_web2.pm2.json" timestamp="1476975637328">
         <mark key="[" line="11" column="38" />
@@ -422,12 +422,12 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478262167223">
-        <mark key="'" line="36" column="27" />
-        <mark key="[" line="240" column="109" />
-        <mark key="]" line="240" column="133" />
-        <mark key="." line="240" column="133" />
-        <mark key="^" line="240" column="133" />
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478263029051">
+        <mark key="'" line="223" column="19" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
+        <mark key="^" line="239" column="133" />
+        <mark key="." line="255" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/app/index.ts" timestamp="1477664174909">
         <mark key="[" line="14" column="0" />
@@ -537,8 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="9" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/AppRamlModule.ts" />
-      <jump line="11" column="30" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/active-menu/ActiveMenuService.ts" />
       <jump line="33" column="26" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-menu/AppMenuComponent.ts" />
       <jump line="17" column="13" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/active-menu/ActiveMenuService.ts" />
       <jump line="13" column="17" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/active-menu/ActiveMenuService.ts" />
@@ -627,7 +625,6 @@
       <jump line="221" column="108" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
       <jump line="261" column="45" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
       <jump line="230" column="91" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
-      <jump line="224" column="49" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
       <jump line="32" column="19" filename="$USER_HOME$/dev/app-nest-socialnaut/karma.conf.js" />
       <jump line="18" column="17" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
@@ -637,6 +634,9 @@
       <jump line="11" column="33" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
       <jump line="35" column="46" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
       <jump line="36" column="27" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="224" column="19" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="254" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="223" column="19" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -686,20 +686,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.only</text>
       </register>
       <register name="-" type="4">
-        <text>90</text>
+        <text>.only</text>
       </register>
       <register name="/" type="4">
-        <text>90</text>
+        <text encoding="base64">XDxjb25zb2xlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250cm9sbGVyLmZyb20gPSB0by5jbG9uZSgpLnN1YnRyYWN0KGNvbnRyb2xsZXIubWF4UmFuZ2UsICdkYXlzJykudG9EYXRlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGF0ZSBjaGFuZ2UnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -724,40 +724,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb250cm9sbGVyLmZyb20sIGNvbnRyb2xsZXIudG8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGF0ZSBjaGFuZ2UnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250cm9sbGVyLmZyb20gPSB0by5jbG9uZSgpLnN1YnRyYWN0KDkwLCAnZGF5cycpLnRvRGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdmaXJlQ2hhbmdlZCB0aW1lUGFuZWwuY29sdW1uJywgdGltZVBhbmVsLmNvbHVtbiwgY29uZmlnICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb250cm9sbGVyLmZyb20sIGNvbnRyb2xsZXIudG8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGF0ZSBjaGFuZ2UnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciAkcm9vdFNjb3BlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCd0aW1lUGFuZWwudGltZUNoYW5nZWQnLCBhbmd1bGFyLmNvcHkodGltZVBhbmVsLm1pZCksIGFuZ3VsYXIuY29weSh0aW1lUGFuZWwuZnJvbSksIGFuZ3VsYXIuY29weSh0aW1lUGFuZWwudG8pKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcignV1RGJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXlzJywgKG1vbWVudCh0aW1lUGFuZWwudG8pLmRpZmYobW9tZW50KHRpbWVQYW5lbC5mcm9tKSwgJ2RheXMnKSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQ6IHsKICAgICAgICAgICAgY2FwdHVyZUNvbnNvbGU6IHRydWUsCiAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZGF5cycsIChtb21lbnQodGltZVBhbmVsLnRvKS5kaWZmKG1vbWVudCh0aW1lUGFuZWwuZnJvbSksICdkYXlzJykpKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb250cm9sbGVyLmZyb20sIGNvbnRyb2xsZXIudG8pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250cm9sbGVyLmZyb20gPSB0by5jbG9uZSgpLnN1YnRyYWN0KDkwLCAnZGF5cycpLnRvRGF0ZSgpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>90</last-search>
+      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
       <last-offset />
-      <last-pattern>90</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -769,7 +769,6 @@
         <entry encoding="base64">XDxTZWN1cml0eVNjaGVtZUNvbXBvbmVudFw+</entry>
         <entry encoding="base64">XDxzY2hlbWVcPg==</entry>
         <entry encoding="base64">XDxkZXZcPg==</entry>
-        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry>throw</entry>
         <entry encoding="base64">XDxtb2R1bGVcPg==</entry>
         <entry>moment</entry>
@@ -785,6 +784,7 @@
         <entry>develop</entry>
         <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
         <entry>90</entry>
+        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'\*'\]/key: '*' },</entry>
@@ -805,8 +805,8 @@
         <entry>94</entry>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
         <entry>wa</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
