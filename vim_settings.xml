@@ -122,6 +122,9 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-data/PromiseQueue.js" timestamp="1478254182738">
+        <mark key="'" line="13" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/wallaby.json" timestamp="1474032854435">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="5" />
@@ -146,6 +149,13 @@
         <mark key="]" line="28" column="34" />
         <mark key="^" line="25" column="38" />
         <mark key="." line="28" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478254327396">
+        <mark key="'" line="321" column="4" />
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+        <mark key="^" line="17" column="40" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/teec/production_web2.pm2.json" timestamp="1476975637328">
         <mark key="[" line="11" column="38" />
@@ -333,6 +343,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-api/src/services/RateLimiter/RateLimiter.js" timestamp="1478253674706">
+        <mark key="'" line="128" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/typings/modules/bs-query-mongo/index.d.ts" timestamp="1474043671695">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="8" />
@@ -399,6 +412,9 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478254133257">
+        <mark key="'" line="66" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/app/index.ts" timestamp="1477664174909">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -459,6 +475,11 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/karma.conf.js" timestamp="1478254353861">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/clients.spec.js" timestamp="1476977275662">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -482,7 +503,6 @@
         <mark key="]" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-starbucks-trends/client/src/index.html" timestamp="1477666015657" />
       <file name="$USER_HOME$/dev/bs-api-log/src/services/BunyanLog.ts" timestamp="1473437107061">
         <mark key="[" line="30" column="49" />
         <mark key="]" line="30" column="47" />
@@ -502,11 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="57" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="45" column="52" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="49" column="15" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="56" column="56" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="63" column="1" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="59" column="15" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="64" column="25" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
@@ -602,6 +617,11 @@
       <jump line="27" column="39" filename="$USER_HOME$/dev/bs-raml-api-doc/src/config/client.ts" />
       <jump line="14" column="8" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/Raml.ts" />
       <jump line="61" column="0" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/Raml.ts" />
+      <jump line="128" column="38" filename="$USER_HOME$/dev/bs-raml-api/src/services/RateLimiter/RateLimiter.js" />
+      <jump line="66" column="38" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="13" column="8" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-data/PromiseQueue.js" />
+      <jump line="3" column="1" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="321" column="4" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -651,14 +671,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PromiseQueue</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zb2xlXD4=</text>
+        <text encoding="base64">XDxtb2R1bGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGJzLXJhbWwtc2VjdXJpdHktc2NoZW1lICpuZ1N3aXRjaENhc2U9IidzZWN1cml0eVNjaGVtYSciIFtzY2hlbWVdPSJwYWdlLmNvbnRlbnQiPjwvYnMtcmFtbC1zZWN1cml0eS1zY2hlbWU+Cg==</text>
@@ -689,25 +709,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlclN1YnNjcmlwdGlvbiA9IHJvdXRlci5ldmVudHMuc3Vic2NyaWJlKGV2ZW50ID0+IHsKICAgICAgICAgICAgaWYgKGV2ZW50IGluc3RhbmNlb2YgTmF2aWdhdGlvbkVuZCkgewogICAgICAgICAgICAgICAgdGhpcy51cGRhdGVDb250ZW50KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIHZhciBQcm9taXNlUXVldWU7CiAgICB2YXIgJHE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmpzb24pOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqc29uKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlclN1YnNjcmlwdGlvbiA9IHJvdXRlci5ldmVudHMuc3Vic2NyaWJlKGV2ZW50ID0+IHsKICAgICAgICAgICAgaWYgKGV2ZW50IGluc3RhbmNlb2YgTmF2aWdhdGlvbkVuZCkgewogICAgICAgICAgICAgICAgdGhpcy51cGRhdGVDb250ZW50KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmpzb24pOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYWRkUmVmZXJlbmNlKCk6IHZvaWQgewoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqc29uKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1lbnUucHVzaCh7IHRpdGxlOiAnU2VjdXJpdHknLCBjaGlsZHJlbjogbWVudUl0ZW1zIH0pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYWRkUmVmZXJlbmNlKCk6IHZvaWQgewoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -720,9 +740,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
+      <last-search encoding="base64">XDxtb2R1bGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtb2R1bGVcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -730,9 +750,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
-        <entry encoding="base64">XDxSYW1sXD4=</entry>
-        <entry encoding="base64">XDxDb25maWdTZXJ2aWNlXD4=</entry>
         <entry>bottom</entry>
         <entry>left</entry>
         <entry>console</entry>
@@ -750,6 +767,9 @@
         <entry encoding="base64">XDxzY2hlbWVcPg==</entry>
         <entry encoding="base64">XDxkZXZcPg==</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry>throw</entry>
+        <entry>moment</entry>
+        <entry encoding="base64">XDxtb2R1bGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'\*'\]/key: '*' },</entry>
