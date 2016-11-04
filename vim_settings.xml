@@ -226,12 +226,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" timestamp="1478272337226">
-        <mark key="'" line="70" column="54" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="8" />
-        <mark key="^" line="67" column="45" />
-        <mark key="." line="78" column="64" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" timestamp="1478279069426">
+        <mark key="'" line="1" column="35" />
+        <mark key="[" line="58" column="25" />
+        <mark key="]" line="58" column="26" />
+        <mark key="^" line="58" column="26" />
+        <mark key="." line="58" column="26" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/RAML/traits/json.raml" timestamp="1478273291772">
         <mark key="[" line="38" column="0" />
@@ -389,12 +389,12 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" timestamp="1478272393332">
-        <mark key="'" line="6" column="15" />
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="18" />
-        <mark key="." line="20" column="18" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" timestamp="1478278976680">
+        <mark key="'" line="22" column="86" />
+        <mark key="[" line="22" column="86" />
+        <mark key="]" line="22" column="91" />
+        <mark key="^" line="22" column="91" />
+        <mark key="." line="22" column="91" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478263073733">
         <mark key="'" line="4" column="0" />
@@ -615,8 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="15" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="97" column="2" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="102" column="8" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="96" column="8" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="76" column="8" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
@@ -645,7 +643,6 @@
       <jump line="93" column="2" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="239" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.spec.js" />
       <jump line="221" column="4" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.spec.js" />
-      <jump line="1" column="30" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
       <jump line="2" column="18" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
       <jump line="7" column="10" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
       <jump line="30" column="14" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
@@ -675,8 +672,6 @@
       <jump line="68" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
       <jump line="70" column="54" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
       <jump line="14" column="10" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" />
-      <jump line="4" column="17" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" />
-      <jump line="6" column="15" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" />
       <jump line="52" column="4" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/router.js" />
       <jump line="4" column="9" filename="$USER_HOME$/dev/bs-raml-api/RAML/traits/fields.raml" />
       <jump line="4" column="13" filename="$USER_HOME$/dev/bs-raml-api/RAML/traits/fieldMapping.raml" />
@@ -715,6 +710,11 @@
       <jump line="271" column="11" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
       <jump line="282" column="13" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
       <jump line="314" column="0" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
+      <jump line="4" column="11" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" />
+      <jump line="6" column="9" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" />
+      <jump line="22" column="86" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
+      <jump line="1" column="35" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -764,20 +764,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>done</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>done</text>
       </register>
       <register name="/" type="4">
-        <text>resources</text>
+        <text encoding="base64">XDxiYXNlNjRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB7IGZpZWxkc0ZpbHRlcmluZzogfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmVuZChkb25lKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -802,28 +802,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSByZXEucXVlcnkubWFwX2ZpZWxkczsK</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLi4nLCBtYXBzKTsK</text>
+        <text encoding="base64">ICAgICAgLmdldCgnL3hsc3gnKQogICAgICAuZXhwZWN0KDIwMCkKICAgICAgLmV4cGVjdChyZXMgPT4gewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKFsKICAgICAgICAgICAgewogICAgICAgICAgICAgIGVycm9yOiAnSW52YWxpZFZhbHVlRXJyb3InLAogICAgICAgICAgICAgIG1lc3NhZ2U6ICdJbnZhbGlkICJtYXBfZmllbGRzIiB2YWx1ZS4gRXhwZWN0ZWQgZm9ybWF0IHtmaWVsZH09e21hcH0nLAogICAgICAgICAgICAgIHBhcmFtZXRlcjogJ21hcF9maWVsZHMnLAogICAgICAgICAgICAgIHZhbHVlOiBtYXAsCiAgICAgICAgICAgICAgc3RhdHVzOiA0MDAsCiAgICAgICAgICAgIH0sCiAgICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBkZWZhdWx0RGF0YTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1hcHMpOwo=</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSByZXEucXVlcnkubWFwX2ZpZWxkczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4uZmFjb3RyeScpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLi4nLCBtYXBzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgbGV0IHRvZG8gPSBtYXAuZmllbGQucmVwbGFjZShyZXN1bHRbMF0sICcnKTsKICAgICAgICBpZiAodG9kbyAmJiAhbWF0Y2gudG9kby5pbmNsdWRlcyh0b2RvKSkgbWF0Y2gudG9kby5wdXNoKHRvZG8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -833,9 +833,9 @@
       </register>
     </registers>
     <search>
-      <last-search>resources</last-search>
+      <last-search encoding="base64">XDxiYXNlNjRcPg==</last-search>
       <last-offset />
-      <last-pattern>resources</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlNjRcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -843,8 +843,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'\(\.*\?\)':</entry>
-        <entry>'\(\.*\)':</entry>
         <entry>'\(.*\)':</entry>
         <entry>'\(\w*\)':</entry>
         <entry>$</entry>
@@ -863,6 +861,8 @@
         <entry>Filter</entry>
         <entry encoding="base64">XDxGaWVsZHNGaWx0ZXJhYmxlXD4=</entry>
         <entry>resources</entry>
+        <entry encoding="base64">XDxiYXNlNjRTdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxiYXNlNjRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xyL3x8</entry>
