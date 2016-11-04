@@ -166,11 +166,12 @@
         <mark key="]" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.spec.js" timestamp="1478263890978">
-        <mark key="[" line="224" column="8" />
-        <mark key="]" line="224" column="10" />
-        <mark key="^" line="224" column="10" />
-        <mark key="." line="224" column="10" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.spec.js" timestamp="1478266849974">
+        <mark key="'" line="221" column="4" />
+        <mark key="[" line="266" column="29" />
+        <mark key="]" line="266" column="31" />
+        <mark key="." line="266" column="31" />
+        <mark key="^" line="266" column="31" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/BrandGroup.raml" timestamp="1475673476345">
         <mark key="[" line="9" column="0" />
@@ -466,12 +467,10 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" timestamp="1478263867478">
-        <mark key="'" line="48" column="9" />
-        <mark key="[" line="70" column="34" />
-        <mark key="]" line="70" column="39" />
-        <mark key="^" line="70" column="39" />
-        <mark key="." line="70" column="39" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" timestamp="1478266651454">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Application.raml" timestamp="1476267006924">
         <mark key="[" line="27" column="13" />
@@ -550,34 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="26" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/active-menu/ActiveMenuService.ts" />
-      <jump line="53" column="36" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/RAMLService.ts" />
-      <jump line="33" column="25" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/RAMLService.ts" />
-      <jump line="34" column="27" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/RAMLService.ts" />
-      <jump line="35" column="34" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/RAMLService.ts" />
-      <jump line="17" column="33" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/RAMLService.ts" />
-      <jump line="16" column="29" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/markdown/MarkdownService.ts" />
-      <jump line="21" column="26" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/markdown/MarkdownService.ts" />
-      <jump line="23" column="28" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/markdown/MarkdownService.ts" />
-      <jump line="41" column="11" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/markdown/MarkdownService.ts" />
-      <jump line="54" column="42" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/markdown/MarkdownService.ts" />
-      <jump line="76" column="0" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/RAMLService.ts" />
-      <jump line="43" column="6" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/RAMLService.ts" />
-      <jump line="37" column="46" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/RAMLService.ts" />
-      <jump line="39" column="28" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/common/index.ts" />
-      <jump line="10" column="81" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/common/index.ts" />
-      <jump line="9" column="57" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/common/index.ts" />
-      <jump line="23" column="13" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/common/loading/LoadingComponent.scss" />
-      <jump line="17" column="6" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-menu/components/menu/MenuComponent.scss" />
-      <jump line="51" column="0" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-menu/components/menu/MenuComponent.scss" />
-      <jump line="29" column="8" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/AppRamlComponent.ts" />
-      <jump line="46" column="50" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/Raml.ts" />
-      <jump line="49" column="75" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/Raml.ts" />
-      <jump line="53" column="56" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/Raml.ts" />
-      <jump line="35" column="39" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/Raml.ts" />
-      <jump line="36" column="42" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/Raml.ts" />
-      <jump line="37" column="12" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/Raml.ts" />
-      <jump line="38" column="64" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/Raml.ts" />
       <jump line="39" column="36" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/Raml.ts" />
       <jump line="48" column="34" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/Raml.ts" />
       <jump line="26" column="15" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/Raml.ts" />
@@ -649,7 +620,35 @@
       <jump line="111" column="20" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="31" column="15" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="35" column="15" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="48" column="9" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="97" column="2" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="102" column="8" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="96" column="8" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="76" column="8" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="79" column="29" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="77" column="42" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="71" column="19" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="135" column="27" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="136" column="22" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="98" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="104" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="78" column="22" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="81" column="30" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="85" column="30" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="49" column="51" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="51" column="66" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="48" column="49" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="75" column="6" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="119" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="84" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="93" column="2" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
+      <jump line="239" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.spec.js" />
+      <jump line="221" column="4" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -700,19 +699,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>exclude, todo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>exclude, todo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWx0ZXJGaWVsZHNcPg==</text>
+        <text encoding="base64">XDxjb25zb2xlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbnB1dCwgZXhjbHVkZSwgdG9kbyk7Cg==</text>
+        <text encoding="base64">ICBpdCgnc3VwcG9ydHMgZGlmZmVyZW50IGRlcHRocycsIGFzeW5jKCkgPT4gewogICAgZGF0YSA9IFsKICAgICAgewogICAgICAgIGE6IHsgYjogeyBjOiAxIH0gfSwKICAgICAgICBiOiB7IGM6IHsgZDogMiB9IH0sCiAgICAgICAgYzogeyBkOiB7IGU6IDMgfSB9LAogICAgICB9LAogICAgXTsKICAgIHJlcS5xdWVyeS5maWVsZHMgPSAnYS5iLGMnOwogICAgbWlkZGxld2FyZUZhY3RvcnkoKSgpKCkocmVxLCByZXMpOwoKICAgIGFzc2VydC5kZWVwRXF1YWwoZGF0YSwgWwogICAgICB7CiAgICAgICAgYTogeyBiOiB7IGM6IDEgfSB9LAogICAgICAgIGM6IHsgZDogeyBlOiAzIH0gfSwKICAgICAgfSwKICAgIF0pOwogIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbnB1dCwgZXhjbHVkZSwgdG9kbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhOiB7IGI6IHsgYzogMSB9IH0sCiAgICAgICAgYzogeyBkOiB7IGU6IDMgfSB9LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -737,28 +736,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91dHB1dCwga2V5LCB0b2RvKTsK</text>
+        <text encoding="base64">LyoqCiAqIGlmIHRoZSBmaWVsZCBjb250YWlucyBmdXJ0aGVyICcuJyBzZXBhcmF0b3JzIGFkZCBhIHRvZG8gZW50cnkKICogQHBhcmFtIHRvZG8ge0FycmF5LjxTdHJpbmc+fQogKiBAcGFyYW0gZmllbGQge1N0cmluZ30KICogQHBhcmFtIGtleSB7U3RyaW5nfQogKi8KZnVuY3Rpb24gYWRkVG9kbyh0b2RvLCBmaWVsZCwgbWF0Y2hlZCkgewogIGxldCBwYXRoID0gZmllbGQucmVwbGFjZShtYXRjaGVkLCAnJyk7CiAgaWYgKHBhdGgpIHsKICAgIGlmICh0b2RvLmluZGV4T2YocGF0aCkgPT09IC0xKSB0b2RvLnB1c2gocGF0aCk7CiAgfQp9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG91dHB1dCwga2V5KTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnKysrKycsIGZpZWxkLCBtYXRjaGVkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZpZWxkcycsIGZpZWxkcywgdG9kbyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1hdGNoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdUT0RPJywgdG9kbyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5jbHVzaW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2V4Y2x1ZGUnLCBleGNsdWRlLCBmaWVsZCwga2V5LCBjb25zb2xlLmxvZyhyZXN1bHQpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXhjbHVzaW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLi4uLi4uLi4nLCBrZXkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGF0ZSBjaGFuZ2UnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLi4nLCBtYXRjaCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGF0ZSBjaGFuZ2UnKTsK</text>
+        <text encoding="base64">ICogQHBhcmFtIHBhcmVudCB7U3RyaW5nfQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -768,9 +767,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWx0ZXJGaWVsZHNcPg==</last-search>
+      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWx0ZXJGaWVsZHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -778,10 +777,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZWN1cml0eVNjaGVtZUNvbXBvbmVudFw+</entry>
-        <entry encoding="base64">XDxzY2hlbWVcPg==</entry>
-        <entry encoding="base64">XDxkZXZcPg==</entry>
-        <entry>throw</entry>
         <entry encoding="base64">XDxtb2R1bGVcPg==</entry>
         <entry>moment</entry>
         <entry encoding="base64">XDx0YXNrc1J1blw+</entry>
@@ -796,8 +791,12 @@
         <entry>develop</entry>
         <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
         <entry>90</entry>
-        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDxmaWx0ZXJGaWVsZHNcPg==</entry>
+        <entry encoding="base64">XDxtYXRjaFw+</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
+        <entry encoding="base64">XDxmaWVsZFw+</entry>
+        <entry encoding="base64">XDxwYXJlbnRcPg==</entry>
+        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'\*'\]/key: '*' },</entry>
