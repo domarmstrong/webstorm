@@ -98,6 +98,10 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/services/DatePresetService.js" timestamp="1478256905554">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="53" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/typings/modules/bs-raml-api/index.d.ts" timestamp="1473439737691">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -150,12 +154,11 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478254327396">
-        <mark key="'" line="321" column="4" />
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="40" />
-        <mark key="." line="17" column="40" />
-        <mark key="^" line="17" column="40" />
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478258225630">
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="27" column="38" />
+        <mark key="." line="27" column="38" />
+        <mark key="^" line="27" column="38" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/teec/production_web2.pm2.json" timestamp="1476975637328">
         <mark key="[" line="11" column="38" />
@@ -333,6 +336,12 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/gulpfile.js" timestamp="1478258886685">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="34" />
+        <mark key="." line="27" column="34" />
+        <mark key="^" line="27" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/Server.js" timestamp="1476276399654">
         <mark key="[" line="242" column="0" />
         <mark key="]" line="242" column="0" />
@@ -412,8 +421,12 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478254133257">
-        <mark key="'" line="66" column="38" />
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478258591034">
+        <mark key="'" line="226" column="49" />
+        <mark key="[" line="221" column="38" />
+        <mark key="]" line="221" column="38" />
+        <mark key="^" line="221" column="38" />
+        <mark key="." line="221" column="38" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/app/index.ts" timestamp="1477664174909">
         <mark key="[" line="14" column="0" />
@@ -475,10 +488,11 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-socialnaut/karma.conf.js" timestamp="1478254353861">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/karma.conf.js" timestamp="1478258523676">
+        <mark key="'" line="32" column="19" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/clients.spec.js" timestamp="1476977275662">
         <mark key="[" line="6" column="0" />
@@ -522,29 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="1" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="59" column="15" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="64" column="25" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="68" column="9" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="104" column="2" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="7" column="4" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="5" column="4" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="8" column="9" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
-      <jump line="94" column="22" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web1.ts" />
-      <jump line="34" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web1.ts" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web1.ts" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web1.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web2.ts" />
-      <jump line="11" column="38" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/teec/production.pm2.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/teec/production.pm2.json" />
-      <jump line="28" column="19" filename="$USER_HOME$/dev/bs-raml-api-doc/src/app/AppRoutes.ts" />
-      <jump line="40" column="39" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/AppRamlComponent.ts" />
-      <jump line="41" column="22" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/AppRamlComponent.ts" />
-      <jump line="44" column="35" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/AppRamlComponent.ts" />
-      <jump line="43" column="40" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/AppRamlComponent.ts" />
-      <jump line="47" column="31" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/AppRamlComponent.ts" />
-      <jump line="12" column="19" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/ResourceComponent/ResourceComponent.ts" />
-      <jump line="14" column="12" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/ResourceComponent/ResourceComponent.ts" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/ResourceComponent/ResourceComponent.ts" />
       <jump line="69" column="27" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/AppRamlComponent.ts" />
       <jump line="22" column="32" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/RAMLService.ts" />
@@ -620,8 +611,31 @@
       <jump line="128" column="38" filename="$USER_HOME$/dev/bs-raml-api/src/services/RateLimiter/RateLimiter.js" />
       <jump line="66" column="38" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
       <jump line="13" column="8" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-data/PromiseQueue.js" />
-      <jump line="3" column="1" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
       <jump line="321" column="4" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="193" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="194" column="26" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="196" column="31" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="200" column="35" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="6" column="8" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="7" column="8" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="34" column="8" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="21" column="8" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="13" column="12" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="3" column="10" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="87" column="54" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="19" column="38" filename="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="5" column="59" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="6" column="47" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="72" column="17" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="79" column="17" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="85" column="17" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="220" column="45" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="221" column="108" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="261" column="45" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="230" column="91" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="224" column="49" filename="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" />
+      <jump line="32" column="19" filename="$USER_HOME$/dev/app-nest-socialnaut/karma.conf.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -671,20 +685,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>development</text>
       </register>
       <register name="-" type="4">
-        <text>PromiseQueue</text>
+        <text>development</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2R1bGVcPg==</text>
+        <text>develop</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJzLXJhbWwtc2VjdXJpdHktc2NoZW1lICpuZ1N3aXRjaENhc2U9IidzZWN1cml0eVNjaGVtYSciIFtzY2hlbWVdPSJwYWdlLmNvbnRlbnQiPjwvYnMtcmFtbC1zZWN1cml0eS1zY2hlbWU+Cg==</text>
+      <register name="0" type="4">
+        <text>(moment(timePanel.to).diff(moment(timePanel.from), 'days'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQ6IHsKICAgICAgICAgICAgY2FwdHVyZUNvbnNvbGU6IHRydWUsCiAgICAgICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -709,25 +723,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBQcm9taXNlUXVldWU7CiAgICB2YXIgJHE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZGF5cycsIChtb21lbnQodGltZVBhbmVsLnRvKS5kaWZmKG1vbWVudCh0aW1lUGFuZWwuZnJvbSksICdkYXlzJykpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlclN1YnNjcmlwdGlvbiA9IHJvdXRlci5ldmVudHMuc3Vic2NyaWJlKGV2ZW50ID0+IHsKICAgICAgICAgICAgaWYgKGV2ZW50IGluc3RhbmNlb2YgTmF2aWdhdGlvbkVuZCkgewogICAgICAgICAgICAgICAgdGhpcy51cGRhdGVDb250ZW50KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmpzb24pOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqc29uKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygndGltZVBhbmVsLmZyb20gLSB0aW1lUGFuZWwudG8nLCB0aW1lUGFuZWwuZnJvbSx0aW1lUGFuZWwudG8pCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYWRkUmVmZXJlbmNlKCk6IHZvaWQgewoK</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -740,9 +754,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2R1bGVcPg==</last-search>
+      <last-search>develop</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2R1bGVcPg==</last-pattern>
+      <last-pattern>develop</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -750,16 +764,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bottom</entry>
-        <entry>left</entry>
-        <entry>console</entry>
-        <entry encoding="base64">XDxyb3V0ZXJcPg==</entry>
-        <entry encoding="base64">XDxkb2NcPg==</entry>
-        <entry>doc</entry>
-        <entry>header</entry>
-        <entry encoding="base64">XDxSZXNvdXJjZUNvbXBvbmVudFw+</entry>
-        <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
-        <entry encoding="base64">XDxhZGRTZWN1cml0eVNjaGVtYXNcPg==</entry>
         <entry encoding="base64">XDxTZWN1cml0eVNjaGVtYUNvbXBvbmVudFw+</entry>
         <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
@@ -768,8 +772,18 @@
         <entry encoding="base64">XDxkZXZcPg==</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry>throw</entry>
-        <entry>moment</entry>
         <entry encoding="base64">XDxtb2R1bGVcPg==</entry>
+        <entry>moment</entry>
+        <entry encoding="base64">XDx0YXNrc1J1blw+</entry>
+        <entry encoding="base64">XDxzaW1wbGVUYXNrXD4=</entry>
+        <entry encoding="base64">XDxUaW1lUGFuZWxDb250cm9sbGVyXD4=</entry>
+        <entry encoding="base64">XDxEYXRlUHJlc2V0U2VydmljZVw+</entry>
+        <entry encoding="base64">XDxzY29wZVw+</entry>
+        <entry encoding="base64">XDx0aW1lQ2hhbmdlZFw+</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
+        <entry encoding="base64">XDxsYXN0VG9cPg==</entry>
+        <entry>client</entry>
+        <entry>develop</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'\*'\]/key: '*' },</entry>
