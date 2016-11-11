@@ -172,6 +172,12 @@
       <file name="$USER_HOME$/dev/bs-raml-api/src/services/RateLimiter/RateLimiter.js" timestamp="1478253674706">
         <mark key="'" line="128" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Campaigns/Campaigns.ts" timestamp="1478863782227">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/typings/modules/bs-query-mongo/index.d.ts" timestamp="1474043671695">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="8" />
@@ -773,17 +779,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4uJywgY2FtcGFpZ25zKTsK</text>
+      <register name="&quot;" type="4">
+        <text>', body</text>
       </register>
       <register name="-" type="4">
-        <text>done</text>
+        <text>', body</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7IGZpZWxkc0ZpbHRlcmluZzogfSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLi4uJywgYm9keSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4uJywgY2FtcGFpZ25zKTsK</text>
