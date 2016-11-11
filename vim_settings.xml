@@ -579,12 +579,11 @@
         <mark key="." line="51" column="20" />
         <mark key="^" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" timestamp="1478276666188">
-        <mark key="'" line="315" column="0" />
-        <mark key="[" line="47" column="9" />
-        <mark key="]" line="47" column="9" />
-        <mark key="." line="47" column="9" />
-        <mark key="^" line="47" column="16" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" timestamp="1478885595766">
+        <mark key="'" line="314" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.spec.js" timestamp="1478275924021">
         <mark key="[" line="27" column="29" />
@@ -856,8 +855,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>boolean</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB7IGZpZWxkTWFwcGluZzogfSwK</text>
       </register>
       <register name="-" type="4">
         <text>boolean</text>
@@ -869,7 +868,7 @@
         <text encoding="base64">ICBjc3ZfYWx3YXlzX3F1b3RlOiBib29sZWFuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkLCBtYXBwaW5nKTsK</text>
+        <text encoding="base64">ICB7IGZpZWxkTWFwcGluZzogfSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -894,28 +893,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkLCBtYXBwaW5nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb2x1bW5zLm1hcChjb2x1bW4gPT4gewo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb2x1bW5zLm1hcChjb2x1bW4gPT4gewo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgcmV0dXJuIGNvbHVtbnMubWFwKGNvbHVtbiA9PiB7CiAgICBsZXQgbWFwcGluZyA9IG1hcHBpbmdzLmZpbmQobWFwcGluZyA9PiBtYXBwaW5nLmZpZWxkID09PSBjb2x1bW4pOwogICAgY29uc29sZS5sb2coY29sdW1uLCBtYXBwaW5nKTsKICAgIGlmIChtYXBwaW5nKSByZXR1cm4gbWFwcGluZy5tYXA7CiAgICByZXR1cm4gY29sdW1uOwogIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgaWYgKG9wdGlvbnMucmVuYW1lQ29sdW1ucykgewogICAgY29sdW1ucyA9IHV0aWxzLnJlbmFtZUNvbHVtbnMoY29sdW1ucywgb3B0aW9ucy5yZW5hbWVDb2x1bW5zKTsKICB9Cg==</text>
+        <text encoding="base64">CiAgcmV0dXJuIGNvbHVtbnMubWFwKGNvbHVtbiA9PiB7CiAgICBsZXQgbWFwcGluZyA9IG1hcHBpbmdzLmZpbmQobWFwcGluZyA9PiBtYXBwaW5nLmZpZWxkID09PSBjb2x1bW4pOwogICAgY29uc29sZS5sb2coY29sdW1uLCBtYXBwaW5nKTsKICAgIGlmIChtYXBwaW5nKSByZXR1cm4gbWFwcGluZy5tYXA7CiAgICByZXR1cm4gY29sdW1uOwogIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgaWYgKHF1ZXJ5LnJlbmFtZV9jb2x1bW5zKSB7CiAgICBjb2x1bW5zID0gdXRpbHMucmVuYW1lQ29sdW1ucyhjb2x1bW5zLCBxdWVyeS5yZW5hbWVfY29sdW1ucyk7CiAgfQoKICBjb25zb2xlLmxvZyhyb3dzKTsK</text>
+        <text encoding="base64">CiAgaWYgKG9wdGlvbnMucmVuYW1lQ29sdW1ucykgewogICAgY29sdW1ucyA9IHV0aWxzLnJlbmFtZUNvbHVtbnMoY29sdW1ucywgb3B0aW9ucy5yZW5hbWVDb2x1bW5zKTsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4nLCBjb2x1bW5zKTsK</text>
+        <text encoding="base64">CiAgaWYgKHF1ZXJ5LnJlbmFtZV9jb2x1bW5zKSB7CiAgICBjb2x1bW5zID0gdXRpbHMucmVuYW1lQ29sdW1ucyhjb2x1bW5zLCBxdWVyeS5yZW5hbWVfY29sdW1ucyk7CiAgfQoKICBjb25zb2xlLmxvZyhyb3dzKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
