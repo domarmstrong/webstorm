@@ -333,6 +333,13 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.ts" timestamp="1478856441393">
+        <mark key="'" line="58" column="23" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="97" column="10" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.ts" timestamp="1474977917769">
         <mark key="[" line="14" column="69" />
         <mark key="]" line="15" column="1" />
@@ -362,10 +369,6 @@
         <mark key="]" line="3" column="31" />
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/services/DatePresetService.js" timestamp="1478256905554">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="53" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/DocumentationComponent/DocumentationComponent.ts" timestamp="1477663252357">
         <mark key="[" line="31" column="0" />
@@ -621,7 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="8" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="79" column="29" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="77" column="42" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
       <jump line="71" column="19" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" />
@@ -721,6 +723,7 @@
       <jump line="1" column="35" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
       <jump line="160" column="9" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
       <jump line="65" column="35" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="58" column="23" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -771,19 +774,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4uJywgY2FtcGFpZ25zKTsK</text>
       </register>
       <register name="-" type="4">
         <text>done</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFuc2Zvcm1DU1ZIZWFkZXJcPg==</text>
+        <text>find</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB7IGZpZWxkc0ZpbHRlcmluZzogfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4uJywgY2FtcGFpZ25zKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -808,28 +811,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lzx2PiguKj8pPFwvdj4vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmVuZChkb25lKTsK</text>
+        <text encoding="base64">Lzx2PiguKj8pPFwvdj4vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgLmVuZChkb25lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmdldCgnL3hsc3gnKQogICAgICAuZXhwZWN0KDIwMCkKICAgICAgLmV4cGVjdChyZXMgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmdldCgnL3hsc3gnKQogICAgICAuZXhwZWN0KDIwMCkKICAgICAgLmV4cGVjdChyZXMgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBkZWZhdWx0RGF0YTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRhdGEgPSBkZWZhdWx0RGF0YTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSByZXEucXVlcnkubWFwX2ZpZWxkczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -839,9 +842,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFuc2Zvcm1DU1ZIZWFkZXJcPg==</last-search>
+      <last-search>find</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFuc2Zvcm1DU1ZIZWFkZXJcPg==</last-pattern>
+      <last-pattern>find</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -849,7 +852,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'\(\w*\)':</entry>
         <entry>$</entry>
         <entry>{,</entry>
         <entry>, }</entry>
@@ -869,6 +871,7 @@
         <entry encoding="base64">XDxiYXNlNjRTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxiYXNlNjRcPg==</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1DU1ZIZWFkZXJcPg==</entry>
+        <entry>find</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xyL3x8</entry>
