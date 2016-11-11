@@ -246,11 +246,10 @@
         <mark key="^" line="80" column="90" />
         <mark key="." line="80" column="90" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/RAML/traits/json.raml" timestamp="1478273291772">
+      <file name="$USER_HOME$/dev/bs-raml-api/RAML/traits/json.raml" timestamp="1478886649386">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/RAMLService.ts" timestamp="1477664766893">
         <mark key="'" line="35" column="46" />
@@ -334,18 +333,24 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/utils.js" timestamp="1478884616262">
-        <mark key="'" line="33" column="11" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="34" column="31" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/utils.js" timestamp="1478887508718">
+        <mark key="'" line="34" column="11" />
+        <mark key="[" line="63" column="24" />
+        <mark key="]" line="63" column="29" />
+        <mark key="." line="63" column="29" />
+        <mark key="^" line="63" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/router.js" timestamp="1478881141529">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getMany.ts" timestamp="1478887771969">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/router.js" timestamp="1478887041274">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="65" column="39" />
+        <mark key="]" line="65" column="46" />
+        <mark key="." line="65" column="46" />
+        <mark key="^" line="65" column="46" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-menu/components/menu/MenuComponent.ts" timestamp="1477669350311">
         <mark key="'" line="18" column="27" />
@@ -354,9 +359,10 @@
         <mark key="^" line="17" column="90" />
         <mark key="." line="17" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" timestamp="1478882266065">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="38" column="49" />
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" timestamp="1478887457527">
+        <mark key="'" line="27" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="51" />
         <mark key="." line="41" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1474978000286">
@@ -395,6 +401,13 @@
         <mark key="]" line="10" column="11" />
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/validateQuery.js" timestamp="1478887665937">
+        <mark key="'" line="47" column="46" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="25" column="70" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/Dockerfile" timestamp="1473847396565">
         <mark key="[" line="7" column="30" />
@@ -554,11 +567,10 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/RAML/traits/exportable.raml" timestamp="1478884650734">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="23" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="10" column="23" />
+      <file name="$USER_HOME$/dev/bs-raml-api/RAML/traits/exportable.raml" timestamp="1478886703904">
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/teec/production_web2.pm2.json" timestamp="1476976747504">
         <mark key="[" line="3" column="28" />
@@ -634,11 +646,8 @@
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api/RAML/api.raml" timestamp="1478273331101">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="9" />
-        <mark key="." line="102" column="9" />
-        <mark key="^" line="102" column="9" />
+      <file name="$USER_HOME$/dev/bs-raml-api/RAML/api.raml" timestamp="1478886050441">
+        <mark key="[" line="46" column="37" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-cache/src/stores/RedisStore.spec.ts" timestamp="1478867764203">
         <mark key="'" line="20" column="0" />
@@ -697,47 +706,15 @@
         <mark key="." line="11" column="75" />
         <mark key="^" line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" timestamp="1478880747731">
-        <mark key="'" line="165" column="19" />
-        <mark key="[" line="169" column="32" />
-        <mark key="]" line="169" column="32" />
-        <mark key="." line="169" column="32" />
-        <mark key="^" line="169" column="32" />
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" timestamp="1478888853994">
+        <mark key="'" line="128" column="37" />
+        <mark key="[" line="135" column="20" />
+        <mark key="]" line="135" column="23" />
+        <mark key="^" line="135" column="23" />
+        <mark key="." line="135" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="54" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
-      <jump line="14" column="10" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" />
-      <jump line="52" column="4" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/router.js" />
-      <jump line="4" column="9" filename="$USER_HOME$/dev/bs-raml-api/RAML/traits/fields.raml" />
-      <jump line="4" column="13" filename="$USER_HOME$/dev/bs-raml-api/RAML/traits/fieldMapping.raml" />
-      <jump line="9" column="10" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="36" column="46" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="42" column="16" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="56" column="4" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="52" column="16" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="48" column="13" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="21" column="22" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="27" column="12" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="26" column="14" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="3" column="18" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="8" column="15" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="77" column="19" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="81" column="25" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="79" column="10" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="85" column="31" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="95" column="10" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="92" column="19" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="90" column="19" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="89" column="6" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
-      <jump line="105" column="11" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
-      <jump line="119" column="13" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
-      <jump line="136" column="11" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
-      <jump line="150" column="13" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
-      <jump line="169" column="11" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
       <jump line="184" column="13" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
       <jump line="199" column="11" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
       <jump line="211" column="13" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
@@ -806,6 +783,38 @@
       <jump line="30" column="10" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/utils.js" />
       <jump line="28" column="25" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/utils.js" />
       <jump line="29" column="11" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/utils.js" />
+      <jump line="23" column="10" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/validateQuery.js" />
+      <jump line="25" column="8" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/validateQuery.js" />
+      <jump line="51" column="19" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/validateQuery.js" />
+      <jump line="49" column="46" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/validateQuery.js" />
+      <jump line="0" column="9" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
+      <jump line="27" column="20" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="144" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="156" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="171" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="175" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="187" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="202" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="206" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="208" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="121" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="133" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="136" column="13" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="142" column="26" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="148" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="157" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="169" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="184" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="188" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="200" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="215" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="219" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="221" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="134" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="147" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="139" column="9" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="128" column="37" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -855,20 +864,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB7IGZpZWxkTWFwcGluZzogfSwK</text>
+      <register name="&quot;" type="4">
+        <text>headers</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text>headers</text>
       </register>
       <register name="/" type="4">
-        <text>del</text>
+        <text encoding="base64">XDx0cmFuc2Zvcm1Db2x1bW5OYW1lXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjc3ZfYWx3YXlzX3F1b3RlOiBib29sZWFuCg==</text>
+      <register name="0" type="4">
+        <text>_.startCase(title.slice(_.clamp(title.lastIndexOf('.'), 0, Number.MAX_VALUE)))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7IGZpZWxkTWFwcGluZzogfSwK</text>
+        <text encoding="base64">Ci8qKgogKiBUcmFuc2Zvcm0gY3N2IGNvbHVtbiBuYW1lcyB0byB1c2VyLWZyaWVuZGx5IHZhbHVlcwogKiBAcGFyYW0gdGV4dAogKiBAcmV0dXJucyB7c3RyaW5nfQogKi8KZnVuY3Rpb24gdHJhbnNmb3JtQ1NWSGVhZGVyKHRleHQpIHsKICAgIHZhciBjb2x1bW5zID0gdGV4dC5zcGxpdCgnLCcpOwogICAgY29uc29sZS5sb2coJy0tLS10ZXh0JywgY29sdW1ucyk7CiAgICByZXR1cm4gY29sdW1ucy5tYXAoZnVuY3Rpb24gKHQpIHsKICAgICAgICByZXR1cm4gdHJhbnNmb3JtSGVhZGVyVGl0bGUodCk7CiAgICB9KS5qb2luKCcsJyk7Cn0KCi8qKgogKiBUcmFuc2Zvcm0geGxzeCBjb2x1bW4gbmFtZXMgdG8gdXNlci1mcmllbmRseSB2YWx1ZXMKICogQHBhcmFtIHRleHQKICogQHJldHVybnMge3N0cmluZ30KICovCmZ1bmN0aW9uIHRyYW5zZm9ybVhsc3hIZWFkZXIodGV4dCkgewogICAgcmV0dXJuIHRleHQucmVwbGFjZSgvPHY+KC4qPyk8XC92Pi9nLCBmdW5jdGlvbiAobWF0Y2gsIHAxKSB7CiAgICAgICAgcmV0dXJuICI8dj4iICsgdHJhbnNmb3JtSGVhZGVyVGl0bGUocDEpICsgIjwvdj4iOwogICAgfSk7Cn0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -893,28 +902,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkLCBtYXBwaW5nKTsK</text>
+        <text encoding="base64">LyoqCiAqIEdldCBhIGNzdiBmcm9tIHRoZSBkYXRhIGFwaQogKiBUcmFuc2Zvcm0gdGhlIHJldHVybmVkIGhlYWRlcnMgb24gdGhlIHdheSB0aHJvdWdoCiAqCiAqIEBwYXJhbSByZXEKICogQHBhcmFtIHJlcwogKiBAcGFyYW0gbmV4dAogKiBAcGFyYW0gdXJsCiAqIEBwYXJhbSBoZWFkZXJzCiAqLwpzb2NpYWxDb250cm9sbGVyLmdldENzdiA9IGZ1bmN0aW9uIGdldENzdihyZXEsIHJlcywgbmV4dCwgdXJsLCBoZWFkZXJzKSB7CiAgICByZXMuc2V0KHsKICAgICAgICAnQ29udGVudC10eXBlJzogJ3RleHQvY3N2JywKICAgIH0pOwoKICAgIGlmIChyZXEucXVlcnkuZmllbGRzKSB7CiAgICAgICAgcmVxLnF1ZXJ5LnJlbmFtZV9jb2x1bW5zID0gcmVxLnF1ZXJ5LmZpZWxkcwogICAgICAgICAgICAuc3BsaXQoJywnKQogICAgICAgICAgICAubWFwKGZ1bmN0aW9uIChmaWVsZCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZpZWxkICsgJz0nICsgdHJhbnNmb3JtQ1NWSGVhZGVyKGZpZWxkKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmpvaW4oJywnKTsKICAgIH0KCiAgICByZXR1cm4gcmVxdWVzdCh7CiAgICAgICAgbWV0aG9kOiAnR0VUJywKICAgICAgICB1cmw6IHVybCwKICAgICAgICBxczogcmVxLnF1ZXJ5LAogICAgICAgIGhlYWRlcnM6IGhlYWRlcnMsCiAgICB9KQogICAgICAgIC5vbignZXJyb3InLCBmdW5jdGlvbihlcnIpIHsKICAgICAgICAgICAgcmV0dXJuIG5leHQoY3JlYXRlRXJyb3IoZXJyKSk7CiAgICAgICAgfSkKICAgICAgICAucGlwZShyZXMpOwp9OwoKLyoqCiAqIEdldCBhbiB4bHN4IGZyb20gdGhlIGRhdGEgYXBpCiAqIFRyYW5zZm9ybSB0aGUgcmV0dXJuZWQgaGVhZGVycyBvbiB0aGUgd2F5IHRocm91Z2gKICoKICogQHBhcmFtIHJlcQogKiBAcGFyYW0gcmVzCiAqIEBwYXJhbSBuZXh0CiAqIEBwYXJhbSB1cmwKICogQHBhcmFtIGhlYWRlcnMKICovCnNvY2lhbENvbnRyb2xsZXIuZ2V0WGxzeCA9IGZ1bmN0aW9uIGdldFhsc3gocmVxLCByZXMsIG5leHQsIHVybCwgaGVhZGVycykgewogICAgdmFyIGhlYWRlckZvdW5kID0gZmFsc2U7CiAgICB2YXIgY29sbGVjdGluZ0hlYWRlcnMgPSBmYWxzZTsKICAgIHZhciBoZWFkZXIgPSAnJzsKCiAgICByZXMuc2V0KHsKICAgICAgICAnQ29udGVudC10eXBlJzogJ2FwcGxpY2F0aW9uL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC5zcHJlYWRzaGVldG1sLnNoZWV0JywKICAgIH0pOwoKICAgIHJldHVybiByZXF1ZXN0KHsKICAgICAgICBtZXRob2Q6ICdHRVQnLAogICAgICAgIHVybDogdXJsLAogICAgICAgIHFzOiByZXEucXVlcnksCiAgICAgICAgaGVhZGVyczogaGVhZGVycywKICAgIH0pCiAgICAgICAgLm9uKCdlcnJvcicsIGZ1bmN0aW9uKGVycikgewogICAgICAgICAgICByZXR1cm4gbmV4dChjcmVhdGVFcnJvcihlcnIpKTsKICAgICAgICB9KQogICAgICAgIC5waXBlKHJlcyk7Cn07CgovKioKICogR2V0IGEganNvbiByZXNwb25zZSBmcm9tIHRoZSBkYXRhIGFwaQogKgogKiBAcGFyYW0gcmVxCiAqIEBwYXJhbSByZXMKICogQHBhcmFtIG5leHQKICogQHBhcmFtIHVybAogKiBAcGFyYW0gaGVhZGVycwogKiBAcGFyYW0gZG93bmxvYWQge2Jvb2xlYW59CiAqLwpzb2NpYWxDb250cm9sbGVyLmdldEpzb24gPSBmdW5jdGlvbiBnZXRKc29uKHJlcSwgcmVzLCBuZXh0LCB1cmwsIGhlYWRlcnMsIGRvd25sb2FkKSB7CiAgICB2YXIgcmVzSGVhZGVycyA9IHsKICAgICAgICAnQ29udGVudC10eXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgfTsKCiAgICBpZiAoZG93bmxvYWQpIHsKICAgICAgICByZXNIZWFkZXJzWydDb250ZW50LWRpc3Bvc2l0aW9uJ10gPSAnYXR0YWNobWVudDsgZmlsZW5hbWU9ZGF0YS5qc29uJzsKICAgIH0KCiAgICByZXMuc2V0KHJlc0hlYWRlcnMpOwoKICAgIHJldHVybiByZXF1ZXN0KHsKICAgICAgICBtZXRob2Q6ICdHRVQnLAogICAgICAgIHVybDogdXJsLAogICAgICAgIHFzOiByZXEucXVlcnksCiAgICAgICAgaGVhZGVyczogaGVhZGVycwogICAgfSwgZnVuY3Rpb24oZXJyLCByZXNwb25zZSwgYm9keSkgewogICAgICAgIGlmIChlcnIpIHJldHVybiBuZXh0KGNyZWF0ZUVycm9yKGVycikpOwogICAgICAgIGlmIChyZXNwb25zZS5zdGF0dXNDb2RlID49IDQwMCkgcmV0dXJuIG5leHQoY3JlYXRlRXJyb3IocmVzcG9uc2Uuc3RhdHVzQ29kZSwgSlNPTi5wYXJzZShib2R5KS5lcnJvcikpOwogICAgICAgIHJlcy5zZW5kKGJvZHkpOwogICAgfSkKICAgICAgICAub24oJ2Vycm9yJywgZnVuY3Rpb24oZXJyKSB7CiAgICAgICAgICAgIHJldHVybiBuZXh0KGNyZWF0ZUVycm9yKDQwMywgZXJyKSk7CiAgICAgICAgfSk7Cn07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb2x1bW5zLm1hcChjb2x1bW4gPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxLnF1ZXJ5ID0gYWRkQ29sdW1uUmVuYW1lKHJlcS5xdWVyeSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxLnF1ZXJ5ID0gYWRkQ29sdW1uUmVuYW1lKHJlcS5xdWVyeSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIFRyYW5zZm9ybSBjc3YgY29sdW1uIG5hbWVzIHRvIHVzZXItZnJpZW5kbHkgdmFsdWVzCiAqIEBwYXJhbSB0ZXh0CiAqIEByZXR1cm5zIHtzdHJpbmd9CiAqLwpmdW5jdGlvbiB0cmFuc2Zvcm1DU1ZIZWFkZXIodGV4dCkgewogICAgdmFyIGNvbHVtbnMgPSB0ZXh0LnNwbGl0KCcsJyk7CiAgICBjb25zb2xlLmxvZygnLS0tLXRleHQnLCBjb2x1bW5zKTsKICAgIHJldHVybiBjb2x1bW5zLm1hcChmdW5jdGlvbiAodCkgewogICAgICAgIHJldHVybiB0cmFuc2Zvcm1IZWFkZXJUaXRsZSh0KTsKICAgIH0pLmpvaW4oJywnKTsKfQoKLyoqCiAqIFRyYW5zZm9ybSB4bHN4IGNvbHVtbiBuYW1lcyB0byB1c2VyLWZyaWVuZGx5IHZhbHVlcwogKiBAcGFyYW0gdGV4dAogKiBAcmV0dXJucyB7c3RyaW5nfQogKi8KZnVuY3Rpb24gdHJhbnNmb3JtWGxzeEhlYWRlcih0ZXh0KSB7CiAgICByZXR1cm4gdGV4dC5yZXBsYWNlKC88dj4oLio/KTxcL3Y+L2csIGZ1bmN0aW9uIChtYXRjaCwgcDEpIHsKICAgICAgICByZXR1cm4gIjx2PiIgKyB0cmFuc2Zvcm1IZWFkZXJUaXRsZShwMSkgKyAiPC92PiI7CiAgICB9KTsKfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgcmV0dXJuIGNvbHVtbnMubWFwKGNvbHVtbiA9PiB7CiAgICBsZXQgbWFwcGluZyA9IG1hcHBpbmdzLmZpbmQobWFwcGluZyA9PiBtYXBwaW5nLmZpZWxkID09PSBjb2x1bW4pOwogICAgY29uc29sZS5sb2coY29sdW1uLCBtYXBwaW5nKTsKICAgIGlmIChtYXBwaW5nKSByZXR1cm4gbWFwcGluZy5tYXA7CiAgICByZXR1cm4gY29sdW1uOwogIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgaWYgKG9wdGlvbnMucmVuYW1lQ29sdW1ucykgewogICAgY29sdW1ucyA9IHV0aWxzLnJlbmFtZUNvbHVtbnMoY29sdW1ucywgb3B0aW9ucy5yZW5hbWVDb2x1bW5zKTsKICB9Cg==</text>
+        <text encoding="base64">LyoqCiAqIEdldCBhIGNzdiBmcm9tIHRoZSBkYXRhIGFwaQogKiBUcmFuc2Zvcm0gdGhlIHJldHVybmVkIGhlYWRlcnMgb24gdGhlIHdheSB0aHJvdWdoCiAqCiAqIEBwYXJhbSByZXEKICogQHBhcmFtIHJlcwogKiBAcGFyYW0gbmV4dAogKiBAcGFyYW0gdXJsCiAqIEBwYXJhbSBoZWFkZXJzCiAqLwpzb2NpYWxDb250cm9sbGVyLmdldENzdiA9IGZ1bmN0aW9uIGdldENzdihyZXEsIHJlcywgbmV4dCwgdXJsLCBoZWFkZXJzKSB7CiAgICByZXMuc2V0KHsKICAgICAgICAnQ29udGVudC10eXBlJzogJ3RleHQvY3N2JywKICAgIH0pOwoKICAgIGlmIChyZXEucXVlcnkuZmllbGRzKSB7CiAgICAgICAgcmVxLnF1ZXJ5LnJlbmFtZV9jb2x1bW5zID0gcmVxLnF1ZXJ5LmZpZWxkcwogICAgICAgICAgICAuc3BsaXQoJywnKQogICAgICAgICAgICAubWFwKGZ1bmN0aW9uIChmaWVsZCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZpZWxkICsgJz0nICsgdHJhbnNmb3JtQ1NWSGVhZGVyKGZpZWxkKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmpvaW4oJywnKTsKICAgIH0KCiAgICByZXR1cm4gcmVxdWVzdCh7CiAgICAgICAgbWV0aG9kOiAnR0VUJywKICAgICAgICB1cmw6IHVybCwKICAgICAgICBxczogcmVxLnF1ZXJ5LAogICAgICAgIGhlYWRlcnM6IGhlYWRlcnMsCiAgICB9KQogICAgICAgIC5vbignZXJyb3InLCBmdW5jdGlvbihlcnIpIHsKICAgICAgICAgICAgcmV0dXJuIG5leHQoY3JlYXRlRXJyb3IoZXJyKSk7CiAgICAgICAgfSkKICAgICAgICAucGlwZShyZXMpOwp9OwoKLyoqCiAqIEdldCBhbiB4bHN4IGZyb20gdGhlIGRhdGEgYXBpCiAqIFRyYW5zZm9ybSB0aGUgcmV0dXJuZWQgaGVhZGVycyBvbiB0aGUgd2F5IHRocm91Z2gKICoKICogQHBhcmFtIHJlcQogKiBAcGFyYW0gcmVzCiAqIEBwYXJhbSBuZXh0CiAqIEBwYXJhbSB1cmwKICogQHBhcmFtIGhlYWRlcnMKICovCnNvY2lhbENvbnRyb2xsZXIuZ2V0WGxzeCA9IGZ1bmN0aW9uIGdldFhsc3gocmVxLCByZXMsIG5leHQsIHVybCwgaGVhZGVycykgewogICAgdmFyIGhlYWRlckZvdW5kID0gZmFsc2U7CiAgICB2YXIgY29sbGVjdGluZ0hlYWRlcnMgPSBmYWxzZTsKICAgIHZhciBoZWFkZXIgPSAnJzsKCiAgICByZXMuc2V0KHsKICAgICAgICAnQ29udGVudC10eXBlJzogJ2FwcGxpY2F0aW9uL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC5zcHJlYWRzaGVldG1sLnNoZWV0JywKICAgIH0pOwoKICAgIHJldHVybiByZXF1ZXN0KHsKICAgICAgICBtZXRob2Q6ICdHRVQnLAogICAgICAgIHVybDogdXJsLAogICAgICAgIHFzOiByZXEucXVlcnksCiAgICAgICAgaGVhZGVyczogaGVhZGVycywKICAgIH0pCiAgICAgICAgLm9uKCdlcnJvcicsIGZ1bmN0aW9uKGVycikgewogICAgICAgICAgICByZXR1cm4gbmV4dChjcmVhdGVFcnJvcihlcnIpKTsKICAgICAgICB9KQogICAgICAgIC5waXBlKHJlcyk7Cn07CgovKioKICogR2V0IGEganNvbiByZXNwb25zZSBmcm9tIHRoZSBkYXRhIGFwaQogKgogKiBAcGFyYW0gcmVxCiAqIEBwYXJhbSByZXMKICogQHBhcmFtIG5leHQKICogQHBhcmFtIHVybAogKiBAcGFyYW0gaGVhZGVycwogKiBAcGFyYW0gZG93bmxvYWQge2Jvb2xlYW59CiAqLwpzb2NpYWxDb250cm9sbGVyLmdldEpzb24gPSBmdW5jdGlvbiBnZXRKc29uKHJlcSwgcmVzLCBuZXh0LCB1cmwsIGhlYWRlcnMsIGRvd25sb2FkKSB7CiAgICB2YXIgcmVzSGVhZGVycyA9IHsKICAgICAgICAnQ29udGVudC10eXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgfTsKCiAgICBpZiAoZG93bmxvYWQpIHsKICAgICAgICByZXNIZWFkZXJzWydDb250ZW50LWRpc3Bvc2l0aW9uJ10gPSAnYXR0YWNobWVudDsgZmlsZW5hbWU9ZGF0YS5qc29uJzsKICAgIH0KCiAgICByZXMuc2V0KHJlc0hlYWRlcnMpOwoKICAgIHJldHVybiByZXF1ZXN0KHsKICAgICAgICBtZXRob2Q6ICdHRVQnLAogICAgICAgIHVybDogdXJsLAogICAgICAgIHFzOiByZXEucXVlcnksCiAgICAgICAgaGVhZGVyczogaGVhZGVycwogICAgfSwgZnVuY3Rpb24oZXJyLCByZXNwb25zZSwgYm9keSkgewogICAgICAgIGlmIChlcnIpIHJldHVybiBuZXh0KGNyZWF0ZUVycm9yKGVycikpOwogICAgICAgIGlmIChyZXNwb25zZS5zdGF0dXNDb2RlID49IDQwMCkgcmV0dXJuIG5leHQoY3JlYXRlRXJyb3IocmVzcG9uc2Uuc3RhdHVzQ29kZSwgSlNPTi5wYXJzZShib2R5KS5lcnJvcikpOwogICAgICAgIHJlcy5zZW5kKGJvZHkpOwogICAgfSkKICAgICAgICAub24oJ2Vycm9yJywgZnVuY3Rpb24oZXJyKSB7CiAgICAgICAgICAgIHJldHVybiBuZXh0KGNyZWF0ZUVycm9yKDQwMywgZXJyKSk7CiAgICAgICAgfSk7Cn07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgaWYgKHF1ZXJ5LnJlbmFtZV9jb2x1bW5zKSB7CiAgICBjb2x1bW5zID0gdXRpbHMucmVuYW1lQ29sdW1ucyhjb2x1bW5zLCBxdWVyeS5yZW5hbWVfY29sdW1ucyk7CiAgfQoKICBjb25zb2xlLmxvZyhyb3dzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzSGVhZGVyc1snQ29udGVudC10eXBlJ10gPSAnYXBwbGljYXRpb24vanNvbic7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -924,9 +933,9 @@
       </register>
     </registers>
     <search>
-      <last-search>del</last-search>
+      <last-search encoding="base64">XDx0cmFuc2Zvcm1Db2x1bW5OYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>del</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFuc2Zvcm1Db2x1bW5OYW1lXD4=</last-pattern>
       <last-replace>key = 'a'</last-replace>
       <last-substitute>key = '\w'</last-substitute>
       <last-dir>1</last-dir>
@@ -934,10 +943,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYXNlNjRTdHJpbmdcPg==</entry>
-        <entry encoding="base64">XDxiYXNlNjRcPg==</entry>
-        <entry encoding="base64">XDx0cmFuc2Zvcm1DU1ZIZWFkZXJcPg==</entry>
-        <entry>find</entry>
         <entry encoding="base64">XDxtZXJnZVw+</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry>key = '\w'</entry>
@@ -954,6 +959,10 @@
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry>del</entry>
+        <entry encoding="base64">XDx2YWxpZGF0aW9uc1w+</entry>
+        <entry encoding="base64">XDxleHRlbnNpb25zXD4=</entry>
+        <entry encoding="base64">XDxRdWVyeVBhcmFtZXRlckVycm9yXD4=</entry>
+        <entry encoding="base64">XDx0cmFuc2Zvcm1Db2x1bW5OYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
