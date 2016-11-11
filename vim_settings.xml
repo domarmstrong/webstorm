@@ -220,6 +220,12 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/nest/stage.ts" timestamp="1478871128319">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/TypesComponent/TypesComponent.ts" timestamp="1477671308222">
         <mark key="'" line="8" column="32" />
         <mark key="[" line="8" column="23" />
@@ -264,6 +270,12 @@
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/nest/production.ts" timestamp="1478871135607">
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldsFiltering.js" timestamp="1478266651454">
         <mark key="[" line="93" column="0" />
@@ -310,10 +322,11 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/nest/development.ts" timestamp="1476955634246">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/nest/development.ts" timestamp="1478871111702">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="18" column="12" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/router.js" timestamp="1478272756953">
         <mark key="'" line="53" column="4" />
@@ -812,17 +825,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLi4ucnVuJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>resources</text>
       </register>
       <register name="-" type="4">
-        <text>inlineSourceMap</text>
+        <text>resources</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiaW5saW5lU291cmNlTWFwIjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgcmVzb3VyY2VzOiB7CiAgICAgICAgdXJsOiBgbW9uZ29kYjovL21vbmdvMjEuYnMubGFuLyR7cGtnLm5hbWV9YCwKICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLi4ucnVuJyk7Cg==</text>
