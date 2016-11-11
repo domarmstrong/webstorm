@@ -233,13 +233,6 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-socialnaut/client/src/app/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478263029051">
-        <mark key="'" line="223" column="19" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="^" line="239" column="133" />
-        <mark key="." line="255" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/app/index.ts" timestamp="1477664174909">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -258,12 +251,6 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/RAMLService.ts" timestamp="1477664766893">
-        <mark key="'" line="35" column="46" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/resource-macros.nunjucks" timestamp="1474991264768">
         <mark key="[" line="0" column="9" />
@@ -511,12 +498,6 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-menu/AppMenuComponent.ts" timestamp="1477669589819">
-        <mark key="'" line="34" column="26" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" timestamp="1474999711434">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="25" />
@@ -605,6 +586,12 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/config/defaults/data.js" timestamp="1478875606665">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="51" />
+        <mark key="^" line="5" column="51" />
+        <mark key="." line="5" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-api/RAML/api.raml" timestamp="1478273331101">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="9" />
@@ -644,12 +631,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-socialnaut/karma.conf.js" timestamp="1478258523676">
-        <mark key="'" line="32" column="19" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/server/controllers/resources/clients.spec.js" timestamp="1476977275662">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -668,11 +649,11 @@
         <mark key="." line="11" column="75" />
         <mark key="^" line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" timestamp="1478281184133">
-        <mark key="'" line="65" column="35" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" timestamp="1478875131118">
+        <mark key="[" line="217" column="6" />
+        <mark key="]" line="217" column="6" />
+        <mark key="^" line="217" column="6" />
+        <mark key="." line="217" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -826,7 +807,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>resources</text>
+        <text encoding="base64">dGV4dC5yZXBsYWNlKC88dj4oW148XSopPFwvdj4vLCBmdW5jdGlvbiAobWF0Y2gsIHAxKSB7CiAgICAgICAgcmV0dXJuICI8dj4iICsgdHJhbnNmb3JtSGVhZGVyVGl0bGUocDEpICsgIjwvdj4iOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
         <text>resources</text>
@@ -834,8 +815,8 @@
       <register name="/" type="4">
         <text>null</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VzOiB7CiAgICAgICAgdXJsOiBgbW9uZ29kYjovL21vbmdvMjEuYnMubGFuLyR7cGtnLm5hbWV9YCwKICAgICAgfSwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">dGV4dC5yZXBsYWNlKC88dj4oW148XSopPFwvdj4vLCBmdW5jdGlvbiAobWF0Y2gsIHAxKSB7CiAgICAgICAgcmV0dXJuICI8dj4iICsgdHJhbnNmb3JtSGVhZGVyVGl0bGUocDEpICsgIjwvdj4iOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcuLi4ucnVuJyk7Cg==</text>
