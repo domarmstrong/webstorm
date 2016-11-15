@@ -141,11 +141,11 @@
         <mark key="]" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/agile-search-v2/public/js/config.js" timestamp="1479205284647">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="38" />
-        <mark key="^" line="1" column="38" />
+      <file name="$USER_HOME$/dev/agile-search-v2/public/js/config.js" timestamp="1479217389618">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+        <mark key="^" line="6" column="52" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/utils.js" timestamp="1478887508718">
         <mark key="'" line="34" column="11" />
@@ -535,11 +535,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyRzY29wZS50b29sdGlwID0KICAgICAgICAvLyAkc2NlLnRydXN0QXNIdG1sKCc8aDQ+WW91IGNhbiB0eXBlIHRoZXNlIHNlYXJjaCBvcGVyYXRvcnMgZGlyZWN0bHkgaW50byB0aGUnICsKICAgICAgICAvLyAgICAgICAgICAgICAnc2VhcmNoIGJveC48LyBoND4nICsKICAgICAgICAvLyAgICAgICAgICAgICAnPHA+T3BlcmF0b3IgRGVzY3JpcHRpb248Lz4nICsKICAgICAgICAvLyAgICAgICAgICAgICAnPHByZT4nICsKICAgICAgICAvLyAgICAgICAgICAgICAnZGF0YSBhbmFseXRpY3MgY29udGFpbmluZyBib3RoICJkYXRhIiBhbmQgImFuYWx5dGljcyInICsKICAgICAgICAvLyAgICAgICAgICAgICAnImRhdGEgYW5hbHl0aWNzIiBjb250YWluaW5nIHRoZSBleGFjdCBwaHJhc2UgImRhdGEgYW5hbHl0aWNzIicgKwogICAgICAgIC8vICAgICAgICAgICAgICdkYXRhIE9SIGFuYWx5dGljcyBjb250YWluaW5nIGVpdGhlciAiZGF0YSIgb3IgImFuYWx5dGljcyIgKG9yIGJvdGgpJyArCiAgICAgICAgLy8gICAgICAgICAgICAgJ2FuYWx5dGljcyAtc29jaWFsIGNvbnRhaW5pbmcgImFuYWx5dGljcyIgYnV0IG5vdCAic29jaWFsIicgKwogICAgICAgIC8vICAgICAgICAgICAgICcjYmxhY2tzd2FuIGNvbnRhaW5pbmcgdGhlIGhhc2h0YWcgImJsYWNrc3dhbiInICsKICAgICAgICAvLyAgICAgICAgICAgICAnZnJvbTpibGFja3N3YW5kYXRhIHNlbnQgZnJvbSBwZXJzb24gImJsYWNrc3dhbmRhdGEiJyArCiAgICAgICAgLy8gICAgICAgICAgICAgJ0BibGFja3N3YW5kYXRhIHJlZmVyZW5jaW5nIHRoZSBhY2NvdW50ICJibGFja3N3YW5kYXRhIicgKwogICAgICAgIC8vICAgICAgICAgICAgICdzaXRlOmJsYWNrc3dhbi5jb20gY29udGFpbmluZyBsaW5rcyB3aXRoaW4gYmxhY2tzd2FuLmNvbScgKwogICAgICAgIC8vICAgICAgICAgICAgICc8L3ByZT4nKTsKCg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5ISVNUT1JJQywg</text>
+        <text>false</text>
       </register>
       <register name="n" type="4">
         <keys>
