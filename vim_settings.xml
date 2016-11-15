@@ -208,6 +208,12 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/agile-search-v2/bin/config.js" timestamp="1479206804846">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-brain/src/config/environments/teec/production_web1.pm2.json" timestamp="1476975904907">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="32" />
@@ -433,6 +439,9 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" timestamp="1479207092680">
+        <mark key="'" line="46" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" timestamp="1478868243849">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -566,6 +575,13 @@
         <mark key="]" line="15" column="36" />
         <mark key="." line="15" column="36" />
         <mark key="^" line="15" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" timestamp="1479207729823">
+        <mark key="'" line="348" column="12" />
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="17" />
+        <mark key="." line="53" column="17" />
+        <mark key="^" line="53" column="121" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-raml-doc/src/components-composite/hello-world/HelloWorldComponent.ts" timestamp="1474985553919">
         <mark key="[" line="13" column="17" />
@@ -719,34 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="11" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
-      <jump line="255" column="13" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
-      <jump line="271" column="11" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
-      <jump line="282" column="13" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
-      <jump line="314" column="0" filename="$USER_HOME$/dev/app-nest-api-data/RAML/api.raml" />
-      <jump line="4" column="11" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
-      <jump line="1" column="35" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
-      <jump line="160" column="9" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="65" column="35" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="58" column="23" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.ts" />
-      <jump line="186" column="26" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="228" column="50" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="3" column="12" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="83" column="31" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/InvalidationService.ts" />
-      <jump line="16" column="10" filename="$USER_HOME$/dev/bs-api-cache/src/CacheManager.spec.ts" />
-      <jump line="17" column="29" filename="$USER_HOME$/dev/bs-api-cache/src/CacheManager.spec.ts" />
-      <jump line="18" column="36" filename="$USER_HOME$/dev/bs-api-cache/src/CacheManager.spec.ts" />
-      <jump line="19" column="42" filename="$USER_HOME$/dev/bs-api-cache/src/CacheManager.spec.ts" />
-      <jump line="24" column="19" filename="$USER_HOME$/dev/bs-api-cache/src/CacheManager.spec.ts" />
-      <jump line="24" column="4" filename="$USER_HOME$/dev/bs-api-cache/src/stores/RedisStore.spec.ts" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/stores/RedisStore.spec.ts" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/stores/RedisStore.spec.ts" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/stores/RedisStore.spec.ts" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/bs-api-cache/src/stores/RedisStore.spec.ts" />
-      <jump line="46" column="8" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="78" column="12" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
       <jump line="130" column="17" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
       <jump line="158" column="17" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
       <jump line="193" column="8" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
@@ -819,6 +807,34 @@
       <jump line="32" column="20" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
       <jump line="79" column="8" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
       <jump line="62" column="30" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
+      <jump line="65" column="13" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="515" column="70" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="45" column="15" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
+      <jump line="46" column="15" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
+      <jump line="59" column="22" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="168" column="31" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="169" column="41" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="298" column="47" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="476" column="59" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="661" column="75" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="149" column="17" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="51" column="13" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="124" column="38" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="349" column="12" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="70" column="13" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="282" column="12" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
+      <jump line="348" column="12" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -868,20 +884,22 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CS5jb25zdGFudCgnRlVMTF9BUkNISVZFX1NFQVJDSCcsIHRydWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>this.</text>
       </register>
       <register name="-" type="4">
-        <text>'http://localhost:8080'</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbmFseXRpY3NQYXRoXD4=</text>
+        <text encoding="base64">XDxzZXRPcHRpb25zXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CS5jb25zdGFudCgnRlVMTF9BUkNISVZFX1NFQVJDSCcsIHRydWUpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">KG9wdGlvbnMucGFyZW50RWwgJiYgJChvcHRpb25zLnBhcmVudEVsKS5sZW5ndGgp</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -906,28 +924,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShib2R5LCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYigpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICByZXMuc2V0KHJlc0hlYWRlcnMpOwogICAgICAgICAgICByZXR1cm4gcmVxdWVzdChyZXFPcHRpb25zLCBmdW5jdGlvbihlcnIsIHJlc3BvbnNlLCBib2R5KSB7CiAgICAgICAgICAgICAgICBpZiAoZXJyKSByZXR1cm4gbmV4dChjcmVhdGVFcnJvcihlcnIpKTsKICAgICAgICAgICAgICAgIGlmIChyZXNwb25zZS5zdGF0dXNDb2RlID49IDQwMCkgcmV0dXJuIG5leHQoY3JlYXRlRXJyb3IocmVzcG9uc2Uuc3RhdHVzQ29kZSwgSlNPTi5wYXJzZShib2R5KS5lcnJvcikpOwogICAgICAgICAgICAgICAgcmVzLnNlbmQoYm9keSk7CiAgICAgICAgICAgIH0p</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldE9wdGlvbnMob3B0aW9ucywgY2IpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLnNldChyZXNIZWFkZXJzKTsKICAgICAgICAgICAgcmV0dXJuIHJlcXVlc3QocmVxT3B0aW9ucykucGlwZShyZXMpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLnNldChyZXNIZWFkZXJzKTsKICAgICAgICAgICAgcmV0dXJuIHJlcXVlc3QocmVxT3B0aW9ucykucGlwZShyZXMpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjYigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgogICAgcmV0dXJuIHJlcXVlc3QocmVxT3B0aW9ucykucGlwZShyZXMpOwogICAgLyosIGZ1bmN0aW9uKGVyciwgcmVzcG9uc2UsIGJvZHkpIHsKICAgICAgICBpZiAoZXJyKSByZXR1cm4gbmV4dChjcmVhdGVFcnJvcihlcnIpKTsKICAgICAgICBpZiAocmVzcG9uc2Uuc3RhdHVzQ29kZSA+PSA0MDApIHJldHVybiBuZXh0KGNyZWF0ZUVycm9yKHJlc3BvbnNlLnN0YXR1c0NvZGUsIEpTT04ucGFyc2UoYm9keSkuZXJyb3IpKTsKICAgICAgICByZXMuc2VuZChib2R5KTsKICAgIH0pICAqLwogICAgICAgIC5vbignZXJyb3InLCBmdW5jdGlvbihlcnIpIHsKICAgICAgICAgICAgcmV0dXJuIG5leHQoY3JlYXRlRXJyb3IoZXJyKSk7CiAgICAgICAgfSkKICAgICAgICAub24oJ2VuZCcsIGZ1bmN0aW9uKGVycikgewogICAgICAgICAgICBjb25zb2xlLmxvZygnLi4uZW5kJywgYXJndW1lbnRzKTsKICAgICAgICB9KQogICAgICAgIC5vbignZmluaXNoJywgZnVuY3Rpb24oZXJyKSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCcuLi5maW4nLCBhcmd1bWVudHMpOwogICAgICAgIH0pCiAgICAgICAgLnBpcGUocmVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnRhaW5lciA9ICQoRFJQVGVtcGxhdGUpLmFwcGVuZFRvKHRoaXMucGFyZW50RWwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJy4uLi4nLCBlcnIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2N1c3RvbSBvcHRpb25zCiAgICAgICAgaWYgKHR5cGVvZiBvcHRpb25zICE9PSAnb2JqZWN0JyB8fCBvcHRpb25zID09PSBudWxsKQogICAgICAgICAgICBvcHRpb25zID0ge307CgogICAgICAgIHZhciBwYXJlbnRFbCA9IG9wdGlvbnMucGFyZW50RWwgPyAkKG9wdGlvbnMucGFyZW50RWwpIDogbnVsbDsKICAgICAgICB0aGlzLnBhcmVudEVsID0gKHBhcmVudEVsICYmIHBhcmVudEVsLmxlbmd0aCkgPyBwYXJlbnRFbCA6ICQoJ2JvZHknKTsKICAgICAgICB0aGlzLmNvbnRhaW5lciA9ICQoRFJQVGVtcGxhdGUpLmFwcGVuZFRvKHRoaXMucGFyZW50RWwpOwoKICAgICAgICB0aGlzLnNldE9wdGlvbnMob3B0aW9ucywgY2IpOwoK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -937,9 +955,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbmFseXRpY3NQYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxzZXRPcHRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbmFseXRpY3NQYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRPcHRpb25zXD4=</last-pattern>
       <last-replace>key = 'a'</last-replace>
       <last-substitute>key = '\w'</last-substitute>
       <last-dir>1</last-dir>
@@ -947,11 +965,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrZXlcPg==</entry>
-        <entry>key = '\w'</entry>
-        <entry>null</entry>
-        <entry encoding="base64">XDxuZXh0XD4=</entry>
-        <entry encoding="base64">XDxmaWVsZE1hcHBpbmdcPg==</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxjb3VudFw+</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
@@ -967,6 +980,11 @@
         <entry encoding="base64">XDx0cmFuc2Zvcm1Db2x1bW5OYW1lXD4=</entry>
         <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NQYXRoXD4=</entry>
+        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
+        <entry>separator</entry>
+        <entry encoding="base64">XDxwYXJlbnRFbFw+</entry>
+        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
+        <entry encoding="base64">XDxzZXRPcHRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
