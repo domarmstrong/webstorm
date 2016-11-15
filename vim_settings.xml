@@ -226,8 +226,12 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/bs-gnip/index.js" timestamp="1479210002456">
-        <mark key="'" line="6" column="8" />
+      <file name="$USER_HOME$/dev/bs-gnip/index.js" timestamp="1479211923098">
+        <mark key="'" line="12" column="29" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="^" line="169" column="100" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/nest/stage.ts" timestamp="1478871128319">
         <mark key="[" line="21" column="6" />
@@ -742,12 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="18" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/router.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/router.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.spec.js" />
-      <jump line="94" column="23" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.spec.js" />
-      <jump line="87" column="45" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
-      <jump line="90" column="44" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
       <jump line="93" column="40" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.spec.js" />
       <jump line="6" column="13" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" />
       <jump line="93" column="4" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" />
@@ -842,6 +840,12 @@
       <jump line="709" column="19" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
       <jump line="27" column="44" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="6" column="8" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="8" column="21" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="20" column="102" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="50" column="102" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="10" column="46" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="11" column="29" filename="$USER_HOME$/dev/bs-gnip/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -891,20 +895,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB1dWlkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXNzd29yZFw+</text>
+        <text encoding="base64">XDxnbmlwXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KG9wdGlvbnMucGFyZW50RWwgJiYgJChvcHRpb25zLnBhcmVudEVsKS5sZW5ndGgp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIChwYXJhbXMudXVpZCkgcGFyYW1zLnVybCA9IHVybC5yZXNvbHZlKHRoaXMub3B0aW9ucy5wYXRocy5ISVNUT1JJQywgdXRpbC5mb3JtYXQoJyVzL3B1Ymxpc2hlcnMvdHdpdHRlci9qb2JzLyVzL3Jlc3VsdHMuanNvbicsIHRoaXMub3B0aW9ucy5hY2NvdW50LCBwYXJhbXMudXVpZCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbWluRGF0ZSA9IG1vbWVudCgpLnV0YygpLnN0YXJ0T2YoJ3NlY29uZCcpLnN1YnRyYWN0KCdkYXlzJywgMzApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB1dWlkCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -928,31 +932,31 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbXMudXJsID0gdXJsLnJlc29sdmUodGhpcy5vcHRpb25zLnBhdGhzLkhJU1RPUklDLCB0aGlzLm9wdGlvbnMuYWNjb3VudCArICcvcHVibGlzaGVycy90d2l0dGVyL2pvYnMvJyArIHBhcmFtcy51dWlkICsgJy5qc29uJyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIChwYXJhbXMudXVpZCkgcGFyYW1zLnVybCA9IHVybC5yZXNvbHZlKHRoaXMub3B0aW9ucy5wYXRocy5ISVNUT1JJQywgdGhpcy5vcHRpb25zLmFjY291bnQgKyAnL3B1Ymxpc2hlcnMvdHdpdHRlci9qb2JzLycgKyBwYXJhbXMudXVpZCArICcvcmVzdWx0cy5qc29uJyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIChwYXJhbXMudXVpZCkgcGFyYW1zLnVybCA9IHVybC5yZXNvbHZlKHRoaXMub3B0aW9ucy5wYXRocy5ISVNUT1JJQywgdGhpcy5vcHRpb25zLmFjY291bnQgKyAnL3B1Ymxpc2hlcnMvdHdpdHRlci9qb2JzLycgKyBwYXJhbXMudXVpZCArICcuanNvbicpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB1cmw6IHVybC5yZXNvbHZlKHRoaXMub3B0aW9ucy5wYXRocy5ISVNUT1JJQywgJy9wb3dlcnRyYWNrL2FjY291bnRzLycgKyB0aGlzLm9wdGlvbnMuYWNjb3VudCArICcvcHVibGlzaGVycy90d2l0dGVyL2pvYnMuanNvbicpLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhciBhcGlVcmwgPSB1cmwucmVzb2x2ZSh0aGlzLm9wdGlvbnMucGF0aHMuRkFTLCB0aGlzLm9wdGlvbnMuYWNjb3VudCArICcvRkFTL2NvdW50cy5qc29uJyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgbWluRGF0ZSA9IG1vbWVudCgpLnV0YygpLnN0YXJ0T2YoJ3NlY29uZCcpLnN1YnRyYWN0KCdkYXlzJywgMzApOwo=</text>
+      </register>
+      <register name="8" type="8">
         <text>//
 //
 //</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYigpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldE9wdGlvbnMob3B0aW9ucywgY2IpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYigpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnRhaW5lciA9ICQoRFJQVGVtcGxhdGUpLmFwcGVuZFRvKHRoaXMucGFyZW50RWwpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYigpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -962,18 +966,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXNzd29yZFw+</last-search>
+      <last-search encoding="base64">XDxnbmlwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXNzd29yZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnbmlwXD4=</last-pattern>
       <last-replace>key = 'a'</last-replace>
       <last-substitute>key = '\w'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqc29uVG9YTFNYXD4=</entry>
-        <entry>colu</entry>
         <entry encoding="base64">XDxyZW5hbWVDb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
@@ -992,6 +994,8 @@
         <entry>click</entry>
         <entry>clickD</entry>
         <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
+        <entry>prod</entry>
+        <entry encoding="base64">XDxnbmlwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
