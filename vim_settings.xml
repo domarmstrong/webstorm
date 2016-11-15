@@ -78,8 +78,8 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" timestamp="1479219446219">
-        <mark key="'" line="1" column="43" />
+      <file name="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" timestamp="1479223641723">
+        <mark key="'" line="839" column="40" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/BrandGroup.raml" timestamp="1475673476345">
         <mark key="[" line="9" column="0" />
@@ -200,12 +200,12 @@
         <mark key="]" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/agile-search-v2/api/controllers/twitter.js" timestamp="1479220056736">
-        <mark key="'" line="17" column="19" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
+      <file name="$USER_HOME$/dev/agile-search-v2/api/controllers/twitter.js" timestamp="1479223540651">
+        <mark key="'" line="322" column="26" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="." line="314" column="0" />
+        <mark key="^" line="324" column="41" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/common/index.ts" timestamp="1477664150941">
         <mark key="[" line="1" column="35" />
@@ -236,12 +236,11 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/bs-gnip/index.js" timestamp="1479219054407">
+      <file name="$USER_HOME$/dev/bs-gnip/index.js" timestamp="1479223599355">
         <mark key="'" line="19" column="39" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="50" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/nest/stage.ts" timestamp="1478871128319">
         <mark key="[" line="21" column="6" />
@@ -772,17 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="147" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="139" column="9" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="128" column="37" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="111" column="12" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="21" column="11" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="32" column="20" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="79" column="8" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="62" column="30" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="65" column="13" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
-      <jump line="515" column="70" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
       <jump line="45" column="15" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
       <jump line="46" column="15" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
@@ -872,6 +860,17 @@
       <jump line="212" column="12" filename="$USER_HOME$/dev/agile-search-v2/api/controllers/twitter.js" />
       <jump line="266" column="31" filename="$USER_HOME$/dev/agile-search-v2/api/controllers/twitter.js" />
       <jump line="16" column="19" filename="$USER_HOME$/dev/agile-search-v2/api/controllers/twitter.js" />
+      <jump line="296" column="16" filename="$USER_HOME$/dev/agile-search-v2/api/controllers/twitter.js" />
+      <jump line="297" column="30" filename="$USER_HOME$/dev/agile-search-v2/api/controllers/twitter.js" />
+      <jump line="319" column="19" filename="$USER_HOME$/dev/agile-search-v2/api/controllers/twitter.js" />
+      <jump line="320" column="26" filename="$USER_HOME$/dev/agile-search-v2/api/controllers/twitter.js" />
+      <jump line="454" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
+      <jump line="475" column="29" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
+      <jump line="825" column="33" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
+      <jump line="828" column="40" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
+      <jump line="835" column="30" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
+      <jump line="838" column="30" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
+      <jump line="839" column="40" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -921,11 +920,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>BlackSwan</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhciBzZWxmID0gdGhpczsK</text>
       </register>
       <register name="-" type="4">
-        <text>BlackSwan</text>
+        <text>, FAS, result</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -951,13 +950,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcGlcPg==</text>
+        <text>hour</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsYWJlbDogJ0ZBUycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChib2R5Lm5leHQpIHsKICAgICAgICAgICAgICAgIHBhcmFtcy5uZXh0ID0gYm9keS5uZXh0OwogICAgICAgICAgICAgICAgcmVzdWx0ID0gcmVzdWx0LmNvbmNhdChib2R5LnJlc3VsdHMpOwogICAgICAgICAgICAgICAgc2VsZi5jb3VudChwYXJhbXMsIGNiLCBGQVMsIHJlc3VsdCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAvLyBTb3J0IGRhdGEgYmVmb3JlIHJldHVybmluZyBmdWxsIHJlc3VsdAogICAgICAgICAgICAgICAgYm9keS5yZXN1bHRzID0gcmVzdWx0LmNvbmNhdChib2R5LnJlc3VsdHMpLnNvcnQoZnVuY3Rpb24gKGEsIGIpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYS50aW1lUGVyaW9kID4gYi50aW1lUGVyaW9kID8gMSA6IC0xOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICBjYihudWxsLCBib2R5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWxhYmVsOiAnRkFTJywK</text>
+        <text encoding="base64">ICAgIHZhciBzZWxmID0gdGhpczsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -981,42 +980,29 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text>//
-//
-//</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhciBzZWxmID0gdGhpczsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZnVuY3Rpb24oZXJyLCByZXN1bHQpIHsKICAgICAgICAgICAgLy9pZiAoZXJyKSByZXR1cm47CiAgICAgICAgICAgIGlmIChlcnIpIGNvbnNvbGUubG9nKCJzZWFyY2ggPSAiK0pTT04uc3RyaW5naWZ5KGVycikpOwogICAgICAgICAgICBpZiAoIShyZXN1bHQgfHwge30pLnJlc3VsdHMpIHJldHVybjsKCiAgICAgICAgICAgIHZhciByZXN1bHRzID0gcmVzdWx0LnJlc3VsdHMsCiAgICAgICAgICAgICAgICBuZXh0ID0gcmVzdWx0Lm5leHQsCiAgICAgICAgICAgICAgICB3b3JkcyA9IFtdLAogICAgICAgICAgICAgICAgaGFzaHRhZ3MgPSBbXSwKICAgICAgICAgICAgICAgIG1lbnRpb25zID0gW10sCiAgICAgICAgICAgICAgICBsYW5ndWFnZXMgPSBbXSwKICAgICAgICAgICAgICAgIGxvY2F0aW9ucyA9IFtdLAogICAgICAgICAgICAgICAgY291bnRyaWVzID0gW10sCiAgICAgICAgICAgICAgICBnZW5lcmF0b3IgPSBbXSwKICAgICAgICAgICAgICAgIHR3ZWV0cyA9IFtdLAogICAgICAgICAgICAgICAgaGFzaHRhZ01zZ0NvdW50ID0gMCwgLy9jb3VudCBvZiBtZXNzYWdlcyB3aXRoIGhhc2h0YWdzCiAgICAgICAgICAgICAgICBtZW50aW9uTXNnQ291bnQgPSAwOyAvL2NvdW50IG9mIG1lc3NhZ2VzIHdpdGggaGFzaHRhZ3MKCiAgICAgICAgICAgIGlmKCFyZXN1bHRzLmxlbmd0aCkgcmV0dXJuOwoKICAgICAgICAgICAgZm9yICh2YXIgaSA9IDAsIGxlbiA9IHJlc3VsdHMubGVuZ3RoOyBpIDwgbGVuOyBpKyspIHsKICAgICAgICAgICAgICAgIHZhciB0d2VldCA9IHJlc3VsdHNbaV07CiAgICAgICAgICAgICAgICBbXS5wdXNoLmFwcGx5KGhhc2h0YWdzLCBnZXRIYXNodGFncyh0d2VldCkpOwogICAgICAgICAgICAgICAgW10ucHVzaC5hcHBseShtZW50aW9ucywgZ2V0TWVudGlvbnModHdlZXQpKTsKICAgICAgICAgICAgICAgIFtdLnB1c2guYXBwbHkobGFuZ3VhZ2VzLCBnZXRMYW5ndWFnZSh0d2VldCkpOwogICAgICAgICAgICAgICAgW10ucHVzaC5hcHBseShjb3VudHJpZXMsIGdldENvdW50cnkodHdlZXQpKTsKICAgICAgICAgICAgICAgIHdvcmRzLnB1c2godHdlZXQuYm9keSk7CiAgICAgICAgICAgICAgICBpZiAoY2hlY2tIYXNodGFnKHR3ZWV0LmJvZHkpID4gLTEpIHsKICAgICAgICAgICAgICAgICAgaGFzaHRhZ01zZ0NvdW50Kys7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoY2hlY2tNZW50aW9uKHR3ZWV0LmJvZHkpID4gLTEpIHsKICAgICAgICAgICAgICAgICAgbWVudGlvbk1zZ0NvdW50Kys7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB0d2VldHMucHVzaCh0cmltVHdlZXQodHdlZXQpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICB3b3JkcyA9IHdvcmRzLmpvaW4oIiAiKTsKCiAgICAgICAgICAgIHdvcmRzID0gY2xlYW5VcFdvcmRzKHdvcmRzKTsKCiAgICAgICAgICAgIHdvcmRzID0gd29yZEZyZXF1ZW5jeSh3b3Jkcyk7CiAgICAgICAgICAgIHdvcmRzID0gXy51bmlxKHdvcmRzLCAndGV4dCcpOwoKICAgICAgICAgICAgdmFyIGxhdGVzdERhdGUgPSByZXN1bHRzWzBdLnBvc3RlZFRpbWU7CiAgICAgICAgICAgIHZhciBlYXJsaWVzdERhdGUgPSByZXN1bHRzW3Jlc3VsdHMubGVuZ3RoIC0gMV0ucG9zdGVkVGltZTsKCiAgICAgICAgICAgIHZhciByZXR2YWwgPSB7CiAgICAgICAgICAgICAgICBuZXh0OiBuZXh0LAogICAgICAgICAgICAgICAgd29yZHM6IHdvcmRzLAogICAgICAgICAgICAgICAgaGFzaHRhZ3M6IHNlcmllcyhoYXNodGFncyksCiAgICAgICAgICAgICAgICBtZW50aW9uczogc2VyaWVzKG1lbnRpb25zKSwKICAgICAgICAgICAgICAgIGxhbmd1YWdlczogc2VyaWVzKGxhbmd1YWdlcyksCiAgICAgICAgICAgICAgICAvL2xvY2F0aW9uczogc2VyaWVzKGxvY2F0aW9ucyksCiAgICAgICAgICAgICAgICBjb3VudHJpZXM6IHNlcmllcyhjb3VudHJpZXMpLAogICAgICAgICAgICAgICAgdHdpdHRlcjogdHdlZXRzLAogICAgICAgICAgICAgICAgdG90YWw6IHJlc3VsdHMubGVuZ3RoLAogICAgICAgICAgICAgICAgaGFzaHRhZ19tc2dfY291bnQ6IGhhc2h0YWdNc2dDb3VudCwKICAgICAgICAgICAgICAgIG1lbnRpb25fbXNnX2NvdW50OiBtZW50aW9uTXNnQ291bnQsCiAgICAgICAgICAgICAgICBlYXJsaWVzdERhdGU6IGVhcmxpZXN0RGF0ZSwKICAgICAgICAgICAgICAgIGxhdGVzdERhdGU6IGxhdGVzdERhdGUKICAgICAgICAgICAgfTsKICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gbmV3IFNlYXJjaExvZyh7CiAgICAgICAgICAgICAgcXVlcnk6IHJlcS5ib2R5LnF1ZXJ5LAogICAgICAgICAgICAgIG1ldGhvZDogJ3NlYXJjaCcsCiAgICAgICAgICAgICAgdXNlcl9pZDogcmVxLmJvZHkudXNlcmlkLAogICAgICAgICAgICAgIGlwX2FkZHJlc3M6IHJlcS5jb25uZWN0aW9uLnJlbW90ZUFkZHJlc3MKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIHF1ZXJ5LnNhdmUoZnVuY3Rpb24gKGVycikge2lmIChlcnIpIGNvbnNvbGUubG9nICgnRXJyb3Igb24gc2VhcmNoIHNhdmluZy4nKX0pOwogICAgICAgICAgICByZXMuanNvbnAocmV0dmFsKTsKICAgICAgICB9</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAvL2lmIChlcnIpIHJldHVybjsKICAgICAgICAgICAgaWYgKGVycikgY29uc29sZS5sb2coInNlYXJjaCA9ICIrSlNPTi5zdHJpbmdpZnkoZXJyKSk7CiAgICAgICAgICAgIGlmICghKHJlc3VsdCB8fCB7fSkucmVzdWx0cykgcmV0dXJuOwoKICAgICAgICAgICAgdmFyIHJlc3VsdHMgPSByZXN1bHQucmVzdWx0cywKICAgICAgICAgICAgICAgIG5leHQgPSByZXN1bHQubmV4dCwKICAgICAgICAgICAgICAgIHdvcmRzID0gW10sCiAgICAgICAgICAgICAgICBoYXNodGFncyA9IFtdLAogICAgICAgICAgICAgICAgbWVudGlvbnMgPSBbXSwKICAgICAgICAgICAgICAgIGxhbmd1YWdlcyA9IFtdLAogICAgICAgICAgICAgICAgbG9jYXRpb25zID0gW10sCiAgICAgICAgICAgICAgICBjb3VudHJpZXMgPSBbXSwKICAgICAgICAgICAgICAgIGdlbmVyYXRvciA9IFtdLAogICAgICAgICAgICAgICAgdHdlZXRzID0gW10sCiAgICAgICAgICAgICAgICBoYXNodGFnTXNnQ291bnQgPSAwLCAvL2NvdW50IG9mIG1lc3NhZ2VzIHdpdGggaGFzaHRhZ3MKICAgICAgICAgICAgICAgIG1lbnRpb25Nc2dDb3VudCA9IDA7IC8vY291bnQgb2YgbWVzc2FnZXMgd2l0aCBoYXNodGFncwoKICAgICAgICAgICAgaWYoIXJlc3VsdHMubGVuZ3RoKSByZXR1cm47CgogICAgICAgICAgICBmb3IgKHZhciBpID0gMCwgbGVuID0gcmVzdWx0cy5sZW5ndGg7IGkgPCBsZW47IGkrKykgewogICAgICAgICAgICAgICAgdmFyIHR3ZWV0ID0gcmVzdWx0c1tpXTsKICAgICAgICAgICAgICAgIFtdLnB1c2guYXBwbHkoaGFzaHRhZ3MsIGdldEhhc2h0YWdzKHR3ZWV0KSk7CiAgICAgICAgICAgICAgICBbXS5wdXNoLmFwcGx5KG1lbnRpb25zLCBnZXRNZW50aW9ucyh0d2VldCkpOwogICAgICAgICAgICAgICAgW10ucHVzaC5hcHBseShsYW5ndWFnZXMsIGdldExhbmd1YWdlKHR3ZWV0KSk7CiAgICAgICAgICAgICAgICBbXS5wdXNoLmFwcGx5KGNvdW50cmllcywgZ2V0Q291bnRyeSh0d2VldCkpOwogICAgICAgICAgICAgICAgd29yZHMucHVzaCh0d2VldC5ib2R5KTsKICAgICAgICAgICAgICAgIGlmIChjaGVja0hhc2h0YWcodHdlZXQuYm9keSkgPiAtMSkgewogICAgICAgICAgICAgICAgICBoYXNodGFnTXNnQ291bnQrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChjaGVja01lbnRpb24odHdlZXQuYm9keSkgPiAtMSkgewogICAgICAgICAgICAgICAgICBtZW50aW9uTXNnQ291bnQrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHR3ZWV0cy5wdXNoKHRyaW1Ud2VldCh0d2VldCkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHdvcmRzID0gd29yZHMuam9pbigiICIpOwoKICAgICAgICAgICAgd29yZHMgPSBjbGVhblVwV29yZHMod29yZHMpOwoKICAgICAgICAgICAgd29yZHMgPSB3b3JkRnJlcXVlbmN5KHdvcmRzKTsKICAgICAgICAgICAgd29yZHMgPSBfLnVuaXEod29yZHMsICd0ZXh0Jyk7CgogICAgICAgICAgICB2YXIgbGF0ZXN0RGF0ZSA9IHJlc3VsdHNbMF0ucG9zdGVkVGltZTsKICAgICAgICAgICAgdmFyIGVhcmxpZXN0RGF0ZSA9IHJlc3VsdHNbcmVzdWx0cy5sZW5ndGggLSAxXS5wb3N0ZWRUaW1lOwoKICAgICAgICAgICAgdmFyIHJldHZhbCA9IHsKICAgICAgICAgICAgICAgIG5leHQ6IG5leHQsCiAgICAgICAgICAgICAgICB3b3Jkczogd29yZHMsCiAgICAgICAgICAgICAgICBoYXNodGFnczogc2VyaWVzKGhhc2h0YWdzKSwKICAgICAgICAgICAgICAgIG1lbnRpb25zOiBzZXJpZXMobWVudGlvbnMpLAogICAgICAgICAgICAgICAgbGFuZ3VhZ2VzOiBzZXJpZXMobGFuZ3VhZ2VzKSwKICAgICAgICAgICAgICAgIC8vbG9jYXRpb25zOiBzZXJpZXMobG9jYXRpb25zKSwKICAgICAgICAgICAgICAgIGNvdW50cmllczogc2VyaWVzKGNvdW50cmllcyksCiAgICAgICAgICAgICAgICB0d2l0dGVyOiB0d2VldHMsCiAgICAgICAgICAgICAgICB0b3RhbDogcmVzdWx0cy5sZW5ndGgsCiAgICAgICAgICAgICAgICBoYXNodGFnX21zZ19jb3VudDogaGFzaHRhZ01zZ0NvdW50LAogICAgICAgICAgICAgICAgbWVudGlvbl9tc2dfY291bnQ6IG1lbnRpb25Nc2dDb3VudCwKICAgICAgICAgICAgICAgIGVhcmxpZXN0RGF0ZTogZWFybGllc3REYXRlLAogICAgICAgICAgICAgICAgbGF0ZXN0RGF0ZTogbGF0ZXN0RGF0ZQogICAgICAgICAgICB9OwogICAgICAgICAgICB2YXIgcXVlcnkgPSBuZXcgU2VhcmNoTG9nKHsKICAgICAgICAgICAgICBxdWVyeTogcmVxLmJvZHkucXVlcnksCiAgICAgICAgICAgICAgbWV0aG9kOiAnc2VhcmNoJywKICAgICAgICAgICAgICB1c2VyX2lkOiByZXEuYm9keS51c2VyaWQsCiAgICAgICAgICAgICAgaXBfYWRkcmVzczogcmVxLmNvbm5lY3Rpb24ucmVtb3RlQWRkcmVzcwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgcXVlcnkuc2F2ZShmdW5jdGlvbiAoZXJyKSB7aWYgKGVycikgY29uc29sZS5sb2cgKCdFcnJvciBvbiBzZWFyY2ggc2F2aW5nLicpfSk7CiAgICAgICAgICAgIHJlcy5qc29ucChyZXR2YWwpOwogICAgICAgIH0=</text>
-      </register>
-      <register name="5" type="4">
-        <text>function(err, results) {
-            if (err) return;
-            //if (err) console.log(&quot;count = &quot;+JSON.stringify(err));
-            var query = new SearchLog({
-              query: req.body.query,
-              method: 'count',
-              user_id: req.body.userId,
-              ip_address: req.connection.remoteAddress
-            });
-            query.save(function (err) {if (err) console.log ('Error on count saving.')});
-            res.jsonp(results || {});
-        }</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIChlcnIsIGJvZHkpIHsKICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgIGNiKGVyciwgYm9keSk7CiAgICAgICAgICAgIC8vIFJlY3Vyc2l2ZWx5IGdldCBuZXh0IHVudGlsIG5vIG5leHQgdG9rZW4gZm91bmQKICAgICAgICB9IGVsc2UgaWYgKGJvZHkubmV4dCkgewogICAgICAgICAgICBwYXJhbXMubmV4dCA9IGJvZHkubmV4dDsKICAgICAgICAgICAgcmVzdWx0ID0gcmVzdWx0LmNvbmNhdChib2R5LnJlc3VsdHMpOwogICAgICAgICAgICBzZWxmLmNvdW50KHBhcmFtcywgY2IsIEZBUywgcmVzdWx0KTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyBTb3J0IGRhdGEgYmVmb3JlIHJldHVybmluZyBmdWxsIHJlc3VsdAogICAgICAgICAgICBib2R5LnJlc3VsdHMgPSByZXN1bHQuY29uY2F0KGJvZHkucmVzdWx0cykuc29ydChmdW5jdGlvbiAoYSwgYikgewogICAgICAgICAgICAgICAgcmV0dXJuIGEudGltZVBlcmlvZCA+IGIudGltZVBlcmlvZCA/IDEgOiAtMTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIGNiKG51bGwsIGJvZHkpOwogICAgICAgIH0KICAgIH0pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9pZiAoZXJyKSBjb25zb2xlLmxvZygiY291bnQgPSAiK0pTT04uc3RyaW5naWZ5KGVycikpOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">LnNvcnQoZnVuY3Rpb24gKGEsIGIpIHsKICAgICAgICAgICAgICAgIHJldHVybiBhLnRpbWVQZXJpb2QgPiBiLnRpbWVQZXJpb2QgPyAxIDogLTE7CiAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXEuaGVhZGVycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiAoZXJyLCBib2R5KSB7CiAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgIGNiKGVyciwgYm9keSk7CiAgICAgICAgICAgICAgICAvLyBSZWN1cnNpdmVseSBnZXQgbmV4dCB1bnRpbCBubyBuZXh0IHRva2VuIGZvdW5kCiAgICAgICAgICAgIH0gZWxzZSBpZiAoYm9keS5uZXh0KSB7CiAgICAgICAgICAgICAgICBwYXJhbXMubmV4dCA9IGJvZHkubmV4dDsKICAgICAgICAgICAgICAgIHJlc3VsdCA9IHJlc3VsdC5jb25jYXQoYm9keS5yZXN1bHRzKTsKICAgICAgICAgICAgICAgIHNlbGYuY291bnQocGFyYW1zLCBjYiwgRkFTLCByZXN1bHQpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLy8gU29ydCBkYXRhIGJlZm9yZSByZXR1cm5pbmcgZnVsbCByZXN1bHQKICAgICAgICAgICAgICAgIGJvZHkucmVzdWx0cyA9IHJlc3VsdC5jb25jYXQoYm9keS5yZXN1bHRzKS5zb3J0KGZ1bmN0aW9uIChhLCBiKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGEudGltZVBlcmlvZCA+IGIudGltZVBlcmlvZCA/IDEgOiAtMTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgY2IobnVsbCwgYm9keSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1026,20 +1012,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcGlcPg==</last-search>
+      <last-search>hour</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcGlcPg==</last-pattern>
+      <last-pattern>hour</last-pattern>
       <last-replace />
       <last-substitute>options.paths.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJlbnRFbFw+</entry>
-        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
-        <entry encoding="base64">XDxzZXRPcHRpb25zXD4=</entry>
-        <entry>click</entry>
         <entry>clickD</entry>
         <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
         <entry>prod</entry>
@@ -1056,6 +1038,10 @@
         <entry encoding="base64">XDxISVNUT1JJQ1w+</entry>
         <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
+        <entry encoding="base64">XDxxdWVyeVw+</entry>
+        <entry encoding="base64">XDxib2R5XD4=</entry>
+        <entry>Hourly</entry>
+        <entry>hour</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
