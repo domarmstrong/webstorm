@@ -82,12 +82,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/bs-gnip/index.js" timestamp="1479212784532">
-        <mark key="'" line="20" column="4" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="99" column="27" />
+      <file name="$USER_HOME$/dev/bs-gnip/index.js" timestamp="1479215659352">
+        <mark key="'" line="87" column="33" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="121" column="59" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/TypesComponent/TypesComponent.ts" timestamp="1477671308222">
         <mark key="'" line="8" column="32" />
@@ -203,12 +203,12 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" timestamp="1479209557078">
-        <mark key="'" line="45" column="15" />
-        <mark key="[" line="52" column="45" />
-        <mark key="]" line="52" column="53" />
-        <mark key="." line="52" column="53" />
-        <mark key="^" line="52" column="53" />
+      <file name="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" timestamp="1479215752477">
+        <mark key="'" line="29" column="15" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="36" column="53" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/cron_jobs/updateMonitors.ts" timestamp="1478868243849">
         <mark key="[" line="44" column="0" />
@@ -386,34 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.js" />
-      <jump line="36" column="51" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.js" />
-      <jump line="8" column="6" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.js" />
-      <jump line="35" column="14" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/csv.js" />
-      <jump line="26" column="6" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/utils.js" />
-      <jump line="30" column="10" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/utils.js" />
-      <jump line="28" column="25" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/utils.js" />
-      <jump line="29" column="11" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/utils.js" />
-      <jump line="23" column="10" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/validateQuery.js" />
-      <jump line="25" column="8" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/validateQuery.js" />
-      <jump line="51" column="19" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/validateQuery.js" />
-      <jump line="49" column="46" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/validateQuery.js" />
-      <jump line="0" column="9" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="27" column="20" filename="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="144" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="156" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="171" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="175" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="187" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="202" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="206" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="208" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="121" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="133" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
-      <jump line="136" column="13" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
       <jump line="142" column="26" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
       <jump line="148" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
       <jump line="157" column="0" filename="$USER_HOME$/dev/app-nest-socialnaut/server/controllers/socialController.js" />
@@ -469,23 +441,51 @@
       <jump line="709" column="19" filename="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" />
       <jump line="27" column="44" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="6" column="8" filename="$USER_HOME$/dev/bs-gnip/index.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="8" column="21" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="50" column="102" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="10" column="46" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="11" column="29" filename="$USER_HOME$/dev/bs-gnip/index.js" />
-      <jump line="34" column="18" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="62" column="0" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="65" column="7" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="66" column="18" filename="$USER_HOME$/dev/bs-gnip/index.js" />
-      <jump line="79" column="0" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="123" column="21" filename="$USER_HOME$/dev/bs-gnip/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="72" column="0" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="20" column="4" filename="$USER_HOME$/dev/bs-gnip/index.js" />
       <jump line="100" column="14" filename="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" />
       <jump line="126" column="60" filename="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" />
       <jump line="131" column="62" filename="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" />
+      <jump line="79" column="18" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="23" column="15" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="24" column="11" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="34" column="16" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="40" column="16" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="47" column="16" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="54" column="16" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="86" column="16" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="97" column="16" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="124" column="16" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="37" column="28" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="17" column="40" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="36" column="17" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="44" column="17" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="100" column="17" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="113" column="17" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="115" column="17" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="125" column="21" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="126" column="9" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="15" column="21" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="38" column="8" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="39" column="33" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="51" column="106" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="52" column="33" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="58" column="17" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="59" column="33" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="89" column="31" filename="$USER_HOME$/dev/bs-gnip/index.js" />
+      <jump line="91" column="33" filename="$USER_HOME$/dev/bs-gnip/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -536,19 +536,42 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXMuZGF0YSA9IGZ1bmN0aW9uIChkYXRhKSB7CiAgICBpZiAodHlwZW9mIGRhdGEgPT09ICd1bmRlZmluZWQnKSByZXR1cm4gX2RhdGE7CiAgICByZXMuZGF0YS5pc1NldCA9IHRydWU7CiAgICBfZGF0YSA9IGRhdGE7CiAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyRzY29wZS50b29sdGlwID0KICAgICAgICAvLyAkc2NlLnRydXN0QXNIdG1sKCc8aDQ+WW91IGNhbiB0eXBlIHRoZXNlIHNlYXJjaCBvcGVyYXRvcnMgZGlyZWN0bHkgaW50byB0aGUnICsKICAgICAgICAvLyAgICAgICAgICAgICAnc2VhcmNoIGJveC48LyBoND4nICsKICAgICAgICAvLyAgICAgICAgICAgICAnPHA+T3BlcmF0b3IgRGVzY3JpcHRpb248Lz4nICsKICAgICAgICAvLyAgICAgICAgICAgICAnPHByZT4nICsKICAgICAgICAvLyAgICAgICAgICAgICAnZGF0YSBhbmFseXRpY3MgY29udGFpbmluZyBib3RoICJkYXRhIiBhbmQgImFuYWx5dGljcyInICsKICAgICAgICAvLyAgICAgICAgICAgICAnImRhdGEgYW5hbHl0aWNzIiBjb250YWluaW5nIHRoZSBleGFjdCBwaHJhc2UgImRhdGEgYW5hbHl0aWNzIicgKwogICAgICAgIC8vICAgICAgICAgICAgICdkYXRhIE9SIGFuYWx5dGljcyBjb250YWluaW5nIGVpdGhlciAiZGF0YSIgb3IgImFuYWx5dGljcyIgKG9yIGJvdGgpJyArCiAgICAgICAgLy8gICAgICAgICAgICAgJ2FuYWx5dGljcyAtc29jaWFsIGNvbnRhaW5pbmcgImFuYWx5dGljcyIgYnV0IG5vdCAic29jaWFsIicgKwogICAgICAgIC8vICAgICAgICAgICAgICcjYmxhY2tzd2FuIGNvbnRhaW5pbmcgdGhlIGhhc2h0YWcgImJsYWNrc3dhbiInICsKICAgICAgICAvLyAgICAgICAgICAgICAnZnJvbTpibGFja3N3YW5kYXRhIHNlbnQgZnJvbSBwZXJzb24gImJsYWNrc3dhbmRhdGEiJyArCiAgICAgICAgLy8gICAgICAgICAgICAgJ0BibGFja3N3YW5kYXRhIHJlZmVyZW5jaW5nIHRoZSBhY2NvdW50ICJibGFja3N3YW5kYXRhIicgKwogICAgICAgIC8vICAgICAgICAgICAgICdzaXRlOmJsYWNrc3dhbi5jb20gY29udGFpbmluZyBsaW5rcyB3aXRoaW4gYmxhY2tzd2FuLmNvbScgKwogICAgICAgIC8vICAgICAgICAgICAgICc8L3ByZT4nKTsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text encoding="base64">dGhpcy5ISVNUT1JJQywg</text>
+      </register>
+      <register name="n" type="4">
+        <keys>
+          <key char="110" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="43" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="/" type="4">
-        <text>promotio</text>
+        <text encoding="base64">XDxhcGlVcmxcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXMuZGF0YShyZXNwb25zZS5ib2R5LnJldHVybl92YWwpOwo=</text>
+      <register name="0" type="4">
+        <text>this.HISTORIC</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyRzY29wZS50b29sdGlwID0KICAgICAgICAvLyAkc2NlLnRydXN0QXNIdG1sKCc8aDQ+WW91IGNhbiB0eXBlIHRoZXNlIHNlYXJjaCBvcGVyYXRvcnMgZGlyZWN0bHkgaW50byB0aGUnICsKICAgICAgICAvLyAgICAgICAgICAgICAnc2VhcmNoIGJveC48LyBoND4nICsKICAgICAgICAvLyAgICAgICAgICAgICAnPHA+T3BlcmF0b3IgRGVzY3JpcHRpb248Lz4nICsKICAgICAgICAvLyAgICAgICAgICAgICAnPHByZT4nICsKICAgICAgICAvLyAgICAgICAgICAgICAnZGF0YSBhbmFseXRpY3MgY29udGFpbmluZyBib3RoICJkYXRhIiBhbmQgImFuYWx5dGljcyInICsKICAgICAgICAvLyAgICAgICAgICAgICAnImRhdGEgYW5hbHl0aWNzIiBjb250YWluaW5nIHRoZSBleGFjdCBwaHJhc2UgImRhdGEgYW5hbHl0aWNzIicgKwogICAgICAgIC8vICAgICAgICAgICAgICdkYXRhIE9SIGFuYWx5dGljcyBjb250YWluaW5nIGVpdGhlciAiZGF0YSIgb3IgImFuYWx5dGljcyIgKG9yIGJvdGgpJyArCiAgICAgICAgLy8gICAgICAgICAgICAgJ2FuYWx5dGljcyAtc29jaWFsIGNvbnRhaW5pbmcgImFuYWx5dGljcyIgYnV0IG5vdCAic29jaWFsIicgKwogICAgICAgIC8vICAgICAgICAgICAgICcjYmxhY2tzd2FuIGNvbnRhaW5pbmcgdGhlIGhhc2h0YWcgImJsYWNrc3dhbiInICsKICAgICAgICAvLyAgICAgICAgICAgICAnZnJvbTpibGFja3N3YW5kYXRhIHNlbnQgZnJvbSBwZXJzb24gImJsYWNrc3dhbmRhdGEiJyArCiAgICAgICAgLy8gICAgICAgICAgICAgJ0BibGFja3N3YW5kYXRhIHJlZmVyZW5jaW5nIHRoZSBhY2NvdW50ICJibGFja3N3YW5kYXRhIicgKwogICAgICAgIC8vICAgICAgICAgICAgICdzaXRlOmJsYWNrc3dhbi5jb20gY29udGFpbmluZyBsaW5rcyB3aXRoaW4gYmxhY2tzd2FuLmNvbScgKwogICAgICAgIC8vICAgICAgICAgICAgICc8L3ByZT4nKTsKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -573,28 +596,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXF1ZXN0LnB1dChwYXJhbXMudXJsLCB7CiAgICAgICAganNvbjogcGFyYW1zCiAgICB9LCBmdW5jdGlvbihlcnIsIHJlc3BvbnNlLCBib2R5KSB7CiAgICAgICAgY2IoZXJyLCBib2R5KTsKICAgIH0pLmF1dGgodGhpcy5vcHRpb25zLnVzZXIsIHRoaXMub3B0aW9ucy5wYXNzd29yZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBmcm9tRGF0ZToKICAgICAgICAvLyB0b0RhdGU6CiAgICAgICAgLy8gdGl0bGU6CiAgICAgICAgLy8gcnVsZXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXF1ZXN0LmdldChwYXJhbXMudXJsLCB7CiAgICAgICAganNvbjogcGFyYW1zCiAgICB9LCBmdW5jdGlvbihlcnIsIHJlc3BvbnNlLCBib2R5KSB7CiAgICAgICAgY2IoZXJyLCBib2R5KTsKICAgIH0pLmF1dGgodGhpcy5vcHRpb25zLnVzZXIsIHRoaXMub3B0aW9ucy5wYXNzd29yZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcyA9IE9iamVjdC5hc3NpZ24oewogICAgfSwgcGFyYW1zKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBhcGlVcmwgPSB1cmwucmVzb2x2ZSh0aGlzLm9wdGlvbnMucGF0aHMuSElTVE9SSUMsIHV0aWwuZm9ybWF0KCcvJXMvcHVibGlzaGVycy90d2l0dGVyL2pvYnMuanNvbicsIHRoaXMub3B0aW9ucy5hY2NvdW50KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cmw6IHVybC5yZXNvbHZlKHRoaXMub3B0aW9ucy5wYXRocy5ISVNUT1JJQywgdXRpbC5mb3JtYXQoJy8lcy9wdWJsaXNoZXJzL3R3aXR0ZXIvam9icy5qc29uJywgdGhpcy5vcHRpb25zLmFjY291bnQpKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IE9iamVjdC5hc3NpZ24oeyBidWNrZXQ6ICdkYXknIH0sIHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R25pcC5wcm90b3R5cGUuZ2V0Sm9iUmVzdWx0ID0gR25pcC5wcm90b3R5cGUuZ2V0Sm9iUmVzdWx0cyA9IGZ1bmN0aW9uKHBhcmFtcywgY2IpIHsKICAgIG5vcm1hbGl6ZVBhcmFtcyhwYXJhbXMpOwoKICAgIGlmIChwYXJhbXMuZGF0YVVybCkgcGFyYW1zLnVybCA9IHBhcmFtcy5kYXRhVXJsOwogICAgaWYgKHBhcmFtcy51dWlkKSBwYXJhbXMudXJsID0gdXJsLnJlc29sdmUodGhpcy5vcHRpb25zLnBhdGhzLkhJU1RPUklDLCB1dGlsLmZvcm1hdCgnLyVzL3B1Ymxpc2hlcnMvdHdpdHRlci9qb2JzLyVzL3Jlc3VsdHMuanNvbicsIHRoaXMub3B0aW9ucy5hY2NvdW50LCBwYXJhbXMudXVpZCkpOwogICAgaWYgKCFwYXJhbXMudXJsKSByZXR1cm4gY2IobmV3IFR5cGVFcnJvcignZ2V0Sm9iUmVzdWx0IHJlcXVpcmVzIGEgdXJsIG9yIHV1aWQgcGFyYW10ZXInKSk7CgogICAgcmV0dXJuIHRoaXMucmVxdWVzdCgnZ2V0JywgYXBpVXJsLCBwYXJhbXMsIGNiKTsKfTsKCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -604,20 +627,16 @@
       </register>
     </registers>
     <search>
-      <last-search>promotio</last-search>
+      <last-search encoding="base64">XDxhcGlVcmxcPg==</last-search>
       <last-offset />
-      <last-pattern>promotio</last-pattern>
-      <last-replace>key = 'a'</last-replace>
-      <last-substitute>key = '\w'</last-substitute>
+      <last-pattern encoding="base64">XDxhcGlVcmxcPg==</last-pattern>
+      <last-replace />
+      <last-substitute>options.paths.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZGF0aW9uc1w+</entry>
-        <entry encoding="base64">XDxleHRlbnNpb25zXD4=</entry>
-        <entry encoding="base64">XDxRdWVyeVBhcmFtZXRlckVycm9yXD4=</entry>
-        <entry encoding="base64">XDx0cmFuc2Zvcm1Db2x1bW5OYW1lXD4=</entry>
         <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NQYXRoXD4=</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
@@ -634,9 +653,12 @@
         <entry>params.ur</entry>
         <entry>delete</entry>
         <entry>promotio</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry>options.paths.</entry>
+        <entry>url.resolve(</entry>
+        <entry encoding="base64">XDxhcGlVcmxcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>30</entry>
         <entry>64</entry>
         <entry>94</entry>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
@@ -654,6 +676,7 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>%s/key = '\w'/key = 'a'/gc</entry>
         <entry>x</entry>
+        <entry>%s/options.paths.//gc</entry>
         <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
