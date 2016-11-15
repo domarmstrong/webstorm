@@ -333,6 +333,12 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/agile-search-v2/public/js/config.js" timestamp="1479205284647">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/utils.js" timestamp="1478887508718">
         <mark key="'" line="34" column="11" />
         <mark key="[" line="63" column="24" />
@@ -673,6 +679,11 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/agile-search-v2/public/js/config.example.js" timestamp="1479205287918">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/OverviewComponent/OverviewComponent.ts" timestamp="1477662188932">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -858,16 +869,16 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS5jb25zdGFudCgnRlVMTF9BUkNISVZFX1NFQVJDSCcsIHRydWUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>'http://localhost:8080'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmFseXRpY3NQYXRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAub24oJ2Vycm9yJywgZnVuY3Rpb24oZXJyKSB7CiAgICAgICAgICAgIHJldHVybiBuZXh0KGNyZWF0ZUVycm9yKDQwMywgZXJyKSk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">CS5jb25zdGFudCgnRlVMTF9BUkNISVZFX1NFQVJDSCcsIHRydWUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
