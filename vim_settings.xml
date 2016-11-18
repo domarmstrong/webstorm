@@ -449,16 +449,12 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.ts" timestamp="1479482515786">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="^" line="179" column="66" />
-        <mark key="." line="179" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-econometrics/node_modules/bs-raml-api/lib/middleware/routeMiddleware/requestExtensions.js" timestamp="1479213853564">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="66" column="3" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.ts" timestamp="1479483286177">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="87" column="24" />
+        <mark key="]" line="88" column="13" />
+        <mark key="." line="88" column="13" />
+        <mark key="^" line="88" column="13" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.ts" timestamp="1474977917769">
         <mark key="[" line="14" column="69" />
@@ -716,6 +712,9 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="29" />
       </file>
+      <file name="/Dummy.txt" timestamp="1479483917889">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/local/docker-compose.ts" timestamp="1474036790131">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="39" />
@@ -790,6 +789,13 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" timestamp="1479483436952">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="133" column="66" />
+        <mark key="]" line="133" column="99" />
+        <mark key="." line="133" column="99" />
+        <mark key="^" line="133" column="99" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/any.ts" timestamp="1474974598072">
         <mark key="[" line="11" column="80" />
         <mark key="]" line="11" column="75" />
@@ -798,17 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="657" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="172" column="20" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="245" column="16" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="296" column="45" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="295" column="38" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="281" column="17" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="628" column="12" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="637" column="16" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="632" column="12" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="279" column="8" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="262" column="34" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="277" column="28" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="276" column="28" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="251" column="30" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
@@ -898,6 +893,17 @@
       <jump line="49" column="59" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" />
       <jump line="51" column="16" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" />
       <jump line="28" column="62" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="134" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="133" column="6" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="128" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="123" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="117" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="112" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="106" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="102" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="97" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="88" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -948,10 +954,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>nestUtils.createCacheKey(user.username, filters</text>
+        <text>clients</text>
       </register>
       <register name="-" type="4">
-        <text>nestUtils.createCacheKey(user.username, filters</text>
+        <text>clients</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -977,13 +983,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWNoZVw+</text>
+        <text>Campaign</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBuZXN0VXRpbHMuY3JlYXRlQ2FjaGVLZXkodXNlci51c2VybmFtZSwgZmlsdGVycyk7Cg==</text>
+        <text encoding="base64">ICBpdCgnbWFwcyBzdWJjbGllbnRzIChicmFuZC1ncm91cHMpIHRvIGJyYW5kR3JvdXBzJywgYXN5bmMgKCkgPT4gewogICAgbGV0IG5vZGVzID0gWwogICAgICB7IGZpZWxkOiAncHJvcGVydGllcy5jbGllbnRzJywgb3BlcmF0b3I6ICc9PScsIHZhbHVlOiAnMScgfSwKICAgIF07CiAgICBsZXQgbWFwcGVkID0gYXdhaXQgdXRpbHMubWFwQ2xpZW50c1RvQnJhbmRHcm91cHMobnVsbCwgbm9kZXMpOwoKICAgIGFzc2VydC5kZWVwRXF1YWwobWFwcGVkLCBbCiAgICAgIHsgZmllbGQ6ICdwcm9wZXJ0aWVzLmNsaWVudHMnLCBvcGVyYXRvcjogJz09JywgdmFsdWU6IFsnMicsICczJywgJzUnLCAnNiddIH0sCiAgICBdKTsKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBgJHt1c2VyLnVzZXJuYW1lfWA7CiAgaWYgKGZpbHRlcnMpIGNhY2hlS2V5ICs9IGA6JHtuZXN0VXRpbHMuaGFzaFN0cmluZyhmaWx0ZXJzKX1gOwoK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1008,28 +1014,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBgJHt1c2VyLnVzZXJuYW1lfWA7CiAgaWYgKGZpbHRlcnMpIGNhY2hlS2V5ICs9IGA6JHtuZXN0VXRpbHMuaGFzaFN0cmluZyhmaWx0ZXJzKX1gOwoK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBgJHt1c2VybmFtZX1gOwo=</text>
+        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBgJHt1c2VyLnVzZXJuYW1lfWA7CiAgaWYgKGZpbHRlcnMpIGNhY2hlS2V5ICs9IGA6JHtuZXN0VXRpbHMuaGFzaFN0cmluZyhmaWx0ZXJzKX1gOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBgJHt1c2VyLnVzZXJuYW1lfWA7CiAgaWYgKGZpbHRlcnMpIGNhY2hlS2V5ICs9IGA6JHtuZXN0VXRpbHMuaGFzaFN0cmluZyhmaWx0ZXJzKX1gOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7Cg==</text>
+        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBgJHt1c2VybmFtZX1gOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgZGF0YSA9ICJkbyBzaGFzaCdvd2FuaWEiOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB2YXIgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEBwYXJhbSB1c2VyCiAqIEBwYXJhbSBxdWVyeU5vZGVzCiAqIEBwYXJhbSBvbmx5U3ViQ2xpZW50cwogKi8KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIG1hcENsaWVudHNUb0NhbXBhaWducygK</text>
+        <text encoding="base64">ICB2YXIgZGF0YSA9ICJkbyBzaGFzaCdvd2FuaWEiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudE5vZGVzLmZvckVhY2gobm9kZSA9PiB7CiAgICAgIGlmIChub2RlLm11dGF0ZWQpIG5vZGUuZmllbGQgPSAncHJvcGVydGllcy5jYW1wYWlnbnMnOwogICAgfSk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1039,18 +1045,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWNoZVw+</last-search>
+      <last-search>Campaign</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWNoZVw+</last-pattern>
-      <last-replace />
-      <last-substitute>options.paths.</last-substitute>
+      <last-pattern>Campaign</last-pattern>
+      <last-replace>BrandGroup</last-replace>
+      <last-substitute>Campaign</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDYW1wYWlnbklkc1w+</entry>
-        <entry encoding="base64">XDxjbGllbnRJZHNcPg==</entry>
         <entry encoding="base64">XDxtYXBGaWVsZFZhbHVlT3V0Ym91bmRcPg==</entry>
         <entry encoding="base64">XDxjbGllbnROb2Rlc1w+</entry>
         <entry encoding="base64">XDxtdXRhdGVkXD4=</entry>
@@ -1069,10 +1073,10 @@
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxjYWNoZVw+</entry>
+        <entry>campaign</entry>
+        <entry>Campaign</entry>
       </history-search>
       <history-cmd>
-        <entry>64</entry>
-        <entry>94</entry>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zLydcKFwuKj9cKSc6L1wx</entry>
@@ -1090,6 +1094,8 @@
         <entry>x</entry>
         <entry>%s/options.paths.//gc</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zL2NhbXBhaWduL2JyYW5kR3JvdXAvZ2M=</entry>
+        <entry encoding="base64">JzwsJz5zL0NhbXBhaWduL0JyYW5kR3JvdXAvZ2M=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
