@@ -207,12 +207,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Campaigns/Campaigns.ts" timestamp="1479473773855">
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Campaigns/Campaigns.ts" timestamp="1479475044153">
         <mark key="'" line="145" column="19" />
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="34" column="13" />
+        <mark key="[" line="28" column="77" />
+        <mark key="]" line="28" column="86" />
+        <mark key="." line="28" column="86" />
+        <mark key="^" line="28" column="86" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/typings/modules/bs-query-mongo/index.d.ts" timestamp="1474043671695">
         <mark key="[" line="3" column="2" />
@@ -519,12 +519,12 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" timestamp="1479473877918">
-        <mark key="'" line="145" column="23" />
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="34" column="13" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" timestamp="1479475028897">
+        <mark key="'" line="25" column="24" />
+        <mark key="[" line="28" column="80" />
+        <mark key="]" line="28" column="89" />
+        <mark key="." line="28" column="89" />
+        <mark key="^" line="28" column="89" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" timestamp="1478884128289">
         <mark key="[" line="28" column="0" />
@@ -794,7 +794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="41" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="157" column="23" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="168" column="20" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="170" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
@@ -894,6 +893,7 @@
       <jump line="131" column="32" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.ts" />
       <jump line="135" column="44" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.ts" />
       <jump line="141" column="29" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.ts" />
+      <jump line="25" column="24" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -944,10 +944,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>onlySubClients</text>
+        <text>campaigns</text>
       </register>
       <register name="-" type="4">
-        <text>onlySubClients</text>
+        <text>campaigns</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1031,7 +1031,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -1041,7 +1041,7 @@
       <last-replace />
       <last-substitute>options.paths.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1085,8 +1085,8 @@
         <entry>%s/key = '\w'/key = 'a'/gc</entry>
         <entry>x</entry>
         <entry>%s/options.paths.//gc</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
