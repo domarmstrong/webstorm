@@ -35,11 +35,11 @@
         <mark key="^" line="22" column="49" />
         <mark key="." line="22" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/RAML/dataSchemas/Signal.raml" timestamp="1479485003825">
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
-        <mark key="^" line="8" column="12" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/RAML/dataSchemas/Signal.raml" timestamp="1479486004705">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+        <mark key="^" line="33" column="15" />
       </file>
       <file name="$USER_HOME$/dev/bs-query/src/parser.spec.ts" timestamp="1475663733615">
         <mark key="[" line="568" column="20" />
@@ -213,12 +213,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Campaigns/Campaigns.ts" timestamp="1479482094430">
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Campaigns/Campaigns.ts" timestamp="1479485904840">
         <mark key="'" line="145" column="19" />
-        <mark key="[" line="40" column="55" />
-        <mark key="]" line="40" column="56" />
-        <mark key="." line="40" column="56" />
-        <mark key="^" line="40" column="56" />
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="54" />
+        <mark key="." line="39" column="54" />
+        <mark key="^" line="39" column="54" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/typings/modules/bs-query-mongo/index.d.ts" timestamp="1474043671695">
         <mark key="[" line="3" column="2" />
@@ -236,12 +236,12 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Clients/Clients.ts" timestamp="1479481675592">
-        <mark key="'" line="23" column="34" />
-        <mark key="[" line="42" column="32" />
-        <mark key="]" line="42" column="35" />
-        <mark key="^" line="42" column="35" />
-        <mark key="." line="42" column="35" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Clients/Clients.ts" timestamp="1479486796627">
+        <mark key="'" line="145" column="14" />
+        <mark key="[" line="163" column="3" />
+        <mark key="]" line="163" column="4" />
+        <mark key="^" line="163" column="3" />
+        <mark key="." line="163" column="4" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web1.pm2.json" timestamp="1476976181034">
         <mark key="[" line="3" column="28" />
@@ -385,6 +385,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/package.json" timestamp="1479486184485">
+        <mark key="[" line="26" column="117" />
+        <mark key="]" line="26" column="141" />
+        <mark key="^" line="26" column="141" />
+        <mark key="." line="26" column="141" />
+      </file>
       <file name="$USER_HOME$/dev/bs-api-log/src/services/BunyanLog.ts" timestamp="1473437107061">
         <mark key="[" line="30" column="49" />
         <mark key="]" line="30" column="47" />
@@ -522,12 +528,12 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" timestamp="1479482654747">
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" timestamp="1479485885375">
         <mark key="'" line="29" column="62" />
-        <mark key="[" line="50" column="59" />
-        <mark key="]" line="50" column="66" />
-        <mark key="." line="50" column="66" />
-        <mark key="^" line="50" column="66" />
+        <mark key="[" line="40" column="25" />
+        <mark key="]" line="40" column="54" />
+        <mark key="." line="40" column="54" />
+        <mark key="^" line="40" column="54" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" timestamp="1478884128289">
         <mark key="[" line="28" column="0" />
@@ -809,7 +815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="30" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="630" column="20" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="635" column="24" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="641" column="24" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
@@ -909,6 +914,7 @@
       <jump line="88" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
       <jump line="49" column="52" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
       <jump line="99" column="61" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="145" column="14" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Clients/Clients.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -988,7 +994,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRGb3JVc2VyXD4=</text>
+        <text>Market</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjYW1wYWlnbjogc3RyaW5nCg==</text>
@@ -1050,9 +1056,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRGb3JVc2VyXD4=</last-search>
+      <last-search>Market</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRGb3JVc2VyXD4=</last-pattern>
+      <last-pattern>Market</last-pattern>
       <last-replace>BrandGroup</last-replace>
       <last-substitute>Campaign</last-substitute>
       <last-dir>1</last-dir>
@@ -1060,7 +1066,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGllbnROb2Rlc1w+</entry>
         <entry encoding="base64">XDxtdXRhdGVkXD4=</entry>
         <entry encoding="base64">XDxNdXRhYmxlUXVlcnlOb2RlXD4=</entry>
         <entry>Muta</entry>
@@ -1080,9 +1085,9 @@
         <entry>campaign</entry>
         <entry>Campaign</entry>
         <entry encoding="base64">XDxnZXRGb3JVc2VyXD4=</entry>
+        <entry>Market</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zb3I=</entry>
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zLydcKFwuKj9cKSc6L1wx</entry>
         <entry encoding="base64">JzwsJz5zLydcKFwuKlw/XCknOi9cMQ==</entry>
@@ -1101,6 +1106,7 @@
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL2NhbXBhaWduL2JyYW5kR3JvdXAvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL0NhbXBhaWduL0JyYW5kR3JvdXAvZ2M=</entry>
+        <entry>164</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
