@@ -131,12 +131,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/signals/signals.ts" timestamp="1479472974730">
-        <mark key="'" line="52" column="42" />
-        <mark key="[" line="52" column="51" />
-        <mark key="]" line="52" column="57" />
-        <mark key="." line="52" column="57" />
-        <mark key="^" line="52" column="57" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/signals/signals.ts" timestamp="1479480168697">
+        <mark key="'" line="51" column="19" />
+        <mark key="[" line="61" column="6" />
+        <mark key="]" line="61" column="16" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="16" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/app/AppComponent.ts" timestamp="1477650599136">
         <mark key="[" line="14" column="27" />
@@ -794,8 +794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="19" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="239" column="23" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="242" column="16" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="248" column="19" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="283" column="16" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
@@ -894,6 +892,8 @@
       <jump line="172" column="27" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
       <jump line="12" column="6" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
       <jump line="141" column="67" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
+      <jump line="61" column="17" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/signals/signals.ts" />
+      <jump line="51" column="19" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/signals/signals.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -973,7 +973,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb25pdG9yTWFwcGluZ3NcPg==</text>
+        <text encoding="base64">XDxjYW1wYWlnbklkc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIEBwYXJhbSB1c2VyCiAqIEBwYXJhbSBxdWVyeU5vZGVzCiAqIEBwYXJhbSBvbmx5U3ViQ2xpZW50cwogKi8KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIG1hcENsaWVudHNUb0NhbXBhaWducygKICB1c2VyOiBVc2VyLAogIHF1ZXJ5Tm9kZXM6IFF1ZXJ5Tm9kZVtdLAogIG9ubHlTdWJDbGllbnRzOiBib29sZWFuID0gZmFsc2UKKTogUHJvbWlzZTxRdWVyeU5vZGVbXT4gewogIGNvbnN0IGNhbXBhaWducyA9IGF3YWl0IEFjY291bnRzLmNhbXBhaWducy5nZXRBbGxGb3JVc2VyKHVzZXIpOwoKICByZXR1cm4gcXVlcnlOb2Rlcy5tYXAobm9kZSA9PiB7CiAgICBsZXQgaXNTdWJDbGllbnQgPSBjYW1wYWlnbnMuZmluZChjYW1wYWlnbiA9PiBjYW1wYWlnbi5pZCA9PT0gbm9kZS52YWx1ZSk7CiAgICBsZXQgbWF0Y2hpbmc6IHN0cmluZ1tdOwoKICAgIGlmIChpc1N1YkNsaWVudCkgewogICAgICBtYXRjaGluZyA9IGdldERlc2NlbmRhbnRJZHMoY2FtcGFpZ25zLCBub2RlLnZhbHVlKQogICAgICAgIC5maWx0ZXIoaWQgPT4gaWQgIT09IG5vZGUudmFsdWUpOwogICAgfSBlbHNlIHsKICAgICAgaWYgKG9ubHlTdWJDbGllbnRzKSB7CiAgICAgICAgcmV0dXJuIG5vZGU7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgbWF0Y2hpbmcgPSBjYW1wYWlnbnMKICAgICAgICAgIC5maWx0ZXIoY2FtcGFpZ24gPT4gY2FtcGFpZ24uY2xpZW50ID09PSBub2RlLnZhbHVlKQogICAgICAgICAgLm1hcChjYW1wYWlnbiA9PiBjYW1wYWlnbi5pZCk7CiAgICAgIH0KICAgIH0KCiAgICBub2RlLmZpZWxkID0gJ3Byb3BlcnRpZXMuY2FtcGFpZ25zJzsKICAgIG5vZGUudmFsdWUgPSBtYXRjaGluZzsKICAgIHJldHVybiBub2RlOwogIH0pOwp9Cg==</text>
@@ -1031,13 +1031,13 @@
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb25pdG9yTWFwcGluZ3NcPg==</last-search>
+      <last-search encoding="base64">XDxjYW1wYWlnbklkc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb25pdG9yTWFwcGluZ3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjYW1wYWlnbklkc1w+</last-pattern>
       <last-replace />
       <last-substitute>options.paths.</last-substitute>
       <last-dir>1</last-dir>
@@ -1045,8 +1045,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b3RhbFBhbmVsQ291bnRcPg==</entry>
-        <entry encoding="base64">XDxvbGRDb3VudHJpZXNTdW0xXD4=</entry>
         <entry encoding="base64">XDxvbGRDb3VudHJpZXNTdW0yXD4=</entry>
         <entry encoding="base64">XDxsYW5ndWFnZXNcPg==</entry>
         <entry encoding="base64">XDxnZXRMYW5ndWFnZVw+</entry>
@@ -1065,6 +1063,8 @@
         <entry>SIZ</entry>
         <entry encoding="base64">XDxTSVpNRUtcPg==</entry>
         <entry encoding="base64">XDxtb25pdG9yTWFwcGluZ3NcPg==</entry>
+        <entry>camp</entry>
+        <entry encoding="base64">XDxjYW1wYWlnbklkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
@@ -1085,8 +1085,8 @@
         <entry>%s/key = '\w'/key = 'a'/gc</entry>
         <entry>x</entry>
         <entry>%s/options.paths.//gc</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
