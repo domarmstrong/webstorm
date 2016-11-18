@@ -35,6 +35,12 @@
         <mark key="^" line="22" column="49" />
         <mark key="." line="22" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/RAML/dataSchemas/Signal.raml" timestamp="1479485003825">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/bs-query/src/parser.spec.ts" timestamp="1475663733615">
         <mark key="[" line="568" column="20" />
         <mark key="]" line="568" column="20" />
@@ -449,12 +455,12 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.ts" timestamp="1479483286177">
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.ts" timestamp="1479484429155">
         <mark key="'" line="176" column="0" />
-        <mark key="[" line="87" column="24" />
-        <mark key="]" line="88" column="13" />
-        <mark key="." line="88" column="13" />
-        <mark key="^" line="88" column="13" />
+        <mark key="[" line="105" column="10" />
+        <mark key="]" line="105" column="14" />
+        <mark key="." line="105" column="14" />
+        <mark key="^" line="105" column="14" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.ts" timestamp="1474977917769">
         <mark key="[" line="14" column="69" />
@@ -789,12 +795,11 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" timestamp="1479483436952">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="133" column="66" />
-        <mark key="]" line="133" column="99" />
-        <mark key="." line="133" column="99" />
-        <mark key="^" line="133" column="99" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" timestamp="1479484536966">
+        <mark key="'" line="99" column="61" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/any.ts" timestamp="1474974598072">
         <mark key="[" line="11" column="80" />
@@ -804,8 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="28" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="276" column="28" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="251" column="30" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="630" column="20" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="635" column="24" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
@@ -904,6 +907,8 @@
       <jump line="102" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
       <jump line="97" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
       <jump line="88" column="0" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="49" column="52" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
+      <jump line="99" column="61" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.spec.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -954,10 +959,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>clients</text>
+        <text>campaign</text>
       </register>
       <register name="-" type="4">
-        <text>clients</text>
+        <text>campaign</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -983,13 +988,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Campaign</text>
+        <text encoding="base64">XDxnZXRGb3JVc2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnbWFwcyBzdWJjbGllbnRzIChicmFuZC1ncm91cHMpIHRvIGJyYW5kR3JvdXBzJywgYXN5bmMgKCkgPT4gewogICAgbGV0IG5vZGVzID0gWwogICAgICB7IGZpZWxkOiAncHJvcGVydGllcy5jbGllbnRzJywgb3BlcmF0b3I6ICc9PScsIHZhbHVlOiAnMScgfSwKICAgIF07CiAgICBsZXQgbWFwcGVkID0gYXdhaXQgdXRpbHMubWFwQ2xpZW50c1RvQnJhbmRHcm91cHMobnVsbCwgbm9kZXMpOwoKICAgIGFzc2VydC5kZWVwRXF1YWwobWFwcGVkLCBbCiAgICAgIHsgZmllbGQ6ICdwcm9wZXJ0aWVzLmNsaWVudHMnLCBvcGVyYXRvcjogJz09JywgdmFsdWU6IFsnMicsICczJywgJzUnLCAnNiddIH0sCiAgICBdKTsKICB9KTsK</text>
+        <text encoding="base64">ICBjYW1wYWlnbjogc3RyaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICBpdCgnYWxsb3dzIG1hcHBpbmcgb25seSBzdWJjbGllbnRzJywgYXN5bmMgKCkgPT4gewogICAgbGV0IG5vZGVzID0gWwogICAgICB7IGZpZWxkOiAncHJvcGVydGllcy5jbGllbnRzJywgb3BlcmF0b3I6ICc9PScsIHZhbHVlOiAnMScgfSwKICAgIF07CiAgICBsZXQgbWFwcGVkID0gYXdhaXQgdXRpbHMubWFwQ2xpZW50c1RvQnJhbmRHcm91cHMobnVsbCwgbm9kZXMsIHsgZmllbGQ6ICdwcm9wZXJ0aWVzLmJyYW5kX2dyb3VwcycgfSk7CgogICAgYXNzZXJ0LmRlZXBFcXVhbChtYXBwZWQsIFsKICAgICAgeyBmaWVsZDogJ3Byb3BlcnRpZXMuYnJhbmRfZ3JvdXBzJywgb3BlcmF0b3I6ICc9PScsIHZhbHVlOiBbJzInLCAnMycsICc1JywgJzYnXSB9LAogICAgXSk7CiAgfSk7Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1014,25 +1019,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgIG5vZGUuZmllbGQgPSAncHJvcGVydGllcy5jYW1wYWlnbnMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBgJHt1c2VyLnVzZXJuYW1lfWA7CiAgaWYgKGZpbHRlcnMpIGNhY2hlS2V5ICs9IGA6JHtuZXN0VXRpbHMuaGFzaFN0cmluZyhmaWx0ZXJzKX1gOwoK</text>
+        <text encoding="base64">ICBvbmx5U3ViQ2xpZW50czogYm9vbGVhbiA9IGZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBgJHt1c2VyLnVzZXJuYW1lfWA7CiAgaWYgKGZpbHRlcnMpIGNhY2hlS2V5ICs9IGA6JHtuZXN0VXRpbHMuaGFzaFN0cmluZyhmaWx0ZXJzKX1gOwoK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBgJHt1c2VybmFtZX1gOwo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBgJHt1c2VyLnVzZXJuYW1lfWA7CiAgaWYgKGZpbHRlcnMpIGNhY2hlS2V5ICs9IGA6JHtuZXN0VXRpbHMuaGFzaFN0cmluZyhmaWx0ZXJzKX1gOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgY3J5cHRvID0gcmVxdWlyZSgnY3J5cHRvJyk7Cg==</text>
+        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBgJHt1c2VyLnVzZXJuYW1lfWA7CiAgaWYgKGZpbHRlcnMpIGNhY2hlS2V5ICs9IGA6JHtuZXN0VXRpbHMuaGFzaFN0cmluZyhmaWx0ZXJzKX1gOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgZGF0YSA9ICJkbyBzaGFzaCdvd2FuaWEiOwo=</text>
+        <text encoding="base64">ICBsZXQgY2FjaGVLZXkgPSBgJHt1c2VybmFtZX1gOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1045,9 +1050,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Campaign</last-search>
+      <last-search encoding="base64">XDxnZXRGb3JVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>Campaign</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRGb3JVc2VyXD4=</last-pattern>
       <last-replace>BrandGroup</last-replace>
       <last-substitute>Campaign</last-substitute>
       <last-dir>1</last-dir>
@@ -1055,7 +1060,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXBGaWVsZFZhbHVlT3V0Ym91bmRcPg==</entry>
         <entry encoding="base64">XDxjbGllbnROb2Rlc1w+</entry>
         <entry encoding="base64">XDxtdXRhdGVkXD4=</entry>
         <entry encoding="base64">XDxNdXRhYmxlUXVlcnlOb2RlXD4=</entry>
@@ -1075,6 +1079,7 @@
         <entry encoding="base64">XDxjYWNoZVw+</entry>
         <entry>campaign</entry>
         <entry>Campaign</entry>
+        <entry encoding="base64">XDxnZXRGb3JVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
