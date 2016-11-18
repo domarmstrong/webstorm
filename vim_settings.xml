@@ -629,12 +629,12 @@
         <mark key="^" line="30" column="22" />
         <mark key="." line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" timestamp="1479474142642">
-        <mark key="'" line="87" column="12" />
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" timestamp="1479478419823">
+        <mark key="'" line="141" column="67" />
         <mark key="[" line="87" column="57" />
-        <mark key="]" line="87" column="78" />
-        <mark key="." line="87" column="78" />
-        <mark key="^" line="87" column="78" />
+        <mark key="]" line="79" column="38" />
+        <mark key="." line="79" column="38" />
+        <mark key="^" line="79" column="38" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web2.ts" timestamp="1476955762197">
         <mark key="'" line="0" column="0" />
@@ -794,12 +794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="23" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="168" column="20" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="170" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="203" column="51" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="210" column="69" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
-      <jump line="232" column="19" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="233" column="19" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="239" column="23" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
       <jump line="242" column="16" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" />
@@ -894,6 +888,12 @@
       <jump line="135" column="44" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.ts" />
       <jump line="141" column="29" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/utils.ts" />
       <jump line="25" column="24" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" />
+      <jump line="79" column="38" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
+      <jump line="18" column="2" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
+      <jump line="167" column="49" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
+      <jump line="172" column="27" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
+      <jump line="12" column="6" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
+      <jump line="141" column="67" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -973,7 +973,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW1wYWlnbnNcPg==</text>
+        <text encoding="base64">XDxtb25pdG9yTWFwcGluZ3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIEBwYXJhbSB1c2VyCiAqIEBwYXJhbSBxdWVyeU5vZGVzCiAqIEBwYXJhbSBvbmx5U3ViQ2xpZW50cwogKi8KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIG1hcENsaWVudHNUb0NhbXBhaWducygKICB1c2VyOiBVc2VyLAogIHF1ZXJ5Tm9kZXM6IFF1ZXJ5Tm9kZVtdLAogIG9ubHlTdWJDbGllbnRzOiBib29sZWFuID0gZmFsc2UKKTogUHJvbWlzZTxRdWVyeU5vZGVbXT4gewogIGNvbnN0IGNhbXBhaWducyA9IGF3YWl0IEFjY291bnRzLmNhbXBhaWducy5nZXRBbGxGb3JVc2VyKHVzZXIpOwoKICByZXR1cm4gcXVlcnlOb2Rlcy5tYXAobm9kZSA9PiB7CiAgICBsZXQgaXNTdWJDbGllbnQgPSBjYW1wYWlnbnMuZmluZChjYW1wYWlnbiA9PiBjYW1wYWlnbi5pZCA9PT0gbm9kZS52YWx1ZSk7CiAgICBsZXQgbWF0Y2hpbmc6IHN0cmluZ1tdOwoKICAgIGlmIChpc1N1YkNsaWVudCkgewogICAgICBtYXRjaGluZyA9IGdldERlc2NlbmRhbnRJZHMoY2FtcGFpZ25zLCBub2RlLnZhbHVlKQogICAgICAgIC5maWx0ZXIoaWQgPT4gaWQgIT09IG5vZGUudmFsdWUpOwogICAgfSBlbHNlIHsKICAgICAgaWYgKG9ubHlTdWJDbGllbnRzKSB7CiAgICAgICAgcmV0dXJuIG5vZGU7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgbWF0Y2hpbmcgPSBjYW1wYWlnbnMKICAgICAgICAgIC5maWx0ZXIoY2FtcGFpZ24gPT4gY2FtcGFpZ24uY2xpZW50ID09PSBub2RlLnZhbHVlKQogICAgICAgICAgLm1hcChjYW1wYWlnbiA9PiBjYW1wYWlnbi5pZCk7CiAgICAgIH0KICAgIH0KCiAgICBub2RlLmZpZWxkID0gJ3Byb3BlcnRpZXMuY2FtcGFpZ25zJzsKICAgIG5vZGUudmFsdWUgPSBtYXRjaGluZzsKICAgIHJldHVybiBub2RlOwogIH0pOwp9Cg==</text>
@@ -1035,19 +1035,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW1wYWlnbnNcPg==</last-search>
+      <last-search encoding="base64">XDxtb25pdG9yTWFwcGluZ3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW1wYWlnbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtb25pdG9yTWFwcGluZ3NcPg==</last-pattern>
       <last-replace />
       <last-substitute>options.paths.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aW1lX3pvbmVcPg==</entry>
-        <entry>Top</entry>
-        <entry>Top mentions</entry>
         <entry encoding="base64">XDx0b3RhbFBhbmVsQ291bnRcPg==</entry>
         <entry encoding="base64">XDxvbGRDb3VudHJpZXNTdW0xXD4=</entry>
         <entry encoding="base64">XDxvbGRDb3VudHJpZXNTdW0yXD4=</entry>
@@ -1065,6 +1062,9 @@
         <entry encoding="base64">XDxtYXBDbGllbnRzVG9DYW1wYWlnbnNcPg==</entry>
         <entry>mapCl</entry>
         <entry encoding="base64">XDxjYW1wYWlnbnNcPg==</entry>
+        <entry>SIZ</entry>
+        <entry encoding="base64">XDxTSVpNRUtcPg==</entry>
+        <entry encoding="base64">XDxtb25pdG9yTWFwcGluZ3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
