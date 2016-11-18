@@ -119,6 +119,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/signals/signals.ts" timestamp="1479471503844">
+        <mark key="'" line="52" column="42" />
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="30" />
+        <mark key="." line="52" column="30" />
+        <mark key="^" line="52" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/app/AppComponent.ts" timestamp="1477650599136">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="14" column="27" />
@@ -208,6 +215,12 @@
         <mark key="[" line="1" column="35" />
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Clients/Clients.ts" timestamp="1479471606662">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="19" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web1.pm2.json" timestamp="1476976181034">
         <mark key="[" line="3" column="28" />
@@ -383,10 +396,10 @@
         <mark key="^" line="63" column="29" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/posts/getMany.ts" timestamp="1479461313950">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="53" column="7" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/router.js" timestamp="1478887041274">
         <mark key="'" line="19" column="0" />
@@ -490,6 +503,12 @@
         <mark key="]" line="28" column="34" />
         <mark key="^" line="25" column="38" />
         <mark key="." line="28" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" timestamp="1479471478921">
+        <mark key="'" line="37" column="22" />
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="25" />
+        <mark key="." line="37" column="25" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" timestamp="1478884128289">
         <mark key="[" line="28" column="0" />
@@ -603,6 +622,13 @@
         <mark key="]" line="15" column="36" />
         <mark key="." line="15" column="36" />
         <mark key="^" line="15" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/index.ts" timestamp="1479471466282">
+        <mark key="'" line="23" column="30" />
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/dev/agile-search-v2/public/js/custom/custom-daterangepicker.js" timestamp="1479230375274">
         <mark key="[" line="800" column="0" />
@@ -754,12 +780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="52" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
-      <jump line="82" column="52" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
-      <jump line="85" column="52" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
-      <jump line="103" column="56" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
-      <jump line="106" column="56" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
-      <jump line="111" column="52" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
       <jump line="114" column="52" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
       <jump line="163" column="16" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
       <jump line="236" column="0" filename="$USER_HOME$/dev/agile-search-v2/public/js/controllers/header.js" />
@@ -854,6 +874,12 @@
       <jump line="228" column="16" filename="$USER_HOME$/dev/agile-search-v2/api/controllers/twitter.js" />
       <jump line="266" column="16" filename="$USER_HOME$/dev/agile-search-v2/api/controllers/twitter.js" />
       <jump line="240" column="41" filename="$USER_HOME$/dev/agile-search-v2/api/controllers/twitter.js" />
+      <jump line="20" column="13" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/index.ts" />
+      <jump line="21" column="23" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/index.ts" />
+      <jump line="22" column="22" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/index.ts" />
+      <jump line="23" column="30" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/index.ts" />
+      <jump line="37" column="22" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" />
+      <jump line="52" column="42" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/signals/signals.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -903,11 +929,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cnR5ODkoamspCg==</text>
+      <register name="&quot;" type="4">
+        <text>CampaignIds</text>
       </register>
       <register name="-" type="4">
-        <text>((</text>
+        <text>CampaignIds</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -933,10 +959,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRMYW5ndWFnZVw+</text>
+        <text encoding="base64">XDxjbGllbnRJZHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUudG90YWxQYW5lbENvdW50ID0gNTsK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgQ2FtcGFpZ25zIGZyb20gJy4vQ2FtcGFpZ25zL0NhbXBhaWducyc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cnR5ODkoamspCg==</text>
@@ -1011,19 +1037,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRMYW5ndWFnZVw+</last-search>
+      <last-search encoding="base64">XDxjbGllbnRJZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRMYW5ndWFnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjbGllbnRJZHNcPg==</last-pattern>
       <last-replace />
       <last-substitute>options.paths.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>timezc\c</entry>
-        <entry>time\c</entry>
-        <entry>countryguess\c</entry>
         <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
         <entry encoding="base64">XDx0aW1lbGluZVNlYXJjaFw+</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
@@ -1041,6 +1064,9 @@
         <entry encoding="base64">XDxvbGRDb3VudHJpZXNTdW0yXD4=</entry>
         <entry encoding="base64">XDxsYW5ndWFnZXNcPg==</entry>
         <entry encoding="base64">XDxnZXRMYW5ndWFnZVw+</entry>
+        <entry encoding="base64">XDxDYW1wYWlnbnNcPg==</entry>
+        <entry encoding="base64">XDxnZXRDYW1wYWlnbklkc1w+</entry>
+        <entry encoding="base64">XDxjbGllbnRJZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
