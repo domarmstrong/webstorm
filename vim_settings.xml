@@ -286,12 +286,12 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" timestamp="1479915562372">
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" timestamp="1479916202425">
         <mark key="'" line="45" column="24" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="20" />
-        <mark key="^" line="38" column="15" />
-        <mark key="." line="38" column="20" />
+        <mark key="[" line="147" column="51" />
+        <mark key="]" line="148" column="38" />
+        <mark key="^" line="148" column="38" />
+        <mark key="." line="148" column="38" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/assets/styles/_variables.scss" timestamp="1479915396260">
         <mark key="[" line="14" column="19" />
