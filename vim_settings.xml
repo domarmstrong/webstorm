@@ -254,11 +254,11 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" timestamp="1479894062019">
-        <mark key="'" line="32" column="52" />
-        <mark key="[" line="44" column="52" />
-        <mark key="]" line="44" column="58" />
-        <mark key="." line="44" column="58" />
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" timestamp="1479895654315">
+        <mark key="'" line="22" column="22" />
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
         <mark key="^" line="44" column="58" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-brain/src/config/environments/teec/production_web1.pm2.json" timestamp="1476975904907">
@@ -798,7 +798,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="58" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
       <jump line="8" column="31" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
       <jump line="52" column="68" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
       <jump line="53" column="58" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
@@ -898,6 +897,7 @@
       <jump line="181" column="20" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="31" column="52" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="32" column="52" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
+      <jump line="22" column="22" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -948,10 +948,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>param.query</text>
+        <text>wy-</text>
       </register>
       <register name="-" type="4">
-        <text>param.query</text>
+        <text>wy-</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -977,7 +977,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrZXlcPg==</text>
+        <text>wy-</text>
       </register>
       <register name="0" type="4">
         <text>dottie.get(this.method, ['queryParameters']);</text>
@@ -1043,9 +1043,9 @@ private</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxrZXlcPg==</last-search>
+      <last-search>wy-</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrZXlcPg==</last-pattern>
+      <last-pattern>wy-</last-pattern>
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
@@ -1053,7 +1053,6 @@ private</text>
     </search>
     <history>
       <history-search>
-        <entry>%7C</entry>
         <entry>\|\|</entry>
         <entry>||</entry>
         <entry encoding="base64">XDxkaXNhYmxlVHJ5XD4=</entry>
@@ -1073,6 +1072,7 @@ private</text>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry>this.path</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
+        <entry>wy-</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLydcKC4qXCknOi9cMTo=</entry>
