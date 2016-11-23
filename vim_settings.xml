@@ -16,6 +16,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.scss" timestamp="1479897974564">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/file.ts" timestamp="1474974476968">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="57" />
@@ -172,6 +177,11 @@
         <mark key="." line="166" column="74" />
         <mark key="^" line="166" column="74" />
       </file>
+      <file name="$USER_HOME$/dev/doc-data-sdk/docs/css/tryservice.css" timestamp="1479897821789">
+        <mark key="'" line="1" column="4" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/method.nunjucks" timestamp="1474995681167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="53" />
@@ -254,12 +264,12 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" timestamp="1479895654315">
-        <mark key="'" line="22" column="22" />
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="44" column="58" />
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" timestamp="1479897676640">
+        <mark key="'" line="224" column="21" />
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="23" column="71" />
+        <mark key="." line="23" column="71" />
+        <mark key="^" line="23" column="71" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-brain/src/config/environments/teec/production_web1.pm2.json" timestamp="1476975904907">
         <mark key="[" line="3" column="28" />
@@ -434,6 +444,12 @@
         <mark key="]" line="65" column="46" />
         <mark key="." line="65" column="46" />
         <mark key="^" line="65" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/auth-service/AuthServiceComponent.ts" timestamp="1479897634138">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="60" column="56" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-menu/components/menu/MenuComponent.ts" timestamp="1477669350311">
         <mark key="'" line="18" column="27" />
@@ -798,11 +814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="31" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
-      <jump line="52" column="68" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
-      <jump line="53" column="58" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/utils.ts" />
-      <jump line="33" column="13" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Campaigns/Campaigns.ts" />
-      <jump line="145" column="19" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/Campaigns/Campaigns.ts" />
       <jump line="20" column="19" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" />
       <jump line="145" column="19" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" />
       <jump line="146" column="23" filename="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" />
@@ -874,7 +885,6 @@
       <jump line="124" column="15" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="128" column="0" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="84" column="4" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="85" column="4" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="86" column="4" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="87" column="4" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="88" column="4" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
@@ -889,7 +899,6 @@
       <jump line="134" column="26" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="135" column="25" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="77" column="4" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="18" column="32" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="173" column="44" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="174" column="62" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="178" column="43" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
@@ -898,6 +907,13 @@
       <jump line="31" column="52" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="32" column="52" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="22" column="22" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
+      <jump line="18" column="32" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
+      <jump line="85" column="11" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
+      <jump line="144" column="25" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
+      <jump line="204" column="17" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
+      <jump line="213" column="21" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
+      <jump line="1" column="4" filename="$USER_HOME$/dev/doc-data-sdk/docs/css/tryservice.css" />
+      <jump line="65" column="14" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -947,11 +963,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>wy-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>wy-</text>
+        <text>-</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -977,13 +993,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>wy-</text>
+        <text encoding="base64">XDxhdXRoUmVxdWlyZWRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>dottie.get(this.method, ['queryParameters']);</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJlIHsKICAgIGZvbnQtc2l6ZTogMTFweDsKICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owp9CmNvZGUgewogICAgbWF4LWhlaWdodDogNTAwcHg7Cn0KcHJlIGNvZGUgewogICAgYm9yZGVyOiBub25lOwogICAgcGFkZGluZzogMDsKfQouZm9ybS1ob3Jpem9udGFsIC5mb3JtLWdyb3VwIHsKICAgIG1hcmdpbjogMDsKfQouc3VibWl0LWJ1dHRvbiB7CiAgICBtYXJnaW4tdG9wOiAxMHB4Owp9Cgp0cnktc2VydmljZSB7CiAgICBkaXNwbGF5OiBub25lOwp9Ci50cnktc2VydmljZSB0ZXh0YXJlYSwgLnRyeS1zZXJ2aWNlIGlucHV0IHsKICAgIGZvbnQtZmFtaWx5OiBtb25vc3BhY2U7CiAgICBmb250LXNpemU6IDExcHg7Cn0KLnRyeS1zZXJ2aWNlIGg1IHsKICAgIGNvbG9yOiAjNzc3OwogICAgbWFyZ2luLWJvdHRvbTogMTJweDsKICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgZm9udC1zaXplOiAxNXB4Owp9Ci50cnktc2VydmljZSBsYWJlbCB7CiAgICBmb250LXdlaWdodDogbm9ybWFsOwp9CgoubWV0aG9kLW5hbWUgewogICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICBmb250LXNpemU6IDE0cHg7Cn0KLm1ldGhvZC1wYXRoIHsKICAgIGZvbnQtc2l6ZTogMTJweDsKICAgIG1hcmdpbi1sZWZ0OiA1cHg7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cn0KLm1ldGhvZC1xdWVyeSB7CiAgICBmb250LXNpemU6IDExcHg7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cn0KCi53ZWxsLCAud2VsbCAucmVzdWx0IHsKICAgIHBhZGRpbmc6IDE1cHg7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjZTFlNGU1OwogICAgYmFja2dyb3VuZDogI2VlZWVlZTsKfQoKLndlbGwgaW5wdXQgewogICAgd2lkdGg6IDEwMCU7CiAgICBtYXJnaW4tYm90dG9tOiA1cHg7Cn0KCi53ZWxsIGJ1dHRvbiB7Ci8vICAgIG1hcmdpbi10b3A6IDEwcHg7Cn0KCi53ZWxsIGNvZGUgewogICAgYmFja2dyb3VuZDogd2hpdGU7Cn0KCi53eS1hbGVydCB7CiAgICBtYXJnaW4tYm90dG9tOiAxMHB4Owp9CgoubG9naW4tYm94IC53eS1hbGVydCB7CiAgICBsaW5lLWhlaWdodDogMzVweDsKfQoubG9naW4tYm94IC53eS1hbGVydCAub3IgewogICAgbWFyZ2luLXJpZ2h0OiA1cHg7Cn0KLmxvZ2luLWJveCBidXR0b24gewogICAgbWFyZ2luLXJpZ2h0OiA1cHg7Cn0KCi5sb2dpbi1ib3ggLnd5LWFsZXJ0LCAucmVzcG9uc2UtZXJyb3IgewogICAgY29sb3I6IHdoaXRlOwogICAgYmFja2dyb3VuZDogcmdiYSgxODMsIDAsIDAsIDAuNzYpOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcGF0aDogc3RyaW5nID0gJyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1008,32 +1024,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCB2YWx1ZSA9IHRoaXMucmVxdWVzdF9xdWVyeVtrZXldOwo=</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBub25lOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcGF0aDogc3RyaW5nOwogICAgcHJpdmF0ZSBub0F1dGg6IGJvb2xlYW4gPSBmYWxzZTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAubG9naW4tYm94IC5hbGVydCB7CiAgICBsaW5lLWhlaWdodDogMzVweDsKICB9CiAgLmxvZ2luLWJveCAuYWxlcnQgLm9yIHsKICAgIG1hcmdpbi1yaWdodDogNXB4OwogIH0KICAubG9naW4tYm94IGJ1dHRvbiB7CiAgICBtYXJnaW4tcmlnaHQ6IDVweDsKICB9CgogIC5sb2dpbi1ib3ggLnd5LWFsZXJ0LCAucmVzcG9uc2UtZXJyb3IgewogICAgY29sb3I6IHdoaXRlOwogICAgYmFja2dyb3VuZDogcmdiYSgxODMsIDAsIDAsIDAuNzYpOwogIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmF1dGhFcnJvciA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAud2VsbCBidXR0b24gewogICAgLy8gICAgbWFyZ2luLXRvcDogMTBweDsKICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dGhFcnJvcjogYm9vbGVhbiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>private
-private
-private
-private
-private</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0cnktc2VydmljZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlX2JvZHk6IHN0cmluZyA9ICcnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHZhbHVlcyByZWFkIGZyb20gZGlyZWN0aXZlIHRleHQgY29udGVudAogICAgZGVmYXVsdF9yZXF1ZXN0X2hlYWRlcnM6IHN0cmluZyA9ICd7fSc7CiAgICBkZWZhdWx0X3JlcXVlc3RfcGFyYW1zOiBzdHJpbmcgPSBudWxsOwogICAgZGVmYXVsdF9yZXF1ZXN0X3F1ZXJ5OiBzdHJpbmcgPSBudWxsOwogICAgZGVmYXVsdF9yZXF1ZXN0X3BhdGg6IHN0cmluZyA9ICcnOwogICAgZGVmYXVsdF9yZXF1ZXN0X2JvZHk6IHN0cmluZyA9ICcnOwogICAgZGVmYXVsdF9yZXNwb25zZV9ib2R5OiBzdHJpbmcgPSAnJzsK</text>
+        <text encoding="base64">ICBwcmUgewogICAgZm9udC1zaXplOiAxMXB4OwogICAgbGluZS1oZWlnaHQ6IDE0cHg7CiAgfQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1043,9 +1055,9 @@ private</text>
       </register>
     </registers>
     <search>
-      <last-search>wy-</last-search>
+      <last-search encoding="base64">XDxhdXRoUmVxdWlyZWRcPg==</last-search>
       <last-offset />
-      <last-pattern>wy-</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRoUmVxdWlyZWRcPg==</last-pattern>
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
@@ -1068,11 +1080,11 @@ private</text>
         <entry encoding="base64">XDxhdXRoRXJyb3JcPg==</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDxub0F1dGhcPg==</entry>
-        <entry encoding="base64">XDxhdXRoUmVxdWlyZWRcPg==</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry>this.path</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry>wy-</entry>
+        <entry encoding="base64">XDxhdXRoUmVxdWlyZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLydcKC4qXCknOi9cMTo=</entry>
