@@ -16,10 +16,10 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.scss" timestamp="1479897974564">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.scss" timestamp="1479900412660">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/file.ts" timestamp="1474974476968">
         <mark key="[" line="2" column="47" />
@@ -967,7 +967,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -993,7 +993,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoUmVxdWlyZWRcPg==</text>
+        <text>.form-hor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJlIHsKICAgIGZvbnQtc2l6ZTogMTFweDsKICAgIGxpbmUtaGVpZ2h0OiAxNHB4Owp9CmNvZGUgewogICAgbWF4LWhlaWdodDogNTAwcHg7Cn0KcHJlIGNvZGUgewogICAgYm9yZGVyOiBub25lOwogICAgcGFkZGluZzogMDsKfQouZm9ybS1ob3Jpem9udGFsIC5mb3JtLWdyb3VwIHsKICAgIG1hcmdpbjogMDsKfQouc3VibWl0LWJ1dHRvbiB7CiAgICBtYXJnaW4tdG9wOiAxMHB4Owp9Cgp0cnktc2VydmljZSB7CiAgICBkaXNwbGF5OiBub25lOwp9Ci50cnktc2VydmljZSB0ZXh0YXJlYSwgLnRyeS1zZXJ2aWNlIGlucHV0IHsKICAgIGZvbnQtZmFtaWx5OiBtb25vc3BhY2U7CiAgICBmb250LXNpemU6IDExcHg7Cn0KLnRyeS1zZXJ2aWNlIGg1IHsKICAgIGNvbG9yOiAjNzc3OwogICAgbWFyZ2luLWJvdHRvbTogMTJweDsKICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgZm9udC1zaXplOiAxNXB4Owp9Ci50cnktc2VydmljZSBsYWJlbCB7CiAgICBmb250LXdlaWdodDogbm9ybWFsOwp9CgoubWV0aG9kLW5hbWUgewogICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICBmb250LXNpemU6IDE0cHg7Cn0KLm1ldGhvZC1wYXRoIHsKICAgIGZvbnQtc2l6ZTogMTJweDsKICAgIG1hcmdpbi1sZWZ0OiA1cHg7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cn0KLm1ldGhvZC1xdWVyeSB7CiAgICBmb250LXNpemU6IDExcHg7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cn0KCi53ZWxsLCAud2VsbCAucmVzdWx0IHsKICAgIHBhZGRpbmc6IDE1cHg7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjZTFlNGU1OwogICAgYmFja2dyb3VuZDogI2VlZWVlZTsKfQoKLndlbGwgaW5wdXQgewogICAgd2lkdGg6IDEwMCU7CiAgICBtYXJnaW4tYm90dG9tOiA1cHg7Cn0KCi53ZWxsIGJ1dHRvbiB7Ci8vICAgIG1hcmdpbi10b3A6IDEwcHg7Cn0KCi53ZWxsIGNvZGUgewogICAgYmFja2dyb3VuZDogd2hpdGU7Cn0KCi53eS1hbGVydCB7CiAgICBtYXJnaW4tYm90dG9tOiAxMHB4Owp9CgoubG9naW4tYm94IC53eS1hbGVydCB7CiAgICBsaW5lLWhlaWdodDogMzVweDsKfQoubG9naW4tYm94IC53eS1hbGVydCAub3IgewogICAgbWFyZ2luLXJpZ2h0OiA1cHg7Cn0KLmxvZ2luLWJveCBidXR0b24gewogICAgbWFyZ2luLXJpZ2h0OiA1cHg7Cn0KCi5sb2dpbi1ib3ggLnd5LWFsZXJ0LCAucmVzcG9uc2UtZXJyb3IgewogICAgY29sb3I6IHdoaXRlOwogICAgYmFja2dyb3VuZDogcmdiYSgxODMsIDAsIDAsIDAuNzYpOwp9Cg==</text>
@@ -1024,28 +1024,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBub25lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGltcG9ydCAiYXNzZXRzL3N0eWxlcy92YXJpYWJsZXMiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAubG9naW4tYm94IC5hbGVydCB7CiAgICBsaW5lLWhlaWdodDogMzVweDsKICB9CiAgLmxvZ2luLWJveCAuYWxlcnQgLm9yIHsKICAgIG1hcmdpbi1yaWdodDogNXB4OwogIH0KICAubG9naW4tYm94IGJ1dHRvbiB7CiAgICBtYXJnaW4tcmlnaHQ6IDVweDsKICB9CgogIC5sb2dpbi1ib3ggLnd5LWFsZXJ0LCAucmVzcG9uc2UtZXJyb3IgewogICAgY29sb3I6IHdoaXRlOwogICAgYmFja2dyb3VuZDogcmdiYSgxODMsIDAsIDAsIDAuNzYpOwogIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAud2VsbCBidXR0b24gewogICAgLy8gICAgbWFyZ2luLXRvcDogMTBweDsKICB9Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB0cnktc2VydmljZSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBub25lOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAubG9naW4tYm94IC5hbGVydCB7CiAgICBsaW5lLWhlaWdodDogMzVweDsKICB9CiAgLmxvZ2luLWJveCAuYWxlcnQgLm9yIHsKICAgIG1hcmdpbi1yaWdodDogNXB4OwogIH0KICAubG9naW4tYm94IGJ1dHRvbiB7CiAgICBtYXJnaW4tcmlnaHQ6IDVweDsKICB9CgogIC5sb2dpbi1ib3ggLnd5LWFsZXJ0LCAucmVzcG9uc2UtZXJyb3IgewogICAgY29sb3I6IHdoaXRlOwogICAgYmFja2dyb3VuZDogcmdiYSgxODMsIDAsIDAsIDAuNzYpOwogIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAud2VsbCBidXR0b24gewogICAgLy8gICAgbWFyZ2luLXRvcDogMTBweDsKICB9Cgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmUgewogICAgZm9udC1zaXplOiAxMXB4OwogICAgbGluZS1oZWlnaHQ6IDE0cHg7CiAgfQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1055,9 +1055,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoUmVxdWlyZWRcPg==</last-search>
+      <last-search>.form-hor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoUmVxdWlyZWRcPg==</last-pattern>
+      <last-pattern>.form-hor</last-pattern>
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
@@ -1065,7 +1065,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\|\|</entry>
         <entry>||</entry>
         <entry encoding="base64">XDxkaXNhYmxlVHJ5XD4=</entry>
         <entry encoding="base64">XDx2aXNpYmxlXD4=</entry>
@@ -1085,6 +1084,7 @@
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry>wy-</entry>
         <entry encoding="base64">XDxhdXRoUmVxdWlyZWRcPg==</entry>
+        <entry>.form-hor</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLydcKC4qXCknOi9cMTo=</entry>
