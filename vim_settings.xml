@@ -22,13 +22,6 @@
         <mark key="." line="2" column="57" />
         <mark key="^" line="2" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/active-menu/ActiveMenuService.ts" timestamp="1477669342484">
-        <mark key="'" line="16" column="26" />
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/metrics.ts" timestamp="1474043201369">
         <mark key="[" line="22" column="46" />
         <mark key="]" line="22" column="49" />
@@ -309,12 +302,6 @@
         <mark key="]" line="28" column="42" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/common/services/raml/RAMLService.ts" timestamp="1477664766893">
-        <mark key="'" line="35" column="46" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/resource-macros.nunjucks" timestamp="1474991264768">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="13" />
@@ -522,11 +509,9 @@
         <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/config/client.ts" timestamp="1477671495172">
-        <mark key="'" line="27" column="39" />
-        <mark key="[" line="28" column="34" />
-        <mark key="]" line="28" column="34" />
-        <mark key="^" line="25" column="38" />
-        <mark key="." line="28" column="38" />
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="38" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Accounts/BrandGroups/BrandGroups.ts" timestamp="1479488123171">
         <mark key="[" line="165" column="0" />
@@ -616,12 +601,6 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-menu/AppMenuComponent.ts" timestamp="1477669589819">
-        <mark key="'" line="34" column="26" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" timestamp="1474999711434">
         <mark key="[" line="0" column="20" />
@@ -748,13 +727,6 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/AppRamlComponent.ts" timestamp="1477672244853">
-        <mark key="'" line="19" column="76" />
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="38" />
-        <mark key="." line="39" column="38" />
-        <mark key="^" line="39" column="38" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-cache/src/CacheManager.spec.ts" timestamp="1478865574766">
         <mark key="'" line="24" column="19" />
@@ -1060,7 +1032,7 @@
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
