@@ -175,17 +175,15 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-request/src/request.ts" timestamp="1481623027227">
-        <mark key="'" line="159" column="15" />
-        <mark key="[" line="159" column="74" />
-        <mark key="]" line="159" column="101" />
-        <mark key="." line="159" column="101" />
-        <mark key="^" line="159" column="101" />
+      <file name="$USER_HOME$/dev/bs-api-request/src/request.ts" timestamp="1481626845280">
+        <mark key="'" line="11" column="45" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="6" />
+        <mark key="." line="173" column="6" />
+        <mark key="^" line="173" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/doc-data-sdk/docs/css/tryservice.css" timestamp="1479897821789">
-        <mark key="'" line="1" column="4" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="86" column="0" />
+      <file name="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" timestamp="1481626603180">
+        <mark key="'" line="981" column="26" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/method.nunjucks" timestamp="1474995681167">
         <mark key="[" line="0" column="0" />
@@ -554,6 +552,10 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="10" column="5" />
       </file>
+      <file name="/request.ts" timestamp="1481624449024">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="86" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/config/client.ts" timestamp="1477671495172">
         <mark key="[" line="7" column="34" />
         <mark key="]" line="7" column="34" />
@@ -763,6 +765,12 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" timestamp="1481626862784">
+        <mark key="'" line="233" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/local/docker-compose.ts" timestamp="1474036790131">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="39" />
@@ -837,46 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="20" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="181" column="20" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="31" column="52" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="32" column="52" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="22" column="22" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="18" column="32" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="85" column="11" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="144" column="25" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="204" column="17" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="1" column="4" filename="$USER_HOME$/dev/doc-data-sdk/docs/css/tryservice.css" />
-      <jump line="65" column="14" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.scss" />
-      <jump line="17" column="8" filename="$USER_HOME$/dev/slush-bs/gulp/tasks/sass.js" />
-      <jump line="30" column="20" filename="$USER_HOME$/dev/slush-bs/gulp/tasks/sass.js" />
-      <jump line="40" column="52" filename="$USER_HOME$/dev/bs-raml-api-doc/gulp.config.js" />
-      <jump line="158" column="8" filename="$USER_HOME$/dev/bs-raml-api-doc/gulp.config.js" />
-      <jump line="135" column="12" filename="$USER_HOME$/dev/bs-raml-api-doc/gulp.config.js" />
-      <jump line="23" column="58" filename="$USER_HOME$/dev/bs-raml-api-doc/gulp.config.js" />
-      <jump line="24" column="17" filename="$USER_HOME$/dev/bs-raml-api-doc/gulp.config.js" />
-      <jump line="25" column="45" filename="$USER_HOME$/dev/bs-raml-api-doc/gulp.config.js" />
-      <jump line="26" column="17" filename="$USER_HOME$/dev/bs-raml-api-doc/gulp.config.js" />
-      <jump line="138" column="27" filename="$USER_HOME$/dev/bs-raml-api-doc/gulp.config.js" />
-      <jump line="191" column="4" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="34" column="3" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.scss" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.scss" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.scss" />
-      <jump line="179" column="21" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="69" column="90" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="99" column="11" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="70" column="84" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="98" column="11" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="178" column="21" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="160" column="10" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="171" column="21" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="106" column="11" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="79" column="11" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/auth-service/AuthServiceComponent.ts" />
-      <jump line="39" column="73" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/auth-service/AuthServiceComponent.ts" />
-      <jump line="55" column="36" filename="$USER_HOME$/dev/bs-raml-api-doc/src/services/auth/AuthService.ts" />
-      <jump line="18" column="25" filename="$USER_HOME$/dev/bs-raml-api-doc/src/services/auth/AuthService.ts" />
-      <jump line="24" column="29" filename="$USER_HOME$/dev/bs-raml-api-doc/src/services/auth/AuthService.ts" />
-      <jump line="21" column="34" filename="$USER_HOME$/dev/bs-raml-api-doc/src/services/auth/AuthService.ts" />
       <jump line="76" column="22" filename="$USER_HOME$/dev/bs-raml-api-doc/src/services/auth/AuthService.ts" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/bs-raml-api-doc/src/services/auth/AuthService.ts" />
       <jump line="75" column="22" filename="$USER_HOME$/dev/bs-raml-api-doc/src/services/auth/AuthService.ts" />
@@ -934,9 +902,49 @@
       <jump line="50" column="31" filename="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/ResourceComponent/ResourceComponent.ts" />
       <jump line="84" column="47" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="113" column="11" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="180" column="22" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="161" column="21" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
       <jump line="159" column="15" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="97" column="12" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="112" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="180" column="6" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="184" column="34" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="187" column="48" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="191" column="35" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="186" column="4" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="182" column="8" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="234" column="8" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
+      <jump line="85" column="4" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="27" column="42" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
+      <jump line="1058" column="12" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="1057" column="0" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="1044" column="13" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="1053" column="12" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="1071" column="12" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="465" column="21" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="474" column="20" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="54" column="7" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="266" column="15" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="267" column="15" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="308" column="51" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="312" column="40" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="327" column="18" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="574" column="11" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="579" column="11" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="606" column="11" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="629" column="17" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="667" column="15" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="671" column="15" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="705" column="11" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="772" column="16" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="776" column="16" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="818" column="17" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="827" column="15" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="911" column="30" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="981" column="26" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
+      <jump line="10" column="29" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="11" column="45" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
+      <jump line="235" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -986,11 +994,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>string</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgc2lub24gZnJvbSAnc2lub24nOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>stub</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1016,13 +1024,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlVXJsXD4=</text>
+        <text encoding="base64">XDxzdXBlcmFnZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChjbGljayk9InNob3dSZXF1ZXN0SGVhZGVycyA9ICFzaG93UmVxdWVzdEhlYWRlcnMiCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobW9jay5pbnRlcmNlcHRvcnNbMF0ucmVxLnBhdGgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzPSJoZWFkZXJzIgo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgc2lub24gZnJvbSAnc2lub24nOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1047,40 +1055,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmctYm90dG9tOiBpbmhlcml0OwogICAgICAgICAgbWF4LWhlaWdodDogNTAwcHg7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgc3VwZXJhZ2VudCBmcm9tICdzdXBlcmFnZW50JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nLXRvcDogMDsKICAgICAgICBwYWRkaW5nLWJvdHRvbTogMDsKICAgICAgICB0cmFuc2l0aW9uOiBwYWRkaW5nIDAuNXMgZWFzZSwgbWF4LWhlaWdodCAwLjVzIGVhc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyYW5zZm9ybTogc2NhbGVZKDEpOwo=</text>
+        <text encoding="base64">ICAgIGJlZm9yZUVhY2goKCkgPT4gewogICAgICBzdXBlcmFnZW50U3R1YiA9IHNpbm9uLnNweShzdXBlcmFnZW50KTsKICAgIH0pOwoKICAgIGFmdGVyRWFjaCgoKSA9PiB7CiAgICAgIHN1cGVyYWdlbnRTdHViLnJlc3RvcmUoKTsKICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm0tb3JpZ2luOiB0b3A7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
+        <text encoding="base64">ICAgIGxldCBzdXBlcmFnZW50U3R1YjogYW55Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBub25lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlVXJsXD4=</last-search>
+      <last-search encoding="base64">XDxzdXBlcmFnZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlVXJsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdXBlcmFnZW50XD4=</last-pattern>
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
@@ -1088,16 +1096,6 @@
     </search>
     <history>
       <history-search>
-        <entry>emit</entry>
-        <entry encoding="base64">XDxzZXRUb2tlblw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVIZWFkZXJzXD4=</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0X2hlYWRlcnNcPg==</entry>
-        <entry>json</entry>
-        <entry encoding="base64">XDxodHRwX3JlcXVlc3RfaGVhZGVyc1w+</entry>
-        <entry encoding="base64">XDxodHRwX3JlcXVlc3RfYm9keVw+</entry>
-        <entry encoding="base64">XDxhZGRSZXNvdXJjZVBhcmVudHNcPg==</entry>
-        <entry encoding="base64">XDxhZGRSZXNvdXJjZVBhcmVudFw+</entry>
-        <entry encoding="base64">XDxpbml0aWFsaXplVmFsdWVzXD4=</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDxyZXF1aXJlZFw+</entry>
         <entry encoding="base64">XDx1cGRhdGVQYXRoXD4=</entry>
@@ -1108,6 +1106,16 @@
         <entry encoding="base64">XDxzaG93UmVxdWVzdEhlYWRlcnNcPg==</entry>
         <entry encoding="base64">XDxyZXNvbHZlRG5zXD4=</entry>
         <entry encoding="base64">XDxtYWtlVXJsXD4=</entry>
+        <entry>url</entry>
+        <entry>headers</entry>
+        <entry encoding="base64">XDxob3N0TmFtZVw+</entry>
+        <entry encoding="base64">XDx1cmxcPg==</entry>
+        <entry encoding="base64">XDxnZXRcPg==</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
+        <entry>\.get</entry>
+        <entry>request.get</entry>
+        <entry encoding="base64">XDxzdXBlcmFnZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLydcKC4qXCknOi9cMTo=</entry>
@@ -1128,8 +1136,8 @@
         <entry encoding="base64">JzwsJz5zLyU3Qy98L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1x8XHwvXHJ8fC9n</entry>
         <entry encoding="base64">JzwsJz5zL3x8L1xyfHwvZw==</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
