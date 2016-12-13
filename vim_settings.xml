@@ -628,7 +628,7 @@
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-econometrics/src/config/defaults/constants.ts" timestamp="1481628584458">
         <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="64" />
+        <mark key="]" line="6" column="64" />
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-flow/typings/modules/bs-raml-api/index.d.ts" timestamp="1475834423711">
@@ -773,12 +773,12 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" timestamp="1481628442189">
+      <file name="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" timestamp="1481629699362">
         <mark key="'" line="114" column="9" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="^" line="235" column="67" />
-        <mark key="." line="245" column="0" />
+        <mark key="[" line="114" column="6" />
+        <mark key="]" line="114" column="6" />
+        <mark key="^" line="114" column="7" />
+        <mark key="." line="114" column="6" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/local/docker-compose.ts" timestamp="1474036790131">
         <mark key="[" line="7" column="35" />
@@ -1003,11 +1003,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJzU0OTA1OGViMzA4MzZiMjRjYmJhOTI4ZCc6ICdodHRwczovL3N0YWdlLWJyYWluLmJzYXBwcy5uZXQvbW9sc29uLWVjb25vbWV0cmljcy1hcGknLAogICAgICAnbW9sc29uJzogJ2h0dHBzOi8vc3RhZ2UtYnJhaW4uYnNhcHBzLm5ldC9tb2xzb24tZWNvbm9tZXRyaWNzLWFwaScK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>, protocol</text>
+        <text>/</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1091,7 +1091,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>xa</text>
       </register>
     </registers>
     <search>
@@ -1127,7 +1127,6 @@
         <entry>skip</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLydcKC4qXCknOi9cMTo=</entry>
         <entry encoding="base64">JzwsJz5zLydcKFx3KlwpJzovXDE6</entry>
         <entry encoding="base64">JzwsJz5zLyQvLA==</entry>
         <entry encoding="base64">JzwsJz5zL3ssL3s=</entry>
@@ -1147,6 +1146,7 @@
         <entry encoding="base64">JzwsJz5zL3x8L1xyfHwvZw==</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>xa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
