@@ -686,6 +686,9 @@
         <mark key="." line="79" column="38" />
         <mark key="^" line="79" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" timestamp="1481629769837">
+        <mark key="'" line="2287" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web2.ts" timestamp="1476955762197">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="29" />
@@ -854,10 +857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="123" column="0" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="58" column="51" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
-      <jump line="78" column="44" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="82" column="48" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="75" column="24" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
       <jump line="110" column="11" filename="$USER_HOME$/dev/bs-raml-api-doc/src/common/components/try-service/TryServiceComponent.ts" />
@@ -954,6 +953,10 @@
       <jump line="127" column="9" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
       <jump line="141" column="9" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
       <jump line="114" column="9" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
+      <jump line="579" column="23" filename="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" />
+      <jump line="586" column="18" filename="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" />
+      <jump line="1214" column="54" filename="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" />
+      <jump line="2287" column="4" filename="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1033,7 +1036,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>skip</text>
+        <text>\/brands</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnNTQ5MDU4ZWIzMDgzNmIyNGNiYmE5MjhkJzogJ2h0dHA6Ly9icmFpbi5wcm94eS5sYW4vbW9sc29uLWVjb25vbWV0cmljcy1hcGknLAogICAgICAgICdtb2xzb24nOiAnaHR0cDovL2JyYWluLnByb3h5Lmxhbi9tb2xzb24tZWNvbm9tZXRyaWNzLWFwaScK</text>
@@ -1095,9 +1098,9 @@
       </register>
     </registers>
     <search>
-      <last-search>skip</last-search>
+      <last-search>\/brands</last-search>
       <last-offset />
-      <last-pattern>skip</last-pattern>
+      <last-pattern>\/brands</last-pattern>
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
@@ -1105,8 +1108,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rows</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0X2JvZHlcPg==</entry>
         <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxzaG93UmVxdWVzdEhlYWRlcnNcPg==</entry>
         <entry encoding="base64">XDxyZXNvbHZlRG5zXD4=</entry>
@@ -1125,6 +1126,8 @@
         <entry encoding="base64">XDxob3N0XD4=</entry>
         <entry encoding="base64">XDxob3N0TmFtZVw+</entry>
         <entry>skip</entry>
+        <entry>brands</entry>
+        <entry>\/brands</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLydcKFx3KlwpJzovXDE6</entry>
