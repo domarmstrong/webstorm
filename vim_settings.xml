@@ -614,11 +614,12 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" timestamp="1481962323976">
-        <mark key="'" line="79" column="44" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" timestamp="1481963556057">
+        <mark key="'" line="57" column="10" />
+        <mark key="[" line="55" column="32" />
+        <mark key="]" line="55" column="35" />
+        <mark key="^" line="55" column="35" />
+        <mark key="." line="55" column="35" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/config/client.ts" timestamp="1477671495172">
         <mark key="[" line="7" column="34" />
@@ -980,43 +981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="18" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="574" column="11" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="579" column="11" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="606" column="11" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="629" column="17" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="667" column="15" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="671" column="15" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="705" column="11" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="772" column="16" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="776" column="16" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="818" column="17" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="827" column="15" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="911" column="30" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="981" column="26" filename="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" />
-      <jump line="10" column="29" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="11" column="45" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="236" column="6" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="235" column="40" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="1" column="31" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="232" column="12" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="192" column="27" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="188" column="52" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="182" column="0" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="187" column="59" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="190" column="41" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="191" column="34" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="180" column="13" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="186" column="57" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="189" column="39" filename="$USER_HOME$/dev/bs-api-request/src/request.ts" />
-      <jump line="245" column="22" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="90" column="6" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="127" column="9" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="141" column="9" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="114" column="9" filename="$USER_HOME$/dev/bs-api-request/src/request.spec.ts" />
-      <jump line="579" column="23" filename="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" />
-      <jump line="586" column="18" filename="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" />
-      <jump line="1214" column="54" filename="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" />
       <jump line="2287" column="4" filename="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" />
       <jump line="62" column="15" filename="$USER_HOME$/dev/app-nest-api-auth/RAML/api.raml" />
       <jump line="13" column="4" filename="$USER_HOME$/dev/app-nest-api-auth/RAML/api.raml" />
@@ -1063,23 +1027,60 @@
       <jump line="42" column="17" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="49" column="9" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="50" column="6" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="54" column="18" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="56" column="4" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="89" column="54" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="93" column="32" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="202" column="29" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="235" column="50" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="257" column="25" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="232" column="42" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="88" column="23" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="132" column="38" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="200" column="38" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="110" column="32" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="120" column="32" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="283" column="32" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="68" column="23" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="76" column="8" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="79" column="44" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="94" column="23" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="139" column="40" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="83" column="39" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="78" column="44" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="341" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="56" column="20" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="74" column="18" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="93" column="50" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="54" column="10" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="97" column="53" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="110" column="12" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="132" column="8" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="104" column="11" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="100" column="6" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="92" column="28" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="204" column="20" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="202" column="41" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="229" column="22" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="333" column="2" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="272" column="18" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="45" column="2" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="48" column="9" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="77" column="44" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="82" column="44" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="60" column="8" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="106" column="21" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="109" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="136" column="8" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="138" column="6" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="140" column="21" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="143" column="22" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="203" column="8" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="205" column="6" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="212" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="235" column="12" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="237" column="10" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="246" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="99" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="135" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="201" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="232" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="46" column="10" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="62" column="11" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="72" column="32" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="55" column="10" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1129,11 +1130,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmUK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>;</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1159,13 +1160,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NhbFBhdGhcPg==</text>
+        <text encoding="base64">XDx3YWl0QnVzeVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ewogICAgY2FsbGJhY2tzOiB7CiAgICAgIGNlcnRpZmljYXRlQ2hlY2s6ICgpID0+IDEsCiAgICAgIGNyZWRlbnRpYWxzOiAodXJsOiBzdHJpbmcsIHVzZXJOYW1lOiBzdHJpbmcpID0+IHsKICAgICAgICByZXR1cm4gR2l0LkNyZWQuc3NoS2V5RnJvbUFnZW50KHVzZXJOYW1lKTsKICAgICAgfQogICAgfQogIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuY2xlYXJCdXN5KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmUK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYnVzeUNhbGxiYWNrOiAoKSA9PiB7fTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1190,28 +1191,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBidXN5Q2FsbGJhY2s6ICgpID0+IHt9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN1cHBvcnRlZEV4dGVuc2lvbnMgPSBbJy5qc29uJywgJy55bWwnLCAnLnlhbWwnXTsKICAvLyBvbmx5IGFsbG93IG9uZSB1c2VyIHRvIHRvdWNoIGEgcmVwbyBhdCBhIHRpbWUsIHVzZXJzIG11c3Qgd2FpdCBmb3IgYSBoYW5kbGUKICBwcml2YXRlIGJ1c3lSZXBvOiB7IFtyZXBvOiBzdHJpbmddOiBQcm9taXNlPHZvaWQ+IH0gPSB7fTsKCg==</text>
+        <text encoding="base64">ICAgIGxldCBidXN5Q2FsbGJhY2s6ICgpID0+IHt9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHByb21pc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChidXN5Q2FsbGJhY2spIGJ1c3lDYWxsYmFjaygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gb25seSBhbGxvdyBvbmUgdXNlciB0byB0b3VjaCBhIHJlcG8gYXQgYSB0aW1lLCB1c2VycyBtdXN0IHdhaXQgZm9yIGEgaGFuZGxlCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGJ1c3lDYWxsYmFjaykgYnVzeUNhbGxiYWNrKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IGJ1c3k6IHsgW3JlcG86IHN0cmluZ106IFByb21pc2U8dm9pZD4gfSA9IHt9Owo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBidXN5Q2FsbGJhY2s7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc3VwcG9ydGVkRXh0ZW5zaW9ucyA9IFsnLmpzb24nLCAnLnltbCcsICcueWFtbCddOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy4uLicsIGVycik7Cg==</text>
+        <text encoding="base64">ICAgIGxldCByZXNvbHZlOiBhbnk7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1221,9 +1222,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NhbFBhdGhcPg==</last-search>
+      <last-search encoding="base64">XDx3YWl0QnVzeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NhbFBhdGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3YWl0QnVzeVw+</last-pattern>
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
@@ -1231,15 +1232,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxob3N0XD4=</entry>
-        <entry encoding="base64">XDxob3N0TmFtZVw+</entry>
-        <entry>skip</entry>
-        <entry>brands</entry>
-        <entry>\/brands</entry>
-        <entry encoding="base64">XDxwcm9wZXJ0aWVzXD4=</entry>
-        <entry>example</entry>
-        <entry encoding="base64">XDxSUENfVVJJXD4=</entry>
-        <entry encoding="base64">XDxzZWN1cmVkXD4=</entry>
         <entry encoding="base64">XDxSZXBvc2l0b3J5Q29uZmlnXD4=</entry>
         <entry encoding="base64">XDxyZXBvXD4=</entry>
         <entry>exec</entry>
@@ -1248,9 +1240,18 @@
         <entry encoding="base64">XDxnZXRGZXRjaE9wdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxidXN5XD4=</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
-        <entry encoding="base64">XDxjaGVja291dFw+</entry>
         <entry encoding="base64">XDxnZXRSZXBvc2l0b3J5XD4=</entry>
+        <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
+        <entry>wait</entry>
+        <entry encoding="base64">XDxjaGVja291dFw+</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxSZXBvc2l0b3J5XD4=</entry>
+        <entry encoding="base64">XDxnZXRMb2NhbFBhdGhcPg==</entry>
         <entry encoding="base64">XDxsb2NhbFBhdGhcPg==</entry>
+        <entry encoding="base64">XDxyZXNvbHZlXD4=</entry>
+        <entry encoding="base64">XDxfcmVzb2x2ZVw+</entry>
+        <entry encoding="base64">XDxidXN5Q2FsbGJhY2tcPg==</entry>
+        <entry encoding="base64">XDx3YWl0QnVzeVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLydcKFx3KlwpJzovXDE6</entry>
