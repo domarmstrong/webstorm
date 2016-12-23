@@ -46,6 +46,13 @@
         <mark key="." line="568" column="20" />
         <mark key="^" line="568" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/miniconometrics/api/exceptions.py" timestamp="1482485890329">
+        <mark key="'" line="0" column="30" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web1.ts" timestamp="1476955755011">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="36" column="29" />
@@ -221,6 +228,9 @@
         <mark key="]" line="19" column="12" />
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
+      </file>
+      <file name="/Python Console" timestamp="1482485242280">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/Dockerfile" timestamp="1473435621524">
         <mark key="[" line="15" column="25" />
@@ -430,6 +440,13 @@
         <mark key="]" line="27" column="20" />
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/miniconometrics/api/engine.py" timestamp="1482485493391">
+        <mark key="'" line="14" column="16" />
+        <mark key="[" line="689" column="57" />
+        <mark key="]" line="689" column="57" />
+        <mark key="^" line="687" column="28" />
+        <mark key="." line="689" column="57" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/badge-macro.nunjucks" timestamp="1474992118735">
         <mark key="[" line="0" column="9" />
@@ -689,6 +706,13 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="25" column="53" />
       </file>
+      <file name="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" timestamp="1482485924889">
+        <mark key="'" line="67" column="26" />
+        <mark key="[" line="61" column="37" />
+        <mark key="]" line="61" column="37" />
+        <mark key="." line="61" column="37" />
+        <mark key="^" line="60" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478263073733">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="3" column="8" />
@@ -771,11 +795,6 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-config/package.json" timestamp="1481960945430">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="25" />
-        <mark key="^" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/FileParser.ts" timestamp="1481967880937">
         <mark key="'" line="20" column="22" />
@@ -1005,15 +1024,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="16" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="226" column="89" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="38" column="6" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="212" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="282" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="286" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="290" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="301" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="274" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="255" column="4" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="272" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
       <jump line="276" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
@@ -1105,6 +1115,15 @@
       <jump line="20" column="27" filename="$USER_HOME$/dev/bs-config-client/src/Client.spec.ts" />
       <jump line="45" column="27" filename="$USER_HOME$/dev/bs-config-client/src/Client.spec.ts" />
       <jump line="34" column="9" filename="$USER_HOME$/dev/bs-config-client/src/Client.spec.ts" />
+      <jump line="690" column="24" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="11" column="12" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="691" column="28" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="687" column="18" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="686" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="14" column="16" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="3" column="30" filename="$USER_HOME$/dev/miniconometrics/api/exceptions.py" />
+      <jump line="57" column="26" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
+      <jump line="67" column="26" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1155,10 +1174,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>Exception</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>Exception</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1184,13 +1203,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NhbGhvc3RcPg==</text>
+        <text encoding="base64">XDxmYWxjb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihOb3RGb3VuZEVycm9yLCBzZWxmKS5fX2luaXRfXyhtZXNzYWdlKQogICAgICAgIHNlbGYuc3RhdHVzID0gNDA0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1215,28 +1234,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbmV3IEZvbGRlcihyZXBvLmxvY2FsUGF0aCkuZ2V0RmlsZShmaWxlUGF0aCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHVybGxpYgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW8uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgdXJsbGliLkhUVFBFcnJvcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdkb25lJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHVybGxpYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ZpcmUyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmlyZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbmV3IEZvbGRlcihyZXBvLmxvY2FsUGF0aCkuZ2V0RmlsZShmaWxlUGF0aCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgICAgaW8uCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1246,9 +1265,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NhbGhvc3RcPg==</last-search>
+      <last-search encoding="base64">XDxmYWxjb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NhbGhvc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmYWxjb25cPg==</last-pattern>
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
@@ -1256,9 +1275,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUT0RPXD4=</entry>
-        <entry>Folder</entry>
-        <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDxmaWxlc1w+</entry>
         <entry>mkdir</entry>
         <entry>mkd</entry>
@@ -1276,9 +1292,11 @@
         <entry encoding="base64">XDxmaWxlXD4=</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxsb2NhbGhvc3RcPg==</entry>
+        <entry encoding="base64">XDxodHRwbGliXD4=</entry>
+        <entry encoding="base64">XDxIVFRQXzQwMFw+</entry>
+        <entry encoding="base64">XDxmYWxjb25cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLydcKFx3KlwpJzovXDE6</entry>
         <entry encoding="base64">JzwsJz5zLyQvLA==</entry>
         <entry encoding="base64">JzwsJz5zL3ssL3s=</entry>
         <entry encoding="base64">JzwsJz5zLywgfS8gfQ==</entry>
@@ -1297,6 +1315,7 @@
         <entry>xa</entry>
         <entry>x</entry>
         <entry>noh</entry>
+        <entry>687</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
