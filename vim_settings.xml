@@ -447,8 +447,8 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/miniconometrics/api/engine.py" timestamp="1482489970188">
-        <mark key="'" line="247" column="5" />
+      <file name="$USER_HOME$/dev/miniconometrics/api/engine.py" timestamp="1482490651241">
+        <mark key="'" line="25" column="27" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="83" />
         <mark key="." line="25" column="0" />
@@ -1029,8 +1029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="13" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Folder.ts" />
-      <jump line="27" column="17" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Folder.ts" />
       <jump line="37" column="6" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Folder.ts" />
       <jump line="103" column="0" filename="$USER_HOME$/dev/app-nest-api-config/node_modules/@types/mz/fs.d.ts" />
       <jump line="271" column="52" filename="$USER_HOME$/dev/app-nest-api-config/node_modules/@types/mz/fs.d.ts" />
@@ -1120,7 +1118,6 @@
       <jump line="18" column="20" filename="$USER_HOME$/dev/miniconometrics/api/exceptions.py" />
       <jump line="22" column="19" filename="$USER_HOME$/dev/miniconometrics/api/exceptions.py" />
       <jump line="657" column="6" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="25" column="27" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="669" column="43" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="945" column="18" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="1526" column="5" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
@@ -1129,6 +1126,9 @@
       <jump line="72" column="4" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="247" column="5" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="9" column="23" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="150" column="26" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="25" column="27" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1208,7 +1208,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdG9yYWdlRW5naW5lXD4=</text>
+        <text encoding="base64">XDxOb3RGb3VuZEVycm9yXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgQ3VzdG9tSFRUUEVycm9yKEV4Y2VwdGlvbik6CiAgICBkZWYgX19pbml0X18oc2VsZiwgbWVzc2FnZSk6CiAgICAgICAgc3VwZXIoQ3VzdG9tSFRUUEVycm9yLCBzZWxmKS5fX2luaXRfXyhtZXNzYWdlKQogICAgICAgIHNlbGYuc3RhdHVzID0gNTAwCgoKY2xhc3MgTm90Rm91bmRFcnJvcihDdXN0b21IVFRQRXJyb3IpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1lc3NhZ2UpOgogICAgICAgIHN1cGVyKE5vdEZvdW5kRXJyb3IsIHNlbGYpLl9faW5pdF9fKG1lc3NhZ2UpCiAgICAgICAgc2VsZi5zdGF0dXMgPSA0MDQK</text>
@@ -1270,9 +1270,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdG9yYWdlRW5naW5lXD4=</last-search>
+      <last-search encoding="base64">XDxOb3RGb3VuZEVycm9yXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdG9yYWdlRW5naW5lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxOb3RGb3VuZEVycm9yXD4=</last-pattern>
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
@@ -1280,7 +1280,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNvbHZlXD4=</entry>
         <entry encoding="base64">XDxDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxmaWxlXD4=</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
@@ -1296,10 +1295,11 @@
         <entry>Exception</entry>
         <entry>NotFound</entry>
         <entry encoding="base64">XDxOb3RpZmljYXRpb25cPg==</entry>
-        <entry encoding="base64">XDxOb3RGb3VuZEVycm9yXD4=</entry>
         <entry>NotEnough</entry>
         <entry encoding="base64">XDxkeW5hbWljX21zY29wZVw+</entry>
         <entry encoding="base64">XDxTdG9yYWdlRW5naW5lXD4=</entry>
+        <entry>elast</entry>
+        <entry encoding="base64">XDxOb3RGb3VuZEVycm9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLA==</entry>
