@@ -214,8 +214,11 @@
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1482485242280">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1482494209416">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/Dockerfile" timestamp="1473435621524">
         <mark key="[" line="15" column="25" />
@@ -384,12 +387,13 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/miniconometrics/api/engine.py" timestamp="1482492797710">
-        <mark key="'" line="305" column="4" />
+      <file name="$USER_HOME$/dev/miniconometrics/api/engine.py" timestamp="1482494281293">
+        <mark key="'" line="51" column="0" />
         <mark key="[" line="666" column="74" />
         <mark key="]" line="667" column="11" />
         <mark key="." line="667" column="11" />
         <mark key="^" line="667" column="11" />
+        <mark key="n" line="1358" column="27" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/badge-macro.nunjucks" timestamp="1474992118735">
         <mark key="[" line="0" column="9" />
@@ -624,8 +628,8 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="25" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" timestamp="1482492754076">
-        <mark key="'" line="36" column="0" />
+      <file name="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" timestamp="1482493979042">
+        <mark key="'" line="220" column="28" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -889,23 +893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="8" filename="$USER_HOME$/dev/bs-config-client/src/Client.ts" />
-      <jump line="57" column="0" filename="$USER_HOME$/dev/bs-config-client/src/Client.spec.ts" />
-      <jump line="135" column="42" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
-      <jump line="33" column="10" filename="$USER_HOME$/dev/bs-config-client/src/Client.ts" />
-      <jump line="14" column="4" filename="$USER_HOME$/dev/bs-config-client/src/Client.spec.ts" />
-      <jump line="79" column="23" filename="$USER_HOME$/dev/bs-config-client/src/Client.spec.ts" />
-      <jump line="2" column="29" filename="$USER_HOME$/dev/bs-config-client/src/Client.spec.ts" />
-      <jump line="68" column="29" filename="$USER_HOME$/dev/bs-config-client/src/Client.ts" />
-      <jump line="69" column="21" filename="$USER_HOME$/dev/bs-config-client/src/Client.ts" />
-      <jump line="108" column="53" filename="$USER_HOME$/dev/bs-config-client/src/Client.ts" />
-      <jump line="118" column="53" filename="$USER_HOME$/dev/bs-config-client/src/Client.ts" />
-      <jump line="13" column="28" filename="$USER_HOME$/dev/bs-config-client/src/Client.spec.ts" />
-      <jump line="107" column="9" filename="$USER_HOME$/dev/bs-config-client/src/Client.spec.ts" />
-      <jump line="20" column="27" filename="$USER_HOME$/dev/bs-config-client/src/Client.spec.ts" />
-      <jump line="45" column="27" filename="$USER_HOME$/dev/bs-config-client/src/Client.spec.ts" />
-      <jump line="34" column="9" filename="$USER_HOME$/dev/bs-config-client/src/Client.spec.ts" />
-      <jump line="690" column="24" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="11" column="12" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="691" column="28" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="686" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
@@ -927,7 +914,6 @@
       <jump line="56" column="6" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="770" column="27" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="46" column="10" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="54" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="119" column="22" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
@@ -939,7 +925,6 @@
       <jump line="62" column="26" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="63" column="15" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="280" column="10" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="672" column="18" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="14" column="24" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="12" column="6" filename="$USER_HOME$/dev/miniconometrics/api/exceptions.py" />
       <jump line="18" column="20" filename="$USER_HOME$/dev/miniconometrics/api/exceptions.py" />
@@ -989,6 +974,25 @@
       <jump line="674" column="20" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
       <jump line="305" column="4" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="672" column="67" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="1052" column="39" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="1127" column="47" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="1311" column="13" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="29" column="29" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
+      <jump line="156" column="8" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
+      <jump line="159" column="23" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
+      <jump line="165" column="8" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
+      <jump line="167" column="23" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
+      <jump line="205" column="8" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
+      <jump line="217" column="8" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
+      <jump line="220" column="28" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
+      <jump line="1333" column="38" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="1159" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="50" column="4" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="786" column="15" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="867" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="879" column="16" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1068,7 +1072,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>NoTar</text>
+        <text>assert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZGIuc2Vzc2lvbi5yb2xsYmFjaygpCg==</text>
@@ -1126,13 +1130,13 @@
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>NoTar</last-search>
+      <last-search>assert</last-search>
       <last-offset />
-      <last-pattern>NoTar</last-pattern>
+      <last-pattern>assert</last-pattern>
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
@@ -1140,11 +1144,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOb3RFbm91Z2hEYXRhXD4=</entry>
-        <entry encoding="base64">XDxOZWdhdGl2ZUJhc2VcPg==</entry>
-        <entry>Exception</entry>
-        <entry>NotFound</entry>
-        <entry>NotEnough</entry>
         <entry encoding="base64">XDxkeW5hbWljX21zY29wZVw+</entry>
         <entry encoding="base64">XDxTdG9yYWdlRW5naW5lXD4=</entry>
         <entry>brand_heal</entry>
@@ -1160,6 +1159,11 @@
         <entry encoding="base64">XDxOb3RGb3VuZEVycm9yXD4=</entry>
         <entry encoding="base64">XDxOb3RUYXJnZXRGb3VuZFw+</entry>
         <entry>NoTar</entry>
+        <entry>promoti</entry>
+        <entry encoding="base64">XDxwcm9tb3Rp</entry>
+        <entry encoding="base64">XDxwcm9tb3Rpb25hbF9wbGFubmluZ19zaW11bGF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxwcm9tX3BsYW5uaW5nX3NpbXVsYXRpb25cPg==</entry>
+        <entry>assert</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLA==</entry>
@@ -1180,8 +1184,8 @@
         <entry>xa</entry>
         <entry>x</entry>
         <entry>687</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
