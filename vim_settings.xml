@@ -127,6 +127,13 @@
         <mark key="^" line="23" column="61" />
         <mark key="." line="23" column="61" />
       </file>
+      <file name="$USER_HOME$/dev/chef-nest-platform/cookbooks/node-apps/recipes/run-node-app.rb" timestamp="1483711281397">
+        <mark key="'" line="17" column="23" />
+        <mark key="[" line="55" column="84" />
+        <mark key="]" line="55" column="110" />
+        <mark key="^" line="55" column="110" />
+        <mark key="." line="55" column="110" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web2.pm2.json" timestamp="1476976187706">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="35" />
@@ -730,6 +737,12 @@
         <mark key="." line="79" column="38" />
         <mark key="^" line="79" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/chef-nest-platform/cookbooks/node-apps/attributes/default.rb" timestamp="1483711157205">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="51" />
+        <mark key="." line="15" column="51" />
+        <mark key="^" line="15" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" timestamp="1481629769837">
         <mark key="'" line="2287" column="4" />
       </file>
@@ -905,12 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="30" filename="$USER_HOME$/dev/miniconometrics/api/exceptions.py" />
-      <jump line="57" column="26" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
-      <jump line="67" column="26" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
-      <jump line="671" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="687" column="28" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="51" column="20" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
       <jump line="7" column="24" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/miniconometrics/api/exceptions.py" />
@@ -1005,6 +1012,12 @@
       <jump line="125" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/README.md" />
       <jump line="98" column="39" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/README.md" />
       <jump line="61" column="108" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/README.md" />
+      <jump line="74" column="64" filename="$USER_HOME$/dev/chef-nest-platform/cookbooks/node-apps/recipes/run-node-app.rb" />
+      <jump line="42" column="20" filename="$USER_HOME$/dev/chef-nest-platform/cookbooks/node-apps/recipes/install-node.rb" />
+      <jump line="13" column="4" filename="$USER_HOME$/dev/chef-nest-platform/cookbooks/node-apps/recipes/run-node-app.rb" />
+      <jump line="72" column="11" filename="$USER_HOME$/dev/chef-nest-platform/cookbooks/node-apps/recipes/run-node-app.rb" />
+      <jump line="16" column="20" filename="$USER_HOME$/dev/chef-nest-platform/cookbooks/node-apps/recipes/run-node-app.rb" />
+      <jump line="17" column="23" filename="$USER_HOME$/dev/chef-nest-platform/cookbooks/node-apps/recipes/run-node-app.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1054,11 +1067,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KiBTZWUgYWJvdmUgcmVnYXJkaW5nIHNvY2lhbG5hdXQgcHJveHkK</text>
+      <register name="&quot;" type="4">
+        <text>npm</text>
       </register>
       <register name="-" type="4">
-        <text>run build</text>
+        <text>npm</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1084,10 +1097,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
+        <text encoding="base64">XDxzcGxpdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">KiBgJCBucG0gcnVuIGJ1aWxkYAo=</text>
+      <register name="0" type="4">
+        <text>$(n bin v#{node['nodejs']['version']})</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KiBTZWUgYWJvdmUgcmVnYXJkaW5nIHNvY2lhbG5hdXQgcHJveHkK</text>
@@ -1146,9 +1159,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXJ2ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxzcGxpdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXJ2ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzcGxpdFw+</last-pattern>
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
@@ -1156,9 +1169,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdG9yYWdlRW5naW5lXD4=</entry>
-        <entry>brand_heal</entry>
-        <entry encoding="base64">XDxicmFuZF9oZWFsdGhfc3VtbWFyeVw+</entry>
         <entry>NotF</entry>
         <entry>target</entry>
         <entry>target_mio</entry>
@@ -1176,6 +1186,9 @@
         <entry encoding="base64">XDxwcm9tX3BsYW5uaW5nX3NpbXVsYXRpb25cPg==</entry>
         <entry>assert</entry>
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
+        <entry encoding="base64">XDxub2RlX2V4ZVw+</entry>
+        <entry encoding="base64">XDxucG1TY3JpcHRzXD4=</entry>
+        <entry encoding="base64">XDxzcGxpdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ssL3s=</entry>
