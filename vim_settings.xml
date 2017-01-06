@@ -52,12 +52,6 @@
         <mark key="." line="568" column="20" />
         <mark key="^" line="568" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/miniconometrics/api/exceptions.py" timestamp="1482492697557">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="8" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/node_modules/casual/index.d.ts" timestamp="1483709116925">
         <mark key="[" line="291" column="19" />
         <mark key="]" line="291" column="23" />
@@ -151,6 +145,13 @@
         <mark key="]" line="49" column="16" />
         <mark key="." line="49" column="16" />
         <mark key="^" line="49" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/UnsavedStreamGroup.raml" timestamp="1483722772164" />
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/UnsavedUniverse.raml" timestamp="1483723405270">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Role.raml" timestamp="1473865298451">
         <mark key="[" line="20" column="12" />
@@ -335,6 +336,12 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/Stream.raml" timestamp="1483723186701">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/nest/stage.ts" timestamp="1478871128319">
         <mark key="[" line="21" column="6" />
         <mark key="]" line="21" column="12" />
@@ -386,17 +393,9 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/miniconometrics/api/engine.py" timestamp="1482494281293">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="666" column="74" />
-        <mark key="]" line="667" column="11" />
-        <mark key="." line="667" column="11" />
-        <mark key="^" line="667" column="11" />
-        <mark key="n" line="1358" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/Universe.raml" timestamp="1483714816133">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="11" />
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/Universe.raml" timestamp="1483722776554">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="29" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
@@ -582,11 +581,12 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" timestamp="1483715230537">
-        <mark key="'" line="378" column="33" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="16" column="60" />
-        <mark key="." line="16" column="60" />
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" timestamp="1483723690432">
+        <mark key="'" line="390" column="22" />
+        <mark key="[" line="394" column="35" />
+        <mark key="]" line="394" column="35" />
+        <mark key="^" line="378" column="16" />
+        <mark key="." line="394" column="35" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/wallaby.json" timestamp="1474032854435">
         <mark key="[" line="10" column="4" />
@@ -632,23 +632,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="27" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/bs-config-client/src/Client.ts" timestamp="1481976649255">
-        <mark key="'" line="122" column="53" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="88" column="3" />
-        <mark key="." line="85" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/FileParser.spec.ts" timestamp="1481971480304">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="25" column="53" />
-      </file>
-      <file name="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" timestamp="1482493979042">
-        <mark key="'" line="220" column="28" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-socialnaut/test/client/modules/app-ui-components/filters/panels/timePanel/TimePanelController.js" timestamp="1478263073733">
         <mark key="'" line="4" column="0" />
@@ -682,6 +670,10 @@
         <mark key="]" line="12" column="8" />
         <mark key="." line="12" column="8" />
         <mark key="^" line="12" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/UniverseState.raml" timestamp="1483723381502">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-flow/typings/modules/bs-raml-api/index.d.ts" timestamp="1475834423711">
         <mark key="[" line="34" column="4" />
@@ -719,12 +711,6 @@
         <mark key="]" line="82" column="13" />
         <mark key="^" line="82" column="13" />
         <mark key="." line="82" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/FileParser.ts" timestamp="1481967880937">
-        <mark key="'" line="20" column="22" />
-        <mark key="[" line="38" column="2" />
-        <mark key="]" line="38" column="2" />
-        <mark key="." line="38" column="2" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/child.nunjucks" timestamp="1474999711434">
         <mark key="[" line="0" column="20" />
@@ -887,12 +873,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-config/src/server/controllers/repositories.ts" timestamp="1481966631016">
-        <mark key="'" line="6" column="24" />
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="21" />
-        <mark key="." line="22" column="21" />
-      </file>
       <file name="$USER_HOME$/dev/bs-api-cache/src/CacheManager.spec.ts" timestamp="1478865574766">
         <mark key="'" line="24" column="19" />
         <mark key="[" line="156" column="51" />
@@ -912,12 +892,12 @@
         <mark key="." line="1" column="39" />
         <mark key="^" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/config_backup.json" timestamp="1483722442255">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/config_backup.json" timestamp="1483722606733">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/OverviewComponent/OverviewComponent.ts" timestamp="1477662188932">
         <mark key="[" line="12" column="0" />
@@ -940,19 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="22" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="1157" column="18" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="755" column="22" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="756" column="22" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="118" column="19" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="62" column="26" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="63" column="15" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="280" column="10" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="14" column="24" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="12" column="6" filename="$USER_HOME$/dev/miniconometrics/api/exceptions.py" />
-      <jump line="18" column="20" filename="$USER_HOME$/dev/miniconometrics/api/exceptions.py" />
-      <jump line="22" column="19" filename="$USER_HOME$/dev/miniconometrics/api/exceptions.py" />
-      <jump line="657" column="6" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="669" column="43" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="945" column="18" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="1526" column="5" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
@@ -1040,6 +1007,19 @@
       <jump line="193" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
       <jump line="377" column="33" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/config_backup.json" />
+      <jump line="46" column="20" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="162" column="8" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="17" column="31" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="236" column="18" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="366" column="16" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="394" column="39" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="399" column="27" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="389" column="23" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="613" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="378" column="17" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="604" column="30" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="605" column="30" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="390" column="22" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1089,11 +1069,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdXNlckFwaTogJ2FwcDIyLnN0YWdlLmJzLmxhbi9zdGFnZS91c2VyJywK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.raml</text>
+        <text>&quot;</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1119,13 +1099,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTYXZlZFN0cmVhbUdyb3VwXD4=</text>
+        <text>sentiment&quot;: &quot;.*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBVbml2ZXJzZVN0YXRlOiAhaW5jbHVkZSBkYXRhU2NoZW1hcy9Vbml2ZXJzZVN0YXRlLnJhbWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJpZCI6ICI5NDEzNTMxOC1kM2ZkLTQ1YWEtODc0NS0zYTAzZDU4YTJiNTgiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdXNlckFwaTogJ2FwcDIyLnN0YWdlLmJzLmxhbi9zdGFnZS91c2VyJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1150,28 +1130,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0ZXJtczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaXRlbXM6CiAgICAgICAgdHlwZToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBPOiBPY2Nhc2lvbgo=</text>
+        <text encoding="base64">ICAqIEU6IEVtb3Rpb24KICAqIEY6IEZ1bmN0aW9uCiAgKiBPOiBPY2Nhc2lvbgogICogUDogUHJvZHVjdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBGOiBGdW5jdGlvbgo=</text>
+        <text encoding="base64">ZW51bTogWydFJywgJ0YnLCAnTycsICdQJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBFOiBFbW90aW9uCg==</text>
+        <text encoding="base64">ICAgICJkYXRhYmFzZSI6IHsKICAgICAgInJhdGVMaW1pdHMiOiB7CiAgICAgICAgInVybCI6ICJtb25nb2RiOi8vbW9uZ28yMS5kZXYuYnMubGFuL2FwcC1uZXN0LWFwaS1yYXRlLWxpbWl0cyIKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdXNlckFwaTogJ2FwcDIyLnN0YWdlLmJzLmxhbi9zdGFnZS91c2VyJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZDogc3RyaW5nCiAgY3JlYXRlZF9ieTogc3RyaW5nCiAgbW9kaWZpZWRfYnk/OiBzdHJpbmcKICBjcmVhdGVkX2RhdGV0aW1lOiBkYXRldGltZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0ZXJtczoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN1ZG8gYXB0LWdldCBpbnN0YWxsIHJ1YnkyLjIK</text>
+        <text encoding="base64">ICAgICAgaXRlbXM6CiAgICAgICAgdHlwZToK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1181,27 +1161,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTYXZlZFN0cmVhbUdyb3VwXD4=</last-search>
+      <last-search>sentiment&quot;: &quot;.*</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTYXZlZFN0cmVhbUdyb3VwXD4=</last-pattern>
-      <last-replace>\r||</last-replace>
-      <last-substitute>||</last-substitute>
+      <last-pattern>sentiment&quot;: &quot;.*</last-pattern>
+      <last-replace>sentiment&quot;: 0.5,</last-replace>
+      <last-substitute>sentiment&quot;: &quot;.*</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>NotFoundError</entry>
-        <entry encoding="base64">XDxOb3RpZmljYXRpb25cPg==</entry>
-        <entry encoding="base64">XDxOb3RGb3VuZEVycm9yXD4=</entry>
-        <entry encoding="base64">XDxOb3RUYXJnZXRGb3VuZFw+</entry>
-        <entry>NoTar</entry>
-        <entry>promoti</entry>
-        <entry encoding="base64">XDxwcm9tb3Rp</entry>
-        <entry encoding="base64">XDxwcm9tb3Rpb25hbF9wbGFubmluZ19zaW11bGF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxwcm9tX3BsYW5uaW5nX3NpbXVsYXRpb25cPg==</entry>
-        <entry>assert</entry>
-        <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
         <entry encoding="base64">XDxub2RlX2V4ZVw+</entry>
         <entry encoding="base64">XDxucG1TY3JpcHRzXD4=</entry>
         <entry encoding="base64">XDxzcGxpdFw+</entry>
@@ -1211,13 +1180,19 @@
         <entry encoding="base64">XDxVbnNhdmVkVW5pdmVyc2VcPg==</entry>
         <entry encoding="base64">XDxTdHJlYW1Hcm91cFw+</entry>
         <entry encoding="base64">XDxTYXZlZFN0cmVhbUdyb3VwXD4=</entry>
+        <entry>Page</entry>
+        <entry>Paga</entry>
+        <entry encoding="base64">XDxTdHJlYW1cPg==</entry>
+        <entry encoding="base64">XDxEZWxldGVkU3RyZWFtR3JvdXBcPg==</entry>
+        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxjb3VudFw+</entry>
+        <entry>count&quot;: .*</entry>
+        <entry>count&quot;.*</entry>
+        <entry encoding="base64">XDxzZW50aW1lbnRcPg==</entry>
+        <entry>sentiment&quot;.*</entry>
+        <entry>sentiment&quot;: &quot;.*</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywgfS8gfQ==</entry>
-        <entry encoding="base64">JzwsJz5zLyJcKFx3KlwpIjovXDE6</entry>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>%s/key = '\w'/key = 'a'/gc</entry>
-        <entry>%s/options.paths.//gc</entry>
         <entry encoding="base64">JzwsJz5zL2NhbXBhaWduL2JyYW5kR3JvdXAvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL0NhbXBhaWduL0JyYW5kR3JvdXAvZ2M=</entry>
         <entry>164</entry>
@@ -1230,8 +1205,13 @@
         <entry>x</entry>
         <entry>687</entry>
         <entry>292</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zb3I=</entry>
+        <entry>%s/count&quot;.*/count&quot;: 1234/gc</entry>
+        <entry>%s/count&quot;.*/count&quot;: 1234,/gc</entry>
+        <entry>noh</entry>
+        <entry>%s/sentiment&quot;.*/sentiment&quot;: 0.5/gc</entry>
+        <entry>%s/sentiment&quot;.*/sentiment&quot;: 0.5,/gc</entry>
+        <entry>%s/sentiment&quot;: &quot;.*/sentiment&quot;: 0.5,/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
