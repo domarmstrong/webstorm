@@ -89,9 +89,6 @@
         <mark key="." line="15" column="26" />
         <mark key="^" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/slush-bs/gulp/tasks/sass.js" timestamp="1479901260396">
-        <mark key="'" line="30" column="20" />
-      </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/macros/badge.nunjucks" timestamp="1474996587341">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="5" column="1" />
@@ -206,9 +203,6 @@
         <mark key="]" line="39" column="2" />
         <mark key="." line="39" column="2" />
         <mark key="^" line="39" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-api-request/node_modules/superagent/lib/client.js" timestamp="1481626603180">
-        <mark key="'" line="981" column="26" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/method.nunjucks" timestamp="1474995681167">
         <mark key="[" line="0" column="0" />
@@ -366,9 +360,6 @@
         <mark key="]" line="80" column="90" />
         <mark key="^" line="80" column="90" />
         <mark key="." line="80" column="90" />
-      </file>
-      <file name="$USER_HOME$/dev/miniconometrics/api/tests/conftest.py" timestamp="1482491543274">
-        <mark key="'" line="117" column="16" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/resource-macros.nunjucks" timestamp="1474991264768">
         <mark key="[" line="0" column="9" />
@@ -535,9 +526,6 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-config/node_modules/@types/mongoose/index.d.ts" timestamp="1481645589929">
-        <mark key="'" line="1458" column="69" />
-      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.ts" timestamp="1474977917769">
         <mark key="[" line="14" column="69" />
         <mark key="]" line="15" column="1" />
@@ -625,9 +613,6 @@
         <mark key="]" line="29" column="2" />
         <mark key="." line="29" column="2" />
         <mark key="^" line="29" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-config/node_modules/@types/mz/fs.d.ts" timestamp="1481969962023">
-        <mark key="'" line="246" column="17" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-config/src/config/environments/nest/stage.ts" timestamp="1483719315778">
         <mark key="[" line="12" column="0" />
@@ -772,9 +757,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="4" column="8" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-econometrics/RAML/api.raml" timestamp="1481629769837">
-        <mark key="'" line="2287" column="4" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web2.ts" timestamp="1476955762197">
         <mark key="'" line="0" column="0" />
@@ -930,6 +912,13 @@
         <mark key="." line="1" column="39" />
         <mark key="^" line="1" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/config_backup.json" timestamp="1483722442255">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/OverviewComponent/OverviewComponent.ts" timestamp="1477662188932">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -949,12 +938,8 @@
         <mark key="." line="11" column="75" />
         <mark key="^" line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/miniconometrics/api/tests/test_engine_archrivals.py" timestamp="1482491539050">
-        <mark key="'" line="5" column="48" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="22" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="122" column="22" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="1157" column="18" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="755" column="22" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
@@ -1054,6 +1039,7 @@
       <jump line="199" column="28" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
       <jump line="193" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
       <jump line="377" column="33" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/config_backup.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
