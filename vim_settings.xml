@@ -892,12 +892,12 @@
         <mark key="." line="1" column="39" />
         <mark key="^" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/config_backup.json" timestamp="1483722606733">
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/config_backup.json" timestamp="1483724375791">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="4" />
-        <mark key="^" line="11" column="4" />
-        <mark key="." line="11" column="4" />
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="22" column="50" />
+        <mark key="^" line="22" column="50" />
+        <mark key="." line="22" column="50" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/OverviewComponent/OverviewComponent.ts" timestamp="1477662188932">
         <mark key="[" line="12" column="0" />
@@ -1070,10 +1070,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>http://web21.dev.bs.lan/</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>http://web21.dev.bs.lan/</text>
       </register>
       <register name="n" type="4">
         <keys>
