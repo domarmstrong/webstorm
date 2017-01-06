@@ -691,6 +691,13 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/README.md" timestamp="1483695217162">
+        <mark key="'" line="61" column="108" />
+        <mark key="[" line="82" column="13" />
+        <mark key="]" line="82" column="13" />
+        <mark key="^" line="82" column="13" />
+        <mark key="." line="82" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/FileParser.ts" timestamp="1481967880937">
         <mark key="'" line="20" column="22" />
         <mark key="[" line="38" column="2" />
@@ -892,9 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="12" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="691" column="28" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="686" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="3" column="30" filename="$USER_HOME$/dev/miniconometrics/api/exceptions.py" />
       <jump line="57" column="26" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
       <jump line="67" column="26" filename="$USER_HOME$/dev/miniconometrics/api/falcon_api.py" />
@@ -992,6 +996,9 @@
       <jump line="867" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="879" column="16" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/README.md" />
+      <jump line="98" column="39" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/README.md" />
+      <jump line="61" column="108" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1041,11 +1048,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KiBTZWUgYWJvdmUgcmVnYXJkaW5nIHNvY2lhbG5hdXQgcHJveHkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>run build</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1071,13 +1078,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>assert</text>
+        <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZGIuc2Vzc2lvbi5yb2xsYmFjaygpCg==</text>
+        <text encoding="base64">KiBgJCBucG0gcnVuIGJ1aWxkYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiBTZWUgYWJvdmUgcmVnYXJkaW5nIHNvY2lhbG5hdXQgcHJveHkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1102,48 +1109,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZGIuc2Vzc2lvbi5yb2xsYmFjaygpCg==</text>
+        <text encoding="base64">KiBGb3Igb3RoZXIgdGVzdGluZyBlbnN1cmUgd2hlbiBydW5uaW5nIHRoZSBzZXJ2ZXIgdGhhdCBOT0RFX0VOViBpcyBzZXQgdG8gJ3Rlc3QnCgkJYGBgCgkJJCBOT0RFX0VOVj10ZXN0IGd1bHAgc2VydmVyCgkJYGBgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgcmFpc2UgZQo=</text>
+        <text encoding="base64">CiMjIyBDbGVhciBhbGwgcGVybWlzc2lvbnMgY2FjaGVzCmBgYAovYWRtaW4vY2xlYXItY2FjaGUvdXNlci5wZXJtaXNzaW9ucwpgYGAKCiMjIyBDbGVhciBwZXJtaXNzaW9uIGNhY2hlIGZvciBhIHVzZXIgYnkgaWQKYGBgCi9hZG1pbi9jbGVhci1jYWNoZS91c2VyLnBlcm1pc3Npb25zP2tleT17dXNlci5pZH0KYGBgCgojIyMgQ2xlYXIgYWxsIHJlc3BvbnNlIGNhY2hlcwpgYGAKL2FkbWluL2NsZWFyLWNhY2hlL3Jlc3BvbnNlCmBgYAoKIyMjIENsZWFyIG9ubHkgdGhlIC9yZXNvdXJjZXMvY2xpZW50cwpgYGAKL2FkbWluL2NsZWFyLWNhY2hlL3Jlc3BvbnNlP2tleT0vcmVzb3VyY2VzL2NsaWVudHMKYGBgCgojIyMgQ2xlYXIgYWxsIG1vbml0b3IgY2FjaGVzCmBgYAovYWRtaW4vY2xlYXItY2FjaGUvbW9uaXRvcnMKYGBgCgojIyMgQ2xlYXIgb25seSB0aGUgL3Jlc291cmNlcy9jbGllbnRzCmBgYAovYWRtaW4vY2xlYXItY2FjaGUvbW9uaXRvcnM/a2V5PXttb25pdG9yLmlkfQpgYGAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">IyMjIENsZWFyIG93biBjYWNoZSAob25seSBjb3ZlcnMgcGVybWlzc2lvbnMpCmBgYAovYWNjb3VudHMvdXNlci9jbGVhci1jYWNoZQpgYGAKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBtZXNzYWdlKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKG1lc3NhZ2UpCiAgICAgICAgc2VsZi5zdGF0dXMgPSA0MDQK</text>
+        <text encoding="base64">QXV0aGVudGljYXRpb24gdGhyb3VnaCB0aGUgTmVzdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZGIuc2Vzc2lvbi5yb2xsYmFjaygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYi5zZXNzaW9uLnJvbGxiYWNrKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZGIuc2Vzc2lvbi5yb2xsYmFjaygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhcGkuZXhjZXB0aW9ucyBpbXBvcnQgTm90Rm91bmRFcnJvciwgTm90aWZpY2F0aW9uLCBOb3RFbm91Z2hEYXRhLCBOZWdhdGl2ZUJhc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgcmFpc2UgZQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>assert</last-search>
+      <last-search encoding="base64">XDxzZXJ2ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>assert</last-pattern>
+      <last-pattern encoding="base64">XDxzZXJ2ZXJcPg==</last-pattern>
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkeW5hbWljX21zY29wZVw+</entry>
         <entry encoding="base64">XDxTdG9yYWdlRW5naW5lXD4=</entry>
         <entry>brand_heal</entry>
         <entry encoding="base64">XDxicmFuZF9oZWFsdGhfc3VtbWFyeVw+</entry>
@@ -1163,6 +1169,7 @@
         <entry encoding="base64">XDxwcm9tb3Rpb25hbF9wbGFubmluZ19zaW11bGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxwcm9tX3BsYW5uaW5nX3NpbXVsYXRpb25cPg==</entry>
         <entry>assert</entry>
+        <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLA==</entry>
@@ -1183,8 +1190,8 @@
         <entry>xa</entry>
         <entry>x</entry>
         <entry>687</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
