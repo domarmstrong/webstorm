@@ -141,11 +141,10 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Signals/signals/signals.ts" timestamp="1479481473229">
-        <mark key="'" line="51" column="19" />
-        <mark key="[" line="61" column="6" />
-        <mark key="]" line="61" column="16" />
-        <mark key="." line="61" column="16" />
-        <mark key="^" line="61" column="16" />
+        <mark key="[" line="49" column="6" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+        <mark key="^" line="49" column="16" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Role.raml" timestamp="1473865298451">
         <mark key="[" line="20" column="12" />
@@ -1140,7 +1139,7 @@
       <last-replace>\r||</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
