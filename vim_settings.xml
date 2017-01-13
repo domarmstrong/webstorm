@@ -876,7 +876,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0eXBlXD4=</text>
+        <text>items</text>
       </register>
       <register name="0" type="4">
         <text>type.nameId()</text>
@@ -938,17 +938,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0eXBlXD4=</last-search>
+      <last-search>items</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0eXBlXD4=</last-pattern>
+      <last-pattern>items</last-pattern>
       <last-replace>sentiment&quot;: 0.5,</last-replace>
       <last-substitute>sentiment&quot;: &quot;.*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTYXZlZFN0cmVhbUdyb3VwXD4=</entry>
         <entry>Page</entry>
         <entry>Paga</entry>
         <entry encoding="base64">XDxTdHJlYW1cPg==</entry>
@@ -968,6 +967,7 @@
         <entry>InHeir</entry>
         <entry>InHier</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
+        <entry>items</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NhbXBhaWduL2JyYW5kR3JvdXAvZ2M=</entry>
