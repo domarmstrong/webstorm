@@ -101,6 +101,12 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/package.json" timestamp="1484301901706">
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/agile-search-v2/public/js/controllers/twitter.js" timestamp="1479231539862">
         <mark key="'" line="293" column="48" />
         <mark key="[" line="424" column="0" />
@@ -373,6 +379,12 @@
         <mark key="^" line="80" column="90" />
         <mark key="." line="80" column="90" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/number.spec.ts" timestamp="1484301485702">
+        <mark key="[" line="107" column="13" />
+        <mark key="]" line="107" column="14" />
+        <mark key="^" line="104" column="16" />
+        <mark key="." line="107" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/resource-macros.nunjucks" timestamp="1474991264768">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="13" />
@@ -504,11 +516,11 @@
         <mark key="." line="32" column="44" />
         <mark key="^" line="32" column="44" />
       </file>
-      <file name="/fragment.js" timestamp="1474978000286">
+      <file name="/fragment.js" timestamp="1484301525158">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-auth/src/config/environments/teec/production.pm2.json" timestamp="1476975605671">
         <mark key="'" line="0" column="0" />
@@ -917,7 +929,7 @@
         <mark key="." line="11" column="75" />
         <mark key="^" line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.ts" timestamp="1484300182587">
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.ts" timestamp="1484301385015">
         <mark key="[" line="53" column="35" />
         <mark key="]" line="53" column="70" />
         <mark key="." line="53" column="70" />
@@ -1075,10 +1087,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>isValueType</text>
+        <text>https://github.com/raml-org/raml-js-parser-2.git#886d1f4</text>
       </register>
       <register name="-" type="4">
-        <text>isValueType</text>
+        <text>https://github.com/raml-org/raml-js-parser-2.git#886d1f4</text>
       </register>
       <register name="n" type="4">
         <keys>
