@@ -146,7 +146,6 @@
         <mark key="." line="49" column="16" />
         <mark key="^" line="49" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/UnsavedStreamGroup.raml" timestamp="1483722772164" />
       <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/UnsavedUniverse.raml" timestamp="1483723405270">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="10" />
@@ -164,12 +163,6 @@
         <mark key="]" line="28" column="73" />
         <mark key="." line="28" column="67" />
         <mark key="^" line="28" column="67" />
-      </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/array.ts" timestamp="1474974875258">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="50" />
-        <mark key="." line="15" column="50" />
-        <mark key="^" line="15" column="50" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-cache/src/stores/MemoryStore.spec.ts" timestamp="1478867719792">
         <mark key="[" line="7" column="0" />
@@ -777,12 +770,6 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/union.spec.ts" timestamp="1474977944527">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-config/typings/modules/nodegit/index.d.ts" timestamp="1481639506747">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="24" />
@@ -1167,7 +1154,7 @@
       <last-replace>sentiment&quot;: 0.5,</last-replace>
       <last-substitute>sentiment&quot;: &quot;.*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
