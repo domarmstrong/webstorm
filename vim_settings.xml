@@ -688,18 +688,15 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.ts" timestamp="1484307262944">
-        <mark key="'" line="97" column="13" />
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="49" column="3" />
-        <mark key="." line="49" column="3" />
-        <mark key="^" line="49" column="3" />
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.ts" timestamp="1484310043021">
+        <mark key="'" line="129" column="17" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="130" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="896" column="15" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="24" column="12" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="968" column="13" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="905" column="17" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="904" column="29" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
@@ -797,6 +794,9 @@
       <jump line="167" column="12" filename="$USER_HOME$/dev/bs-raml-validate/node_modules/raml-1-parser/node_modules/raml-definition-system/node_modules/raml-typesystem/dist/src/nominal-interfaces.d.ts" />
       <jump line="296" column="26" filename="$USER_HOME$/dev/bs-raml-validate/node_modules/raml-1-parser/node_modules/raml-definition-system/node_modules/raml-typesystem/dist/src/nominal-interfaces.d.ts" />
       <jump line="155" column="16" filename="$USER_HOME$/dev/bs-raml-validate/node_modules/raml-1-parser/node_modules/raml-definition-system/node_modules/raml-typesystem/dist/src/nominal-interfaces.d.ts" />
+      <jump line="113" column="20" filename="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.ts" />
+      <jump line="114" column="22" filename="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.ts" />
+      <jump line="129" column="17" filename="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -847,10 +847,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>FixedFacets</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>FixedFacets</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -876,13 +876,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>InHier</text>
+        <text encoding="base64">XDx0eXBlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGhhc1N0cnVjdHVyZTogdHlwZS5oYXNTdHJ1Y3R1cmUoKSwK</text>
+      <register name="0" type="4">
+        <text>type.nameId()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC5zaGlmdCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -907,28 +907,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoIXR5cGUpIHsKICAgIHJldHVybiB2OwogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgdHlwZS5uYW1lSWQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGltZU9ubHlUeXBlRGVjbGFyYXRpb25JbXBsIH0gZnJvbSAncmFtbC0xLXBhcnNlci9kaXN0L3JhbWwxL2FydGlmYWN0cy9yYW1sMTBwYXJzZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBkYXRldGltZSh0eXBlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoIXR5cGUpIHsKICAgIHJldHVybiB2OwogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBkYXRlT25seSh0eXBlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoIXR5cGUpIHsKICAgIHJldHVybiBzY2hlbWE7CiAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aW1lT25seSh0eXBlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQgc2NoZW1hID0gSm9pLmRhdGUoKS5mb3JtYXQoWydZWVlZLU1NLUREVEhIOm1tOnNzWicsICdZWVlZLU1NLUREVEhIOm1tOnNzLlNTU1onXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmaWxlKHR5cGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBib29sZWFuKHR5cGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoIXR5cGUpIHsKICAgIHJldHVybiB2OwogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBzdHJpbmcodHlwZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydC50aHJvd3MoCiAgICAgICgpID0+IEpvaS5hc3NlcnQoJzIwMTctMDEtMDFUMTU6MjI6MDAnLCBzY2hlbWEpLAogICAgICAndGhlIGZvbGxvd2luZyBmb3JtYXRzIFtZWVlZLU1NLUREVEhIOm1tOnNzWiwgWVlZWS1NTS1ERFRISDptbTpzcy5TU1NaXScKICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBpbnRlZ2VyKHR5cGUpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -938,9 +938,9 @@
       </register>
     </registers>
     <search>
-      <last-search>InHier</last-search>
+      <last-search encoding="base64">XDx0eXBlXD4=</last-search>
       <last-offset />
-      <last-pattern>InHier</last-pattern>
+      <last-pattern encoding="base64">XDx0eXBlXD4=</last-pattern>
       <last-replace>sentiment&quot;: 0.5,</last-replace>
       <last-substitute>sentiment&quot;: &quot;.*</last-substitute>
       <last-dir>1</last-dir>
@@ -961,13 +961,13 @@
         <entry>sentiment&quot;.*</entry>
         <entry>sentiment&quot;: &quot;.*</entry>
         <entry>raml-de</entry>
-        <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry>default</entry>
         <entry>range</entry>
         <entry encoding="base64">XDxkYXRldGltZVw+</entry>
         <entry encoding="base64">XDx2XD4=</entry>
         <entry>InHeir</entry>
         <entry>InHier</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NhbXBhaWduL2JyYW5kR3JvdXAvZ2M=</entry>
