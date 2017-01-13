@@ -15,11 +15,11 @@
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/file.ts" timestamp="1474974476968">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="2" column="57" />
-        <mark key="." line="2" column="57" />
-        <mark key="^" line="2" column="57" />
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/file.ts" timestamp="1484308502586">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/utils/validations/metrics.ts" timestamp="1474043201369">
         <mark key="[" line="22" column="46" />
@@ -162,6 +162,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/object.ts" timestamp="1484308556609">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+        <mark key="." line="13" column="42" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.spec.ts" timestamp="1484298815161">
         <mark key="[" line="46" column="11" />
@@ -503,6 +509,12 @@
         <mark key="]" line="69" column="4" />
         <mark key="." line="69" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/string.ts" timestamp="1484308537296">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/extensions/xlsx.js" timestamp="1478884128289">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -835,10 +847,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Structure</text>
+        <text>FixedFacets</text>
       </register>
       <register name="-" type="4">
-        <text>Structure</text>
+        <text>FixedFacets</text>
       </register>
       <register name="n" type="4">
         <keys>
