@@ -379,6 +379,9 @@
         <mark key="^" line="80" column="90" />
         <mark key="." line="80" column="90" />
       </file>
+      <file name="$USER_HOME$/dev/raml-js-parser-2/package.json" timestamp="1484303229411">
+        <mark key="'" line="40" column="35" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/number.spec.ts" timestamp="1484301485702">
         <mark key="[" line="107" column="13" />
         <mark key="]" line="107" column="14" />
@@ -937,7 +940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="669" column="43" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="945" column="18" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="1526" column="5" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="1566" column="5" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
@@ -1037,6 +1039,7 @@
       <jump line="604" column="30" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
       <jump line="605" column="30" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
       <jump line="390" column="22" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
+      <jump line="40" column="35" filename="$USER_HOME$/dev/raml-js-parser-2/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1116,7 +1119,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>sentiment&quot;: &quot;.*</text>
+        <text>raml-de</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBjcmVhdGVJbmhlcml0ZWRUeXBlKHR5cGUpOwo=</text>
@@ -1178,17 +1181,16 @@
       </register>
     </registers>
     <search>
-      <last-search>sentiment&quot;: &quot;.*</last-search>
+      <last-search>raml-de</last-search>
       <last-offset />
-      <last-pattern>sentiment&quot;: &quot;.*</last-pattern>
+      <last-pattern>raml-de</last-pattern>
       <last-replace>sentiment&quot;: 0.5,</last-replace>
       <last-substitute>sentiment&quot;: &quot;.*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub2RlX2V4ZVw+</entry>
         <entry encoding="base64">XDxucG1TY3JpcHRzXD4=</entry>
         <entry encoding="base64">XDxzcGxpdFw+</entry>
         <entry>sr</entry>
@@ -1208,6 +1210,7 @@
         <entry encoding="base64">XDxzZW50aW1lbnRcPg==</entry>
         <entry>sentiment&quot;.*</entry>
         <entry>sentiment&quot;: &quot;.*</entry>
+        <entry>raml-de</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NhbXBhaWduL2JyYW5kR3JvdXAvZ2M=</entry>
