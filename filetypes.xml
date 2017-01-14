@@ -11,6 +11,7 @@
       <mapping pattern="tabContent" type="Twig" />
       <mapping ext="nunjucks" type="Twig" />
       <mapping ext="nunj" type="Twig" />
+      <mapping pattern="extraction" type="TypeScript" />
       <mapping pattern="repository" type="TypeScript" />
       <mapping ext="raml" type="YAML" />
     </extensionMap>

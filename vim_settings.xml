@@ -588,6 +588,13 @@
         <mark key="." line="26" column="11" />
         <mark key="^" line="28" column="80" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" timestamp="1484396423194">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="42" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-flow/typings/modules/http-proxy/index.d.ts" timestamp="1475846009166">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="27" />
@@ -600,12 +607,11 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" timestamp="1484394409449">
-        <mark key="'" line="74" column="43" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" timestamp="1484394820976">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="56" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="27" column="18" />
       </file>
       <file name="$USER_HOME$/dev/chef-nest-platform/cookbooks/node-apps/attributes/default.rb" timestamp="1483711157205">
         <mark key="[" line="15" column="33" />
@@ -624,6 +630,12 @@
         <mark key="]" line="6" column="61" />
         <mark key="^" line="6" column="61" />
         <mark key="." line="6" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" timestamp="1484396395364">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="29" column="34" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-raml-doc/src/components-composite/hello-world/HelloWorldComponent.ts" timestamp="1474985553919">
         <mark key="[" line="13" column="17" />
@@ -775,15 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="15" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="49" column="31" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="88" column="15" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="89" column="64" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="95" column="15" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="96" column="64" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="103" column="10" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="84" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="91" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
       <jump line="99" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
       <jump line="107" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
       <jump line="126" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
@@ -863,7 +866,6 @@
       <jump line="115" column="16" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
       <jump line="33" column="40" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
-      <jump line="42" column="48" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="45" column="10" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="79" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="50" column="16" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
@@ -875,6 +877,16 @@
       <jump line="73" column="30" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="76" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="74" column="43" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="3" column="11" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="30" column="26" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" />
+      <jump line="0" column="9" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
+      <jump line="65" column="101" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -924,11 +936,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQGlucHV0OiB7IHJlc3BvbnNlczogW3sgYXR0cmlidXRlczogWydhJywgJ2InXSB9LCB7IGF0dHJpYnV0ZXM6IFsnYyddIH1dIH0KICogQG91dHB1dDogW3sgd29yZDogJ2EnIH0sIHsgd29yZDogJ2InIH0sIHsgd29yZDogJ2MnIH1dCg==</text>
+      <register name="&quot;" type="4">
+        <text>extraction</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>extraction</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -954,13 +966,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text encoding="base64">XDxleHBvcnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQGlucHV0OiB7IHJlc3BvbnNlczogW3sgYXR0cmlidXRlczogWydhJywgJ2InXSB9LCB7IGF0dHJpYnV0ZXM6IFsnYyddIH1dIH0KICogQG91dHB1dDogW3sgd29yZDogJ2EnIH0sIHsgd29yZDogJ2InIH0sIHsgd29yZDogJ2MnIH1dCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4uJywgZXh0cmFjdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4dHJhY3Rpb24ucmVzcG9uc2VzLm1hcChyZXNwb25zZSA9PiB7CiAgICAgIGxldCBsZW5zZXMgPSBtYXBwaW5ncy5yZXNwb25zZXMuc3BsaWNlKDAsIHJlc3BvbnNlLmF0dHJpYnV0ZXMubGVuZ3RoKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHdoYXQgZnJvbSAnLi9leHRyYWN0aW9uJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -985,30 +997,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eyByZXNwb25zZXM6IFt7IGF0dHJpYnV0ZXM6IFsnYSddIH1dIH0gLT4gW3sgd29yZDogJ2EnIH1dCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gcHJveHkoaTogYW55KTogYW55IHsKICByZXR1cm4ge307Cn0KCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHsgcmVzcG9uc2VzOiBbeyBhdHRyaWJ1dGVzOiBbJ2EnXSB9XSB9IC0+IFt7IHdvcmQ6ICdhJyB9XQo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">ZXhwb3J0IApleHBvcnQgCmV4cG9ydCAKZXhwb3J0IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmV4cG9ydCBpbnRlcmZhY2UgTWFwcGluZ3NSZXNwb25zZSB7CiAgcmVzcG9uc2VzOiB7CiAgICBsZW5zOiBzdHJpbmcKICB9W107Cn0KCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF0dHJpYnV0ZUV4dHJhY3Rpb24pOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHsKICAgIGF0dHJpYnV0ZXM6IHN0cmluZ1tdCiAgfVtdOwp9</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgYXR0cmlidXRlRXh0cmFjdGlvbiB9IGZyb20gJy4vZXh0cmFjdGlvbic7CmltcG9ydCAqIGFzIHdoYXQgZnJvbSAnLi9leHRyYWN0aW9uJzsK</text>
       </register>
-      <register name="6" type="4">
-        <text>interfaceextends {
-  
-  responses:</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsgYXR0cmlidXRlOiAnYicsIGxlbnM6ICcyJyB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsgYXR0cmlidXRlczogWydjJ10gfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkYXRhOiB7Cg==</text>
+        <text encoding="base64">ICBiZWZvcmVFYWNoKCgpID0+IHsKICB9KTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICAgIG5vY2soJ2h0dHA6Ly9icmFpbjIxLmJzLmxhbicpCiAgICAgIC5wb3N0KCcvcHMtYXR0cmlidXRlLWV4dHJhY3Rpb24nKQogICAgICAucmVwbHkoMjAwLCB7IHJlc3BvbnNlczogW10gfSk7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1018,9 +1028,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxleHBvcnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxleHBvcnRcPg==</last-pattern>
       <last-replace>print(\1)</last-replace>
       <last-substitute>print\s\(.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1028,9 +1038,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print_</entry>
-        <entry encoding="base64">XDxwcmludFw+</entry>
-        <entry>print\s\(.*\)</entry>
         <entry encoding="base64">XDxjbGllbnRfaWRcPg==</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxtZXRob2RJbXBsXD4=</entry>
@@ -1048,6 +1055,9 @@
         <entry encoding="base64">XDxleHRyYWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxhdHRyaWJ1dGVFeHRyYWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxFbnJpY2hlZEF0dHJpYnV0ZXNcPg==</entry>
+        <entry encoding="base64">XDxleHBvcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>164</entry>
