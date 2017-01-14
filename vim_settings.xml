@@ -600,12 +600,12 @@
         <mark key="." line="26" column="11" />
         <mark key="^" line="28" column="80" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" timestamp="1484396423194">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="42" column="21" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="42" column="28" />
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" timestamp="1484399446954">
+        <mark key="'" line="14" column="16" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="66" column="6" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-flow/typings/modules/http-proxy/index.d.ts" timestamp="1475846009166">
         <mark key="[" line="0" column="27" />
@@ -643,11 +643,12 @@
         <mark key="^" line="6" column="61" />
         <mark key="." line="6" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" timestamp="1484397267374">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="27" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" timestamp="1484399622894">
+        <mark key="'" line="141" column="6" />
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+        <mark key="^" line="168" column="18" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-raml-doc/src/components-composite/hello-world/HelloWorldComponent.ts" timestamp="1474985553919">
         <mark key="[" line="13" column="17" />
@@ -699,11 +700,11 @@
         <mark key="^" line="27" column="21" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" timestamp="1484397265298">
-        <mark key="'" line="25" column="50" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" timestamp="1484399667372">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
         <mark key="^" line="59" column="45" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api/src/middleware/routeMiddleware/fieldMapping.spec.js" timestamp="1478275924021">
@@ -799,22 +800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="72" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="21" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="33" column="22" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="42" column="26" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="68" column="22" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="75" column="22" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="104" column="22" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="129" column="22" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="12" column="2" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="30" column="22" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
-      <jump line="202" column="33" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
-      <jump line="251" column="33" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
-      <jump line="290" column="33" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
       <jump line="325" column="35" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
       <jump line="354" column="35" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
       <jump line="388" column="33" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
@@ -899,6 +884,22 @@
       <jump line="24" column="36" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
       <jump line="25" column="39" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
       <jump line="26" column="50" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
+      <jump line="69" column="95" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
+      <jump line="11" column="18" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
+      <jump line="83" column="7" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
+      <jump line="5" column="70" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
+      <jump line="67" column="95" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
+      <jump line="10" column="8" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
+      <jump line="70" column="13" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
+      <jump line="13" column="16" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
+      <jump line="90" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" />
+      <jump line="126" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" />
+      <jump line="54" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" />
+      <jump line="127" column="20" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" />
+      <jump line="61" column="9" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" />
+      <jump line="141" column="6" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" />
+      <jump line="5" column="17" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -949,10 +950,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgc2lub24gZnJvbSAnc2lub24nOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm94eU9wdGlvbnMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>.only</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -978,13 +979,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21cPg==</text>
+        <text>conso</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgc2lub24gZnJvbSAnc2lub24nOwo=</text>
+        <text encoding="base64">ICAgIG5vY2suZGlzYWJsZU5ldENvbm5lY3QoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlcnZlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm94eU9wdGlvbnMpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1009,33 +1010,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcrKysnLCBzZXJ2ZXIuZ2V0KCdmb28nKSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh3b3Jkcy5sZW5ndGgsIG1hcHBpbmdzLnJlc3BvbnNlcy5sZW5ndGgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmFiYml0TVE6ICdhbXFwOi8vYW1xcDphbXFwQG1xMjEuZGV2LmJzLmxhbicsCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh3b3Jkcyk7Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy4uJywgcmVzcG9uc2UuYXR0cmlidXRlcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnLi4nLCBleHRyYWN0aW9uLnJlc3BvbnNlcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHdoYXQgZnJvbSAnLi9leHRyYWN0aW9uJzsK</text>
+        <text encoding="base64">CiAgICBhc3NlcnQuZGVlcEVxdWFsKG91dHB1dCwgWwogICAgICB7CiAgICAgICAgYXR0cmlidXRlczogWwogICAgICAgICAgeyBhdHRyaWJ1dGU6ICdhJywgbGVuczogJzEnIH0sCiAgICAgICAgICB7IGF0dHJpYnV0ZTogJ2InLCBlcnJvcjogJ2JhZCBmb28nIH0sCiAgICAgICAgXSwKICAgICAgfSwKICAgICAgewogICAgICAgIGF0dHJpYnV0ZXM6IFsKICAgICAgICAgIHsgYXR0cmlidXRlOiAnYycsIGxlbnM6ICczJyB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICBdKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcHJveHkoaTogYW55KTogYW55IHsKICByZXR1cm4ge307Cn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ZXhwb3J0IApleHBvcnQgCmV4cG9ydCAKZXhwb3J0IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGxldCBvdXRwdXQgPSBhd2FpdCBhdHRyaWJ1dGVFeHRyYWN0aW9uKFt7IHdvcmQ6ICdmb28nIH0sIHsgd29yZDogJ2JhcicgfV0pOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1045,9 +1041,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21cPg==</last-search>
+      <last-search>conso</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21cPg==</last-pattern>
+      <last-pattern>conso</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1055,9 +1051,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXFcPg==</entry>
-        <entry encoding="base64">XDxjb250cm9sbGVyRmFjdG9yeVw+</entry>
-        <entry encoding="base64">XDxwcm94eVJlc3BvbnNlXD4=</entry>
         <entry>proxy</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry encoding="base64">XDxub2NrXD4=</entry>
@@ -1068,13 +1061,16 @@
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVFeHRyYWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxFbnJpY2hlZEF0dHJpYnV0ZXNcPg==</entry>
         <entry encoding="base64">XDxleHBvcnRcPg==</entry>
         <entry>config</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxkZXZhcGlcPg==</entry>
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
         <entry encoding="base64">XDxjb21cPg==</entry>
+        <entry encoding="base64">XDxFbnJpY2hlZEF0dHJpYnV0ZXNcPg==</entry>
+        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry>cons</entry>
+        <entry>conso</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzNELz0vZw==</entry>
@@ -1094,8 +1090,8 @@
         <entry>%s/container-to-test/docker22.bs.lan\/blackswan\/ps-attribute-augmentation/gc</entry>
         <entry>%s/print\s\(.*\)/print(\1)/</entry>
         <entry>x</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
