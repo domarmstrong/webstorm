@@ -683,11 +683,11 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/AttributeLens.raml" timestamp="1483715436422">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="6" column="2" />
-        <mark key="^" line="6" column="2" />
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/AttributeLens.raml" timestamp="1484401845774">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+        <mark key="^" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/date-only.spec.ts" timestamp="1484305479883">
         <mark key="[" line="21" column="0" />
