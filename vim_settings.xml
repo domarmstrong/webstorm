@@ -57,6 +57,12 @@
         <mark key="^" line="291" column="23" />
         <mark key="." line="291" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/ps-attribute-augmentation/src/example.py" timestamp="1484381448653">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/string.spec.ts" timestamp="1484306920684">
         <mark key="[" line="71" column="4" />
         <mark key="]" line="71" column="4" />
@@ -337,6 +343,12 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/ps-attribute-augmentation/src/attribute_augmentation.py" timestamp="1484382130645">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/Universe.raml" timestamp="1483722776554">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="8" column="29" />
@@ -556,6 +568,13 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ps-attribute-augmentation/test.sh" timestamp="1484382031803">
+        <mark key="'" line="10" column="1" />
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="11" />
+        <mark key="." line="26" column="11" />
+        <mark key="^" line="28" column="80" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-flow/typings/modules/http-proxy/index.d.ts" timestamp="1475846009166">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="27" />
@@ -697,10 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="968" column="13" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="905" column="17" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="904" column="29" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
-      <jump line="64" column="18" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="93" column="18" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="108" column="22" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
       <jump line="1173" column="18" filename="$USER_HOME$/dev/miniconometrics/api/engine.py" />
@@ -797,6 +812,10 @@
       <jump line="113" column="20" filename="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.ts" />
       <jump line="114" column="22" filename="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.ts" />
       <jump line="129" column="17" filename="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.ts" />
+      <jump line="20" column="37" filename="$USER_HOME$/dev/ps-attribute-augmentation/test.sh" />
+      <jump line="10" column="1" filename="$USER_HOME$/dev/ps-attribute-augmentation/test.sh" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/ps-attribute-augmentation/src/attribute_augmentation.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/ps-attribute-augmentation/src/attribute_augmentation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -847,10 +866,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>docker22.bs.lan/blackswan/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>docker22.bs.lan/blackswan/</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -876,13 +895,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>items</text>
+        <text encoding="base64">XDxNT0RFTFw+</text>
       </register>
       <register name="0" type="4">
         <text>type.nameId()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5zaGlmdCgpOwo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -907,28 +926,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHlwZS5uYW1lSWQoKTsK</text>
+        <text encoding="base64">ICAgIC5zaGlmdCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBkYXRldGltZSh0eXBlKTsK</text>
+        <text encoding="base64">ICAgICAgdHlwZS5uYW1lSWQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBkYXRlT25seSh0eXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBkYXRldGltZSh0eXBlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aW1lT25seSh0eXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBkYXRlT25seSh0eXBlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmaWxlKHR5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aW1lT25seSh0eXBlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBib29sZWFuKHR5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmaWxlKHR5cGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBzdHJpbmcodHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBib29sZWFuKHR5cGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBpbnRlZ2VyKHR5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBzdHJpbmcodHlwZSk7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -938,19 +957,16 @@
       </register>
     </registers>
     <search>
-      <last-search>items</last-search>
+      <last-search encoding="base64">XDxNT0RFTFw+</last-search>
       <last-offset />
-      <last-pattern>items</last-pattern>
-      <last-replace>sentiment&quot;: 0.5,</last-replace>
-      <last-substitute>sentiment&quot;: &quot;.*</last-substitute>
+      <last-pattern encoding="base64">XDxNT0RFTFw+</last-pattern>
+      <last-replace>docker22.bs.lan\/blackswan\/ps-attribute-augmentation</last-replace>
+      <last-substitute>container-to-test</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Page</entry>
-        <entry>Paga</entry>
-        <entry encoding="base64">XDxTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxEZWxldGVkU3RyZWFtR3JvdXBcPg==</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxjb3VudFw+</entry>
@@ -968,9 +984,11 @@
         <entry>InHier</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry>items</entry>
+        <entry>container-to-test</entry>
+        <entry encoding="base64">XDxQQVRIXD4=</entry>
+        <entry encoding="base64">XDxNT0RFTFw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NhbXBhaWduL2JyYW5kR3JvdXAvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL0NhbXBhaWduL0JyYW5kR3JvdXAvZ2M=</entry>
         <entry>164</entry>
         <entry encoding="base64">JzwsJz5zLzNELz0vZw==</entry>
@@ -989,6 +1007,7 @@
         <entry>%s/sentiment&quot;.*/sentiment&quot;: 0.5,/gc</entry>
         <entry>%s/sentiment&quot;: &quot;.*/sentiment&quot;: 0.5,/gc</entry>
         <entry>noh</entry>
+        <entry>%s/container-to-test/docker22.bs.lan\/blackswan\/ps-attribute-augmentation/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
