@@ -600,12 +600,12 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" timestamp="1484393278155">
-        <mark key="'" line="53" column="10" />
-        <mark key="[" line="62" column="6" />
-        <mark key="]" line="62" column="18" />
-        <mark key="." line="62" column="18" />
-        <mark key="^" line="62" column="18" />
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" timestamp="1484394409449">
+        <mark key="'" line="74" column="43" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/dev/chef-nest-platform/cookbooks/node-apps/attributes/default.rb" timestamp="1483711157205">
         <mark key="[" line="15" column="33" />
@@ -775,16 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="17" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
-      <jump line="52" column="13" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
-      <jump line="54" column="58" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
-      <jump line="61" column="55" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
-      <jump line="33" column="2" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/proxy.ts" />
-      <jump line="41" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/proxy.ts" />
-      <jump line="22" column="6" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="171" column="6" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="55" column="20" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="18" column="17" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
       <jump line="29" column="15" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
       <jump line="49" column="31" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
       <jump line="88" column="15" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
@@ -875,6 +865,16 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="42" column="48" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="45" column="10" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="79" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="50" column="16" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="52" column="29" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="59" column="39" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="69" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="75" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="73" column="30" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="76" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
+      <jump line="74" column="43" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -924,11 +924,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQGlucHV0OiB7IHJlc3BvbnNlczogW3sgYXR0cmlidXRlczogWydhJywgJ2InXSB9LCB7IGF0dHJpYnV0ZXM6IFsnYyddIH1dIH0KICogQG91dHB1dDogW3sgd29yZDogJ2EnIH0sIHsgd29yZDogJ2InIH0sIHsgd29yZDogJ2MnIH1dCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>data</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -956,11 +956,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{ attributes: string[] }[]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICogQGlucHV0OiB7IHJlc3BvbnNlczogW3sgYXR0cmlidXRlczogWydhJywgJ2InXSB9LCB7IGF0dHJpYnV0ZXM6IFsnYyddIH1dIH0KICogQG91dHB1dDogW3sgd29yZDogJ2EnIH0sIHsgd29yZDogJ2InIH0sIHsgd29yZDogJ2MnIH1dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCByZXNwb25zZXM6IHsgYXR0cmlidXRlczogc3RyaW5nW10gfVtdID0gZXh0cmFjdGlvbi5yZXNwb25zZXM7Cg==</text>
+        <text encoding="base64">ICAgIGV4dHJhY3Rpb24ucmVzcG9uc2VzLm1hcChyZXNwb25zZSA9PiB7CiAgICAgIGxldCBsZW5zZXMgPSBtYXBwaW5ncy5yZXNwb25zZXMuc3BsaWNlKDAsIHJlc3BvbnNlLmF0dHJpYnV0ZXMubGVuZ3RoKTsKICAgIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -985,28 +985,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyByZXNwb25zZXM6IFt7IGF0dHJpYnV0ZXM6IFsnYSddIH1dIH0gLT4gW3sgd29yZDogJ2EnIH1dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogeyByZXF1ZXN0czogcmVxLmJvZHkgfSwK</text>
+        <text encoding="base64">ICAgIC8vIHsgcmVzcG9uc2VzOiBbeyBhdHRyaWJ1dGVzOiBbJ2EnXSB9XSB9IC0+IFt7IHdvcmQ6ICdhJyB9XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RDbGllbnRJZDogZmFsc2UsCg==</text>
+        <text encoding="base64">CmV4cG9ydCBpbnRlcmZhY2UgTWFwcGluZ3NSZXNwb25zZSB7CiAgcmVzcG9uc2VzOiB7CiAgICBsZW5zOiBzdHJpbmcKICB9W107Cn0KCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeToge30sCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHsKICAgIGF0dHJpYnV0ZXM6IHN0cmluZ1tdCiAgfVtdOwp9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcGk6ICdicmFpbkFwaScsCiAgICAgICAgbWV0aG9kOiAnUE9TVCcsCg==</text>
+      <register name="6" type="4">
+        <text>interfaceextends {
+  
+  responses:</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGF0aDogJy9wcy1hdHRyaWJ1dGUtZXh0cmFjdGlvbicsCg==</text>
+        <text encoding="base64">ICBkYXRhOiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uZmlnLAo=</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1026,8 +1028,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNT0RFTFw+</entry>
-        <entry encoding="base64">XDxQZXJjZXB0cm9uVGFnZ2VyXD4=</entry>
         <entry>print_</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry>print\s\(.*\)</entry>
@@ -1045,6 +1045,8 @@
         <entry encoding="base64">XDxyZXF1ZXN0U3R1Ylw+</entry>
         <entry encoding="base64">XDxuZXN0UHJveHlcPg==</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
+        <entry encoding="base64">XDxleHRyYWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
