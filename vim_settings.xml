@@ -140,10 +140,10 @@
         <mark key="^" line="49" column="16" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/UnsavedUniverse.raml" timestamp="1483723405270">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Role.raml" timestamp="1473865298451">
         <mark key="[" line="20" column="12" />
@@ -290,10 +290,10 @@
         <mark key="^" line="39" column="23" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/Stream.raml" timestamp="1483723186701">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="25" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/nest/stage.ts" timestamp="1478871128319">
         <mark key="[" line="21" column="6" />
@@ -349,12 +349,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/Universe.raml" timestamp="1483722776554">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="29" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/raml2html/lib/resource/badge-macro.nunjucks" timestamp="1474992118735">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="14" />
@@ -378,12 +372,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="5" column="11" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/StreamGroup.raml" timestamp="1483713998031">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="12" />
       </file>
       <file name="$USER_HOME$/dev/raml2html/lib/templates/resource/main.nunjucks" timestamp="1474993881910">
         <mark key="[" line="15" column="36" />
