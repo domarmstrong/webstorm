@@ -159,6 +159,7 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/dataSchemas/UnsavedStreamGroup.raml" timestamp="1484736544728" />
       <file name="$USER_HOME$/dev/app-nest-api-accounts/RAML/dataSchemas/Role.raml" timestamp="1473865298451">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="22" column="28" />
