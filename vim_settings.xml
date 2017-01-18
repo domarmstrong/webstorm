@@ -737,12 +737,12 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" timestamp="1484751486849">
-        <mark key="'" line="2" column="27" />
-        <mark key="[" line="69" column="13" />
-        <mark key="]" line="69" column="14" />
-        <mark key="." line="69" column="14" />
-        <mark key="^" line="69" column="14" />
+      <file name="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" timestamp="1484757748862">
+        <mark key="'" line="145" column="9" />
+        <mark key="[" line="121" column="25" />
+        <mark key="]" line="122" column="19" />
+        <mark key="^" line="122" column="19" />
+        <mark key="." line="122" column="19" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/local/docker-compose.ts" timestamp="1474036790131">
         <mark key="[" line="7" column="35" />
@@ -809,13 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/nestProxy.spec.ts" />
-      <jump line="53" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/nestProxy.spec.ts" />
-      <jump line="18" column="8" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
-      <jump line="30" column="47" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
-      <jump line="115" column="16" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
-      <jump line="33" column="40" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="45" column="10" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="79" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="50" column="16" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
@@ -901,7 +894,6 @@
       <jump line="46" column="11" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
       <jump line="10" column="4" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
       <jump line="30" column="9" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
-      <jump line="48" column="9" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
       <jump line="11" column="4" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
       <jump line="586" column="27" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
       <jump line="68" column="19" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
@@ -909,6 +901,14 @@
       <jump line="40" column="9" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" />
       <jump line="65" column="27" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
       <jump line="2" column="27" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="23" column="42" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="20" column="22" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="28" column="26" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="24" column="22" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="31" column="28" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="137" column="9" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -958,11 +958,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0YXhvbm9teV9ncm91cHMiOiBbCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJsZW5zZXMiLAogICAgICAgICAgICAgICAgICAgICJ0YXhvbm9taWVzIjogWwogICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJFbW90aW9uIiwKICAgICAgICAgICAgICAgICAgICAgICAgInRlcm1zIjogWwogICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJhdHRyaWJ1dGUiOiAiQ2FsbSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAicXVlcnkiOiAiKCdjYWxtJyBPUiAnY2FsbWluZycgT1IgJ2NhbG1zJykgTk9UICgnY2FsbSBkb3duJykiCiAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYXR0cmlidXRlIjogIlJlbGF4aW5nIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJxdWVyeSI6ICIoJ3JlbGF4aW5nJyBPUiAncmVsYXgnKSIKICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>createFilter(),</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>createFilter(),</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -988,13 +988,17 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWVyeXN0cmluZ1w+</text>
+        <text>relevance</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB0YXhvbm9teV9ncm91cHM6CiAgICB0eXBlOiBhcnJheQogICAgbWF4SXRlbXM6IDEKICAgIGl0ZW1zOgogICAgICB0eXBlOiBvYmplY3QKICAgICAgcHJvcGVydGllczoKICAgICAgICBuYW1lOiBzdHJpbmcKICAgICAgICB0YXhvbm9taWVzOiBUYXhvbm9teVtdCg==</text>
+      <register name="0" type="4">
+        <text>{
+    topPosts: [],
+    topPositive: {},
+    topNegative: {},
+  }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1heEl0ZW1zOiAxCg==</text>
+        <text encoding="base64">CiAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh7CiAgICB0b3BQb3N0czogW10sCiAgICB0b3BQb3NpdGl2ZToge30sCiAgICB0b3BOZWdhdGl2ZToge30sCiAgfSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1019,28 +1023,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1heEl0ZW1zOiAxCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAibmFtZSI6ICJicmFuZHMiLAogICAgICAgICAgICAgICAgInRheG9ub21pZXMiOiBbCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJCZXZlcmFnZSBCcmFuZHMiLAogICAgICAgICAgICAgICAgICAgICJ0ZXJtcyI6IFsKICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgImF0dHJpYnV0ZSI6ICJNb3VudGFpbiBEZXciLAogICAgICAgICAgICAgICAgICAgICAgICAicXVlcnkiOiAiKCdtb3VudGFpbiBkZXcnKSIKICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJhdHRyaWJ1dGUiOiAiU21hcnQgV2F0ZXIiLAogICAgICAgICAgICAgICAgICAgICAgICAicXVlcnkiOiAiKCdzbWFydCB3YXRlcicpIE5PVCAoJ2NyaW1lJyBPUiAnZGV0ZXJyZW50JykiCiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBnZXRTb2NpYWxQb3N0cyhkYXRlUmFuZ2UsIGFwaVRva2VuKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKCdVbml2ZXJzZTogJywgdW5pdmVyc2UpOwogICAgICBjb25zb2xlLmxvZygnUmVwb3J0OiAnLCByZXBvcnQpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJuYW1lIjogImxlbnNlcyIsCiAgICAgICAgICAgICAgICAgICAgInRheG9ub21pZXMiOiBbCiAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJuYW1lIjogIkVtb3Rpb24iLAogICAgICAgICAgICAgICAgICAgICAgICAidGVybXMiOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgImF0dHJpYnV0ZSI6ICJDYWxtIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJxdWVyeSI6ICIoJ2NhbG0nIE9SICdjYWxtaW5nJyBPUiAnY2FsbXMnKSBOT1QgKCdjYWxtIGRvd24nKSIKICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJhdHRyaWJ1dGUiOiAiUmVsYXhpbmciLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgInF1ZXJ5IjogIigncmVsYXhpbmcnIE9SICdyZWxheCcpIgogICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAibmFtZSI6ICJsZW5zZXMiLAogICAgICAgICAgICAgICAgInRheG9ub21pZXMiOiBbCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJFbW90aW9uIiwKICAgICAgICAgICAgICAgICAgICAidGVybXMiOiBbCiAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJhdHRyaWJ1dGUiOiAiQ2FsbSIsCiAgICAgICAgICAgICAgICAgICAgICAgICJxdWVyeSI6ICIoJ2NhbG0nIE9SICdjYWxtaW5nJyBPUiAnY2FsbXMnKSBOT1QgKCdjYWxtIGRvd24nKSIKICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJhdHRyaWJ1dGUiOiAiUmVsYXhpbmciLAogICAgICAgICAgICAgICAgICAgICAgICAicXVlcnkiOiAiKCdyZWxheGluZycgT1IgJ3JlbGF4JykiCiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvbycsIHVuaXZlcnNlLCByZXBvcnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICJBIHJlZnJlc2hpbmcgZHJpbmsg4oCmIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZVR5cGU6ICdhcnJheU9mT25lUmVzcG9uc2UnCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JzID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgbGV0IFsgdW5pdmVyc2UsIHJlcG9ydCBdID0gcmVzcG9uc2VzOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1050,9 +1054,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWVyeXN0cmluZ1w+</last-search>
+      <last-search>relevance</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWVyeXN0cmluZ1w+</last-pattern>
+      <last-pattern>relevance</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1060,12 +1064,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFbnJpY2hlZEF0dHJpYnV0ZXNcPg==</entry>
-        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
-        <entry>cons</entry>
-        <entry>conso</entry>
-        <entry encoding="base64">XDxkaXNhYmxlTmV0Q29ubmVjdFw+</entry>
-        <entry encoding="base64">XDxSZXBvcnRlclw+</entry>
         <entry encoding="base64">XDxyZXBvcnRlclw+</entry>
         <entry encoding="base64">XDxyZXBvcnRHZW5lcmF0b3JcPg==</entry>
         <entry>Reported</entry>
@@ -1080,6 +1078,12 @@
         <entry encoding="base64">XDxkYXRhUmVzcG9uc2VcPg==</entry>
         <entry encoding="base64">XDxTZWN1cmVkXD4=</entry>
         <entry encoding="base64">XDxxdWVyeXN0cmluZ1w+</entry>
+        <entry encoding="base64">XDx0YXhvbmVteVw+</entry>
+        <entry>taxonemy</entry>
+        <entry encoding="base64">XDxyZXNwb25zZVByb21pc2VcPg==</entry>
+        <entry encoding="base64">XDxnZXRTb2NpYWxQb3N0c0ZvclRheG9ub215XD4=</entry>
+        <entry>rele</entry>
+        <entry>relevance</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzNELz0vZw==</entry>
