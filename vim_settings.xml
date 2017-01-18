@@ -737,12 +737,12 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" timestamp="1484757748862">
-        <mark key="'" line="145" column="9" />
-        <mark key="[" line="121" column="25" />
-        <mark key="]" line="122" column="19" />
-        <mark key="^" line="122" column="19" />
-        <mark key="." line="122" column="19" />
+      <file name="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" timestamp="1484760467446">
+        <mark key="'" line="118" column="27" />
+        <mark key="[" line="172" column="28" />
+        <mark key="]" line="172" column="28" />
+        <mark key="." line="172" column="28" />
+        <mark key="^" line="172" column="28" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/environments/local/docker-compose.ts" timestamp="1474036790131">
         <mark key="[" line="7" column="35" />
@@ -809,12 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="10" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
-      <jump line="79" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
-      <jump line="50" column="16" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
-      <jump line="52" column="29" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
-      <jump line="59" column="39" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
-      <jump line="69" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="75" column="4" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
       <jump line="73" column="30" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/brainProxy.ts" />
@@ -909,6 +903,12 @@
       <jump line="60" column="0" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
       <jump line="31" column="28" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
       <jump line="137" column="9" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="126" column="6" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="110" column="13" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="114" column="27" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="116" column="13" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="117" column="11" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
+      <jump line="118" column="27" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportData.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -959,10 +959,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>createFilter(),</text>
+        <text>entities.keywords.keyword</text>
       </register>
       <register name="-" type="4">
-        <text>createFilter(),</text>
+        <text>entities.keywords.keyword</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -988,17 +988,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>relevance</text>
+        <text encoding="base64">XDxvcHRpb25zXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>{
-    topPosts: [],
-    topPositive: {},
-    topNegative: {},
-  }</text>
+        <text>`${args.filter}::properties.sentiment==${args.sentiment}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh7CiAgICB0b3BQb3N0czogW10sCiAgICB0b3BQb3NpdGl2ZToge30sCiAgICB0b3BOZWdhdGl2ZToge30sCiAgfSkK</text>
+        <text encoding="base64">ICAvLyBBCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1023,28 +1019,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbHRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZXRTb2NpYWxQb3N0cyhkYXRlUmFuZ2UsIGFwaVRva2VuKQo=</text>
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHsKICAgICAgcmV0dXJuIHsKICAgICAgICB0b3BQb3N0czogW10sCiAgICAgICAgdG9wUG9zaXRpdmU6IHt9LAogICAgICAgIHRvcE5lZ2F0aXZlOiB7fSwKICAgICAgfQogICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKCdVbml2ZXJzZTogJywgdW5pdmVyc2UpOwogICAgICBjb25zb2xlLmxvZygnUmVwb3J0OiAnLCByZXBvcnQpOwo=</text>
+        <text encoding="base64">ICAgIC5jYXRjaChlcnIgPT4gewogICAgICB0aHJvdyBuZXcgRXJyb3IoYEZhaWxlZCB0byBmZXRjaCBzb2NpYWwgcG9zdHM6ICR7aWR9LiAke2Vyci5tZXNzYWdlfWApOwogICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1dGhfdG9rZW46IGFwaVRva2VuLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZvbycsIHVuaXZlcnNlLCByZXBvcnQpOwo=</text>
+        <text encoding="base64">ICogQHBhcmFtIGNvdW50IHtudW1iZXJ9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIGZpbHRlciB7c3RyaW5nfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIHNvcnQ6ICdyZWxldmFuY2UnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IFsgdW5pdmVyc2UsIHJlcG9ydCBdID0gcmVzcG9uc2VzOwo=</text>
+        <text encoding="base64">CiAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh7CiAgICB0b3BQb3N0czogW10sCiAgICB0b3BQb3NpdGl2ZToge30sCiAgICB0b3BOZWdhdGl2ZToge30sCiAgfSkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1054,17 +1050,16 @@
       </register>
     </registers>
     <search>
-      <last-search>relevance</last-search>
+      <last-search encoding="base64">XDxvcHRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern>relevance</last-pattern>
+      <last-pattern encoding="base64">XDxvcHRpb25zXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXBvcnRlclw+</entry>
         <entry encoding="base64">XDxyZXBvcnRHZW5lcmF0b3JcPg==</entry>
         <entry>Reported</entry>
         <entry encoding="base64">XDxyZXBvcnRlckdlbmVyYXRvclw+</entry>
@@ -1084,6 +1079,7 @@
         <entry encoding="base64">XDxnZXRTb2NpYWxQb3N0c0ZvclRheG9ub215XD4=</entry>
         <entry>rele</entry>
         <entry>relevance</entry>
+        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzNELz0vZw==</entry>
