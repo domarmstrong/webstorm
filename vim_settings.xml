@@ -538,10 +538,10 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" timestamp="1484752004280">
+      <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/RAML/api.raml" timestamp="1484754440153">
         <mark key="'" line="40" column="9" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="0" />
+        <mark key="[" line="479" column="0" />
+        <mark key="]" line="497" column="19" />
         <mark key="^" line="456" column="14" />
         <mark key="." line="457" column="0" />
       </file>
@@ -959,7 +959,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1heEl0ZW1zOiAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0YXhvbm9teV9ncm91cHMiOiBbCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJsZW5zZXMiLAogICAgICAgICAgICAgICAgICAgICJ0YXhvbm9taWVzIjogWwogICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJFbW90aW9uIiwKICAgICAgICAgICAgICAgICAgICAgICAgInRlcm1zIjogWwogICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJhdHRyaWJ1dGUiOiAiQ2FsbSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAicXVlcnkiOiAiKCdjYWxtJyBPUiAnY2FsbWluZycgT1IgJ2NhbG1zJykgTk9UICgnY2FsbSBkb3duJykiCiAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYXR0cmlidXRlIjogIlJlbGF4aW5nIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJxdWVyeSI6ICIoJ3JlbGF4aW5nJyBPUiAncmVsYXgnKSIKICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
         <text>start</text>
