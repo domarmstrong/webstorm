@@ -39,11 +39,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/auth.js" timestamp="1484731952851">
-        <mark key="[" line="4" column="69" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
+      <file name="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/auth.js" timestamp="1484740948043">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="14" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/RAML/dataSchemas/Signal.raml" timestamp="1479486004705">
         <mark key="[" line="33" column="5" />
@@ -135,6 +135,12 @@
         <mark key="]" line="23" column="61" />
         <mark key="^" line="23" column="61" />
         <mark key="." line="23" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/phantomjs/report.js" timestamp="1484742069227">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-accounts/src/config/environments/teec/production_web2.pm2.json" timestamp="1476976187706">
         <mark key="[" line="3" column="28" />
@@ -461,6 +467,12 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/settings.js" timestamp="1484741077197">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-config/RAML/examples/repositoryList.raml" timestamp="1481638186603">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="4" />
@@ -509,12 +521,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportGenerator.js" timestamp="1484740883418">
-        <mark key="'" line="42" column="15" />
-        <mark key="[" line="42" column="31" />
-        <mark key="]" line="42" column="33" />
-        <mark key="." line="42" column="33" />
-        <mark key="^" line="42" column="33" />
+      <file name="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportGenerator.js" timestamp="1484742287322">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/DocumentationComponent/DocumentationComponent.ts" timestamp="1477663252357">
         <mark key="[" line="31" column="0" />
@@ -695,12 +706,11 @@
         <mark key="^" line="27" column="21" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/app.js" timestamp="1484740519014">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="59" column="6" />
-        <mark key="]" line="59" column="6" />
-        <mark key="." line="59" column="6" />
-        <mark key="^" line="0" column="39" />
+      <file name="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/app.js" timestamp="1484741688424">
+        <mark key="'" line="61" column="17" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" timestamp="1484399667372">
         <mark key="'" line="5" column="17" />
@@ -803,14 +813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="14" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="66" column="29" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="74" column="29" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="80" column="14" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="87" column="14" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="94" column="14" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="113" column="35" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="131" column="35" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
       <jump line="145" column="18" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
       <jump line="159" column="16" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
       <jump line="67" column="27" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/controllers/nestProxy.spec.ts" />
@@ -903,6 +905,14 @@
       <jump line="31" column="0" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportGenerator.js" />
       <jump line="3" column="6" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportGenerator.js" />
       <jump line="41" column="15" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportGenerator.js" />
+      <jump line="15" column="13" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportGenerator.js" />
+      <jump line="19" column="45" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/services/reportGenerator.js" />
+      <jump line="61" column="17" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/app.js" />
+      <jump line="48" column="3" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/phantomjs/report.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/phantomjs/report.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/phantomjs/report.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/phantomjs/report.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/app-nest-positioning-machine-pdf-generator/phantomjs/report.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -953,10 +963,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNvZGU=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvZGU=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -982,13 +992,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb21haW5cPg==</text>
+        <text encoding="base64">XDxmaWxlUGF0aFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBFeGl0ZWQgd2l0aCBDb2RlOiAke2NvZGV9OiAke3NpZ25hbH1gKTsK</text>
+      <register name="0" type="4">
+        <text>`Phantom exited with error code: ${code}: ${signal}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnN0IGRvbWFpbiA9IGBodHRwOi8vbG9jYWxob3N0YDsKY29uc3QgcG9ydCA9IHByb2Nlc3MuZW52LlBPUlQgfHwgMzAwMDsK</text>
+        <text encoding="base64">ICAgIHBvbzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1012,30 +1022,29 @@
           <key char="65535" code="37" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text>let
-let</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBvbwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgZG9tYWluID0gYGh0dHA6Ly9sb2NhbGhvc3RgOwogIGxldCBwb3J0ID0gcHJvY2Vzcy5lbnYuUE9SVCB8fCAzMDAwOwo=</text>
+        <text encoding="base64">CnBoYW50b20ub25FcnJvciA9IGZ1bmN0aW9uIChtc2csIHRyYWNlKSB7CiAgY29uc29sZS5sb2coJ1dVVCcpOwogIHBoYW50b20uZXhpdCgpOwp9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IHJlcG9ydGVyID0gbmV3IFJlcG9ydGVyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiBPdXRwdXQgdGhlIHJlc3VsdAogICAqLwogIGlmIChzdGF0dXMgPT09ICdzdWNjZXNzJykgewogICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwogICAgY29uc29sZS5sb2coJ1JlbmRlcmVkIFBERjogJyArIHN5c3RlbS5hcmdzWzJdKTsKICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsKICAgIHBhZ2UucmVuZGVyKHN5c3RlbS5hcmdzWzJdKTsKICB9IGVsc2UgewogICAgY29uc29sZS5sb2coJ0ZhaWxlZCB0byByZW5kZXIgUERGJyk7CiAgfQoKICBwb28K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBjbGFzcyBSZXBvcnRlciB7CiAgZG9SZXBvcnQoKSB7CiAgICBsZXQgcmVuZGVyZXIgPSBleGVjKHRoaXMuY29tbWFuZCk7CgogICAgY29uc29sZS5sb2coJ0V4ZWN1dGluZzogJyArIHRoaXMuY29tbWFuZCk7CgogICAgcmVuZGVyZXIuc3Rkb3V0Lm9uKCdkYXRhJywgZCA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGQpOwogICAgfSk7CgogICAgcmVuZGVyZXIub24oJ2Vycm9yJywgZXJyID0+IHsKICAgICAgY29uc29sZS5sb2coJ0Vycm9yIHJlbmRlcmluZyBQREY6ICcgKyBlcnIpOwogICAgfSk7CgogICAgcmVuZGVyZXIub24oJ2V4aXQnLCAoY29kZSwgc2lnbmFsKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGBFeGl0ZWQgd2l0aCBDb2RlOiAke2NvZGV9OiAke3NpZ25hbH1gKTsKCiAgICAgIC8vIEV4aXQgYWZ0ZXIgZ2VuZXJhdGluZyB0aGUgcmVwb3J0ICh1bmxlc3Mgb3VyIE5PREVfRU5WIGlzIHNldCB0byAnZGV2ZWxvcG1lbnQnKQogICAgICBpZiAocHJvY2Vzcy5lbnYuTk9ERV9FTlYgIT09ICdkZXZlbG9wbWVudCcpIHsKICAgICAgICBwcm9jZXNzLmV4aXQoKTsKICAgICAgfQogICAgfSk7CiAgfQp9Owo=</text>
+        <text encoding="base64">cGhhbnRvbS5vbkVycm9yID0gZnVuY3Rpb24gKG1zZywgdHJhY2UpIHsKICBjb25zb2xlLmxvZygnV1VUJyk7CiAgcGhhbnRvbS5leGl0KCk7Cn07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdFWElUJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBFeGl0ZWQgd2l0aCBDb2RlOiAke2NvZGV9OiAke3NpZ25hbH1gKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1045,9 +1054,9 @@ let</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb21haW5cPg==</last-search>
+      <last-search encoding="base64">XDxmaWxlUGF0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb21haW5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlUGF0aFw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1055,8 +1064,6 @@ let</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry encoding="base64">XDxhdHRyaWJ1dGVFeHRyYWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxleHBvcnRcPg==</entry>
         <entry>config</entry>
         <entry>&quot;</entry>
@@ -1075,6 +1082,8 @@ let</text>
         <entry encoding="base64">XDxyZXBvcnRlckdlbmVyYXRvclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVDb21tYW5kXD4=</entry>
         <entry encoding="base64">XDxkb21haW5cPg==</entry>
+        <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry encoding="base64">XDxmaWxlUGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzNELz0vZw==</entry>
