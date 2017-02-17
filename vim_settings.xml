@@ -207,6 +207,12 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.spec.ts" timestamp="1487335140680">
+        <mark key="[" line="49" column="6" />
+        <mark key="]" line="51" column="4" />
+        <mark key="^" line="51" column="4" />
+        <mark key="." line="51" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.spec.ts" timestamp="1484298815161">
         <mark key="[" line="46" column="11" />
         <mark key="]" line="46" column="13" />
@@ -585,10 +591,12 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" timestamp="1487333737411">
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="292" column="0" />
-        <mark key="." line="292" column="0" />
+      <file name="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" timestamp="1487335912465">
+        <mark key="'" line="179" column="21" />
+        <mark key="[" line="175" column="95" />
+        <mark key="]" line="175" column="95" />
+        <mark key="." line="175" column="95" />
+        <mark key="^" line="175" column="95" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-config/src/server/services/Webhooks/Webhooks.ts" timestamp="1481961193816">
         <mark key="[" line="28" column="2" />
@@ -846,15 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="9" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.spec.ts" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
-      <jump line="65" column="101" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/Attributes/extraction.ts" />
-      <jump line="29" column="36" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
-      <jump line="84" column="8" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
-      <jump line="87" column="10" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
-      <jump line="17" column="17" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
-      <jump line="48" column="35" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
       <jump line="125" column="9" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
       <jump line="127" column="6" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" />
       <jump line="27" column="40" filename="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.spec.ts" />
@@ -946,6 +945,15 @@
       <jump line="52" column="16" filename="$USER_HOME$/dev/bs-api-nestutil/src/spring.spec.ts" />
       <jump line="50" column="22" filename="$USER_HOME$/dev/bs-api-nestutil/src/spring.ts" />
       <jump line="52" column="51" filename="$USER_HOME$/dev/bs-api-nestutil/src/spring.ts" />
+      <jump line="139" column="8" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="145" column="11" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="140" column="8" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="141" column="28" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="142" column="2" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="296" column="4" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="307" column="0" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="175" column="12" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
+      <jump line="179" column="21" filename="$USER_HOME$/dev/app-nest-api-config/src/server/services/Repository/Repository.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -995,11 +1003,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbmZpZyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.replace(__dirname, '');</text>
       </register>
       <register name="-" type="4">
-        <text>amendments</text>
+        <text>.replace(__dirname, '');</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1025,13 +1033,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBTb3J0VG9TcHJpbmdcPg==</text>
+        <text encoding="base64">XDxleHRlbmRlZEZpbGVQYXRoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJicy1hcGktcmVxdWVzdCI6ICIwLjQuMiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbmZpZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1056,28 +1064,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAicHVibGlzaENvbmZpZyI6IHsKICAgICJyZWdpc3RyeSI6ICJodHRwOi8vbmV4dXMyMi5icy5sYW4vcmVwb3NpdG9yeS9ucG0taW50ZXJuYWwvIgogIH0sCg==</text>
+        <text encoding="base64">CiAgICAgIGxldCBleHRlbmRlZEZpbGVDb25maWcgPSB7CiAgICAgICAgLi4uY29uZmlnLAogICAgICAgIC4uLnsgZmlsZTogZXh0ZW5kZWRGaWxlUGF0aCB9CiAgICAgIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBpdCgKICAgICAgJ2hhbmRsZXMgbnVsbCB2YWx1ZXMnLCAoKSA9PiB7CiAgICAgICAgbGV0IHNvcnRzID0gbWFwU29ydFRvU3ByaW5nKG51bGwpOwogICAgICAgIGFzc2VydC5lcXVhbChzb3J0cywgdW5kZWZpbmVkKTsKICAgICAgfQogICAgKTsK</text>
+        <text encoding="base64">ICAgICAgbGV0IGV4dGVuZGVkRmlsZVBhdGggPSBwYXRoLnJlc29sdmUocGF0aC5kaXJuYW1lKGNvbmZpZy5maWxlKSwgZmlsZXBhdGgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBGaWVsZHNGaWx0ZXJhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGNvbnRlbnRzLmV4dGVuZHMpIHsKICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlIG9wdHMucXVlcnkuY2xpZW50X2lkOwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBSZXNvbHZlIGZpbGVzIGluY2x1ZGVkIGluIGBleHRlbmRzOiBbJy4uL2EueW1sJywgJy4vYi55bWwnXWAKICAgKiBAcGFyYW0gY29udGVudAogICAqIEBwYXJhbSBmaWxlcwogICAqIEByZXR1cm4ge1Byb21pc2U8dm9pZD59CiAgICovCiAgcHJpdmF0ZSBhc3luYyByZXNvbHZlRXh0ZW5kcyhjb250ZW50czogYW55W10sIGZpbGVzOiBGZXRjaENvbmZpZ1tdKTogYW55W10gewogICAgZm9yIChsZXQgaW5kZXggaW4gY29udGVudHMpIHsKICAgICAgbGV0IGNvbnRlbnQgPSBjb250ZW50c1tpbmRleF07CiAgICAgIGxldCBjb25maWcgPSBmaWxlc1tpbmRleF07CiAgICAgIGxldCBleHRlbmRlZEZpbGVQYXRoID0gcGF0aC5yZXNvbHZlKGNvbmZpZy5maWxlKTsKCiAgICAgIGxldCBleHRlbmRlZEZpbGVDb25maWcgPSB7CiAgICAgICAgLi4uY29uZmlnLAogICAgICAgIC4uLnsgZmlsZTogcGF0aC5yZWxhdGl2ZSgpIH0KICAgICAgfTsKICAgIH0KICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlIG9wdHMucXVlcnkuY2xpZW50X2lkOwo=</text>
+        <text encoding="base64">ICAgICAgbGV0IHJlbGF0aXZlUGF0aCA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRzQXBpOiAnaHR0cHM6Ly9zdGFnZS1kYXRhLmJzYXBwcy5uZXQvYXBpL2FjY291bnRzJwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBleHRlbmRlZENvbnRlbnRzLnJlZHVjZSgobWVyZ2VkOiBhbnksIGNvbnRlbnQ6IGFueSwgaTogbnVtYmVyKSA9PiB7CiAgICAgIHJldHVybiBkZWVwbWVyZ2UobWVyZ2VkLCBjb250ZW50KTsKICAgIH0pOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
@@ -1087,19 +1095,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBTb3J0VG9TcHJpbmdcPg==</last-search>
+      <last-search encoding="base64">XDxleHRlbmRlZEZpbGVQYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBTb3J0VG9TcHJpbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxleHRlbmRlZEZpbGVQYXRoXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
-        <entry encoding="base64">XDxmaWxlUGF0aFw+</entry>
-        <entry encoding="base64">XDx1bml2ZXJzZUlkXD4=</entry>
         <entry encoding="base64">XDxnZXRVbml2ZXJzZUJ5SWRcPg==</entry>
         <entry encoding="base64">XDxnZXRSZXBvcnRCeVVuaXZlcnNlSWRcPg==</entry>
         <entry encoding="base64">XDxkYXRhUmVzcG9uc2VcPg==</entry>
@@ -1117,6 +1122,9 @@
         <entry encoding="base64">XDxtb2NrU2VhcmNoUGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxzb3J0c1w+</entry>
         <entry encoding="base64">XDxtYXBTb3J0VG9TcHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxjb250ZW50c1w+</entry>
+        <entry encoding="base64">XDxleHRlbmRlZENvbnRlbnRzXD4=</entry>
+        <entry encoding="base64">XDxleHRlbmRlZEZpbGVQYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzNELz0vZw==</entry>
@@ -1136,8 +1144,8 @@
         <entry>%s/container-to-test/docker22.bs.lan\/blackswan\/ps-attribute-augmentation/gc</entry>
         <entry>%s/print\s\(.*\)/print(\1)/</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>noh</entry>
         <entry>x</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
