@@ -154,6 +154,12 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-datasource-admin/RAML/api.raml" timestamp="1487329435494">
+        <mark key="[" line="93" column="11" />
+        <mark key="]" line="93" column="17" />
+        <mark key="." line="93" column="17" />
+        <mark key="^" line="93" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1474031843761">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -1002,10 +1008,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>request</text>
+        <text>amendments</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>amendments</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1037,7 +1043,7 @@
         <text encoding="base64">ICAgICJicy1hcGktcmVxdWVzdCI6ICIwLjQuMiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAicHVibGlzaENvbmZpZyI6IHsKICAgICJyZWdpc3RyeSI6ICJodHRwOi8vbmV4dXMyMi5icy5sYW4vcmVwb3NpdG9yeS9ucG0taW50ZXJuYWwvIgogIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1062,34 +1068,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">ICAicHVibGlzaENvbmZpZyI6IHsKICAgICJyZWdpc3RyeSI6ICJodHRwOi8vbmV4dXMyMi5icy5sYW4vcmVwb3NpdG9yeS9ucG0taW50ZXJuYWwvIgogIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBpdCgKICAgICAgJ2hhbmRsZXMgbnVsbCB2YWx1ZXMnLCAoKSA9PiB7CiAgICAgICAgbGV0IHNvcnRzID0gbWFwU29ydFRvU3ByaW5nKG51bGwpOwogICAgICAgIGFzc2VydC5lcXVhbChzb3J0cywgdW5kZWZpbmVkKTsKICAgICAgfQogICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBGaWVsZHNGaWx0ZXJhYmxlCg==</text>
+        <text encoding="base64">CiAgICBpdCgKICAgICAgJ2hhbmRsZXMgbnVsbCB2YWx1ZXMnLCAoKSA9PiB7CiAgICAgICAgbGV0IHNvcnRzID0gbWFwU29ydFRvU3ByaW5nKG51bGwpOwogICAgICAgIGFzc2VydC5lcXVhbChzb3J0cywgdW5kZWZpbmVkKTsKICAgICAgfQogICAgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlIG9wdHMucXVlcnkuY2xpZW50X2lkOwo=</text>
+        <text encoding="base64">ICAgICAgLSBGaWVsZHNGaWx0ZXJhYmxlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgZGVsZXRlIG9wdHMucXVlcnkuY2xpZW50X2lkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRzQXBpOiAnaHR0cHM6Ly9zdGFnZS1kYXRhLmJzYXBwcy5uZXQvYXBpL2FjY291bnRzJwo=</text>
+        <text encoding="base64">ICAgICAgZGVsZXRlIG9wdHMucXVlcnkuY2xpZW50X2lkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF1Z21lbnRhdGlvbkFwaTogJ2h0dHA6Ly9hcHAyNy5icy5sYW4vYXR0cmlidXRlLWF1Z21lbnRvcicKICAgIG1hcHBpbmdBcGk6ICdodHRwOi8vYXBwMjcuYnMubGFuL2F0dHJpYnV0ZS1tYXBwZXInCiAgICBicmFpbkFwaTogJ2h0dHA6Ly9kb2NrZXIyNS5icy5sYW4nCiAgICBzdHJlYW1BcGk6ICdodHRwczovL2FwaS5ibGFja3N3YW4uY29tL3NlYXJjaC1hZG1pbicKICAgIHN0cmVhbUdyb3VwQXBpOiAnaHR0cDovL2FwcDIyLmJzLmxhbi9zdHJlYW0tZ3JvdXAtYXBpJwogICAgdW5pdmVyc2VBcGk6ICdodHRwOi8vYXBwMjIuYnMubGFuL3VuaXZlcnNlLWFwaScK</text>
+        <text encoding="base64">ICAgIGFjY291bnRzQXBpOiAnaHR0cHM6Ly9zdGFnZS1kYXRhLmJzYXBwcy5uZXQvYXBpL2FjY291bnRzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRzQXBpOiAnaHR0cHM6Ly9kZXYtZGF0YS5ic2FwcHMubmV0L2FwaS9hY2NvdW50cycK</text>
+        <text encoding="base64">ICAgIGF1Z21lbnRhdGlvbkFwaTogJ2h0dHA6Ly9hcHAyNy5icy5sYW4vYXR0cmlidXRlLWF1Z21lbnRvcicKICAgIG1hcHBpbmdBcGk6ICdodHRwOi8vYXBwMjcuYnMubGFuL2F0dHJpYnV0ZS1tYXBwZXInCiAgICBicmFpbkFwaTogJ2h0dHA6Ly9kb2NrZXIyNS5icy5sYW4nCiAgICBzdHJlYW1BcGk6ICdodHRwczovL2FwaS5ibGFja3N3YW4uY29tL3NlYXJjaC1hZG1pbicKICAgIHN0cmVhbUdyb3VwQXBpOiAnaHR0cDovL2FwcDIyLmJzLmxhbi9zdHJlYW0tZ3JvdXAtYXBpJwogICAgdW5pdmVyc2VBcGk6ICdodHRwOi8vYXBwMjIuYnMubGFuL3VuaXZlcnNlLWFwaScK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1143,8 +1149,8 @@
         <entry>%s/print\s\(.*\)/print(\1)/</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
