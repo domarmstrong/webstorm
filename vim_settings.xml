@@ -122,11 +122,11 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/package.json" timestamp="1484301901706">
-        <mark key="[" line="39" column="22" />
-        <mark key="]" line="39" column="27" />
-        <mark key="." line="39" column="27" />
-        <mark key="^" line="39" column="27" />
+      <file name="$USER_HOME$/dev/bs-raml-validate/package.json" timestamp="1487327103132">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/server/services/Socialnaut/analytics/getMany.ts" timestamp="1479473120508">
         <mark key="[" line="23" column="44" />
@@ -317,6 +317,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bs-api-nestutil/package.json" timestamp="1487327106286">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-brain/src/config/environments/teec/production_web1.pm2.json" timestamp="1476975904907">
         <mark key="[" line="3" column="28" />
@@ -590,6 +595,7 @@
         <mark key="." line="29" column="2" />
         <mark key="^" line="29" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/bs-api-nestutil/npm-debug.log" timestamp="1487327233435" />
       <file name="/reportData.js" timestamp="1484762201237">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="111" column="1" />
@@ -839,13 +845,6 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/bs-raml-validate/src/RAMLValidate.ts" timestamp="1484310043021">
-        <mark key="'" line="129" column="17" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="130" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/app-nest-api-positioning-machine/src/services/NestProxy/nestProxy.ts" timestamp="1487324829180">
         <mark key="'" line="67" column="19" />
         <mark key="[" line="38" column="0" />
@@ -1004,8 +1003,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>].concat(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAicHVibGlzaENvbmZpZyI6IHsKICAgICJyZWdpc3RyeSI6ICJodHRwOi8vbmV4dXMyMi5icy5sYW4vcmVwb3NpdG9yeS9ucG0taW50ZXJuYWwvIgogIH0sCg==</text>
       </register>
       <register name="-" type="4">
         <text>].concat(</text>
@@ -1037,10 +1036,10 @@
         <text encoding="base64">XDxtYXBTb3J0VG9TcHJpbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGl0KAogICAgICAnbWFwcyBzb3J0IHN0cmluZycsICgpID0+IHsKICAgICAgICBsZXQgcXVlcnkgPSBtYXBRdWVyeVRvU3ByaW5nKHsgc29ydDogJy1iYXInIH0pOwogICAgICAgIGFzc2VydC5kZWVwRXF1YWwocXVlcnksIHsgc29ydDogWydiYXIsZGVzYyddIH0pOwogICAgICB9CiAgICApOwo=</text>
+        <text encoding="base64">ICAicHVibGlzaENvbmZpZyI6IHsKICAgICJyZWdpc3RyeSI6ICJodHRwOi8vbmV4dXMyMi5icy5sYW4vcmVwb3NpdG9yeS9ucG0taW50ZXJuYWwvIgogIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">ICAicHVibGlzaENvbmZpZyI6IHsKICAgICJyZWdpc3RyeSI6ICJodHRwOi8vbmV4dXMyMi5icy5sYW4vcmVwb3NpdG9yeS9ucG0taW50ZXJuYWwvIgogIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1065,28 +1064,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBpdCgKICAgICAgJ2hhbmRsZXMgbnVsbCB2YWx1ZXMnLCAoKSA9PiB7CiAgICAgICAgbGV0IHNvcnRzID0gbWFwU29ydFRvU3ByaW5nKG51bGwpOwogICAgICAgIGFzc2VydC5lcXVhbChzb3J0cywgdW5kZWZpbmVkKTsKICAgICAgfQogICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBGaWVsZHNGaWx0ZXJhYmxlCg==</text>
+        <text encoding="base64">CiAgICBpdCgKICAgICAgJ2hhbmRsZXMgbnVsbCB2YWx1ZXMnLCAoKSA9PiB7CiAgICAgICAgbGV0IHNvcnRzID0gbWFwU29ydFRvU3ByaW5nKG51bGwpOwogICAgICAgIGFzc2VydC5lcXVhbChzb3J0cywgdW5kZWZpbmVkKTsKICAgICAgfQogICAgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlIG9wdHMucXVlcnkuY2xpZW50X2lkOwo=</text>
+        <text encoding="base64">ICAgICAgLSBGaWVsZHNGaWx0ZXJhYmxlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgZGVsZXRlIG9wdHMucXVlcnkuY2xpZW50X2lkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRzQXBpOiAnaHR0cHM6Ly9zdGFnZS1kYXRhLmJzYXBwcy5uZXQvYXBpL2FjY291bnRzJwo=</text>
+        <text encoding="base64">ICAgICAgZGVsZXRlIG9wdHMucXVlcnkuY2xpZW50X2lkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1Z21lbnRhdGlvbkFwaTogJ2h0dHA6Ly9hcHAyNy5icy5sYW4vYXR0cmlidXRlLWF1Z21lbnRvcicKICAgIG1hcHBpbmdBcGk6ICdodHRwOi8vYXBwMjcuYnMubGFuL2F0dHJpYnV0ZS1tYXBwZXInCiAgICBicmFpbkFwaTogJ2h0dHA6Ly9kb2NrZXIyNS5icy5sYW4nCiAgICBzdHJlYW1BcGk6ICdodHRwczovL2FwaS5ibGFja3N3YW4uY29tL3NlYXJjaC1hZG1pbicKICAgIHN0cmVhbUdyb3VwQXBpOiAnaHR0cDovL2FwcDIyLmJzLmxhbi9zdHJlYW0tZ3JvdXAtYXBpJwogICAgdW5pdmVyc2VBcGk6ICdodHRwOi8vYXBwMjIuYnMubGFuL3VuaXZlcnNlLWFwaScK</text>
+        <text encoding="base64">ICAgIGFjY291bnRzQXBpOiAnaHR0cHM6Ly9zdGFnZS1kYXRhLmJzYXBwcy5uZXQvYXBpL2FjY291bnRzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRzQXBpOiAnaHR0cHM6Ly9kZXYtZGF0YS5ic2FwcHMubmV0L2FwaS9hY2NvdW50cycK</text>
+        <text encoding="base64">ICAgIGF1Z21lbnRhdGlvbkFwaTogJ2h0dHA6Ly9hcHAyNy5icy5sYW4vYXR0cmlidXRlLWF1Z21lbnRvcicKICAgIG1hcHBpbmdBcGk6ICdodHRwOi8vYXBwMjcuYnMubGFuL2F0dHJpYnV0ZS1tYXBwZXInCiAgICBicmFpbkFwaTogJ2h0dHA6Ly9kb2NrZXIyNS5icy5sYW4nCiAgICBzdHJlYW1BcGk6ICdodHRwczovL2FwaS5ibGFja3N3YW4uY29tL3NlYXJjaC1hZG1pbicKICAgIHN0cmVhbUdyb3VwQXBpOiAnaHR0cDovL2FwcDIyLmJzLmxhbi9zdHJlYW0tZ3JvdXAtYXBpJwogICAgdW5pdmVyc2VBcGk6ICdodHRwOi8vYXBwMjIuYnMubGFuL3VuaXZlcnNlLWFwaScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1Z21lbnRhdGlvbkFwaTogJ2h0dHA6Ly9hcHAyNC5zdGFnZS5icy5sYW4vYXR0cmlidXRlLWF1Z21lbnRvcicKICAgIG1hcHBpbmdBcGk6ICdodHRwOi8vYXBwMjQuc3RhZ2UuYnMubGFuL2F0dHJpYnV0ZS1tYXBwZXInCiAgICBicmFpbkFwaTogJ2h0dHA6Ly9icmFpbjIxLnN0YWdlLmJzLmxhbicKICAgIHN0cmVhbUFwaTogJ2h0dHBzOi8vYXBpLmJsYWNrc3dhbi5jb20vc2VhcmNoLWFkbWluJwogICAgc3RyZWFtR3JvdXBBcGk6ICdodHRwOi8vYXBwMjIuc3RhZ2UuYnMubGFuL3N0cmVhbS1ncm91cC1hcGknCiAgICB1bml2ZXJzZUFwaTogJ2h0dHA6Ly9hcHAyMi5zdGFnZS5icy5sYW4vdW5pdmVyc2UtYXBpJwo=</text>
+        <text encoding="base64">ICAgIGFjY291bnRzQXBpOiAnaHR0cHM6Ly9kZXYtZGF0YS5ic2FwcHMubmV0L2FwaS9hY2NvdW50cycK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
