@@ -63,10 +63,6 @@
         <mark key="^" line="291" column="23" />
         <mark key="." line="291" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api_config/app-nest-api-positioning-machine/defaults.yml" timestamp="1487322390337">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="50" />
-      </file>
       <file name="$USER_HOME$/dev/ps-attribute-augmentation/src/example.py" timestamp="1484381448653">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="33" />
@@ -572,6 +568,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/app-nest-api-datasource-admin/package.json" timestamp="1487327583099">
+        <mark key="[" line="38" column="28" />
+        <mark key="]" line="38" column="29" />
+        <mark key="." line="38" column="29" />
+        <mark key="^" line="38" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/bs-raml-api-doc/src/components/app-raml/components/DocumentationComponent/DocumentationComponent.ts" timestamp="1477663252357">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -596,10 +598,6 @@
         <mark key="^" line="29" column="2" />
       </file>
       <file name="$USER_HOME$/dev/bs-api-nestutil/npm-debug.log" timestamp="1487327233435" />
-      <file name="/reportData.js" timestamp="1484762201237">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="111" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/bs-raml-validate/src/lib/types/string.ts" timestamp="1484308537296">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="13" column="42" />
@@ -1003,11 +1001,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAicHVibGlzaENvbmZpZyI6IHsKICAgICJyZWdpc3RyeSI6ICJodHRwOi8vbmV4dXMyMi5icy5sYW4vcmVwb3NpdG9yeS9ucG0taW50ZXJuYWwvIgogIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>request</text>
       </register>
       <register name="-" type="4">
-        <text>].concat(</text>
+        <text>request</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1036,7 +1034,7 @@
         <text encoding="base64">XDxtYXBTb3J0VG9TcHJpbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAicHVibGlzaENvbmZpZyI6IHsKICAgICJyZWdpc3RyeSI6ICJodHRwOi8vbmV4dXMyMi5icy5sYW4vcmVwb3NpdG9yeS9ucG0taW50ZXJuYWwvIgogIH0sCg==</text>
+        <text encoding="base64">ICAgICJicy1hcGktcmVxdWVzdCI6ICIwLjQuMiIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAicHVibGlzaENvbmZpZyI6IHsKICAgICJyZWdpc3RyeSI6ICJodHRwOi8vbmV4dXMyMi5icy5sYW4vcmVwb3NpdG9yeS9ucG0taW50ZXJuYWwvIgogIH0sCg==</text>
@@ -1091,7 +1089,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbGV0IGNhY2hlS2V5OwogICAgICAgICAgICBpZiAocmVxLnVzZXIpIHsKICAgICAgICAgICAgICAgIGNhY2hlS2V5ID0gcmVxLnVzZXIuZ2V0QXV0aG9yaXphdGlvbkNhY2hlS2V5KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjYWNoZUtleSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -1143,10 +1141,10 @@
         <entry>%s/sentiment&quot;: &quot;.*/sentiment&quot;: 0.5,/gc</entry>
         <entry>%s/container-to-test/docker22.bs.lan\/blackswan\/ps-attribute-augmentation/gc</entry>
         <entry>%s/print\s\(.*\)/print(\1)/</entry>
-        <entry>x</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
