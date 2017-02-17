@@ -154,11 +154,11 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/app-nest-api-datasource-admin/RAML/api.raml" timestamp="1487329435494">
-        <mark key="[" line="93" column="11" />
-        <mark key="]" line="93" column="17" />
-        <mark key="." line="93" column="17" />
-        <mark key="^" line="93" column="17" />
+      <file name="$USER_HOME$/dev/app-nest-api-datasource-admin/RAML/api.raml" timestamp="1487330459583">
+        <mark key="[" line="199" column="13" />
+        <mark key="]" line="199" column="26" />
+        <mark key="." line="199" column="26" />
+        <mark key="^" line="199" column="26" />
       </file>
       <file name="$USER_HOME$/dev/app-nest-api-data/src/config/defaults/cacheInvalidationMappings.ts" timestamp="1474031843761">
         <mark key="[" line="41" column="0" />
